@@ -1,0 +1,88 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36233174	Dynamic Evaluation of Natural Killer Cells Subpopulations in COVID-19 Patients.	Int J Mol Sci
+36063300	Mild or Moderate COVID-19 during Pregnancy Does Not Affect the Content of CD34(+) Hematopoietic Stem Cells in Umbilical Cord Blood of Newborns.	Bull Exp Biol Med
+35966613	Role of T Lymphocyte Activation Profile in Predicting SARS-CoV-2 Severity: Experience from Tertiary Care Centre of North India.	Indian J Hematol Blood Transfus
+35944882	Decrease in CD8(+)CD45(+)CCR7(+)CD62L(+) T cells in individuals vaccinated with Sinovac-CoronaVac following COVID-19 infection.	Clin Immunol
+35943266	Differential Impact of SARS-CoV-2 Isolates, Namely, the Wuhan Strain, Delta, and Omicron Variants on Erythropoiesis.	Microbiol Spectr
+35887979	Differential Regulation of CD45 Expression on Granulocytes, Lymphocytes, and Monocytes in COVID-19.	J Clin Med
+35855554	Chronic biopsy proven post-COVID myoendocarditis with SARS-Cov-2 persistence and high level of antiheart antibodies.	Clin Cardiol
+35784359	Specific Antibody and the T-Cell Response Elicited by BNT162b2 Boosting After Two ChAdOx1 nCoV-19 in Common Variable Immunodeficiency.	Front Immunol
+35741048	T-Cell Defects Associated to Lack of Spike-Specific Antibodies after BNT162b2 Full Immunization Followed by a Booster Dose in Patients with Common Variable Immune Deficiencies.	Cells
+35647028	Dysregulated Exosomes Result in Suppression of the Immune Response of Pregnant COVID-19 Convalescent Women.	Front Mol Biosci
+35484408	CD66b(-)CD64(dim)CD115(-) cells in the human bone marrow represent neutrophil-committed progenitors.	Nat Immunol
+35432769	Mesenchymal stromal cell delivery as a potential therapeutic strategy against COVID-19: Promising evidence from in vitro results.	World J Biol Chem
+35420469	The Delta SARS-CoV-2 Variant of Concern Induces Distinct Pathogenic Patterns of Respiratory Disease in K18-hACE2 Transgenic Mice Compared to the Ancestral Strain from Wuhan.	mBio
+35204579	An In Vivo Observational Histological Study of Peripheral Arterial Damage in Patients with Acute Limb Ischemia in SARS-CoV-2 Infection.	Diagnostics (Basel)
+35196808	Evaluation of the Levels of Peripheral CD3(+), CD4(+), and CD8(+) T Cells and IgG and IgM Antibodies in COVID-19 Patients at Different Stages of Infection.	Microbiol Spectr
+35143839	The spike protein of SARS-CoV-2 induces endothelial inflammation through integrin alpha5beta1 and NF-kappaB signaling.	J Biol Chem
+35133597	Nitrogen dioxide pollution increases vulnerability to COVID-19 through altered immune function.	Environ Sci Pollut Res Int
+35111751	Longitudinal Trend of Plasma Concentrations of Extracellular Vesicles in Patients Hospitalized for COVID-19.	Front Cell Dev Biol
+35085240	Impact of high platelet turnover on the platelet transcriptome: Results from platelet RNA-sequencing in patients with sepsis.	PLoS One
+35076028	Impairing RAGE signaling promotes survival and limits disease pathogenesis following SARS-CoV-2 infection in mice.	JCI Insight
+35066912	Lipopolysaccharide induces acute lung injury and alveolar haemorrhage in association with the cytokine storm, coagulopathy and AT1R/JAK/STAT augmentation in a rat model that mimics moderate and severe Covid-19 pathology.	Clin Exp Pharmacol Physiol
+34987111	Comprehensive Immune Profiling Reveals CD56(+) Monocytes and CD31(+) Endothelial Cells Are Increased in Severe COVID-19 Disease.	J Immunol
+34981214	Massive macroglossia, a rare side effect of COVID-19: clinical, histologic, and genomic findings in COVID-19-positive versus COVID-19-negative patients.	Oral Maxillofac Surg
+34965375	Dynamic Differences of Immunological Parameters Between Severe and Non-severe COVID-19 Patients.	Discov Med
+34871622	Cardiac inflammation and microvascular procoagulant changes are decreased in second wave compared to first wave deceased COVID-19 patients.	Int J Cardiol
+34849303	Viability assessment of human peripheral blood-derived stem cells after three methods of nebulization.	Am J Stem Cells
+34749524	CCR2 Signaling Restricts SARS-CoV-2 Infection.	mBio
+34696358	Potential Molecular Mechanisms of Rare Anti-Tumor Immune Response by SARS-CoV-2 in Isolated Cases of Lymphomas.	Viruses
+34609068	Merkel cell carcinoma presenting as a malignant pleural effusion post-COVID-19 hospitalization: A case report and literature review.	Diagn Cytopathol
+34604361	Catecholamine Surges Cause Cardiomyocyte Necroptosis via a RIPK1-RIPK3-Dependent Pathway in Mice.	Front Cardiovasc Med
+34512148	RS-5645 attenuates inflammatory cytokine storm induced by SARS-CoV-2 spike protein and LPS by modulating pulmonary microbiota.	Int J Biol Sci
+34496650	Blood fibrocytes are associated with severity and prognosis in COVID-19 pneumonia.	Am J Physiol Lung Cell Mol Physiol
+34463916	Cytokine storm and histopathological findings in 60 cases of COVID-19-related death: from viral load research to immunohistochemical quantification of major players IL-1beta, IL-6, IL-15 and TNF-alpha.	Forensic Sci Med Pathol
+34436366	Effects of Steroids and Tocilizumab on the Immune Response Profile of Patients with COVID-19-Associated ARDS Requiring or Not Veno-Venous Extracorporeal Membrane Oxygenation.	Membranes (Basel)
+34414199	Downregulation of CD45 Signaling in COVID-19 Patients Is Reversed by C24D, a Novel CD45 Targeting Peptide.	Front Med (Lausanne)
+34410424	Instigators of COVID-19 in Immune Cells Are Increased in Tobacco Cigarette Smokers and Electronic Cigarette Vapers Compared With Nonsmokers.	Nicotine Tob Res
+34397444	Longitudinal changes of laboratory measurements after discharged from hospital in 268 COVID-19 pneumonia patients.	J Xray Sci Technol
+34278755	[Clinical and morphological characteristics of SARS-CoV-2-related myocarditis proven by the presence of viral RNA and proteins in myocardial tissue].	Arkh Patol
+34180719	The Systematic Effect of Mesenchymal Stem Cell Therapy in Critical COVID-19 Patients: A Prospective Double Controlled Trial.	Cell Transplant
+33979601	Erythroid precursors and progenitors suppress adaptive immunity and get invaded by SARS-CoV-2.	Stem Cell Reports
+33936047	SARS-CoV-2 Infection Induces Psoriatic Arthritis Flares and Enthesis Resident Plasmacytoid Dendritic Cell Type-1 Interferon Inhibition by JAK Antagonism Offer Novel Spondyloarthritis Pathogenesis Insights.	Front Immunol
+33736695	Mesenchymal stem/stromal cells as a valuable source for the treatment of immune-mediated disorders.	Stem Cell Res Ther
+33422990	SARS-CoV-2 leads to a small vessel endotheliitis in the heart.	EBioMedicine
+33336774	Dynamics of cytokines and lymphocyte subsets associated with the poor prognosis of severe COVID-19.	Eur Rev Med Pharmacol Sci
+33329589	CD71(+) Erythroid Cells in Human Neonates Exhibit Immunosuppressive Properties and Compromise Immune Response Against Systemic Infection in Neonatal Mice.	Front Immunol
+33240994	Dynamic changes of T-lymphocyte subsets and the correlations with 89 patients with coronavirus disease 2019 (COVID-19).	Ann Transl Med
+33205351	Multidimensional Proteomic Approach of Endothelial Progenitors Demonstrate Expression of KDR Restricted to CD19 Cells.	Stem Cell Rev Rep
+33069626	Effects of Tanreqing Capsule on the negative conversion time of nucleic acid in patients with COVID-19: A retrospective cohort study.	J Integr Med
+33065551	CD45: a critical regulator in immune cells to predict severe and non-severe COVID-19 patients.	Aging (Albany NY)
+32999036	Single-Cell RNA Sequencing Reveals the Diversity of the Immunological Landscape following Central Nervous System Infection by a Murine Coronavirus.	J Virol
+32974109	A descriptive study of random forest algorithm for predicting COVID-19 patients outcome.	PeerJ
+32730555	Association of Cardiac Infection With SARS-CoV-2 in Confirmed COVID-19 Autopsy Cases.	JAMA Cardiol
+32691370	SARS-CoV-2 Entry Receptor ACE2 Is Expressed on Very Small CD45(-) Precursors of Hematopoietic and Endothelial Cells and in Response to Virus Spike Protein Activates the Nlrp3 Inflammasome.	Stem Cell Rev Rep
+32526193	Pulmonary post-mortem findings in a series of COVID-19 cases from northern Italy: a two-centre descriptive study.	Lancet Infect Dis

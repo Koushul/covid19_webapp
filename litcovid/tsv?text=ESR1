@@ -1,0 +1,53 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36229517	Integrated network-based multiple computational analyses for identification of co-expressed candidate genes associated with neurological manifestations of COVID-19.	Sci Rep
+35859316	Exploration of molecular targets and mechanisms of Chinese medicinal formula Acacia Catechu -Scutellariae Radix in the treatment of COVID-19 by a systems pharmacology strategy.	Phytother Res
+35777803	Abstracts of Presentations at the Association of Clinical Scientists 143(rd) Meeting Louisville, KY May 11-14,2022.	Ann Clin Lab Sci
+35763527	Effect of 17beta-estradiol on the daily pattern of ACE2, ADAM17, TMPRSS2 and estradiol receptor transcription in the lungs and colon of male rats.	PLoS One
+35758003	Epigenetic rewiring of pathways related to odour perception in immune cells exposed to SARS-CoV-2 in vivo and in vitro.	Epigenetics
+35676404	Estrogen hormone is an essential sex factor inhibiting inflammation and immune response in COVID-19.	Sci Rep
+35636166	Glycyrrhetinic acid: A potential drug for the treatment of COVID-19 cytokine storm.	Phytomedicine
+35584000	Feasibility analysis and mechanism exploration of Rhei Radix et Rhizome-Schisandrae Sphenantherae Fructus (RS) against COVID-19.	J Med Microbiol
+35472469	Periodontitis promotes the expression of gingival transmembrane serine protease 2 (TMPRSS2), a priming protease for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).	J Oral Biosci
+34356816	Blue Biotechnology: Computational Screening of Sarcophyton Cembranoid Diterpenes for SARS-CoV-2 Main Protease Inhibition.	Mar Drugs
+34322810	Bioinformatic analyses suggest augmented interleukin-17 signaling as the mechanism of COVID-19-associated herpes zoster.	Environ Sci Pollut Res Int
+33769143	Chlorogenic acid, a natural product as potential inhibitor of COVID-19: virtual screening experiment based on network pharmacology and molecular docking.	Nat Prod Res
+33691446	The pharmacological mechanism of Huashi Baidu Formula for the treatment of COVID-19 by combined network pharmacology and molecular docking.	Ann Palliat Med
+33195414	Identifying Pathways and Networks Associated With the SARS-CoV-2 Cell Receptor ACE2 Based on Gene Expression Profiles in Normal and SARS-CoV-2-Infected Human Tissues.	Front Mol Biosci
+33082858	Examining the effector mechanisms of Xuebijing injection on COVID-19 based on network pharmacology.	BioData Min
+33065388	In silico drug discovery of major metabolites from spices as SARS-CoV-2 main protease inhibitors.	Comput Biol Med
+33041827	Systems Pharmacology and Verification of ShenFuHuang Formula in Zebrafish Model Reveal Multi-Scale Treatment Strategy for Septic Syndrome in COVID-19.	Front Pharmacol
+32983259	Therapeutic mechanism of Toujie Quwen granules in COVID-19 based on network pharmacology.	BioData Min
+32497318	Molecular characterization of breast cancer needle core biopsy specimens by the 21-gene Breast Recurrence Score test.	J Surg Oncol

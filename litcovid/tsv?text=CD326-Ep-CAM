@@ -1,0 +1,429 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36245699	The Relationship Between Individuals' Use of Complementary and Alternative Medicine During the Pandemic in Turkey and Their Attitudes Towards Perceived COVID-19 Risk.	Eur J Integr Med
+36228463	Explanatory classification of CXR images into COVID-19, Pneumonia and Tuberculosis using deep learning and XAI.	Comput Biol Med
+36214228	Successful aging after elective surgery II: Study design and methods.	J Am Geriatr Soc
+36213650	A nationwide survey on the management of the COVID-19 pandemic and respiratory disease in South Korea.	Front Med (Lausanne)
+36212271	Evolution of Mood Symptomatology Through the COVID-19 Pandemic: Findings From the CovidSense Longitudinal Study.	Cureus
+36202942	Risk Factors of COVID-19 Associated Mucormycosis (CAM) in Iranian Patients: A Single-Center Retrospective Study.	Mycopathologia
+36193101	Pathogenesis and Pathology of COVID-Associated Mucormycosis: What Is New and Why.	Curr Fungal Infect Rep
+36190063	Exploring the globe salvaging treatment options in patients of COVID-19-associated mucormycosis with orbital involvement.	Indian J Ophthalmol
+36189724	Pandemics and Other Health Crises: A Special Report from a European Parliament Workshop.	Prehosp Disaster Med
+36187081	Towards edge devices implementation: deep learning model with visualization for COVID-19 prediction from chest X-ray.	Adv Comput Intell
+36176031	Implementation of CAD/CAM program in a nonface-to-face classroom environment due to the COVID-19 pandemic.	J Dent Educ
+36150158	Rhino-orbito-cerebral mucormycosis: patient characteristics in pre-COVID-19 and COVID-19 period.	Rhinology
+36141346	Medication Adherence in Vietnamese Patients with Cardiovascular and Endocrine-Metabolic Diseases.	Healthcare (Basel)
+36141290	Phytotherapy and Dietotherapy of COVID-19-An Online Survey Results from Central Part of Balkan Peninsula.	Healthcare (Basel)
+36140533	Segmentation-Based Classification Deep Learning Model Embedded with Explainable AI for COVID-19 Detection in Chest X-ray Scans.	Diagnostics (Basel)
+36127989	Rhinocerebral Mucormycosis: An Emerging Threat in the Era of COVID-19.	Cureus
+36126729	Diminished Antiviral Innate Immune Gene Expression in the Placenta Following a Maternal SARS-CoV-2 Infection.	Am J Obstet Gynecol
+36119217	Investigation of an acute surge of COVID-19 associated mucormycosis (CAM) cases reported to a tertiary health care institution in Bihar, India.	J Family Med Prim Care
+36118044	Evaluation of environmental Mucorales contamination in and around the residence of COVID-19-associated mucormycosis patients.	Front Cell Infect Microbiol
+36101784	Father-Son COVID-19-associated mucormycosis: Important role of genetic susceptibility in combination with environmental factors.	Clin Case Rep
+36092540	Explainable COVID-19 detection using fractal dimension and vision transformer with Grad-CAM on cough sounds.	Biocybern Biomed Eng
+36090297	Invasive Fungal Infections in Dengue Recovered Patients: A New Phenomenon in the Covid-19 Era.	Indian J Otolaryngol Head Neck Surg
+36090296	Facial Nerve Palsy as a Common Presentation during the Epidemic of Coronavirus Disease Associated Rhinocerebral Mucormycosis.	Indian J Otolaryngol Head Neck Surg
+36066610	10-year follow-up of interventional electrophysiology: updated German survey during the COVID-19 pandemic.	Clin Res Cardiol
+36061272	A prospective study of remote delirium screening using the modified K-4AT for COVID-19 inpatients.	Front Psychiatry
+36057614	Safety and use of complementary and alternative medicine in Norway during the first wave of the COVID-19 pandemic using an adapted version of the I-CAM-Q; a cross-sectional survey.	BMC Complement Med Ther
+36054012	Can charcoal hemoperfusion treatment be an option for pediatric MIS-C patients? A single-center experience in a tertiary pediatric intensive care unit.	J Clin Apher
+36053359	Is mucormycosis the end? A comprehensive management of orbit in COVID associated rhino-orbital-cerebral mucormycosis: preserving the salvageable.	Eur Arch Otorhinolaryngol
+36047183	Invasive Mucormycosis and Aspergillosis Coinfection Associated with Post-COVID-19 Pneumonia in a Tertiary Care Hospital.	Med Mycol J
+36035237	Insights from Surgically treated Post Covid Acute Invasive Fungal Rhino-Orbital sinusitis in Chandrapur Study (SPAROS): A Population Based study of Coronavirus Associated Mucormycosis (CAM) characteristics in India.	IJID Reg
+36016154	COVID-19-Associated Mucormycosis: A Matter of Concern Amid the SARS-CoV-2 Pandemic.	Vaccines (Basel)
+36012838	COVID-19-Associated Pulmonary Fungal Infection among Pediatric Cancer Patients, a Single Center Experience.	J Fungi (Basel)
+36008147	Delirium in Adults With COVID-19-related ARDS: Comparison With Other Etiologies.	Neurology
+36004359	COVID-19-Associated mucormycosis: Case series from a tertiary care hospital in South India.	Access Microbiol
+36003924	From Bilateral Periorbital Necrotic Wound to Fungal Brain Abscess: A Complicated Case of COVID-19-Associated Mucormycosis.	Case Rep Infect Dis
+36002903	Emergency medicine physician burnout before and during the COVID-19 pandemic.	Isr J Health Policy Res
+36000078	Comparative risk assessment of COVID-19 associated mucormycosis and aspergillosis: A systematic review.	Health Sci Rep
+35987108	COVID-19-associated Mucormycosis: A clinico-epidemiological study.	J Diabetes Complications
+35975857	Hit or miss: The Dilemma of Specimen Selection for Microbiological Diagnosis of Rhino-Orbital-Cerebral- COVID-Associated Mucormycosis (ROCM-CAM).	Infect Disord Drug Targets
+35971380	Mortality-Related Risk Factors for Coronavirus Disease (COVID-19)-Associated Mucormycosis: a systematic review and meta-analysis.	Curr Fungal Infect Rep
+35968169	COVID-19 Associated Mucormycosis (CAM): A Single Hospital-Based Study.	J Oral Maxillofac Pathol
+35966751	Complementary and Alternative Medicine for Long COVID: Scoping Review and Bibliometric Analysis.	Evid Based Complement Alternat Med
+35965632	Expanding Telehealth through Technology: Use of Digital Health Technologies during Pediatric Electrophysiology Telehealth Visits.	Cardiovasc Digit Health J
+35944939	Quantitative B and T cell abnormalities in four patients presenting with mucormycosis and prior asymptomatic COVID-19 infection.	BMJ Case Rep
+35943425	Retrobulbar Injection of Amphotericin B in Patients With COVID-19 Associated Orbital Mucormycosis: A Systematic Review.	Ophthalmic Plast Reconstr Surg
+35940966	[Home treatment of low-risk pulmonary embolism patients : Efficacy and safety of an outpatient program including the general practitioner].	Ann Cardiol Angeiol (Paris)
+35936631	Covid-19 and Mucormycosis Superinfection: Prospective, Obsevational Study in a Single Center.	Ann Indian Acad Neurol
+35924134	Neuroimaging Findings in COVID-19 Associated Rhino-Orbital-Cerebral Mucormycosis: A Review.	Indian J Radiol Imaging
+35923801	Mucormycosis in the COVID-19 Environment: A Multifaceted Complication.	Front Cell Infect Microbiol
+35922704	COVID-19 associated multisystemic mucormycosis from India: a multicentric retrospective study on clinical profile, predisposing factors, cumulative mortality and factors affecting outcome.	Infection
+35914853	Implementation of a unique mass casualty and emergency preparedness longitudinal learning experience for postgraduate year 2 pharmacy residents.	Curr Pharm Teach Learn
+35911783	Multidisciplinary approach in diagnosis and treatment of COVID-19-associated mucormycosis: a description of current reports.	Egypt J Intern Med
+35902188	Impact of a phone call with a medical student/general practitioner team on morbidity of chronic patients during the first French COVID-19 lockdown (COVIQuest): a cluster randomised trial.	BMJ Open
+35900078	Sedative polypharmacy mediates the effect of mechanical ventilation on delirium in critically ill COVID-19 patients: A retrospective cohort study.	Acta Anaesthesiol Scand
+35899784	Preliminary investigation of the student-delivered Community Outreach teleheAlth program for Covid education and Health promotion (COACH).	Fam Pract
+35887511	Development of a Monoclonal Antibody and a Serodiagnostic Lateral-Flow Device Specific to Rhizopus arrhizus (Syn. R. oryzae), the Principal Global Agent of Mucormycosis in Humans.	J Fungi (Basel)
+35887466	COVID-19-Associated Pulmonary Mucormycosis.	J Fungi (Basel)
+35887431	Isavuconazole for COVID-19-Associated Invasive Mold Infections.	J Fungi (Basel)
+35864638	Post-Covid Cerebral Mucormycosis, Varied Presentations and Surgical Strategies of a Newer Epidemic: An Institutional Experience.	Neurol India
+35849188	COVID-associated rhinocerebral mucormycosis: a retrospective analysis of presentation and outcomes.	Eur Arch Otorhinolaryngol
+35846240	Overview of COVID-19-Associated Invasive Fungal Infection.	Curr Fungal Infect Rep
+35845911	COVID-19 Classification from Chest X-Ray Images: A Framework of Deep Explainable Artificial Intelligence.	Comput Intell Neurosci
+35819036	[Peritoneal Dialysis in Italy: the 7th GSDP-SIN census 2019].	G Ital Nefrol
+35811783	Exploration of chalcones as 3-chymotrypsin-like protease (3CL(pro)) inhibitors of SARS-CoV-2 using computational approaches.	Struct Chem
+35806905	Current Treatment Options for COVID-19 Associated Mucormycosis: Present Status and Future Perspectives.	J Clin Med
+35800201	Clinical Characteristics of 100 Patients With COVID-19-Associated Mucormycosis From a Tertiary Care Center in North India.	Cureus
+35799691	Effects of a WeChat Mini-Program on Human Milk Feeding Rates in a Neonatal Intensive Care Unit During the COVID-19 Pandemic.	Front Pediatr
+35791656	A fatal case report of invasive pulmonary aspergillosis and mucormycosis coinfection in an immunocompetent patient with coronavirus disease 2019 in Korea.	Acute Crit Care
+35770550	Warm Cupping of the Posterior Thorax in Combination with Standard Conventional Therapy for ARDS in COVID-19 Patients in ICU: a Case Series.	J Acupunct Meridian Stud
+35768700	Alternating pattern of rhino-orbital-cerebral mucormycosis with COVID-19 in diabetic patients.	Eur Arch Otorhinolaryngol
+35756140	Impact of COVID-19 pandemic on cardiac rhythm management services: views from the United Kingdom.	Heart Rhythm O2
+35754515	Explainable artificial intelligence approach in combating real-time surveillance of COVID19 pandemic from CT scan and X-ray images using ensemble model.	J Supercomput
+35751196	Eight pruning deep learning models for low storage and high-speed COVID-19 computed tomography lung segmentation and heatmap-based lesion localization: A multicenter study using COVLIAS 2.0.	Comput Biol Med
+35750280	Vaccine Attitudes and COVID-19 Vaccine Intention Among Parents of Children With Kidney Disease or Primary Hypertension.	Am J Kidney Dis
+35741292	COVLIAS 2.0-cXAI: Cloud-Based Explainable Deep Learning System for COVID-19 Lesion Localization in Computed Tomography Scans.	Diagnostics (Basel)
+35738600	To Fight or to Flee? A Systematic Review of Ectopic Pregnancy Management and Complications During the Covid-19 Pandemic.	In Vivo
+35736980	Medication Adherence of Vietnamese Outpatients with Chronic Diseases during the COVID-19 Pandemic.	Trop Med Infect Dis
+35736974	Consumption of Herbal Supplements or Homeopathic Remedies to Prevent COVID-19 and Intention of Vaccination for COVID-19 in Latin America and the Caribbean.	Trop Med Infect Dis
+35733728	Histopathologically Confirmed Pulmonary Mucormycosis as a Complication of COVID-19: a Case Report from Romania and Insight into Pathology.	Maedica (Bucur)
+35727491	Serum glucose-regulated protein 78 (GRP78) levels in COVID-19-associated mucormycosis: results of a case-control study.	Mycopathologia
+35722028	Convolutional neural network based CT scan classification method for COVID-19 test validation.	Smart Health (Amst)
+35710765	Can plasma exchange therapy be an option for the treatment of SARS-CoV-2 Related Splenial Lesion Syndrome: Two cases from the pediatric intensive care unit.	Transfus Apher Sci
+35709394	Risk factors for COVID-19 associated mucormycosis in India: A case control study.	Med Mycol
+35696091	Post-traumatic stress disorder, anxiety, depression and related factors among COVID-19 patients during the fourth wave of the pandemic in Vietnam.	Int Health
+35684551	Novel Thiadiazole-Based Molecules as Promising Inhibitors of Black Fungi and Pathogenic Bacteria: In Vitro Antimicrobial Evaluation and Molecular Docking Studies.	Molecules
+35677618	Safety and efficacy of siddha medicine preparation in the management of COVID-19: A prospective randomised open label study.	J Ayurveda Integr Med
+35644168	Safety and immunogenicity of a live-attenuated influenza virus vector-based intranasal SARS-CoV-2 vaccine in adults: randomised, double-blind, placebo-controlled, phase 1 and 2 trials.	Lancet Respir Med
+35634810	An interpretable multi-task system for clinically applicable COVID-19 diagnosis using CXR.	J Xray Sci Technol
+35634238	Resurgence of mucormycosis during COVID-19 pandemic.	Oral Maxillofac Surg Cases
+35628049	Oral Tissue Involvement and Probable Factors in Post-COVID-19 Mucormycosis Patients: A Cross-Sectional Study.	Healthcare (Basel)
+35624573	Rapid Detection of Anti-SARS-CoV-2 Antibodies with a Screen-Printed Electrode Modified with a Spike Glycoprotein Epitope.	Biosensors (Basel)
+35581560	The assistance gaps in combating COVID-19 in Brazil: for whom, where and when vaccination occurs.	BMC Infect Dis
+35577569	Reduced neutralizing antibody potency of COVID-19 convalescent vaccinated plasma against SARS-CoV-2 Omicron variant.	Vox Sang
+35571549	Erythrodermic psoriasis in post-coronavirus disease 2019 patient.	Asia Pac Allergy
+35569303	MR imaging spectrum in COVID associated Rhino-Orbito-Cerebral mucormycosis with special emphasis on intracranial disease and impact on patient prognosis.	Eur J Radiol
+35537296	Study on transfer learning capabilities for pneumonia classification in chest-x-rays images.	Comput Methods Programs Biomed
+35528622	New-onset hyperglycaemia and prolonged systemic corticosteroids therapy in mild COVID-19 patients as major risk factors for invasive mucormycosis: a preliminary study.	Curr Med Mycol
+35502084	Bilateral blindness in a young male of rhino-orbital-cerebral mucormycosis: A case report.	Indian J Ophthalmol
+35502071	Twitter sentiment analysis for COVID-19 associated mucormycosis.	Indian J Ophthalmol
+35497518	Thermodynamics and kinetics in antibody resistance of the 501Y.V2 SARS-CoV-2 variant.	RSC Adv
+35493268	Implementation and early experience of a pediatric electrophysiology telehealth program.	Cardiovasc Digit Health J
+35479850	Prioritisation of lower gastrointestinal endoscopy during the COVID-19 pandemic: outcomes of a novel triage pathway.	Frontline Gastroenterol
+35479689	Computational estimation of potential inhibitors from known drugs against the main protease of SARS-CoV-2.	RSC Adv
+35463530	Delirium and Psychiatric Sequelae Associated to SARS-CoV-2 in Asymptomatic Patients With Psychiatric History and Mild Cognitive Impairment as Risk Factors: Three Case Reports.	Front Psychiatry
+35450177	Clinical outcome of orbital apex syndrome in COVID associated mucormycosis patients in a tertiary care hospital.	Int J Ophthalmol
+35443518	Coronavirus disease-associated mucormycosis (CAM): A case control study during the outbreak in India.	J Assoc Physicians India
+35443509	Association of Serum Iron Studies in COVID Associated Mucormycosis with Stage of the Disease.	J Assoc Physicians India
+35443380	Diabetes and Covid Associated Mucormucormycosis-A Cross Sectional Study in Kilpauk Medical College.	J Assoc Physicians India
+35436818	Clinical-epidemiological Profile of Coronavirus Disease 19 Associated Mucomycosis (CAM) and Relation with Zinc and Iron Levels.	J Assoc Physicians India
+35432691	COVID-19 and Plethora of Fungal Infections.	Curr Fungal Infect Rep
+35432578	Deep feature fusion classification network (DFFCNet): Towards accurate diagnosis of COVID-19 using chest X-rays images.	Biomed Signal Process Control
+35430750	Relationships between fear of COVID-19, cyberchondria, intolerance of uncertainty, and obsessional probabilistic inferences: A structural equation model.	Scand J Psychol
+35427856	Evaluation of a COVID-19 emergency department observation protocol.	Am J Emerg Med
+35427237	Nurses' Use of Holistic, Complementary and Alternative Medicine Methods Against COVID-19 Anxiety.	Altern Ther Health Med
+35424256	Binding of inhibitors to the monomeric and dimeric SARS-CoV-2 Mpro.	RSC Adv
+35417397	[COVID-19 associated mucormycosis. A case in Argentina].	Medicina (B Aires)
+35410707	Automated detection of COVID-19 cases from chest X-ray images using deep neural network and XGBoost.	Radiography (Lond)
+35405351	Posaconazole or isavuconazole as sole or predominant antifungal therapy for COVID-19-associated mucormycosis. A retrospective observational case series.	Int J Infect Dis
+35404848	Clinical characteristics and risk factors associated with severe disease and outcome of patients with COVID-19.	J Infect Dev Ctries
+35398830	The Use of Complementary Alternative Medicine in HIV-infected Patients during COVID-19 Pandemic: Its Related Factors and Drug Interactions with Antiretroviral Therapy.	Acta Med Indones
+35368005	Histopathological analysis of soft tissue changes in gingival biopsied specimen from patients with underlying corona virus disease associated mucormycosis (CAM).	Med Oral Patol Oral Cir Bucal
+35357212	Are Unique Regional Factors the Missing Link in India's COVID-19-Associated Mucormycosis Crisis?	mBio
+35351328	Pathogenesis of COVID-19-associated mucormycosis (CAM) in India: probing the triggering factors.	Br J Oral Maxillofac Surg
+35348437	Human-Immune-System (HIS) humanized mouse model (DRAGA: HLA-A2.HLA-DR4.Rag1KO.IL-2RgammacKO.NOD) for COVID-19.	Hum Vaccin Immunother
+35345725	Role of Zinc and Clinicopathological Factors for COVID-19-Associated Mucormycosis (CAM) in a Rural Hospital of Central India: A Case-Control Study.	Cureus
+35341943	A randomized, controlled, blinded, parallel group, clinical trial to study the role of Ayurcov (AyurCoro3), one day regimen as an adjuvant therapy for COVID-19 disease management, at dedicated Covid Hospital (DCH) in India.	Complement Ther Med
+35340984	Three-dimensional DenseNet self-attention neural network for automatic detection of student's engagement.	Appl Intell (Dordr)
+35330309	Prevalence of COVID-19 Associated Mucormycosis in a German Tertiary Care Hospital.	J Fungi (Basel)
+35330260	A Clustered Case Series of Mucorales Detection in Respiratory Samples from COVID-19 Patients in Intensive Care, France, August to September 2021.	J Fungi (Basel)
+35312945	Clinical Features and Mortality of COVID-19-Associated Mucormycosis: A Systematic Review and Meta-Analysis.	Mycopathologia
+35309288	Health anxiety model of cyberchondria, fears, obsessions, sleep quality, and negative affect during COVID-19.	Curr Psychol
+35308033	Complementary and alternative medicine (CAM) interventions for COVID-19: An overview of systematic reviews.	Integr Med Res
+35302461	Burnout and Post-traumatic Stress Disorder Symptoms Among Emergency Medicine Resident Physicians During the COVID-19 Pandemic.	West J Emerg Med
+35282541	Coronavirus Disease 2019-Associated Mucormycosis Diagnosed by Fine-Needle Aspiration Cytology.	Cureus
+35280646	COVID-19 associated mucormycosis (CAM): A tale of two pathogens.	J Family Med Prim Care
+35268474	Routine and Advanced Laboratory Tests for Hemostasis Disorders in COVID-19 Patients: A Prospective Cohort Study.	J Clin Med
+35265890	Changes in the digital health landscape in cardiac electrophysiology: A pre-and peri-pandemic COVID-19 era survey.	Cardiovasc Digit Health J
+35262509	Compulsive buying gradually increased during the first six months of the Covid-19 outbreak.	J Behav Addict
+35253616	Neem and Turmeric in the management of Covid Associated Mucormycosis (CAM) derived through network pharmacology.	J Biomol Struct Dyn
+35249797	CT Imaging Features in Acute Invasive Fungal Rhinosinusitis- Recalling the Oblivion in the COVID Era.	Curr Probl Diagn Radiol
+35227231	COVID-19 severity and age increase the odds of delirium in hospitalized adults with confirmed SARS-CoV-2 infection: a cohort study.	BMC Psychiatry
+35221780	Recognizing COVID-19 from chest X-ray images for people in rural and remote areas based on deep transfer learning model.	Multimed Tools Appl
+35221077	Electrophysiology and Interventional Cardiology Procedure Volumes During the Coronavirus Disease 2019 Pandemic.	Card Electrophysiol Clin
+35212032	Epidemiology, clinical presentation and management of COVID-19 associated mucormycosis: A single centre experience from Pune, Western India.	Mycoses
+35209828	Impact of Diabetes in COVID-19 Associated Mucormycosis and Its Management: A Non-Systematic Literature Review.	Curr Diabetes Rev
+35193642	Tea and tea drinking: China's outstanding contributions to the mankind.	Chin Med
+35187287	COVID-19-associated mucormycosis of head-and-neck region: A systematic review.	J Clin Transl Res
+35186527	Two Uncommon Presentations of COVID-19-Associated Mucormycosis.	Cureus
+35168630	Prevalence and predictive factors of complementary medicine use during the first wave of the COVID-19 pandemic of 2020 in the Netherlands.	BMC Complement Med Ther
+35153359	Melamine sponge-based copper-organic framework (Cu-CPP) as a multi-functional filter for air purifiers.	Korean J Chem Eng
+35139486	The Integral Role of Radiology in the Diagnosis and Management of COVID-19-Associated Mucormycosis Infections.	Am J Trop Med Hyg
+35128607	Correlation of Gastrointestinal Symptoms at Initial Presentation with Clinical Outcomes in Hospitalized COVID-19 Patients: Results from a Large Health System in the Southern USA.	Dig Dis Sci
+35124141	Evaluation of hospital environment for presence of Mucorales during COVID-19-associated mucormycosis outbreak in India - a multi-centre study.	J Hosp Infect
+35122204	Practices in sedation, analgesia, mobilization, delirium, and sleep deprivation in adult intensive care units (SAMDS-ICU): an international survey before and during the COVID-19 pandemic.	Ann Intensive Care
+35115202	COVID-associated mucormycosis (CAM): is the Delta variant a cause?	Br J Oral Maxillofac Surg
+35095365	KNOWLEDGE, ATTITUDE AND PRACTICE OF NIGERIAN MEDICAL STUDENTS TOWARDS COMPLEMENTARY AND ALTERNATIVE MEDICINE IN COVID-19 MANAGEMENT.	Ann Ib Postgrad Med
+35089597	Low rate of RNAemia in blood donations collected during the first wave of COVID-19 in France.	Transfusion
+35084645	Delirium in hospitalized patients with COVID-19 pneumonia: a prospective, cross-sectional, cohort study.	Intern Emerg Med
+35084337	Effects of Acceptance and Commitment Therapy (ACT) on Mental Health and Resiliency of Migrant Live-in Caregivers in Canada: Pilot Randomized Wait List Controlled Trial.	JMIR Form Res
+35082316	Differential impact of government lockdown policies on reducing air pollution levels and related mortality in Europe.	Sci Rep
+35075316	Spatio-temporal variation and sensitivity analysis of aerosol particulate matter during the COVID-19 phase-wise lockdowns in Indian cities.	J Atmos Chem
+35074291	COVID-19 associated mucormycosis - An emerging threat.	J Microbiol Immunol Infect
+35053031	CGENet: A Deep Graph Model for COVID-19 Detection Based on Chest CT.	Biology (Basel)
+35050236	Vitamin D Inhibits IL-6 Pro-Atherothrombotic Effects in Human Endothelial Cells: A Potential Mechanism for Protection against COVID-19 Infection?	J Cardiovasc Dev Dis
+35043087	Intraoperative Scoring Assessment as a Prognostic Tool in Covid-19 Associated Mucormycosis: A Short-Term Observational Study.	Indian J Otolaryngol Head Neck Surg
+35035591	Deep Learning for Reliable Classification of COVID-19, MERS, and SARS from Chest X-ray Images.	Cognit Comput
+35035338	Green synthesis of ZrO2 nanoparticles and nanocomposites for biomedical and environmental applications: a review.	Environ Chem Lett
+35018285	Influence of mobility restrictions on air quality in the historic center of Cuenca city and its inference on the Covid-19 rate infections.	Mater Today Proc
+35009586	Pros and Cons of CAD/CAM Technology for Infection Prevention in Dental Settings during COVID-19 Outbreak.	Sensors (Basel)
+34994082	The association of free testosterone levels with coronavirus disease 2019.	Andrology
+34993740	Multi-scale mechanism of antiviral drug-alike phytoligands from Ayurveda in managing COVID-19 and associated metabolic comorbidities: insights from network pharmacology.	Mol Divers
+34992339	Characteristics and Outcomes of a Series of COVID-Associated Mucormycosis Patients in Two Different Settings in Egypt Through the Third Pandemic Wave.	Clin Ophthalmol
+34986037	Experience of Parents of Children with Genetically Determined Leukoencephalopathies Regarding the Adapted Health Care Services During the COVID-19 Pandemic.	J Child Neurol
+34977331	Indirect supervision applied to COVID-19 and pneumonia classification.	Inform Med Unlocked
+34974056	Risk factors for Coronavirus disease-associated mucormycosis.	J Infect
+34953080	Therapeutic drug monitoring of posaconazole delayed release tablet while managing COVID-19-associated mucormycosis in a real-life setting.	Mycoses
+34932870	Risk factors and outcomes of COVID associated mucormycosis in kidney transplant recipients.	Transpl Infect Dis
+34926174	COVID-19 prediction through X-ray images using transfer learning-based hybrid deep learning approach.	Mater Today Proc
+34912944	Impact of COVID-19-associated Mucormycosis in Kidney Transplant Recipients: A Multicenter Cohort Study.	Transplant Direct
+34910385	Adverse Effects of Anti-Covid-19 Drug Candidates and Alcohol on Cellular Stress Responses of Hepatocytes.	Hepatol Commun
+34908669	Correlates of depression, anxiety, self-esteem, and suicidal ideas in COVID-associated mucormycosis patients and the effects of treatment.	Ind Psychiatry J
+34900512	COVID-19 associated mucormycosis: evolving technologies for early and rapid diagnosis.	3 Biotech
+34898799	DC-GAN-based synthetic X-ray images augmentation for increasing the performance of EfficientNet for COVID-19 detection.	Expert Syst
+34897745	COVID-19 convalescent plasma: Evolving strategies for serological screening in France.	Vox Sang
+34890962	Cerebrovascular Involvement in Mucormycosis in COVID-19 Pandemic.	J Stroke Cerebrovasc Dis
+34882192	Cumulative Mortality and Factors Associated With Outcomes of Mucormycosis After COVID-19 at a Multispecialty Tertiary Care Center in India.	JAMA Ophthalmol
+34870076	Prediction of COVID-19 Cases from the Nexus of Air Quality and Meteorological Phenomena: Bangladesh Perspective.	Earth Syst Environ
+34851148	A Nucleic Acid-Based Orthopoxvirus Vaccine Targeting the Vaccinia Virus L1, A27, B5, and A33 Proteins Protects Rabbits against Lethal Rabbitpox Virus Aerosol Challenge.	J Virol
+34842220	Determinants of increased frequency of depressive and anxiety symptoms in exercise professionals during the COVID-19 pandemic.	Work
+34840104	Use of complementary and alternative medicine in general population during COVID-19 outbreak: A survey in Iran.	J Integr Med
+34829271	Global Prevalence of COVID-19-Associated Mucormycosis (CAM): Living Systematic Review and Meta-Analysis.	J Fungi (Basel)
+34827021	Incidence, cumulative mortality and factors affecting the outcome of COVID-19-associated mucormycosis from Western India.	Indian J Ophthalmol
+34826672	Pulmonary mucormycosis in the aftermath of critical COVID-19 in an immunocompromised patient: Mind the diagnostic gap.	J Mycol Med
+34826590	Consultations with health care providers and use of self-management strategies for prevention and treatment of COVID-19 related symptoms. A population based cross-sectional study in Norway, Sweden and the Netherlands.	Complement Ther Med
+34824057	Broadening symptom criteria improves early case identification in SARS-CoV-2 contacts.	Eur Respir J
+34820787	Mucormycosis in COVID-19 patients: predisposing factors, prevention and management.	Acta Neurol Belg
+34818767	Mucormycosis (black fungus) ensuing COVID-19 and comorbidity meets - Magnifying global pandemic grieve and catastrophe begins.	Sci Total Environ
+34804904	Role of COVID 19 Inflammatory Markers in Rhino-Orbito-Cerebral Mucormycosis: A Case Study in Predisposed Patients at a Designated Nodal Centre.	Indian J Otolaryngol Head Neck Surg
+34801326	Sleep disturbances in school-aged children 6-12 years during the COVID-19 pandemic in Turkey.	J Pediatr Nurs
+34790473	A Retrospective Analysis of Risk Factors of COVID-19 Associated Mucormycosis and Mortality Predictors: A Single-Center Study.	Cureus
+34787546	Sources of Distress and Coping Strategies Among Emergency Physicians During COVID-19.	West J Emerg Med
+34786311	ANN Assisted-IoT Enabled COVID-19 Patient Monitoring.	IEEE Access
+34785873	Association of COVID-19 with Rhino-Cerebral Mucormycosis: An Observational Study.	J Maxillofac Oral Surg
+34781648	COVID Associated Mucormycosis: A Study on the Spectrum of Clinical, Biochemical and Radiological Findings in A Series of Ten Patients.	J Assoc Physicians India
+34778899	Chronic pharmacological antagonism of the GM-CSF receptor in mice does not replicate the pulmonary alveolar proteinosis phenotype but does alter lung surfactant turnover.	Clin Sci (Lond)
+34778194	PSCNN: PatchShuffle Convolutional Neural Network for COVID-19 Explainable Diagnosis.	Front Public Health
+34777985	Utilization of complementary and alternative medicine for the prevention of COVID-19 infection in Ghana: A national cross-sectional online survey.	Prev Med Rep
+34769600	COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare.	Int J Environ Res Public Health
+34764573	"Fast deep learning computer-aided diagnosis of COVID-19 based on digital chest x-ray images".	Appl Intell (Dordr)
+34753008	Deficient synthesis of melatonin in COVID-19 can impair the resistance of coronavirus patients to mucormycosis.	Med Hypotheses
+34747304	Current and future strategies for diagnostic and management of obstructive sleep apnea.	Expert Rev Mol Diagn
+34743358	Serum iron indices in COVID-19-associated mucormycosis: A case-control study.	Mycoses
+34728106	COVID-associated mucormycosis (CAM) in India is a multidimensional problem.	Br J Oral Maxillofac Surg
+34724399	The Novavax vaccine had 90% efficacy against COVID-19 >/=7 d after the second dose.	Ann Intern Med
+34722867	Patient Perceptions of Cardiac Electrophysiology Procedural Postponement at an Urban Center During the SARS-CoV-2 Pandemic.	J Patient Exp
+34722734	Mucormycosis (black fungus) in COVID-19 patients-Will it be another matter of concern in the midst of the COVID-19 flare-up in Bangladesh?	J Adv Vet Anim Res
+34717135	COVID-19 associated mucormycosis: A Descriptive Multisite Study from India.	Diabetes Metab Syndr
+34698143	COVID-19 Associated Mucormycosis: A Systematic Review from Diagnostic Challenges to Management.	Diseases
+34693045	Design and analysis of a mechanical ventilation system based on cams.	Heliyon
+34682258	COVID-19-Associated Mucormycosis (CAM): Case-Series and Global Analysis of Mortality Risk Factors.	J Fungi (Basel)
+34679585	Fine-Tuning Convolutional Neural Networks for COVID-19 Detection from Chest X-ray Images.	Diagnostics (Basel)
+34674319	COVID-19-associated mucormycosis, diabetes and steroid therapy: Experience in a single centre in Western Mexico.	Mycoses
+34655486	Results from a national survey on COVID-19-associated mucormycosis in Germany: 13 patients from six tertiary hospitals.	Mycoses
+34642558	Multidisciplinary Management of COVID-Associated Mucormycosis Syndemic in India.	Indian J Surg
+34639637	COVID-19-Associated Mucormycosis (CAM): An Updated Evidence Mapping.	Int J Environ Res Public Health
+34631494	COVID-19, Diabetes and Steroids: The Demonic Trident for Mucormycosis.	Indian J Otolaryngol Head Neck Surg
+34608454	An observational study of breakthrough SARS-CoV-2 Delta variant infections among vaccinated healthcare workers in Vietnam.	EClinicalMedicine
+34605083	Ultrasound characteristics, serum biochemistry and outcome of ectopic pregnancies presenting during COVID-19 pandemic.	Ultrasound Obstet Gynecol
+34604021	Predisposing factors of rhino-orbital-cerebral mucormycosis in patients with COVID 19 infection.	Indian J Otolaryngol Head Neck Surg
+34602702	Forecasting the COVID-19 effects on energy poverty across EU member states.	Energy Policy
+34577790	Self-Reiki, Consideration of a Potential Option for Managing Chronic Pain during Pandemic COVID-19 Period.	Medicina (Kaunas)
+34555882	Management of tubal ectopic pregnancy with methotrexate in the setting of symptomatic Coronavirus disease 2019 (COVID-19): A case report.	Facts Views Vis Obgyn
+34553877	Covid-19 and mucormycosis (Black Fungus): An epidemic within the pandemic.	Rocz Panstw Zakl Hig
+34519053	Development and preclinical evaluation of virus-like particle vaccine against COVID-19 infection.	Allergy
+34517273	First report of COVID-19-associated rhino-orbito-cerebral mucormycosis in pediatric patients with type 1 diabetes mellitus.	J Mycol Med
+34513586	Massive hemoptysis causing mortality in a post COVID-19 infected Asian male patient: Presenting as pulmonary mucormycosis, pulmonary tuberculosis and later sino-nasal mucormycosis.	Respir Med Case Rep
+34512434	Work Stress Hampering Employee Performance During COVID-19: Is Safety Culture Needed?	Front Psychol
+34512375	Classification of Lung Disease in Children by Using Lung Ultrasound Images and Deep Convolutional Neural Network.	Front Physiol
+34508342	Diverse effects of clarithromycin and proposal of its clinical application for treating COVID-19 as a repurposing drug.	Trop Biomed
+34507870	COVID-19 associated mucormycosis (CAM) in India: a formidable challenge.	Br J Oral Maxillofac Surg
+34502702	Detection of COVID-19 Using Transfer Learning and Grad-CAM Visualization on Indigenously Collected X-ray Dataset.	Sensors (Basel)
+34495260	COVID-19 associated Mucormycosis (CAM): Should Brazil be on alert?	Rev Soc Bras Med Trop
+34493107	Toxicity and Local Tolerance of COVID- eVax, a Plasmid DNA Vaccine for SARS-CoV-2, Delivered by Electroporation.	Toxicol Pathol
+34487004	Burnout and anxiety level of healthcare professionals during the COVID-19 pandemic in Turkey.	Work
+34480634	Energy and reactivity profile and proton affinity analysis of rimegepant with special reference to its potential activity against SARS-CoV-2 virus proteins using molecular dynamics.	J Mol Model
+34463678	[Pulmonary embolism and SARS-CoV-2: analysis of patients hospitalized for pulmonary embolism and COVID-19 in a Northern Italian center].	G Ital Cardiol (Rome)
+34451998	DNA Vaccine Administered by Cationic Lipoplexes or by In Vivo Electroporation Induces Comparable Antibody Responses against SARS-CoV-2 in Mice.	Vaccines (Basel)
+34451951	COVID-19 Associated Rhino-Orbital Mucormycosis Complicated by Gangrenous and Bone Necrosis-A Case Report from Honduras.	Vaccines (Basel)
+34436155	Connecting the Dots: Interplay of Pathogenic Mechanisms between COVID-19 Disease and Mucormycosis.	J Fungi (Basel)
+34428197	Impact of the coronavirus disease-19 pandemic on electrophysiological procedures at a national referral center.	Arch Cardiol Mex
+34420245	Is there an association between zinc and COVID-19-associated mucormycosis? Results of an experimental and clinical study.	Mycoses
+34420052	Coronavirus Disease 2019-Associated Mucormycosis: Risk Factors and Mechanisms of Disease.	Clin Infect Dis
+34414555	Epidemiology and Pathophysiology of COVID-19-Associated Mucormycosis: India Versus the Rest of the World.	Mycopathologia
+34401939	Delirium in critical illness: clinical manifestations, outcomes, and management.	Intensive Care Med
+34395195	Collaborative manufacturing of ergonomic personal protective equipment (PPE) accessories to prevent infectious disease.	Mater Today Proc
+34395188	The impact of COVID-19 on complementary and alternative medicine providers: A cross-sectional survey in Norway.	Adv Integr Med
+34395157	An Automated Lightweight Deep Neural Network for Diagnosis of COVID-19 from Chest X-ray Images.	Arab J Sci Eng
+34388178	Experience and lessons learned from multi-modal internet-based recruitment of U.S. Vietnamese into research.	PLoS One
+34386115	The survey of electrophysiology lab activity during the COVID-19 pandemic.	J Arrhythm
+34359873	Integrins: An Important Link between Angiogenesis, Inflammation and Eye Diseases.	Cells
+34354889	Coronavirus Disease-Associated Mucormycosis from a Tertiary Care Hospital in India: A Case Series.	Cureus
+34345308	[Geriatric patients in the intensive care unit].	Gastroenterologe
+34344010	The Impact of the COVID-19 Lockdown on the Quality of Life in Chronic Neurological Diseases: The Results of a COVQoL-CND Study.	Eur Neurol
+34338124	Rhino-orbital mucormycosis following COVID-19 in previously non-diabetic, immunocompetent patients.	Orbit
+34335827	Hydrogen Peroxide as an Adjuvant Therapy for COVID-19: A Case Series of Patients and Caregivers in the Mexico City Metropolitan Area.	Evid Based Complement Alternat Med
+34329437	Single-cell RNA sequencing of SARS-CoV-2 cell entry factors in the preconceptional human endometrium.	Hum Reprod
+34328718	Nasal Microbiota Imbalance as a Contributory Link in the Emergence of COVID-19 Associated Mucormycosis.	ACS Infect Dis
+34322460	Extremely Preterm Infant Admissions Within the SafeBoosC-III Consortium During the COVID-19 Lockdown.	Front Pediatr
+34314921	Diabetes mellitus and Coronavirus Disease (Covid-19) Associated Mucormycosis (CAM): A wake-up call from Egypt.	Diabetes Metab Syndr
+34276114	MIDCAN: A multiple input deep convolutional attention network for Covid-19 diagnosis based on chest CT and chest X-ray.	Pattern Recognit Lett
+34260088	SARS-CoV-2 B.1.617 Indian variants: Are electrostatic potential changes responsible for a higher transmission rate?	J Med Virol
+34254132	COVID-19-associated mucormycosis presenting to the Emergency Department-an observational study of 70 patients.	QJM
+34246939	Diabetes, COVID 19 and mucormycosis: Clinical spectrum and outcome in a tertiary care medical center in Western India.	Diabetes Metab Syndr
+34243074	3-Alkenyl-2-oxindoles: Synthesis, antiproliferative and antiviral properties against SARS-CoV-2.	Bioorg Chem
+34243059	Moderators of a resiliency group intervention for frontline clinicians during the COVID-19 pandemic.	J Affect Disord
+34240697	SARS-CoV-2 neutralising antibody testing in Europe: towards harmonisation of neutralising antibody titres for better use of convalescent plasma and comparability of trial data.	Euro Surveill
+34230788	Application of a Non-Linear multi-model Ayurveda Intervention in elderly COVID-19 patients- a retrospective case series.	J Ayurveda Integr Med
+34208212	Sero-Prevalence of SARS-CoV-2 Antibodies in High-Risk Populations in Vietnam.	Int J Environ Res Public Health
+34194342	Compulsive Hoarding Symptoms and the Role of Mindfulness Skills During Social Distancing for the COVID-19 Pandemic: An Exploratory Survey.	Front Psychiatry
+34188790	COVID-19 Diagnosis Using an Enhanced Inception-ResNetV2 Deep Learning Model in CXR Images.	J Healthc Eng
+34177719	A Novel Network Approach to Capture Cognition and Affect: COVID-19 Experiences in Canada and Germany.	Front Psychol
+34175640	Acute Ischemic Stroke Revealing ChAdOx1 nCov-19 Vaccine-Induced Immune Thrombotic Thrombocytopenia: Impact on Recanalization Strategy.	J Stroke Cerebrovasc Dis
+34173610	COVID-19 Vaccines A Global Common Good.	Lancet Healthy Longev
+34172042	Lifestyle changes during the first wave of the COVID-19 pandemic: a cross-sectional survey in the Netherlands.	BMC Public Health
+34150806	Investigation of Coagulation Biomarkers to Assess Clinical Deterioration in SARS-CoV-2 Infection.	Front Med (Lausanne)
+34146057	Magnetic resonance imaging in rhino-orbital-cerebral mucormycosis.	Indian J Ophthalmol
+34133816	ECMM/ISHAM recommendations for clinical management of COVID-19 associated mucormycosis in low- and middle-income countries.	Mycoses
+34133798	COVID-19-associated mucormycosis: An updated systematic review of literature.	Mycoses
+34130993	Covid-19: an economic perspective on vaccinating the world.	BMJ
+34127062	Antiviral effects of ergosterol peroxide in a pig model of porcine deltacoronavirus (PDCoV) infection involves modulation of apoptosis and tight junction in the small intestine.	Vet Res
+34114540	Case series of four secondary mucormycosis infections in COVID-19 patients, the Netherlands, December 2020 to May 2021.	Euro Surveill
+34107275	Evaluation of Modified ATRIA Risk Score in Predicting Mortality in Hospitalized Patients With COVID-19.	Am J Med Sci
+34096653	Mucormycosis in patients with COVID-19: A cross-sectional descriptive multicentre study from Iran.	Mycoses
+34087089	Multicenter Epidemiologic Study of Coronavirus Disease-Associated Mucormycosis, India.	Emerg Infect Dis
+34042760	DIAG a Diagnostic Web Application Based on Lung CT Scan Images and Deep Learning.	Stud Health Technol Inform
+34025036	Theoretical investigation of favipiravir antiviral drug based on fullerene and boron nitride nanocages.	Diam Relat Mater
+34013059	Medication adherence and complementary therapy usage in inflammatory bowel disease patients during the coronavirus disease 2019 pandemic.	JGH Open
+34010575	Digital Impressions and In-Office CAD/CAM: A Review of Best Practices and What's to Come.	Compend Contin Educ Dent
+33994894	Light-weighted ensemble network with multilevel activation visualization for robust diagnosis of COVID19 pneumonia from large-scale chest radiographic database.	Appl Soft Comput
+33992585	Complementary and alternative medicines use in COVID-19: A global perspective on practice, policy and research.	Res Social Adm Pharm
+33965070	LSE-Lancet Commission on the future of the NHS: re-laying the foundations for an equitable and efficient health and care service after COVID-19.	Lancet
+33965068	What is the right level of spending needed for health and care in the UK?	Lancet
+33962011	Therapeutic approaches for SARS-CoV-2 infection.	Methods
+33960085	Does hospitalisation of a patient in the intensive care unit cause anxiety and does restriction of visiting cause depression for the relatives of these patients during COVID-19 pandemic?	Int J Clin Pract
+33951085	Prevalence and factors associated with psychological burden in COVID-19 patients and their relatives: A prospective observational cohort study.	PLoS One
+33936690	An exceptional complication of transesophageal ultrasound in a patient with Coronavirus disease.	Clin Case Rep
+33838089	Complementary and alternative medicine therapies and COVID-19: a systematic review.	Rev Environ Health
+33836228	Progression of Changes in Vascular Surgery Practices during the Novel Corona Virus SARS-CoV-2 Pandemic.	Ann Vasc Surg
+33832446	Unwillingness to engage in behaviors that protect against COVID-19: the role of conspiracy beliefs, trust, and endorsement of complementary and alternative medicine.	BMC Public Health
+33814870	Impact of the COVID-19 pandemic on mental health and health-related quality of life among university students in Turkey.	Curr Psychol
+33814725	Prevention schemes for future pandemic cases: mathematical model and experience of interurban multi-agent COVID-19 epidemic prevention.	Nonlinear Dyn
+33813949	Addressing prioritization in healthcare amidst a global pandemic.	Healthc Manage Forum
+33806120	Multicomponent Home-Based Training Program for Chronic Kidney Disease Patients during Movement Restriction.	Int J Environ Res Public Health
+33800320	Online Videogames Use and Anxiety in Children during the COVID-19 Pandemic.	Children (Basel)
+33785276	Addressing COVID-19 Using a Public Health Approach: Perspectives From the Cancer Prevention and Control Research Network.	Am J Prev Med
+33778966	A Cascade-SEME network for COVID-19 detection in chest x-ray images.	Med Phys
+33778286	Ethyl Pyruvate as a Potential Defense Intervention against Cytokine Storm in COVID-19?	ACS Omega
+33777167	PSSPNN: PatchShuffle Stochastic Pooling Neural Network for an Explainable Diagnosis of COVID-19 with Multiple-Way Data Augmentation.	Comput Math Methods Med
+33753962	MANet: A two-stage deep learning method for classification of COVID-19 from Chest X-ray images.	Neurocomputing
+33728979	Cefaclor Monohydrate-Loaded Colon-Targeted Nanoparticles for Use in COVID-19 Dependent Coinfections and Intestinal Symptoms: Formulation, Characterization, Release Kinetics, and Antimicrobial Activity.	Assay Drug Dev Technol
+33718846	Changes to the sebum lipidome upon COVID-19 infection observed via rapid sampling from the skin.	EClinicalMedicine
+33647298	Impact of social lockdown due to COVID-19 on environmental and health risk indices in India.	Environ Res
+33636621	Increase rate of ruptured tubal ectopic pregnancy during the COVID-19 pandemic.	Eur J Obstet Gynecol Reprod Biol
+33608752	Screening and evaluation of anti-SARS-CoV-2 components from Ephedra sinica by ACE2/CMC-HPLC-IT-TOF-MS approach.	Anal Bioanal Chem
+33601014	The Popularity of the Biologically-Based Therapies During Coronavirus Pandemic Among the Google Users in the USA, UK, Germany, Italy and France.	Complement Ther Med
+33599285	Delayed presentation of ectopic pregnancy during the COVID-19 pandemic: A retrospective study of a collateral effect.	Int J Gynaecol Obstet
+33589854	Using handpicked features in conjunction with ResNet-50 for improved detection of COVID-19 from chest X-ray images.	Chaos Solitons Fractals
+33573681	Impact of intravenous lidocaine on clinical outcomes of patients with ARDS during COVID-19 pandemia (LidoCovid): A structured summary of a study protocol for a randomised controlled trial.	Trials
+33569715	[Evaluation of measures to reduce the number of emergency physician missions in Tyrol during the COVID-19 pandemic].	Anaesthesist
+33554220	Improving Biomedical Engineering Undergraduate Learning Through Use of Online Graduate Engineering Courses During the COVID-19 Pandemic.	Biomed Eng Educ
+33544266	Coronavirus Disease (Covid-19) Associated Mucormycosis (CAM): Case Report and Systematic Review of Literature.	Mycopathologia
+33532745	Experience in responding to COVID-19 outbreaks from Vietnam.	Lancet Reg Health West Pac
+33521749	Cell-free DNA tissues of origin by methylation profiling reveals significant cell, tissue, and organ-specific injury related to COVID-19 severity.	Med (N Y)
+33520226	Comparison between camcorder, frontal head and temporal mounted action-cam in digestive surgery: Documentation and educational alternative during COVID-19 pandemic.	Ann Med Surg (Lond)
+33493866	Ergosterol peroxide exhibits antiviral and immunomodulatory abilities against porcine deltacoronavirus (PDCoV) via suppression of NF-kappaB and p38/MAPK signaling pathways in vitro.	Int Immunopharmacol
+33492499	National survey regarding the timing of endoscopic procedures during the COVID-19 pandemic.	Surg Endosc
+33469376	Patients' Responses to the Sudden Interruption of Chemotherapy During the Outbreak of the Novel Coronavirus: A Cross-Sectional Study.	Cancer Manag Res
+33441366	Protocol for a qualitative study to identify strategies to optimise hospital ePrescribing systems.	BMJ Open
+33437132	COVIDScreen: explainable deep learning framework for differential diagnosis of COVID-19 using chest X-rays.	Neural Comput Appl
+33392485	Safety and immunogenicity of INO-4800 DNA vaccine against SARS-CoV-2: A preliminary report of an open-label, Phase 1 clinical trial.	EClinicalMedicine
+33390634	Excited-state electronic properties, structural studies, noncovalent interactions, and inhibition of the novel severe acute respiratory syndrome coronavirus 2 proteins in Ripretinib by first-principle simulations.	J Mol Liq
+33363722	Comparison of surgical recordings using cameras with and without laser pointer for focusing in gastrointestinal surgical field in COVID-19 pandemic: A cross-sectional study.	Ann Med Surg (Lond)
+33346407	Intention to response, emergency preparedness and intention to leave among nurses during COVID-19.	Nurs Open
+33335638	Statement for electrophysiological procedures under the COVID-19 pandemic from the Japanese heart rhythm society task force.	J Arrhythm
+33214043	Electrophysiology Practice During COVID-19 Pandemic: A New York Tertiary Hospital Experience.	J Cardiothorac Vasc Anesth
+33202727	The Demand for Elective Neurosurgery at a German University Hospital during the First Wave of COVID-19.	Healthcare (Basel)
+33199676	[Survey data as a way to estimate the prevalence of COVID-19. A pilot study in the city of Madrid.]	Rev Esp Salud Publica
+33188677	Numbers and phenotype of non-classical CD14dimCD16+ monocytes are predictors of adverse clinical outcome in patients with coronary artery disease and severe SARS-CoV-2 infection.	Cardiovasc Res
+33185785	Low molecular weight heparin in COVID-19 patients prevents delirium and shortens hospitalization.	Neurol Sci
+33162692	Use of Complementary and Alternative Medicine (CAM) and Home Remedies by COVID-19 Patients: A Telephonic Survey.	Indian J Clin Biochem
+33146938	The Impact of the COVID-19 Pandemic on Cardiac Electrophysiology Training: A Survey Study.	J Cardiovasc Electrophysiol
+33071605	COVID-19 Creating another problem? Sustainable solution for PPE disposal through LCA approach.	Environ Dev Sustain
+33066867	In the Turkish News: Coronavirus and "Alternative & complementary" medicine methods.	Complement Ther Med
+33052816	Physician Wellness During a Pandemic.	West J Emerg Med
+33037804	Management of odonto-stomatological emergencies during the COVID-19 alarm state in dental clinics in the Autonomous Community of Madrid (CAM), Spain: An observational study.	Med Oral Patol Oral Cir Bucal
+33025386	Issues associated with deploying CNN transfer learning to detect COVID-19 from chest X-rays.	Phys Eng Sci Med
+33014512	A novel reusable anti-COVID-19 transparent face respirator with optimized airflow.	Biodes Manuf
+33014130	Possible mechanisms of action of clarithromycin and its clinical application as a repurposing drug for treating multiple myeloma.	Ecancermedicalscience
+33006086	Creating a safe workplace by universal testing of SARS-CoV-2 infection in asymptomatic patients and healthcare workers in the electrophysiology units: a multi-center experience.	J Interv Card Electrophysiol
+32924022	COllaboration is a Valuable International/Interdisciplinary Directive for Electrophysiology Progress: NOvel & Tangible Important Lessons Learned COVID-EP: NOT ILL Digital health lessons learned from the COVID experience can improve arrhythmic outcomes.	Cardiovasc Digit Health J
+32919217	Clinical and laboratory features of COVID-19: Predictors of severe prognosis.	Int Immunopharmacol
+32904452	Risk of COVID-19 infection after cardiac electrophysiology procedures.	Heart Rhythm O2
+32893789	Seroconversion in Newly Diagnosed Cases of Coronavirus Disease.	J Coll Physicians Surg Pak
+32881225	Decreases in cardiac catheter laboratory workload during the COVID-19 level 4 lockdown in New Zealand.	Intern Med J
+32863490	Structural and physico-chemical evaluation of melatonin and its solution-state excited properties, with emphasis on its binding with novel coronavirus proteins.	J Mol Liq
+32837735	Intention to response, emergency preparedness and intention to leave among nurses during COVID-19.	Nurs Open
+32836918	A deep learning and grad-CAM based color visualization approach for fast detection of COVID-19 cases using chest X-ray and CT-Scan images.	Chaos Solitons Fractals
+32834988	How to manage thromboembolic risk in patient with SARS-CoV-2-related disease in the Emergency Department: A case report of cardiogenic shock due to massive pulmonary embolism.	Respir Med Case Rep
+32822915	Air quality variations in Northern South America during the COVID-19 lockdown.	Sci Total Environ
+32799101	Surfaces and equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the emergency department at a university hospital.	Int J Hyg Environ Health
+32786258	Chemical Probes for Blocking of Influenza A M2 Wild-type and S31N Channels.	ACS Chem Biol
+32771053	Delirium and encephalopathy in severe COVID-19: a cohort analysis of ICU patients.	Crit Care
+32771035	Use of powered air-purifying respirator (PAPR) by healthcare workers for preventing highly infectious viral diseases-a systematic review of evidence.	Syst Rev
+32758325	Health economics and emergence from COVID-19 lockdown: the great big marginal analysis.	Health Econ Policy Law
+32730233	Multisystem inflammatory syndrome in children and COVID-19 are distinct presentations of SARS-CoV-2.	J Clin Invest
+32714336	Overview: Systemic Inflammatory Response Derived From Lung Injury Caused by SARS-CoV-2 Infection Explains Severe Outcomes in COVID-19.	Front Immunol
+32660065	COVID-19, Renin-Angiotensin System and Endothelial Dysfunction.	Cells
+32659942	Analysis on the Temporal Distribution Characteristics of Air Pollution and Its Impact on Human Health under the Noticeable Variation of Residents' Travel Behavior: A Case of Guangzhou, China.	Int J Environ Res Public Health
+32612467	Answering the Call: Medical Students Reinforce Health System Frontlines Through Ochsner COVID-19 Hotline.	Ochsner J
+32610808	Coronavirus: Where Has All the Health Economics Gone?	Int J Health Policy Manag
+32603901	SARS-CoV-2 Pneumonia in Hospitalized Asthmatic Patients Did Not Induce Severe Exacerbation.	J Allergy Clin Immunol Pract
+32540838	COVID-19 Modifications for Remote Teleassessment and Teletraining of a Complementary Alternative Medicine Intervention for People With Multiple Sclerosis: Protocol for a Randomized Controlled Trial.	JMIR Res Protoc
+32530530	EP lessons by legendary quartet of "Jackman-Klein-Prystowsky-Stevenson": "A priceless opportunity" during the COVID-19 era.	J Cardiovasc Electrophysiol
+32509940	Dataset of Vietnamese teachers' perspectives and perceived support during the COVID-19 pandemic.	Data Brief
+32494896	COVID-19 and cardiac arrhythmias: a global perspective on arrhythmia characteristics and management strategies.	J Interv Card Electrophysiol
+32451232	Position Statement on the Management of Cardiac Electrophysiology and Cardiac Implantable Electronic Devices in Australia During the COVID-19 Pandemic: A Living Document.	Heart Lung Circ
+32425656	The COVID-19 challenge to cardiac electrophysiologists: optimizing resources at a referral center.	J Interv Card Electrophysiol
+32419438	COVID-19: What do we need to know about ICU delirium during the SARS-CoV-2 pandemic?	Anaesthesiol Intensive Ther
+32413909	[Protecting Medical Professionals from Infection During the Coronavirus Pandemic: Overnight Implementation of Virtual Medical Boards].	Gesundheitswesen
+32401229	Novel coronavirus, novel faculty development programs: rapid transition to eLearning during the pandemic.	J Perinat Med
+32393532	Exit strategy to control covid-19 and relaunch the economy.	BMJ
+32389631	Pharmacy Emergency Preparedness and Response (PEPR): a proposed framework for expanding pharmacy professionals' roles and contributions to emergency preparedness and response during the COVID-19 pandemic and beyond.	Res Social Adm Pharm
+32362583	Emergency preparedness and response (EP&R) by pharmacy professionals in India: Lessons from the COVID-19 pandemic and the way forward.	Res Social Adm Pharm
+32324622	Restructuring Electrophysiology During the COVID-19 Pandemic: A Practical Guide From a New York City Hospital Network.	Crit Pathw Cardiol
+32281214	Performance of electrophysiology procedures at an academic medical center amidst the 2020 coronavirus (COVID-19) pandemic.	J Cardiovasc Electrophysiol

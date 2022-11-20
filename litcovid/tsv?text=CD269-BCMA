@@ -1,0 +1,45 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36164154	MM-198 Anti-BCMA Therapy in Multiple Myeloma: A Single-Center Experience.	Clin Lymphoma Myeloma Leuk
+36164151	MM-183 CARTITUDE-2 Cohort A: Updated Clinical Data and Biological Correlative Analyses of Ciltacabtagene Autoleucel (cilta-cel) in Lenalidomide-Refractory Patients With Progressive Multiple Myeloma (MM) After 1-3 Prior Lines of Therapy (LOT).	Clin Lymphoma Myeloma Leuk
+35928542	Second Booster BNT162b2 Restores SARS-CoV-2 Humoral Response in Patients With Multiple Myeloma, Excluding Those Under Anti-BCMA Therapy.	Hemasphere
+35810359	Neutralizing antibody responses against SARS-CoV-2 in patients with plasma cell disorders who are on active treatment after two doses of mRNA vaccination.	Eur J Haematol
+35710431	Immune response to vaccination against SARS-CoV-2 in hematopoietic stem cell transplantation and CAR T-cell therapy recipients.	J Hematol Oncol
+35385358	Managing hypogammaglobulinemia in patients treated with CAR-T-cell therapy: key points for clinicians.	Expert Rev Hematol
+35064676	Immune response to COVID-19 vaccination is attenuated by poor disease control and antimyeloma therapy with vaccine driven divergent T-cell response.	Br J Haematol
+34986251	Booster BNT162b2 optimizes SARS-CoV-2 humoral response in patients with myeloma: the negative effect of anti-BCMA therapy.	Blood
+34680303	Relapsed/Refractory Multiple Myeloma in 2020/2021 and Beyond.	Cancers (Basel)
+33608053	Anti-BCMA CAR T administration in a relapsed and refractory multiple myeloma patient after COVID-19 infection: a case report.	J Med Case Rep
+33452858	Disease-duration based comparison of subsets of immune cells in SARS CoV-2 infected patients presenting with mild or severe symptoms identifies prognostic markers for severity.	Immun Inflamm Dis

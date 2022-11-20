@@ -1,0 +1,130 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36193232	A mixed methods study of health care professionals' attitudes towards vaccination in 15 countries.	Vaccine X
+36163936	CML-466 Asciminib Provides Durable Molecular Responses in Patients With Chronic Myeloid Leukemia in Chronic Phase (CML-CP) With the T315I Mutation: Updated Efficacy and Safety Data From a Phase I Trial.	Clin Lymphoma Myeloma Leuk
+36163923	CML-384 Immunological Response to SARS-CoV-2 After Infection and/or Vaccination Among Chronic Myeloid Leukemia Patients - A Prospective Study.	Clin Lymphoma Myeloma Leuk
+36138643	Vaccine Coverage in Children Younger Than 1 Year of Age during Periods of High Epidemiological Risk: Are We Preparing for New Outbreaks?	Children (Basel)
+36127637	COVID's collateral damage: likelihood of measles resurgence in the United States.	BMC Infect Dis
+36113259	The differential immune response in mild versus fatal SARS-CoV2 infection.	Ann Diagn Pathol
+36105747	Immune response to SARS-CoV-2 mRNA vaccination and booster dose in patients with multiple myeloma and monoclonal gammopathies: impact of Omicron variant on the humoral response.	Oncoimmunology
+36016175	Cross-Sectional Study of University Students' Attitudes to 'On Campus' Delivery of COVID-19, MenACWY and MMR Vaccines and Future-Proofing Vaccine Roll-Out Strategies.	Vaccines (Basel)
+35973581	Formation of eicosanoids and other oxylipins in human macrophages.	Biochem Pharmacol
+35958081	Measles, mumps and rubella vaccine and heterologous immunity: a way out of the COVID-19 crisis?	Sudan J Paediatr
+35943255	Targeting Doublecortin-Like Kinase 1 (DCLK1)-Regulated SARS-CoV-2 Pathogenesis in COVID-19.	J Virol
+35895717	A highly efficacious live attenuated mumps virus-based SARS-CoV-2 vaccine candidate expressing a six-proline stabilized prefusion spike.	Proc Natl Acad Sci U S A
+35848578	Revisiting the potential role of BCG and MMR vaccines in COVID-19.	Sci Prog
+35835004	Interstitial Pulmonary Fibrosis and Extensive Dendriform Ossification with Persistent Viral Load: A Rare Presentation of Post-COVID-19 Condition in Need of Lung Transplantation.	Pathobiology
+35784698	Qing-Wen-Jie-Re Mixture Ameliorates Poly (I:C)-Induced Viral Pneumonia Through Regulating the Inflammatory Response and Serum Metabolism.	Front Pharmacol
+35714279	Evaluation of vaccination status of health care workers for recommended vaccines and their acceptance of SARS-CoV-2 vaccines.	Hum Vaccin Immunother
+35687208	The Effect of Science-Related Populism on Vaccination Attitudes and Decisions.	J Behav Med
+35685494	Nationwide Routine Childhood Vaccination Coverage During the COVID-19 Pandemic in Jordan: Current Situation, Reasons, and Predictors of Vaccination.	Int J Clin Pract
+35592922	Maternal mortality and its determining factors among hospitalised mothers in Tehran, Iran, 2013-2020.	J Obstet Gynaecol
+35589453	Identifying immunity gaps for measles using Belgian serial serology data.	Vaccine
+35578378	Genomics of postvaccination SARS-CoV-2 infections during the Delta dominated second wave of COVID-19 pandemic, from Mumbai Metropolitan Region (MMR), India.	J Med Virol
+35571995	COVID-19 and transportation of India: influence on infection risk and greenhouse gas emissions.	Environ Dev Sustain
+35570078	Catch-up vaccination campaign in children between 6 and 8 years old during COVID-19 pandemic: The experience in a COVID hub in Milan, Italy.	Vaccine
+35464782	BNT162b2 COVID-19 Vaccine Induced Immune Thrombocytopenic Purpura.	Case Rep Med
+35446828	Vaccination Coverage with Selected Vaccines and Exemption Rates Among Children in Kindergarten - United States, 2020-21 School Year.	MMWR Morb Mortal Wkly Rep
+35409823	Measles Vaccination and Outbreaks in Croatia from 2001 to 2019; A Comparative Study to Other European Countries.	Int J Environ Res Public Health
+35361613	National rates and disparities in childhood vaccination and vaccine-preventable disease during the COVID-19 pandemic: English sentinel network retrospective database study.	Arch Dis Child
+35332841	Mesenchymal Stem Cells-derived Exosomes Ameliorate Lupus by Inducing M2 Macrophage Polarization and Regulatory T Cell Expansion in MRL/lpr Mice.	Immunol Invest
+35284579	Intelligent system based comparative analysis study of SARS-CoV-2 spike protein and antigenic proteins in different types of vaccines.	Beni Suef Univ J Basic Appl Sci
+35252837	COVID-19 susceptibility and vaccination coverage for measles, rubella and mumps in students and healthcare workers in Trieste hospitals (NE Italy).	Vaccine X
+35237047	A Focus on Methodology: A Mixed-Methods Approach to Conduct a Comprehensive Evaluation of the Need for One Health Education for Medical and Veterinary Students in the Context of COVID-19.	Environ Health Insights
+35228973	The Diagnosis of Common Variable Immunodeficiency After Multisystem Dysfunction.	Cureus
+35207418	Dynamic Features of Herd Immunity: Similarities in Age-Specific Anti-Measles Seroprevalence Data between Two Countries of Different Epidemiological History.	J Clin Med
+35192611	Uptake of infant and preschool immunisations in Scotland and England during the COVID-19 pandemic: An observational study of routinely collected data.	PLoS Med
+35164987	Impact of the COVID-19 pandemic on routine immunization coverage in children under 2 years old in Ontario, Canada: A retrospective cohort study.	Vaccine
+35157221	COVID-19 vaccine development based on recombinant viral and bacterial vector systems: combinatorial effect of adaptive and trained immunity.	J Microbiol
+35033386	COVID-19 and Routine Childhood and Adolescent Immunizations: Evidence from Louisiana Medicaid.	Vaccine
+35001594	Education inequalities in overall mortality during the first wave of the COVID-19 pandemic in Italy.	Epidemiol Prev
+34998730	Immunization schedule of the Pediatric Spanish Association: 2022 recommendations.	An Pediatr (Engl Ed)
+34955529	A National Cross-Sectional Study from the Republic of Kosovo on Lot Quality Assurance Sampling (LQAS) to Evaluate the Vaccination Status of Children Between 12 and 24 Months of Age During 2018 to 2020.	Med Sci Monit Basic Res
+34886804	Number of doses of Measles-Mumps-Rubella vaccine applied in Brazil before and during the COVID-19 pandemic.	BMC Infect Dis
+34648486	Vaccination Coverage by Age 24 Months Among Children Born in 2017 and 2018 - National Immunization Survey-Child, United States, 2018-2020.	MMWR Morb Mortal Wkly Rep
+34635874	Immune Thrombocytopenic Purpura following Administration of mRNA-Based SARS-CoV-2 and MMR Vaccinations: A Cautionary Tale.	Case Rep Infect Dis
+34596481	Vaccine Videos and Information Sharing: The Effects of Framing, Evidence Type, and Speaker Expertise.	J Health Commun
+34572425	Cell Properties of Lung Tissue-Resident Macrophages Propagated by Co-Culture with Lung Fibroblastic Cells from C57BL/6 and BALB/c Mice.	Biomedicines
+34522907	Breathing more breadth into COVID-19 T cell responses.	Med (N Y)
+34507240	Vaccine hesitancy among people with multiple sclerosis.	Mult Scler Relat Disord
+34473682	National, Regional, State, and Selected Local Area Vaccination Coverage Among Adolescents Aged 13-17 Years - United States, 2020.	MMWR Morb Mortal Wkly Rep
+34454792	The impact of the COVID-19 epidemic on primary care in South-eastern France: implementation of a real-time monitoring system based on regional health insurance system data.	Rev Epidemiol Sante Publique
+34418963	Deficient DNA mismatch repair and persistence of SARS-CoV-2 RNA shedding: a case report of hereditary nonpolyposis colorectal cancer with COVID-19 infection.	BMC Infect Dis
+34414383	Protective heterologous T cell immunity in COVID-19 induced by the trivalent MMR and Tdap vaccine antigens.	Med (N Y)
+34381692	Immune thrombocytopenia associated with Pfizer-BioNTech's BNT162b2 mRNA COVID-19 vaccine.	IDCases
+34336136	Measles, mumps, and rubella (MMR) vaccine and COVID-19: a systematic review.	Int J Mol Epidemiol Genet
+34313516	Repurposing of the childhood vaccines: could we train the immune system against the SARS-CoV-2.	Expert Rev Vaccines
+34248984	Severe COVID-19 Recovery Is Associated with Timely Acquisition of a Myeloid Cell Immune-Regulatory Phenotype.	Front Immunol
+34187707	Recent MMR vaccination in health care workers and Covid-19: A test negative case-control study.	Vaccine
+34140219	Impact and projections of the COVID-19 epidemic on attendance and routine vaccinations at a pediatric referral hospital in Cameroon.	Arch Pediatr
+34131439	Review of the measles epidemic in children from Central Eastern Europe in the third millennium.	Exp Ther Med
+34123969	Mandatory Infant Vaccinations in France During the COVID-19 Pandemic in 2020.	Front Pediatr
+34112099	Impact of COVID-19 pandemic on time series of maternal mortality ratio in Bahia, Brazil: analysis of period 2011-2020.	BMC Pregnancy Childbirth
+34066697	Pneumococcal and Influenza Vaccination Rates and Pneumococcal Invasive Disease Rates Set Geographical and Ethnic Population Susceptibility to Serious COVID-19 Cases and Deaths.	Vaccines (Basel)
+34033420	Impact of the SARS-CoV-2 pandemic on the administration of vaccines as per the national immunization schedule in children younger than 2 years.	Arch Argent Pediatr
+33994804	Effectiveness of Booster Measles-Mumps-Rubella Vaccination in Lower COVID-19 Infection Rates: A Retrospective Cohort Study in Turkish Adults.	Int J Gen Med
+33921593	MMR Vaccine Attitude and Uptake Research in the United Kingdom: A Critical Review.	Vaccines (Basel)
+33813919	Inadequate Measles, Mumps, Rubella, and Varicella Immunity Among Employees.	J Prim Care Community Health
+33787513	Does prior immunization with measles, mumps, and rubella vaccines contribute to the antibody response to COVID-19 antigens?	Iran J Immunol
+33773923	Vaccines - safety in pregnancy.	Best Pract Res Clin Obstet Gynaecol
+33771096	In silico comparative study of SARS-CoV-2 proteins and antigenic proteins in BCG, OPV, MMR and other vaccines: evidence of a possible putative protective effect.	BMC Bioinformatics
+33752563	Maternal mortality from COVID 19 among South African pregnant women.	J Matern Fetal Neonatal Med
+33725700	Covid-19 Interstitial Pneumonia: Histological and Immunohistochemical Features on Cryobiopsies.	Respiration
+33675061	Pertussis, MMR, and the COVID-19 vaccine: lessons not learned.	Dev Med Child Neurol
+33637783	Exploratory analysis of immunization records highlights decreased SARS-CoV-2 rates in individuals with recent non-COVID-19 vaccinations.	Sci Rep
+33569389	A Revisit to the Research Updates of Drugs, Vaccines, and Bioinformatics Approaches in Combating COVID-19 Pandemic.	Front Mol Biosci
+33531392	Reply to Marakasova and Baranova, "MMR Vaccine and COVID-19: Measles Protein Homology May Contribute to Cross-Reactivity or to Complement Activation Protection".	mBio
+33531391	MMR Vaccine and COVID-19: Measles Protein Homology May Contribute to Cross-Reactivity or to Complement Activation Protection.	mBio
+33476312	Vaccination Coverage with Selected Vaccines and Exemption Rates Among Children in Kindergarten - United States, 2019-20 School Year.	MMWR Morb Mortal Wkly Rep
+33469872	Socioeconomic and Racial Segregation and COVID-19: Concentrated Disadvantage and Black Concentration in Association with COVID-19 Deaths in the USA.	J Racial Ethn Health Disparities
+33414050	Childhood vaccinations: Hidden impact of COVID-19 on children in Singapore.	Vaccine
+33392390	Relationship between MMR vaccination and severity of Covid-19 infection. Survey among primary care physicians.	Med Clin (Engl Ed)
+33317876	[Relationship between MMR vaccination and severity of Covid-19 infection. Survey among primary care physicians].	Med Clin (Barc)
+33247138	Cellular events of acute, resolving or progressive COVID-19 in SARS-CoV-2 infected non-human primates.	Nat Commun
+33219096	Analysis of Measles-Mumps-Rubella (MMR) Titers of Recovered COVID-19 Patients.	mBio
+33198951	MMR Vaccination: A Potential Strategy to Reduce Severity and Mortality of COVID-19 Illness.	Am J Med
+33195415	Systematic Analysis of Coronavirus Disease 2019 (COVID-19) Receptor ACE2 in Malignant Tumors: Pan-Cancer Analysis.	Front Mol Biosci
+33194993	Childhood Immunization and COVID-19: An Early Narrative Review.	Front Public Health
+33175649	COVID-19, seasonal influenza and measles: potential triple burden and the role of flu and MMR vaccines.	J R Soc Med
+33167413	Vaccinomics and Adversomics in the Era of Precision Medicine: A Review Based on HBV, MMR, HPV, and COVID-19 Vaccines.	J Clin Med
+33090985	Vaccination Coverage by Age 24 Months Among Children Born in 2016 and 2017 - National Immunization Survey-Child, United States, 2017-2019.	MMWR Morb Mortal Wkly Rep
+33065268	The role of epidemiology in informing United States childhood immunization policy and practice.	Ann Epidemiol
+33058581	[MMR vaccination at UNIL and EPFL : Lausanne medical students get involved].	Rev Med Suisse
+33040384	Frontline Science: COVID-19 infection induces readily detectable morphologic and inflammation-related phenotypic changes in peripheral blood monocytes.	J Leukoc Biol
+32710535	MMR Vaccine and Covid-19: A Myth or a Low Risk-High Reward Preventive Measure?	Indian Pediatr
+32582766	Does Early Childhood Vaccination Protect Against COVID-19?	Front Mol Biosci
+32561657	Could an Unrelated Live Attenuated Vaccine Serve as a Preventive Measure To Dampen Septic Inflammation Associated with COVID-19 Infection?	mBio
+32501133	Vaccine repurposing approach for preventing COVID 19: can MMR vaccines reduce morbidity and mortality?	Hum Vaccin Immunother
+32374474	Natural antiviral compound silvestrol modulates human monocyte-derived macrophages and dendritic cells.	J Cell Mol Med

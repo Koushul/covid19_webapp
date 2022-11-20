@@ -1,0 +1,98 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36119078	Serum soluble Fas ligand is a severity and mortality prognostic marker for COVID-19 patients.	Front Immunol
+36068809	Mucosal Immunity After Novel COVID-19 Infection - Virus-Induced Immunosuppression: Preliminary Study.	Bionanoscience
+36036410	[Effectiveness of the anxiolytic Anvifen in the treatment of post-COVID brain fog].	Zh Nevrol Psikhiatr Im S S Korsakova
+36030261	Low quantity and quality of anti-spike humoral response is linked to CD4 T-cell apoptosis in COVID-19 patients.	Cell Death Dis
+36011559	Effects of Pre-Existing Mental Conditions on Fatigue and Psychological Symptoms Post-COVID-19.	Int J Environ Res Public Health
+36000333	Foreign accent syndrome and other neuropsychological sequelae of a parieto-occipital lesion following COVID-19 associated posterior reversible encephalopathy syndrome.	Clin Neuropsychol
+35996565	A randomised, double-blind, placebo-controlled, multicentre clinical trial of AZD1656 in diabetic patients hospitalised with COVID-19: The ARCADIA Trial - implications for therapeutic immune modulation.	EClinicalMedicine
+35930238	The Role of Lymphocyte Subsets, PD-1, and FAS (CD95) in COVID-19 Cancer Patients.	Viral Immunol
+35821226	Prevalence of fatigue at one-year follow-up from the Gothenburg recovery and rehabilitation after COVID-19 and intensive care unit study.	Sci Rep
+35774402	Mechanism of COVID-19 Causing ARDS: Exploring the Possibility of Preventing and Treating SARS-CoV-2.	Front Cell Infect Microbiol
+35768148	Acetylcholine, Fatty Acids, and Lipid Mediators Are Linked to COVID-19 Severity.	J Immunol
+35758003	Epigenetic rewiring of pathways related to odour perception in immune cells exposed to SARS-CoV-2 in vivo and in vitro.	Epigenetics
+35693828	Post-COVID-19 Fatigue and SARS-CoV-2 Specific Humoral and T-Cell Responses in Male and Female Outpatients.	Front Immunol
+35690002	A biological rationale for the disparate effects of omega-3 fatty acids on cardiovascular disease outcomes.	Prostaglandins Leukot Essent Fatty Acids
+35599754	Selected Aspects of the Mental Functioning of Women After Childbirth in a Hospital During a Pandemic.	Front Psychiatry
+35566536	Fatigue Is a Major Symptom at COVID-19 Hospitalization Follow-Up.	J Clin Med
+35514962	B Cell Characteristics at Baseline Predict Vaccination Response in RTX Treated Patients.	Front Immunol
+35507291	Plasmablast-like Phenotype Among Antigen-Experienced CXCR5-CD19(low) B Cells in Systemic Lupus Erythematosus.	Arthritis Rheumatol
+35441433	Home monitoring of lung function, symptoms and quality of life after admission with COVID-19 infection: The HOMECOMIN' study.	Respirology
+35434772	Post-COVID-19 fatigue as a major health problem: a cross-sectional study from Missouri, USA.	Ir J Med Sci
+35403090	Effects of theaflavin-gallate in-silico binding with different proteins of SARS-CoV-2 and host inflammation and vasoregulations referring an experimental rat-lung injury.	Phytomed Plus
+35366928	Ludangshen oral liquid for treatment of convalescent COVID-19 patients: a randomized, double-blind, placebo-controlled multicenter trial.	Chin Med
+35309371	Understanding the Effects of Age and T-Cell Differentiation on COVID-19 Severity: Implicating a Fas/FasL-mediated Feed-Forward Controller of T-Cell Differentiation.	Front Immunol
+35248728	Development of IMPAACT (Impairment Measure for Parental Food Allergy-Associated Anxiety and Coping Tool), a validated tool to screen for food allergy-associated parental anxiety.	Ann Allergy Asthma Immunol
+35186107	Efficacy and Safety of Lianhua Qingke Tablets in the Treatment of Mild and Common-Type COVID-19: A Randomized, Controlled, Multicenter Clinical Study.	Evid Based Complement Alternat Med
+35133225	Inpatient rehabilitation can improve functional outcomes of post-intensive care unit COVID-19 patients-a prospective study.	Disabil Rehabil
+35071671	Nursing staff fatigue and burnout during the COVID-19 pandemic in Greece.	AIMS Public Health
+35066575	T cell apoptosis characterizes severe Covid-19 disease.	Cell Death Differ
+35059896	SARS-CoV-2 spike protein inhibits growth of prostate cancer: a potential role of the COVID-19 vaccine killing two birds with one stone.	Med Oncol
+35041126	Take Me to (the Empty) Church? Social Networks, Loneliness and Religious Attendance in Young Polish Adults During the COVID-19 Pandemic.	J Relig Health
+34945761	Early Response of CD8+ T Cells in COVID-19 Patients.	J Pers Med
+34938538	Blunted sFasL signalling exacerbates TNF-driven neutrophil necroptosis in critically ill COVID-19 patients.	Clin Transl Immunology
+34937447	Nigellidine (Nigella sativa, black-cumin seed) docking to SARS CoV-2 nsp3 and host inflammatory proteins may inhibit viral replication/transcription and FAS-TNF death signal via TNFR 1/2 blocking.	Nat Prod Res
+34822379	Blood Fatty Acids Profile in MIS-C Children.	Metabolites
+34749700	Estimating the viral loads of SARS-CoV-2 in the oral cavity when complicated with periapical lesions.	BMC Oral Health
+34696497	Metabolic Modifications by Common Respiratory Viruses and Their Potential as New Antiviral Targets.	Viruses
+34693218	Effective chimeric antigen receptor T cells against SARS-CoV-2.	iScience
+34682113	Influence of Confinement Due to COVID-19 on Physical Activity and Mediterranean Diet Adherence and Its Relationship with Self-Esteem in Pre-Adolescent Students.	Children (Basel)
+34606827	A bioorthogonal chemical reporter for fatty acid synthase-dependent protein acylation.	J Biol Chem
+34452902	Letter to the Editor: Morphoproteomics Confirms the Expression of Fatty Acid Synthase (FAS) in Reactive Alveolar Pneumocytes in a COVID-19 Victim: Biological and Therapeutic Implications.	Ann Clin Lab Sci
+34402426	A proteome-wide genetic investigation identifies several SARS-CoV-2-exploited host targets of clinical relevance.	Elife
+34311660	Initial investigation of test-retest reliability of home-to-home teleneuropsychological assessment in healthy, English-speaking adults.	Clin Neuropsychol
+34254909	COVID-19 candidate genes and pathways potentially share the association with lung cancer.	Comb Chem High Throughput Screen
+34225390	Triangle of cytokine storm, central nervous system involvement, and viral infection in COVID-19: the role of sFasL and neuropilin-1.	Rev Neurosci
+34080299	Unintended consequences: The impact of airway management modifications introduced in response to COVID-19 on intubations in a tertiary centre emergency department.	Emerg Med Australas
+34016583	A comparison of emergency department presentations for medically unexplained symptoms in frequent attenders during COVID-19.	Clin Med (Lond)
+34001847	Rapid isolation and immune profiling of SARS-CoV-2 specific memory B cell in convalescent COVID-19 patients via LIBRA-seq.	Signal Transduct Target Ther
+33894725	Efficacy and safety of Reduning injection in the treatment of COVID-19: a randomized, multicenter clinical study.	Ann Palliat Med
+33880885	Discrimination of COVID-19 From Inflammation-Induced Cytokine Storm Syndromes Using Disease-Related Blood Biomarkers.	Arthritis Rheumatol
+33780352	Differentially expressed immune response genes in COVID-19 patients based on disease severity.	Aging (Albany NY)
+33732720	Interleukin-18 in Inflammatory Kidney Disease.	Front Med (Lausanne)
+33671651	sFasL-The Key to a Riddle: Immune Responses in Aging Lung and Disease.	Int J Mol Sci
+33621190	Improving the Understanding of the Immunopathogenesis of Lymphopenia as a Correlate of SARS-CoV-2 Infection Risk and Disease Progression in African Patients: Protocol for a Cross-sectional Study.	JMIR Res Protoc
+33408715	Akt-Fas to Quell Aberrant T Cell Differentiation and Apoptosis in Covid-19.	Front Immunol
+33119547	Sustained cellular immune dysregulation in individuals recovering from SARS-CoV-2 infection.	J Clin Invest
+32934806	Prediction of repurposed drugs for treating lung injury in COVID-19.	F1000Res
+32815293	COVID-19 and eating disorders during confinement: Analysis of factors associated with resilience and aggravation of symptoms.	Eur Eat Disord Rev
+32783921	Single-Cell Sequencing of Peripheral Mononuclear Cells Reveals Distinct Immune Response Landscapes of COVID-19 and Influenza Patients.	Immunity
+32719902	Effortful speech with distortion of prosody following SARS-CoV-2 infection.	Neurol Sci
+32679621	Increased CD95 (Fas) and PD-1 expression in peripheral blood T lymphocytes in COVID-19 patients.	Br J Haematol
+32650681	COVID-19 pandemic and psychological fatigue in Turkey.	Int J Soc Psychiatry
+32605278	Exploring Sodium Glucose Co-Transporter-2 (SGLT2) Inhibitors for Organ Protection in COVID-19.	J Clin Med
+32514047	Expansion of myeloid-derived suppressor cells in patients with severe coronavirus disease (COVID-19).	Cell Death Differ
+32406606	Positive detection of SARS-CoV-2 combined HSV1 and HHV6B virus nucleic acid in tear and conjunctival secretions of a non-conjunctivitis COVID-19 patient with obstruction of common lacrimal duct.	Acta Ophthalmol

@@ -1,0 +1,329 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36257588	Association between prehospital medication and fatal outcomes in a cohort of hospitalized patients due to coronavirus disease-2019 in a referral hospital in Peru.	Travel Med Infect Dis
+36228638	Prognostic factors associated with mortality among patients receiving venovenous extracorporeal membrane oxygenation for COVID-19: a systematic review and meta-analysis.	Lancet Respir Med
+36227594	Analysis of Severe Illness After Postvaccination COVID-19 Breakthrough Among Adults With and Without HIV in the US.	JAMA Netw Open
+36217157	Occupational characteristics associated with SARS-CoV-2 infection in the UK Biobank during August-November 2020: a cohort study.	BMC Public Health
+36189777	Association of cannabis use during pregnancy with severe acute respiratory syndrome coronavirus 2 infection: a retrospective cohort study.	Addiction
+36181639	Effectiveness of Subcutaneous Casirivimab and Imdevimab in Ambulatory Patients with COVID-19.	Infect Dis Ther
+36180375	Relative effectiveness of COVID-19 vaccination with 3 compared to 2 doses against SARS-CoV-2 B.1.1.529 (Omicron) among an Australian population with low prior rates of SARS-CoV-2 infection.	Vaccine
+36169955	Association of Influenza Vaccination With SARS-CoV-2 Infection and Associated Hospitalization and Mortality Among Patients Aged 66 Years or Older.	JAMA Netw Open
+36169748	COVID-19 Pandemic Had Minimal Impact on Colonoscopy Completion After Colorectal Cancer Red Flag Sign or Symptoms in US Veterans.	Dig Dis Sci
+36160134	A randomized, open-label trial of combined nitazoxanide and atazanavir/ritonavir for mild to moderate COVID-19.	Front Med (Lausanne)
+36134518	Effectiveness of mRNA-1273 vaccine booster against COVID-19 in immunocompetent adults.	Clin Infect Dis
+36117003	Vaccine-induced seroconversion in participants in the North Carolina COVID-19 community Research Partnership.	Vaccine
+36106526	Identification of CKD, bedridden history and cancer as higher-risk comorbidities and their impact on prognosis of hospitalized Omicron patients: a multi-center cohort study.	Emerg Microbes Infect
+36090973	Immunologic phenotype of patients with long-COVID syndrome of 1-year duration.	Front Immunol
+36090606	Survival Patterns and Predictors of Mortality among COVID-19 Patients Admitted to Treatment Centers in Oromia Region, Ethiopia.	Infect Drug Resist
+36060235	Incidence of Death and Its Predictors of COVID-19 in Amhara Region, Ethiopia: A Retrospective Follow Up Study.	Infect Drug Resist
+36058199	Risk of hospitalisation or death in households with a case of COVID-19 in England: an analysis using the HOSTED data set.	Public Health
+36051287	A comparison of three thromboprophylaxis regimens in critically ill COVID-19 patients: An analysis of real-world data.	Front Cardiovasc Med
+36041009	Clinical severity of Omicron SARS-CoV-2 variant relative to Delta in British Columbia, Canada: A retrospective analysis of whole genome sequenced cases.	Clin Infect Dis
+36036178	Time from symptom onset to severe COVID-19 and risk factors among patients in Southern Ethiopia: a survival analysis.	J Int Med Res
+36035409	Impaired tryptophan metabolism in the gastrointestinal tract of patients with critical coronavirus disease 2019.	Front Med (Lausanne)
+36029180	Efficacy of tocilizumab in the treatment of COVID-19: An umbrella review.	Rev Med Virol
+35997587	Comparison between first and second wave of COVID-19 outbreak in older people: the COPE multicentre European observational cohort study.	Eur J Public Health
+35997325	Early treatment of Favipiravir in COVID-19 patients without pneumonia: a multicentre, open-labelled, randomized control study.	Emerg Microbes Infect
+35994282	Clinical Features and Burden of Postacute Sequelae of SARS-CoV-2 Infection in Children and Adolescents.	JAMA Pediatr
+35982837	Point-of-Care Lung Ultrasound Predicts Severe Disease and Death Due to COVID-19: A Prospective Cohort Study.	Crit Care Explor
+35979444	Time to Recovery of Severely Ill COVID-19 Patients and its Predictors: A Retrospective Cohort Study in Tigray, Ethiopia.	J Multidiscip Healthc
+35969913	Natural trajectory of recovery of COVID-19 associated olfactory loss.	Am J Otolaryngol
+35959688	SARS-CoV-2 infection in households with and without young children: Nationwide cohort study, Denmark, 27 February 2020 to 26 February 2021.	Euro Surveill
+35945929	Risk factors for multisystem inflammatory syndrome in children - A population-based cohort study of over 2 million children.	Lancet Reg Health Eur
+35942505	Effectiveness and Safety of Enoxaparin Versus Unfractionated Heparin as Thromboprophylaxis in Hospitalized COVID-19 Patients: Real-World Evidence.	Ann Pharmacother
+35937941	The Neutrophil-to-Lymphocyte Ratio and the Platelet-to-Lymphocyte Ratio as Predictors of Mortality in Older Adults Hospitalized with COVID-19 in Peru.	Dis Markers
+35930202	Risk Factors Associated with Loss to Follow-up Among Transgender Women Receiving HIV Pre-exposure Prophylaxis in Chiang Mai province, Thailand.	AIDS Behav
+35925799	Post-COVID-19 Symptoms and Conditions Among Children and Adolescents - United States, March 1, 2020-January 31, 2022.	MMWR Morb Mortal Wkly Rep
+35925613	Household transmission of SARS-CoV-2 from adult index cases living with and without HIV in South Africa, 2020-2021: a case-ascertained, prospective observational household transmission study.	Clin Infect Dis
+35918776	Early steroids and ventilator-associated pneumonia in COVID-19-related ARDS.	Crit Care
+35895703	Incidence and predictors of death from COVID-19 among patients admitted to treatment center of Wollega University Referral Hospital, Western Ethiopia: A retrospective cohort study.	PLoS One
+35895420	Evaluation of Clinical Course of Gamma (P.1) Variant of Concern versus Lineages in Hospitalized Patients with COVID-19 in a Reference Center in Brazil.	Am J Trop Med Hyg
+35879616	Symptoms and risk factors for long COVID in non-hospitalized adults.	Nat Med
+35865854	Factors associated with death in COVID-19 patients over 60 years of age at Kinshasa University Hospital, Democratic Republic of Congo (DRC).	Pan Afr Med J
+35851010	SARS-CoV-2 vaccination, ABO blood group and risk of COVID-19: population-based cohort study.	BMJ Open
+35812253	Predictors and time to recovery from COVID-19 among patients attended at the treatment centers in Ekiti State, South West, Nigeria.	Pan Afr Med J
+35809821	Electronic cigarette use and risk of COVID-19 among young adults without a history of cigarette smoking.	Prev Med
+35799474	Milder disease trajectory among COVID-19 patients hospitalised with the SARS-CoV-2 Omicron variant compared with the Delta variant in Norway.	Scand J Public Health
+35789881	Characteristics associated with the residual risk of severe COVID-19 after a complete vaccination schedule: A cohort study of 28 million people in France.	Lancet Reg Health Eur
+35778963	Risk of hospitalization and death for COVID-19 in persons with epilepsy over a 20-month period: The EpiLink Bologna cohort, Italy.	Epilepsia
+35776284	Relationship of frailty with excess mortality during the COVID-19 pandemic: a population-level study in Ontario, Canada.	Aging Clin Exp Res
+35765133	The Mycophenolate-based Immunosuppressive Regimen Is Associated With Increased Mortality in Kidney Transplant Patients With COVID-19.	Transplantation
+35756977	Risk of severe clinical outcomes among persons with SARS-CoV-2 infection with differing levels of vaccination during widespread Omicron (B.1.1.529) and Delta (B.1.617.2) variant circulation in Northern California: A retrospective cohort study.	Lancet Reg Health Am
+35749312	Risk of Severe Coronavirus Disease 2019 Disease in Individuals With Down Syndrome: A Matched Cohort Study From a Large, Integrated Health Care System.	J Infect Dis
+35747745	Epidemiology, Healthcare Resource Utilization, and Mortality of Asthma and COPD in COVID-19: A Systematic Literature Review and Meta-Analyses.	J Asthma Allergy
+35747331	Time to Recovery from Covid-19 and Its Predictors Among Patients Admitted to Treatment Centers of Southern Nations Nationalities and Peoples Region (SNNPR), ETHIOPIA: Multi-Center Retrospective Cohort Study.	Infect Drug Resist
+35725387	Clinical features and outcomes of COVID-19 admissions in a population with a high prevalence of HIV and tuberculosis: a multicentre cohort study.	BMC Infect Dis
+35724445	Increased respiratory dead space could associate with coagulation activation and poor outcomes in COVID-19 ARDS.	J Crit Care
+35713906	Effect of Electronic and Mail Outreach From Primary Care Physicians for COVID-19 Vaccination of Black and Latino Older Adults: A Randomized Clinical Trial.	JAMA Netw Open
+35712794	Comparison of infection-induced and vaccine-induced immunity against COVID-19 in patients with cirrhosis.	Hepatology
+35687293	Risk factors associated with bacteremia in COVID-19 patients admitted to intensive care unit: a retrospective multicenter cohort study.	Infection
+35683027	Benzo[a]pyrene-Environmental Occurrence, Human Exposure, and Mechanisms of Toxicity.	Int J Mol Sci
+35675933	Serum neutrophil gelatinase-associated lipocalin concentrations are significantly associated with the severity of COVID-19 in pregnant patients.	Saudi Med J
+35675841	Clinical outcomes associated with SARS-CoV-2 Omicron (B.1.1.529) variant and BA.1/BA.1.1 or BA.2 subvariant infection in Southern California.	Nat Med
+35671054	Analysis of Postvaccination Breakthrough COVID-19 Infections Among Adults With HIV in the United States.	JAMA Netw Open
+35660376	Risk factors for SARS-CoV-2 infection and transmission in households with children with asthma and allergy: A prospective surveillance study.	J Allergy Clin Immunol
+35634568	Survival Time to COVID-19 Severity and Its Predictors in South Gondar Zone, North-West Ethiopia: A Prospective Cohort Study.	J Multidiscip Healthc
+35629310	Chronic Exposure to the Food Additive tBHQ Modulates Expression of Genes Related to SARS-CoV-2 and Influenza Viruses.	Life (Basel)
+35611065	Severe hospital events following symptomatic infection with Sars-CoV-2 Omicron and Delta variants in France, December 2021-January 2022: A retrospective, population-based, matched cohort study.	EClinicalMedicine
+35609920	First and second doses of Covishield vaccine provided high level of protection against SARS-CoV-2 infection in highly transmissible settings: results from a prospective cohort of participants residing in congregate facilities in India.	BMJ Glob Health
+35586007	Risk Factors of Symptomatic COVID-19 in Samtse District, Bhutan.	Front Public Health
+35566664	Prognostic Value of 12-Leads Electrocardiogram at Emergency Department in Hospitalized Patients with Coronavirus Disease-19.	J Clin Med
+35561704	Clinical features of, and risk factors for, severe or fatal COVID-19 among people living with HIV admitted to hospital: analysis of data from the WHO Global Clinical Platform of COVID-19.	Lancet HIV
+35534369	Survival benefit of remdesivir in hospitalized COVID-19 patients with high SARS-CoV-2 viral loads and low-grade systemic inflammation.	J Antimicrob Chemother
+35533178	Survival analysis of COVID-19 patients in Ethiopia: A hospital-based study.	PLoS One
+35531432	Outcomes of SARS-CoV-2 omicron infection in residents of long-term care facilities in England (VIVALDI): a prospective, cohort study.	Lancet Healthy Longev
+35530744	Incidence and predictors of mortality among COVID-19 patients admitted to treatment centers in North West Ethiopia; A retrospective cohort study, 2021.	Int J Afr Nurs Sci
+35505834	Long-term mortality following SARS-CoV-2 infection: A national cohort study from Estonia.	Lancet Reg Health Eur
+35495868	Characteristics and Factors Associated With Mortality in Patients With Coronavirus Disease 2019 and Pneumothorax.	Mayo Clin Proc Innov Qual Outcomes
+35489606	Bacillus Calmette-Guerin vaccine to reduce healthcare worker absenteeism in COVID-19 pandemic, a randomized controlled trial.	Clin Microbiol Infect
+35482785	Durability of mRNA-1273 against COVID-19 in the time of Delta: Interim results from an observational cohort study.	PLoS One
+35476248	Real-Life Effectiveness of Adalimumab Biosimilars in Patients with Chronic Plaque Psoriasis.	Dermatol Ther (Heidelb)
+35456309	The Incidence of Myocarditis and Pericarditis in Post COVID-19 Unvaccinated Patients-A Large Population-Based Study.	J Clin Med
+35455299	Real World Estimate of Vaccination Protection in Individuals Hospitalized for COVID-19.	Vaccines (Basel)
+35440465	Association between oral anticoagulants and COVID-19-related outcomes: a population-based cohort study.	Br J Gen Pract
+35434696	In-hospital mortality and severe outcomes after hospital discharge due to COVID-19: A prospective multicenter study from Brazil.	Lancet Reg Health Am
+35417000	Outcomes of hospitalized COVID-19 patients in Canada: impact of ethnicity, migration status and country of birth.	J Travel Med
+35416949	COVID-19 infection and hospitalisation risk according to vaccination status and DMARD treatment in patients with rheumatoid arthritis.	Rheumatology (Oxford)
+35411997	Outcomes of laboratory-confirmed SARS-CoV-2 infection in the Omicron-driven fourth wave compared with previous waves in the Western Cape Province, South Africa.	Trop Med Int Health
+35404963	Mortality rates among COVID-19 patients hospitalised during the first three waves of the epidemic in Milan, Italy: A prospective observational study.	PLoS One
+35398975	Risk of venous thromboembolism after COVID-19 vaccination.	J Thromb Haemost
+35372447	The Association of New-Onset Acute Kidney Injury and Mortality in Critically Ill Patients With COVID-19 With Less Severe Clinical Conditions at Admission: A Moderation Analysis.	Front Med (Lausanne)
+35368066	Cigarette Smoking and Risk of SARS-CoV-2 infection and Disease Severity Among Adults in an Integrated Health Care System in California.	Nicotine Tob Res
+35366962	Risk of SARS-CoV-2 reinfection and COVID-19 hospitalisation in individuals with natural and hybrid immunity: a retrospective, total population cohort study in Sweden.	Lancet Infect Dis
+35360195	Characteristics and Risk Factors for Mortality by Coronavirus Disease 2019 Pandemic Waves in Fulton County, Georgia: A Cohort Study March 2020-February 2021.	Open Forum Infect Dis
+35329872	Characteristics and Outcomes of COVID-19-Related Hospitalization among PLWH.	J Clin Med
+35323851	Association of SARS-CoV-2 Vaccination During Pregnancy With Pregnancy Outcomes.	JAMA
+35308532	Favipiravir Effectiveness and Safety in Hospitalized Moderate-Severe COVID-19 Patients: Observational Prospective Multicenter Investigation in Saudi Arabia.	Front Med (Lausanne)
+35303201	The association of the Activities of Daily Living and the outcome of old intensive care patients suffering from COVID-19.	Ann Intensive Care
+35290537	Clinical impact of ventilator-associated pneumonia in patients with the acute respiratory distress syndrome: a retrospective cohort study.	Ann Intensive Care
+35277409	Risk factors for SARS-CoV-2 infection and hospitalisation in children and adolescents in Norway: a nationwide population-based study.	BMJ Open
+35261970	Comparison of Moderna versus Pfizer-BioNTech COVID-19 vaccine outcomes: A target trial emulation study in the U.S. Veterans Affairs healthcare system.	EClinicalMedicine
+35252079	Incidence and Predictors of Imported Cases of COVID-19 in Burkina Faso.	Front Public Health
+35235826	Assessing the clinical severity of the Omicron variant in the Western Cape Province, South Africa, using the diagnostic PCR proxy marker of RdRp target delay to distinguish between Omicron and Delta infections - a survival analysis.	Int J Infect Dis
+35219807	Length of hospital stay and risk of intensive care admission and in-hospital death among COVID-19 patients in Norway: a register-based cohort study comparing patients fully vaccinated with an mRNA vaccine to unvaccinated patients.	Clin Microbiol Infect
+35215138	The Association between TNF-alpha, IL-6, and Vitamin D Levels and COVID-19 Severity and Mortality: A Systematic Review and Meta-Analysis.	Pathogens
+35212363	Delayed mortality among solid organ transplant recipients hospitalized for COVID-19.	Clin Infect Dis
+35203299	Hypothesis: Emerging Roles for Aryl Hydrocarbon Receptor in Orchestrating CoV-2-Related Inflammation.	Cells
+35197265	Efficacy of COVID-19 vaccines in patients taking immunosuppressants.	Ann Rheum Dis
+35192597	Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, or thrombocytopenic events: A population-based cohort study of 46 million adults in England.	PLoS Med
+35184201	Hospitalization and Mortality Risk for COVID-19 Cases With SARS-CoV-2 AY.4.2 (VUI-21OCT-01) Compared to Non-AY.4.2 Delta Variant Sublineages.	J Infect Dis
+35179807	Baseline haemoglobin A1c and the risk of COVID-19 hospitalization among patients with diabetes in the INSIGHT Clinical Research Network.	Diabet Med
+35172217	Factors associated with hospital admission and adverse outcome for COVID-19: Role of social factors and medical care.	Infect Dis Now
+35160182	Predictors of Mortality and Cardiovascular Outcome at 6 Months after Hospitalization for COVID-19.	J Clin Med
+35151257	Prognostic value of estimated glomerular filtration rate in hospitalised older patients (over 65) with COVID-19: a multicentre, European, observational cohort study.	BMC Geriatr
+35136581	Does COVID-19 infection change the need for future surgical interventions? An exploratory analysis.	F1000Res
+35134129	Prolonged Shedding of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) at High Viral Loads Among Hospitalized Immunocompromised Persons Living With Human Immunodeficiency Virus (HIV), South Africa.	Clin Infect Dis
+35131169	Virus related acute pancreatitis and virus superinfection in the 'Dual disease' model of acute pancreatitis and SARS-Co-V2 infection: A multicentre prospective study.	Pancreatology
+35127082	Predictors of adverse outcome in the first and second waves of the COVID-19 pandemic: results from a UK centre.	Ther Adv Infect Dis
+35125781	Does Raised Transaminases Predict Severity and Mortality in Patients with COVID 19?	J Clin Exp Hepatol
+35123572	Impact of respirator versus surgical masks on SARS-CoV-2 acquisition in healthcare workers: a prospective multicentre cohort.	Antimicrob Resist Infect Control
+35113166	Assessment of Seasonality and Extremely Preterm Birth in Denmark.	JAMA Netw Open
+35100984	Bacterial co-infections in community-acquired pneumonia caused by SARS-CoV-2, influenza virus and respiratory syncytial virus.	BMC Infect Dis
+35077449	Overall and cause-specific hospitalisation and death after COVID-19 hospitalisation in England: A cohort study using linked primary care, secondary care, and death registration data in the OpenSAFELY platform.	PLoS Med
+35059419	The Association of an Alpha-2 Adrenergic Receptor Agonist and Mortality in Patients With COVID-19.	Front Med (Lausanne)
+35045808	Mortality among Italians and immigrants with COVID-19 hospitalised in Milan, Italy: data from the Luigi Sacco Hospital registry.	BMC Infect Dis
+35023206	Postvaccination COVID-19 infection is associated with reduced mortality in patients with cirrhosis.	Hepatology
+34997979	Impact of lockdown during COVID-19 pandemic on physical activity and arrhythmia burden in heart failure patients.	Pacing Clin Electrophysiol
+34990445	Receipt of COVID-19 Vaccine During Pregnancy and Preterm or Small-for-Gestational-Age at Birth - Eight Integrated Health Care Organizations, United States, December 15, 2020-July 22, 2021.	MMWR Morb Mortal Wkly Rep
+34983411	SARS-CoV2 infection in symptomatic patients: interest of serological tests and predictors of mortality: experience of DR Congo.	BMC Infect Dis
+34980623	First and second waves among hospitalised patients with COVID-19 with severe pneumonia: a comparison of 28-day mortality over the 1-year pandemic in a tertiary university hospital in Italy.	BMJ Open
+34975885	Differential Co-Expression Network Analysis Reveals Key Hub-High Traffic Genes as Potential Therapeutic Targets for COVID-19 Pandemic.	Front Immunol
+34962997	Recombinant Adjuvanted Zoster Vaccine and Reduced Risk of Coronavirus Disease 2019 Diagnosis and Hospitalization in Older Adults.	J Infect Dis
+34958090	SARS-CoV-2 Infection During Pregnancy and Associated Perinatal Health Outcomes: A National US Cohort Study.	J Infect Dis
+34957334	Infection patterns of endemic human coronaviruses in rural households in coastal Kenya.	Wellcome Open Res
+34952960	Characteristics and prognosis of bloodstream infection in patients with COVID-19 admitted in the ICU: an ancillary study of the COVID-ICU study.	Ann Intensive Care
+34952903	The outcomes of patients with diabetes mellitus in The Philippine CORONA Study.	Sci Rep
+34930174	Predictors of mortality in COVID-19 patients at Kinshasa Medical Center and a survival analysis: a retrospective cohort study.	BMC Infect Dis
+34927120	Differences in SARS-CoV-2 infections during the first and second wave of SARS-CoV-2 between six ethnic groups in Amsterdam, the Netherlands: A population-based longitudinal serological study.	Lancet Reg Health Eur
+34910128	Real-World Effectiveness of Remdesivir in Adults Hospitalized With Coronavirus Disease 2019 (COVID-19): A Retrospective, Multicenter Comparative Effectiveness Study.	Clin Infect Dis
+34906189	Clinical features and predictors of mortality among hospitalized patients with COVID-19 in Niger.	Confl Health
+34862487	Clinical risk factors for mortality in an analysis of 1375 patients admitted for COVID treatment.	Sci Rep
+34851970	Factors associated with early receipt of COVID-19 vaccination and adherence to second dose in the Veterans Affairs healthcare system.	PLoS One
+34849505	Real-world effectiveness of the mRNA-1273 vaccine against COVID-19: Interim results from a prospective observational cohort study.	Lancet Reg Health Am
+34820393	Impact of the Addition of Baricitinib to Standard of Care Including Tocilizumab and Corticosteroids on Mortality and Safety in Severe COVID-19.	Front Med (Lausanne)
+34814851	Risk of severe COVID-19 and mortality in patients with established chronic liver disease: a nationwide matched cohort study.	BMC Gastroenterol
+34791108	Reinfection With Severe Acute Respiratory Syndrome Coronavirus 2 Among Previously Infected Healthcare Personnel and First Responders.	Clin Infect Dis
+34783824	Association of SARS-CoV-2 Infection With Psychological Distress, Psychotropic Prescribing, Fatigue, and Sleep Problems Among UK Primary Care Patients.	JAMA Netw Open
+34766166	ProLung-budesonide Inhibits SARS-CoV-2 Replication and Reduces Lung Inflammation.	Arch Pharmacol Ther
+34757259	Post COVID-19 hospitalizations in patients with chronic inflammatory diseases - A nationwide cohort study.	J Autoimmun
+34752481	Characteristics and outcome profile of hospitalized African patients with COVID-19: The Ethiopian context.	PLoS One
+34750495	D-dimer, disease severity, and deaths (3D-study) in patients with COVID-19: a systematic review and meta-analysis of 100 studies.	Sci Rep
+34711641	Risk factors of mortality among patients hospitalised with COVID-19 in a critical care or hospital care unit: analysis of the French national medicoadministrative database.	BMJ Open Respir Res
+34704488	Early Determinants of Length of Hospital Stay: A Case Control Survival Analysis among COVID-19 Patients admitted in a Tertiary Healthcare Facility of East India.	J Prim Care Community Health
+34703168	Duration of Supplemental Oxygen Requirement and Predictors in Severe COVID-19 Patients in Ethiopia: A Survival Analysis.	Ethiop J Health Sci
+34699552	Early administration of remdesivir to COVID-19 patients associates with higher recovery rate and lower need for ICU admission: A retrospective cohort study.	PLoS One
+34670590	Redressing the interactions between stem cells and immune system in tissue regeneration.	Biol Direct
+34655476	Cancer and the risk of coronavirus disease 2019 diagnosis, hospitalisation and death: A population-based multistate cohort study including 4 618 377 adults in Catalonia, Spain.	Int J Cancer
+34643047	Impact of varying wave periods of COVID-19 on in-hospital mortality and length of stay for admission through emergency department: A territory-wide observational cohort study.	Influenza Other Respir Viruses
+34638235	Clinical Characteristics, Care Trajectories and Mortality Rate of SARS-CoV-2 Infected Cancer Patients: A Multicenter Cohort Study.	Cancers (Basel)
+34633768	Development of a Novel Pharmacophore Model Guided by the Ensemble of Waters and Small Molecule Fragments Bound to SARS-CoV-2 Main Protease.	Mol Inform
+34611018	Combined anticoagulant and antiplatelet therapy is associated with an improved outcome in hospitalised patients with COVID-19: a propensity matched cohort study.	Open Heart
+34598701	People living with HIV easily lose their immune response to SARS-CoV-2: result from a cohort of COVID-19 cases in Wuhan, China.	BMC Infect Dis
+34576836	Factors Associated with Prolonged Hospital Length of Stay in Adults with Imported Falciparum Malaria-An Observational Study from a Tertiary Care University Hospital in Berlin, Germany.	Microorganisms
+34570395	Hypersensitivity may be involved in severe COVID-19.	Clin Exp Allergy
+34556112	The risk of COVID-19 in survivors of domestic violence and abuse.	BMC Med
+34555242	Clinical outcomes of patients with and without HIV hospitalized with COVID-19 in England during the early stages of the pandemic: a matched retrospective multi-centre analysis (RECEDE-C19 study).	HIV Med
+34528706	Association between right ventricular dysfunction and mortality in COVID-19 patients: A systematic review and meta-analysis.	Clin Cardiol
+34524566	Efficacy of Statin Therapy in Patients with Hospital Admission for COVID-19.	Cardiovasc Drugs Ther
+34487522	Severity of Severe Acute Respiratory System Coronavirus 2 (SARS-CoV-2) Alpha Variant (B.1.1.7) in England.	Clin Infect Dis
+34473245	Evolution of Coronavirus Disease 2019 (COVID-19) Symptoms During the First 12 Months After Illness Onset.	Clin Infect Dis
+34470828	Kidney Outcomes in Long COVID.	J Am Soc Nephrol
+34464352	Convalescent plasma associates with reduced mortality and improved clinical trajectory in patients hospitalized with COVID-19.	J Clin Invest
+34454093	Risk factors and outcome of pulmonary aspergillosis in critically ill coronavirus disease 2019 patients-a multinational observational study by the European Confederation of Medical Mycology.	Clin Microbiol Infect
+34448930	COVID-19 outcomes of 10,881 patients: retrospective study of neurological symptoms and associated manifestations (Philippine CORONA Study).	J Neural Transm (Vienna)
+34446714	AHR signaling is induced by infection with coronaviruses.	Nat Commun
+34446489	A clinical risk score to predict in-hospital mortality in critically ill patients with COVID-19: a retrospective cohort study.	BMJ Open
+34446435	Risk of COVID-19 in shielded and nursing care home patients: a cohort study in general practice.	BJGP Open
+34441811	High-Flow Nasal Cannula Oxygenation in Older Patients with SARS-CoV-2-Related Acute Respiratory Failure.	J Clin Med
+34439009	Antibiotic Use and Fatal Outcomes among Critically Ill Patients with COVID-19 in Tacna, Peru.	Antibiotics (Basel)
+34432371	Population-based assessment of risks for severe COVID-19 disease outcomes.	Influenza Other Respir Viruses
+34404832	Inhibiting SARS-CoV-2 infection in vitro by suppressing its receptor, angiotensin-converting enzyme 2, via aryl-hydrocarbon receptor signal.	Sci Rep
+34399090	SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, south India: a prospective, active surveillance study.	Lancet Infect Dis
+34394108	Identification of COVID-19 and Dengue Host Factor Interaction Networks Based on Integrative Bioinformatics Analyses.	Front Immunol
+34375760	Statins reduce mortality in patients with COVID-19: an updated meta-analysis of 147 824 patients.	Int J Infect Dis
+34362806	Characteristics and outcomes of hospitalised adults with COVID-19 in a Global Health Research Network: a cohort study.	BMJ Open
+34308411	Chronic diseases, health conditions and risk of COVID-19-related hospitalization and in-hospital mortality during the first wave of the epidemic in France: a cohort study of 66 million people.	Lancet Reg Health Eur
+34307971	Acute Kidney Injury Incidence, Recovery, and Long-term Kidney Outcomes Among Hospitalized Patients With COVID-19 and Influenza.	Kidney Int Rep
+34299289	Cigarette Smoke Stimulates SARS-CoV-2 Internalization by Activating AhR and Increasing ACE2 Expression in Human Gingival Epithelial Cells.	Int J Mol Sci
+34291377	COVID-19 in the California State Prison System: an Observational Study of Decarceration, Ongoing Risks, and Risk Factors.	J Gen Intern Med
+34266396	High risk groups for severe COVID-19 in a whole of population cohort in Australia.	BMC Infect Dis
+34258315	Visceral Adiposity and Severe COVID-19 Disease: Application of an Artificial Intelligence Algorithm to Improve Clinical Risk Prediction.	Open Forum Infect Dis
+34242847	Delirium and Associated Factors in a Cohort of Hospitalized Patients With Coronavirus Disease 2019.	J Acad Consult Liaison Psychiatry
+34226206	Clinical phenotypes and outcomes of SARS-CoV-2, influenza, RSV and seven other respiratory viruses: a retrospective study using complete hospital data.	Thorax
+34217220	Pre-existing cardiovascular disease rather than cardiovascular risk factors drives mortality in COVID-19.	BMC Cardiovasc Disord
+34189493	Whole of population-based cohort study of recovery time from COVID-19 in New South Wales Australia.	Lancet Reg Health West Pac
+34183983	In-Hospital 30-Day Survival Among Young Adults With Coronavirus Disease 2019: A Cohort Study.	Open Forum Infect Dis
+34115129	Trends in Venous Thromboembolism Anticoagulation in Patients Hospitalized With COVID-19.	JAMA Netw Open
+34112505	Characteristics and outcomes of patients with COVID-19 supported by extracorporeal membrane oxygenation: A retrospective multicenter study.	J Thorac Cardiovasc Surg
+34111191	Combination of (interferon beta-1b, lopinavir/ritonavir and ribavirin) versus favipiravir in hospitalized patients with non-critical COVID-19: A cohort study.	PLoS One
+34111146	Time to recovery from COVID-19 and its predictors among patients admitted to treatment center of Wollega University Referral Hospital (WURH), Western Ethiopia: Survival analysis of retrospective cohort study.	PLoS One
+34110040	Risk of severe COVID-19 in patients treated with IBD medications: a French nationwide study.	Aliment Pharmacol Ther
+34104901	Incidence of SARS-CoV-2 infection according to baseline antibody status in staff and residents of 100 long-term care facilities (VIVALDI): a prospective cohort study.	Lancet Healthy Longev
+34097145	Protective ventilation and outcomes of critically ill patients with COVID-19: a cohort study.	Ann Intensive Care
+34095338	Delayed Rise of Oral Fluid Antibodies, Elevated BMI, and Absence of Early Fever Correlate With Longer Time to SARS-CoV-2 RNA Clearance in a Longitudinally Sampled Cohort of COVID-19 Outpatients.	Open Forum Infect Dis
+34070339	Comparison of Acute Kidney Injury in Patients with COVID-19 and Other Respiratory Infections: A Prospective Cohort Study.	J Clin Med
+34061283	Prior use of anticoagulation is associated with a better survival in COVID-19.	J Thromb Thrombolysis
+34059708	Prophylactic heparin and risk of orotracheal intubation or death in patients with mild or moderate COVID-19 pneumonia.	Sci Rep
+33999142	Multiple house occupancy is associated with mortality in hospitalized patients with COVID-19.	Eur J Public Health
+33961298	Current and Past Infections of HBV Do Not Increase Mortality in Patients With COVID-19.	Hepatology
+33961213	A Retrospective Study of COVID-19-Related Urgent Medical Visits and Hospitalizations After Outpatient COVID-19 Diagnosis in the US.	Adv Ther
+33911423	Effect of COVID-19 Outbreak on Hair Transplant Field of India.	J Cutan Aesthet Surg
+33872570	Discovery of a AHR pelargonidin agonist that counter-regulates Ace2 expression and attenuates ACE2-SARS-CoV-2 interaction.	Biochem Pharmacol
+33829974	C-Phycocyanin-derived Phycocyanobilin as a Potential Nutraceutical Approach for Major Neurodegenerative Disorders and COVID-19- induced Damage to the Nervous System.	Curr Neuropharmacol
+33795851	ACE2 expression is regulated by AhR in SARS-CoV-2-infected macaques.	Cell Mol Immunol
+33787905	Risk Factors Associated With SARS-CoV-2 Infections, Hospitalization, and Mortality Among US Nursing Home Residents.	JAMA Netw Open
+33780535	Prognostic Implication of Baseline Sarcopenia for Length of Hospital Stay and Survival in Patients With Coronavirus Disease 2019.	J Gerontol A Biol Sci Med Sci
+33778647	Imaging Utilization and Outcomes in Vulnerable Populations during COVID-19 in New York City.	Radiol Cardiothorac Imaging
+33737319	Sharing a household with children and risk of COVID-19: a study of over 300 000 adults living in healthcare worker households in Scotland.	Arch Dis Child
+33725290	Toxic Metabolic Encephalopathy in Hospitalized Patients with COVID-19.	Neurocrit Care
+33704918	Inflammatory bowel disease and risk of severe COVID-19: A nationwide population-based cohort study in Sweden.	United European Gastroenterol J
+33693636	Prevention of Coronavirus Disease 2019 Among Older Adults Receiving Pneumococcal Conjugate Vaccine Suggests Interactions Between Streptococcus pneumoniae and Severe Acute Respiratory Syndrome Coronavirus 2 in the Respiratory Tract.	J Infect Dis
+33680426	Routine use of immunosuppressants is associated with mortality in hospitalised patients with COVID-19.	Ther Adv Drug Saf
+33673760	COVID-19 in the New York City Jail System: Epidemiology and Health Care Response, March-April 2020.	Public Health Rep
+33649773	Persistent SARS-CoV-2 RNA Shedding Without Evidence of Infectiousness: A Cohort Study of Individuals With COVID-19.	J Infect Dis
+33647240	Low risk of the TMPRSS2 inhibitor camostat mesylate and its metabolite GBPA to act as perpetrators of drug-drug interactions.	Chem Biol Interact
+33641159	Systematic Review and Patient-Level Meta-Analysis of SARS-CoV-2 Viral Dynamics to Model Response to Antiviral Therapies.	Clin Pharmacol Ther
+33635829	Increased COVID-19 infections in women with polycystic ovary syndrome: a population-based study.	Eur J Endocrinol
+33626098	Association of SARS-CoV-2 viral load at admission with in-hospital acute kidney injury: A retrospective cohort study.	PLoS One
+33624380	Neurological manifestations in patients hospitalized with COVID-19: A retrospective analysis from a large cohort in Northern Italy.	Eur J Neurosci
+33621421	Mortality among solid organ waitlist candidates during COVID-19 in the United States.	Am J Transplant
+33606842	Validation of two severity scores as predictors for outcome in Coronavirus Disease 2019 (COVID-19).	PLoS One
+33604400	Matched Cohort Study of Convalescent COVID-19 Plasma Treatment in Severely or Life Threateningly Ill COVID-19 Patients.	Open Forum Infect Dis
+33585529	Effect of Convalescent Plasma in Critically Ill Patients With COVID-19: An Observational Study.	Front Med (Lausanne)
+33562472	Tryptophan Metabolites and Aryl Hydrocarbon Receptor in Severe Acute Respiratory Syndrome, Coronavirus-2 (SARS-CoV-2) Pathophysiology.	Int J Mol Sci
+33558835	Neutrophil:lymphocyte ratio predicts short-term outcome of COVID-19 in haemodialysis patients.	Clin Kidney J
+33537364	Tocilizumab for the Treatment of COVID-19 Among Hospitalized Patients: A Matched Retrospective Cohort Analysis.	Open Forum Infect Dis
+33521647	Dysphagia in Patients With Severe Coronavirus Disease 2019-Potential Neurologic Etiologies.	Crit Care Explor
+33515771	Efficacy of ribavirin and interferon-alpha therapy for hospitalized patients with COVID-19: A multicenter, retrospective cohort study.	Int J Infect Dis
+33511555	Degradation of SARS-CoV-2 receptor ACE2 by the E3 ubiquitin ligase Skp2 in lung epithelial cells.	Front Med
+33507954	The high volume of patients admitted during the SARS-CoV-2 pandemic has an independent harmful impact on in-hospital mortality from COVID-19.	PLoS One
+33425138	Predictors of mortality in COVID-19 patients at Kinshasa University Hospital, Democratic Republic of the Congo, from March to June 2020.	Pan Afr Med J
+33412808	Environmental pollution and COVID-19: the molecular terms and predominant disease outcomes of their sweetheart agreement.	Epidemiol Prev
+33370397	Simple predictive models identify patients with COVID-19 pneumonia and poor prognosis.	PLoS One
+33340043	Chronic kidney disease is a key risk factor for severe COVID-19: a call to action by the ERA-EDTA.	Nephrol Dial Transplant
+33339330	Higher Mortality and Intensive Care Unit Admissions in COVID-19 Patients with Liver Enzyme Elevations.	Microorganisms
+33336934	BMI and Outcomes of SARS-CoV-2 Among US Veterans.	Obesity (Silver Spring)
+33325070	Outcomes for patients with COVID-19 admitted to Australian intensive care units during the first four months of the pandemic.	Med J Aust
+33262451	SARS-CoV-2-induced lung pathology: AHR as a candidate therapeutic target.	Cell Res
+33258156	Direct oral anticoagulant use and risk of severe COVID-19.	J Intern Med
+33256749	LMWF5A suppresses cytokine release by modulating select inflammatory transcription factor activity in stimulated PBMC.	J Transl Med
+33236261	The Impact of Immunosuppression and Autoimmune Disease on Severe Outcomes in Patients Hospitalized with COVID-19.	J Clin Immunol
+33229434	Coronary artery disease in patients hospitalised with Coronavirus disease 2019 (COVID-19) infection.	Open Heart
+33219546	Cirrhosis and Severe Acute Respiratory Syndrome Coronavirus 2 Infection in US Veterans: Risk of Infection, Hospitalization, Ventilation, and Mortality.	Hepatology
+33200828	Tocilizumab in hospitalized patients with COVID-19: Clinical outcomes, inflammatory marker kinetics, and safety.	J Med Virol
+33159154	Mucus production stimulated by IFN-AhR signaling triggers hypoxia of COVID-19.	Cell Res
+33139151	Dysosmia and dysgeusia in patients with COVID-19 in northern Taiwan.	J Formos Med Assoc
+33132153	The effect of environmental pollution on immune evasion checkpoints of SARS-CoV-2.	Environ Toxicol Pharmacol
+33117850	Remdesivir Use Compared With Supportive Care in Hospitalized Patients With Severe COVID-19: A Single-Center Experience.	Open Forum Infect Dis
+33097559	Type 2 Diabetes and COVID-19-Related Mortality in the Critical Care Setting: A National Cohort Study in England, March-July 2020.	Diabetes Care
+33095853	Outcomes of Coronavirus Disease 2019 (COVID-19) Related Hospitalization Among People With Human Immunodeficiency Virus (HIV) in the ISARIC World Health Organization (WHO) Clinical Characterization Protocol (UK): A Prospective Observational Study.	Clin Infect Dis
+33093404	Early Changes in Kidney Transplant Immunosuppression Regimens During the COVID-19 Pandemic.	Transplantation
+33083516	The influence of ACE inhibitors and ARBs on hospital length of stay and survival in people with COVID-19.	Int J Cardiol Heart Vasc
+33072814	Prolonged Low-Dose Methylprednisolone in Patients With Severe COVID-19 Pneumonia.	Open Forum Infect Dis
+33069705	Assessing the consequences of environmental exposures on the expression of the human receptor and proteases involved in SARS-CoV-2 cell-entry.	Environ Res
+33063092	Immunotherapy of COVID-19 with poly (ADP-ribose) polymerase inhibitors: starting with nicotinamide.	Biosci Rep
+33058220	Impact on disease mortality of clinical, biological, and virological characteristics at hospital admission and overtime in COVID-19 patients.	J Med Virol
+33048372	Hydroxychloroquine and maintenance immunosuppression use in kidney transplant recipients: Analysis of linked US registry and claims data.	Clin Transplant
+33046155	Risk factors for severe disease in patients admitted with COVID-19 to a hospital in London, England: a retrospective cohort study.	Epidemiol Infect
+33043285	The utility of high-flow nasal oxygen for severe COVID-19 pneumonia in a resource-constrained setting: A multi-centre prospective observational study.	EClinicalMedicine
+33038227	Convalescent Plasma for Patients With Severe Coronavirus Disease 2019 (COVID-19): A Matched Cohort Study.	Clin Infect Dis
+33023989	Impact of Comorbidities and Glycemia at Admission and Dipeptidyl Peptidase 4 Inhibitors in Patients With Type 2 Diabetes With COVID-19: A Case Series From an Academic Hospital in Lombardy, Italy.	Diabetes Care
+33009770	Clinical Characteristics and Outcomes of Patients Hospitalized for COVID-19 in Africa: Early Insights from the Democratic Republic of the Congo.	Am J Trop Med Hyg
+33007514	Disease Course and Outcomes of COVID-19 Among Hospitalized Patients With Gastrointestinal Manifestations.	Clin Gastroenterol Hepatol
+32992777	Interaction of Hydroxychloroquine with Pharmacokinetically Important Drug Transporters.	Pharmaceutics
+32965502	Risk Factors for Hospitalization, Mechanical Ventilation, or Death Among 10131 US Veterans With SARS-CoV-2 Infection.	JAMA Netw Open
+32958718	A Prospective, Randomized, Open-Label Trial of Early versus Late Favipiravir Therapy in Hospitalized Patients with COVID-19.	Antimicrob Agents Chemother
+32957545	Nutritional Therapy to Modulate Tryptophan Metabolism and Aryl Hydrocarbon-Receptor Signaling Activation in Human Diseases.	Nutrients
+32902028	Clinical characteristics and outcomes of immunosuppressed patients hospitalized with COVID-19: experience from London.	J Intern Med
+32867244	Aryl Hydrocarbon Receptor Role in Co-Ordinating SARS-CoV-2 Entry and Symptomatology: Linking Cytotoxicity Changes in COVID-19 and Cancers; Modulation by Racial Discrimination Stress.	Biology (Basel)
+32860872	Anticoagulation, Bleeding, Mortality, and Pathology in Hospitalized Patients With COVID-19.	J Am Coll Cardiol
+32860699	Risk Factors for Coronavirus Disease 2019 (COVID-19) Death in a Population Cohort Study from the Western Cape Province, South Africa.	Clin Infect Dis
+32853673	Low-dose hydroxychloroquine therapy and mortality in hospitalised patients with COVID-19: a nationwide observational study of 8075 participants.	Int J Antimicrob Agents
+32838355	Outcomes of Hydroxychloroquine Usage in United States Veterans Hospitalized with COVID-19.	Med (N Y)
+32785086	Prior Routine Use of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) and Important Outcomes in Hospitalised Patients with COVID-19.	J Clin Med
+32763357	Hydroxychloroquine use in hospitalised patients with COVID-19: An observational matched cohort study.	J Glob Antimicrob Resist
+32748812	Evidence-Based Considerations Exploring Relations between SARS-CoV-2 Pandemic and Air Pollution: Involvement of PM2.5-Mediated Up-Regulation of the Viral Receptor ACE-2.	Int J Environ Res Public Health
+32721528	Early administration of interleukin-6 inhibitors for patients with severe COVID-19 disease is associated with decreased intubation, reduced mortality, and increased discharge.	Int J Infect Dis
+32702463	Nosocomial COVID-19 infection: examining the risk of mortality. The COPE-Nosocomial Study (COVID in Older PEople).	J Hosp Infect
+32688447	Risk factors associated with occurrence of COVID-19 among household persons exposed to patients with confirmed COVID-19 in Qingdao Municipal, China.	Transbound Emerg Dis
+32672840	Association between detectable SARS-COV-2 RNA in anal swabs and disease severity in patients with coronavirus disease 2019.	J Med Virol
+32634602	Corticosteroid therapy for patients with COVID-19 pneumonia: a before-after study.	Int J Antimicrob Agents
+32597823	AhR and IDO1 in pathogenesis of Covid-19 and the "Systemic AhR Activation Syndrome:" a translational review and therapeutic perspectives.	Restor Neurol Neurosci
+32536150	Lopinavir-ritonavir versus hydroxychloroquine for viral clearance and clinical improvement in patients with mild to moderate coronavirus disease 2019.	Korean J Intern Med
+32446978	30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: A prospective cohort study.	Pharmacol Res
+32446795	Association of diabetes mellitus with disease severity and prognosis in COVID-19: A retrospective cohort study.	Diabetes Res Clin Pract
+32442528	Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study.	Lancet
+32340095	[Clinical outcomes of COVID-19 cases and influencing factors in Guangdong province].	Zhonghua Liu Xing Bing Xue Za Zhi
+32291094	Incidence of thrombotic complications in critically ill ICU patients with COVID-19.	Thromb Res

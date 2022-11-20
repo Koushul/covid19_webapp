@@ -1,0 +1,54 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36225911	Comparative analysis of the neutralizing activity against SARS-CoV-2 Wuhan-Hu-1 strain and variants of concern: Performance evaluation of a pseudovirus-based neutralization assay.	Front Immunol
+36164151	MM-183 CARTITUDE-2 Cohort A: Updated Clinical Data and Biological Correlative Analyses of Ciltacabtagene Autoleucel (cilta-cel) in Lenalidomide-Refractory Patients With Progressive Multiple Myeloma (MM) After 1-3 Prior Lines of Therapy (LOT).	Clin Lymphoma Myeloma Leuk
+35885629	Clinical and Serological Findings of COVID-19 Participants in the Region of Makkah, Saudi Arabia.	Diagnostics (Basel)
+35130298	Robust validation and performance comparison of immunogenicity assays assessing IgG and neutralizing antibodies to SARS-CoV-2.	PLoS One
+34896578	An automated chemiluminescent immunoassay (CLIA) detects SARS-CoV-2 neutralizing antibody levels in COVID-19 patients and vaccinees.	Int J Infect Dis
+34893357	Impact of COVID-19 in nutritional and functional status of survivors admitted in intensive care units during the first outbreak. Preliminary results of the NUTRICOVID study.	Clin Nutr
+34787485	A Highly Sensitive and Specific SARS-CoV-2 Spike- and Nucleoprotein-Based Fluorescent Multiplex Immunoassay (FMIA) to Measure IgG, IgA, and IgM Class Antibodies.	Microbiol Spectr
+34782169	Nutritional management and clinical outcome of critically ill patients with COVID-19: A retrospective study in a tertiary hospital.	Clin Nutr
+34492749	Predicting the protective humoral response to a SARS-CoV-2 mRNA vaccine.	Clin Chem Lab Med
+34452373	Chemiluminescence Immunoassay Based Serological Immunoassays for Detection of SARS-CoV-2 Neutralizing Antibodies in COVID-19 Convalescent Patients and Vaccinated Population.	Viruses
+33987197	The Use of Telemedicine and Other Strategies by Registered Dietitians for the Medical Nutrition Therapy of Patients With Inherited Metabolic Disorders During the COVID-19 Pandemic.	Front Nutr
+33920222	SARS-CoV-2 Serum Neutralization Assay: A Traditional Tool for a Brand-New Virus.	Viruses
+33680466	Robust correlations across six SARS-CoV-2 serology assays detecting distinct antibody features.	Clin Transl Immunology
+33498157	A 10-Minute "Mix and Read" Antibody Assay for SARS-CoV-2.	Viruses
+33191649	Seroprevalence of SARS-CoV-2 infection among pet animals in Croatia and potential public health impact.	Transbound Emerg Dis
+33050727	Clouds and Silver Linings: COVID-19 Pandemic Is an Opportune Moment to Democratize Diabetes Care Through Telehealth.	J Diabetes Sci Technol
+32929316	Diagnosis and principles of management of gestational diabetes mellitus in the prevailing COVID-19 pandemic.	Int J Diabetes Dev Ctries
+32859866	Neutralizing antibody responses to SARS-CoV-2 in COVID-19 patients.	Indian J Med Res
+32611915	Development of indigenous IgG ELISA for the detection of anti-SARS-CoV-2 IgG.	Indian J Med Res
+32563180	Performance of six SARS-CoV-2 immunoassays in comparison with microneutralisation.	J Clin Virol

@@ -1,0 +1,50 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36217141	Central and effector memory T cells in peripheral blood of patients with interstitial pneumonia: preliminary clues from a COVID-19 study.	Respir Res
+36210925	Haploidentical CD3+ TCR alphabeta/CD19+ depleted HSCT for MHC Class II deficiency and persistent SARS-CoV-2 pneumonitis.	J Allergy Clin Immunol Glob
+36172379	Durable antibody and effector memory T cell responses in breastmilk from women with SARS-CoV-2.	Front Immunol
+35859440	Peripheral lymphocyte subset alteration in patients with COVID-19 having differential clinical manifestations.	Indian J Med Res
+35740993	Lung Spatial Profiling Reveals a T Cell Signature in COPD Patients with Fatal SARS-CoV-2 Infection.	Cells
+35508575	In-vitro NET-osis induced by COVID-19 sera is associated to severe clinical course in not vaccinated patients and immune-dysregulation in breakthrough infection.	Sci Rep
+35392095	Activated CD8(+)CD38(+) Cells Are Associated With Worse Clinical Outcome in Hospitalized COVID-19 Patients.	Front Immunol
+35337053	TREC/KREC Levels and T and B Lymphocyte Subpopulations in COVID-19 Patients at Different Stages of the Disease.	Viruses
+34925330	The Humoral Immune Response to BNT162b2 Vaccine Is Associated With Circulating CD19+ B Lymphocytes and the Naive CD45RA to Memory CD45RO CD4+ T Helper Cells Ratio in Hemodialysis Patients and Kidney Transplant Recipients.	Front Immunol
+34824035	Inactivated SARS-CoV-2 vaccines elicit immunogenicity and T-cell responses in people living with HIV.	Int Immunopharmacol
+34777333	The Dynamic Immunological Parameter Landscape in Coronavirus Disease 2019 Patients With Different Outcomes.	Front Immunol
+33419040	Usefulness of the New Hematological Parameter: Reactive Lymphocytes RE-LYMP with Flow Cytometry Markers of Inflammation in COVID-19.	Cells
+33160092	Predictive Nomogram for Severe COVID-19 and Identification of Mortality-Related Immune Features.	J Allergy Clin Immunol Pract
+32983106	Analysis of Co-inhibitory Receptor Expression in COVID-19 Infection Compared to Acute Plasmodium falciparum Malaria: LAG-3 and TIM-3 Correlate With T Cell Activation and Course of Disease.	Front Immunol
+32543740	Dysregulation of the immune response affects the outcome of critical COVID-19 patients.	J Med Virol
+32324595	The laboratory tests and host immunity of COVID-19 patients with different severity of illness.	JCI Insight

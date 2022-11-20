@@ -1,0 +1,87 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36217108	Elevated vascular transformation blood biomarkers in Long-COVID indicate angiogenesis as a key pathophysiological mechanism.	Mol Med
+36143072	Lung Ultrasound Findings and Endothelial Perturbation in a COVID-19 Low-Intensity Care Unit.	J Clin Med
+36142345	SARS-CoV-2 Spike Proteins and Cell-Cell Communication Inhibits TFPI and Induces Thrombogenic Factors in Human Lung Microvascular Endothelial Cells and Neutrophils: Implications for COVID-19 Coagulopathy Pathogenesis.	Int J Mol Sci
+36046203	Circulating Thrombomodulin: Release Mechanisms, Measurements, and Levels in Diseases and Medical Procedures.	TH Open
+35977099	Lymphatic coagulation and neutrophil extracellular traps in lung-draining lymph nodes of COVID-19 decedents.	Blood Adv
+35740360	Angiopoietin-2 Inhibition of Thrombomodulin-Mediated Anticoagulation-A Novel Mechanism That May Contribute to Hypercoagulation in Critically Ill COVID-19 Patients.	Biomedicines
+35509442	Heparan sulfate mimetic fucoidan restores the endothelial glycocalyx and protects against dysfunction induced by serum of COVID-19 patients in the intensive care unit.	ERJ Open Res
+35451557	Automated measurement of coagulation and fibrinolytic activation markers: Outcomes in coronavirus disease 2019 (COVID-19) patients.	Int J Lab Hematol
+35372407	Relationship Between Endothelial and Angiogenesis Biomarkers Envisage Mortality in a Prospective Cohort of COVID-19 Patients Requiring Respiratory Support.	Front Med (Lausanne)
+35342082	Endothelial glycocalyx damage in patients with severe COVID-19 on mechanical ventilation - A prospective observational pilot study.	Clin Hemorheol Microcirc
+35320941	SARS-CoV-2 Spike Protein 1 Activates Microvascular Endothelial Cells and Complement System Leading to Platelet Aggregation.	Front Immunol
+35291496	SARS-CoV-2 infecting endothelial cells, biochemical alterations, autopsy findings and outcomes in COVID-19, suggest role of hypoxia-inducible factor-1.	J Med Biochem
+35253140	Assessing Clinically Meaningful Hypercoagulability after COVID-19 Vaccination: A Longitudinal Study.	Thromb Haemost
+35183892	The effect of prostacyclin infusion on markers of endothelial activation and damage in mechanically ventilated patients with SARS-CoV-2 infection.	J Crit Care
+35064759	Genetic prediction of ICU hospitalization and mortality in COVID-19 patients using artificial neural networks.	J Cell Mol Med
+35033854	Endothelial thrombomodulin downregulation caused by hypoxia contributes to severe infiltration and coagulopathy in COVID-19 patient lungs.	EBioMedicine
+34984340	Immunothrombosis Biomarkers for Distinguishing Coronavirus Disease 2019 Patients From Noncoronavirus Disease Septic Patients With Pneumonia and for Predicting ICU Mortality.	Crit Care Explor
+34887867	Inflammation and Platelet Activation After COVID-19 Vaccines - Possible Mechanisms Behind Vaccine-Induced Immune Thrombocytopenia and Thrombosis.	Front Immunol
+34861818	Syndecan-1, an indicator of endothelial glycocalyx degradation, predicts outcome of patients admitted to an ICU with COVID-19.	Mol Med
+34829436	Urinary SARS-CoV-2 RNA Is an Indicator for the Progression and Prognosis of COVID-19.	Diagnostics (Basel)
+34829418	Diagnostic Approaches for COVID-19 and Its Associated Complications.	Diagnostics (Basel)
+34822163	Endothelial cell biomarkers in critically ill COVID-19 patients with encephalitis.	J Neurochem
+34813414	Prostacyclin in Intubated Patients with COVID-19 and Severe Endotheliopathy: A Multicenter, Randomized Clinical Trial.	Am J Respir Crit Care Med
+34702152	The Role of Endothelial Related Circulating Biomarkers in COVID-19. A Systematic Review and Meta-analysis.	Curr Med Chem
+34688775	Upregulation of type 1 conventional dendritic cells implicates antigen cross-presentation in multisystem inflammatory syndrome.	J Allergy Clin Immunol
+34572407	Endothelial Cell Activation by SARS-CoV-2 Spike S1 Protein: A Crosstalk between Endothelium and Innate Immune Cells.	Biomedicines
+34491250	Thromboinflammation Supports Complement Activation in Cancer Patients With COVID-19.	Front Immunol
+34484458	SARS-CoV-2 Structural Proteins Exposure Alter Thrombotic and Inflammatory Responses in Human Endothelial Cells.	Cell Mol Bioeng
+34446527	Increased complement activation is a distinctive feature of severe SARS-CoV-2 infection.	Sci Immunol
+34415085	Association of COVID-19 with impaired endothelial glycocalyx, vascular function and myocardial deformation 4 months after infection.	Eur J Heart Fail
+34377969	Upregulation of pulmonary tissue factor, loss of thrombomodulin and immunothrombosis in SARS-CoV-2 infection.	EClinicalMedicine
+34375505	Persistent endotheliopathy in the pathogenesis of long COVID syndrome.	J Thromb Haemost
+34375388	Temporal changes in soluble angiotensin-converting enzyme 2 associated with metabolic health, body composition, and proteome dynamics during a weight loss diet intervention: a randomized trial with implications for the COVID-19 pandemic.	Am J Clin Nutr
+34273359	Biomarkers of endothelial dysfunction and outcomes in coronavirus disease 2019 (COVID-19) patients: A systematic review and meta-analysis.	Microvasc Res
+34248931	EASIX for Prediction of Outcome in Hospitalized SARS-CoV-2 Infected Patients.	Front Immunol
+34235394	Endothelium Activation Markers in Severe Hospitalized COVID-19 Patients: Role in Mortality Risk Prediction.	TH Open
+34234921	Predicted structural mimicry of spike receptor-binding motifs from highly pathogenic human coronaviruses.	Comput Struct Biotechnol J
+34172614	Distinctive Biomarker Features in the Endotheliopathy of COVID-19 and Septic Syndromes.	Shock
+34022205	Endothelial cell dysfunction, coagulation, and angiogenesis in coronavirus disease 2019 (COVID-19).	Microvasc Res
+33845193	Genetic justification of severe COVID-19 using a rigorous algorithm.	Clin Immunol
+33833254	Prognostic value of thrombin generation parameters in hospitalized COVID-19 patients.	Sci Rep
+33826233	Biomarkers of coagulation, endothelial function, and fibrinolysis in critically ill patients with COVID-19: A single-center prospective longitudinal study.	J Thromb Haemost
+33709675	Therapeutic strategies in patients with coagulopathy and disseminated intravascular coagulation: awareness of the phase-dependent characteristics.	Minerva Med
+33685461	Endotheliopathy in septic conditions: mechanistic insight into intravascular coagulation.	Crit Care
+33683204	SARS-CoV-2 suppresses anticoagulant and fibrinolytic gene expression in the lung.	Elife
+33544518	Thrombin generation in patients with COVID-19 with and without thromboprophylaxis.	Clin Chem Lab Med
+33196292	COVID-19 and Sepsis Are Associated With Different Abnormalities in Plasma Procoagulant and Fibrinolytic Activity.	Arterioscler Thromb Vasc Biol
+33139116	Complement activation and endothelial perturbation parallel COVID-19 severity and activity.	J Autoimmun
+33134226	Why Do Some Reports Claim that the Number of COVID-19 Hospitalized Smokers is Smaller than Expected?	J Biomed Phys Eng
+33119703	The values of coagulation function in COVID-19 patients.	PLoS One
+32847626	The effect of prostacyclin (Iloprost) infusion at a dose of 1 ng/kg/min for 72 hours compared to placebo in mechanically ventilated patients with COVID-19: A structured summary of a study protocol for a randomized controlled trial.	Trials
+32619411	Endotheliopathy in COVID-19-associated coagulopathy: evidence from a single-centre, cross-sectional study.	Lancet Haematol
+32560665	"War to the knife" against thromboinflammation to protect endothelial function of COVID-19 patients.	Crit Care

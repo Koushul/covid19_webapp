@@ -1,0 +1,153 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36252569	BNT162b2-induced neutralizing and non-neutralizing antibody functions against SARS-CoV-2 diminish with age.	Cell Rep
+36233174	Dynamic Evaluation of Natural Killer Cells Subpopulations in COVID-19 Patients.	Int J Mol Sci
+36192361	Immunophenotyping Characteristics of COVID-19 Patients: Peripheral Blood CD8+ HLA-DR+ T Cells as a Biomarker for Mortality Outcome.	J Med Virol
+36112183	Assessment of Association Between the Potential Immunomodulatory Activity and Drinking Olive Leaf Tea in the Coronavirus Disease-2019 Pandemic: An Observational Study.	J Integr Complement Med
+36099205	Diagnostic Value of Natural Killer Cells, CD56+ CD16+ Natural Killer Cells, NLRP3, and Lactate Dehydrogenase in Severe/Critical COVID-19: A Prospective Longitudinal Study According to the Severe/Critical COVID-19 Definitions.	Viral Immunol
+36077708	Targeting CD38 in Neoplasms and Non-Cancer Diseases.	Cancers (Basel)
+36072604	Innate immune responses to three doses of the BNT162b2 mRNA SARS-CoV-2 vaccine.	Front Immunol
+36010361	The Low Expression of Fc-Gamma Receptor III (CD16) and High Expression of Fc-Gamma Receptor I (CD64) on Neutrophil Granulocytes Mark Severe COVID-19 Pneumonia.	Diagnostics (Basel)
+35993347	Decreased neutrophil-mediated bacterial killing in COVID-19 patients.	Scand J Immunol
+35979368	Single-cell RNA sequencing to decipher the immunogenicity of ChAdOx1 nCoV-19/AZD1222 and mRNA-1273 vaccines in patients with autoimmune rheumatic diseases.	Front Immunol
+35930526	Immunological evaluation of patients with 2019 novel coronavirus pneumonia: CD4+ and CD16+ cells may predict severity and prognosis.	PLoS One
+35915730	CSF1R defines the mononuclear phagocyte system lineage in human blood in health and COVID-19.	Immunother Adv
+35898494	Immune Cells Profiles In The Peripheral Blood Of Patients With Moderate To Severe COVID-19 And Healthy Subjects With and Without Vaccination With The Pfizer-BioNTech mRNA Vaccine.	Front Immunol
+35896335	Cutting Edge: Hyperinflammatory Monocytes Expressing CD56 Abound in Severe COVID-19 Patients.	J Immunol
+35860236	In Vitro Exposure of Primary Human T Cells and Monocytes to Polyclonal Stimuli Reveals a Basal Susceptibility to Display an Impaired Cellular Immune Response and Develop Severe COVID-19.	Front Immunol
+35784359	Specific Antibody and the T-Cell Response Elicited by BNT162b2 Boosting After Two ChAdOx1 nCoV-19 in Common Variable Immunodeficiency.	Front Immunol
+35781671	Heterogeneity in IgG-CD16 signaling in infectious disease outcomes.	Immunol Rev
+35746708	SARS-CoV-2 Accessory Protein ORF8 Decreases Antibody-Dependent Cellular Cytotoxicity.	Viruses
+35711435	Differential Functional Responses of Neutrophil Subsets in Severe COVID-19 Patients.	Front Immunol
+35619076	Predicting progression to severe COVID-19 using the PAINT score.	BMC Infect Dis
+35585988	pcMSC Modulates Immune Dysregulation in Patients With COVID-19-Induced Refractory Acute Lung Injury.	Front Immunol
+35545084	Distinct immune cell dynamics correlate with the immunogenicity and reactogenicity of SARS-CoV-2 mRNA vaccine.	Cell Rep Med
+35508575	In-vitro NET-osis induced by COVID-19 sera is associated to severe clinical course in not vaccinated patients and immune-dysregulation in breakthrough infection.	Sci Rep
+35491910	Alterations of blood monocyte subset distribution and surface phenotype are linked to infection severity in COVID-19 inpatients.	Eur J Immunol
+35483404	Inflammasome activation in infected macrophages drives COVID-19 pathology.	Nature
+35420680	Platelet-monocyte interaction amplifies thromboinflammation through tissue factor signaling in COVID-19.	Blood Adv
+35405594	Viral load is associated with mitochondrial dysfunction and altered monocyte phenotype in acute severe SARS-CoV-2 infection.	Int Immunopharmacol
+35349874	DAMPs/PAMPs induce monocytic TLR activation and tolerance in COVID-19 patients; nucleic acid binding scavengers can counteract such TLR agonists.	Biomaterials
+35228707	Multiscale PHATE identifies multimodal signatures of COVID-19.	Nat Biotechnol
+35221679	Functional Roles and Targets of COVID-19 in Blood Cells Determined Using Bioinformatics Analyses.	Bioinform Biol Insights
+35203591	SARS-CoV-2 Dysregulates Neutrophil Degranulation and Reduces Lymphocyte Counts.	Biomedicines
+35172892	Integrating single-cell sequencing data with GWAS summary statistics reveals CD16+monocytes and memory CD8+T cells involved in severe COVID-19.	Genome Med
+35169146	Cell specific peripheral immune responses predict survival in critical COVID-19 patients.	Nat Commun
+35133597	Nitrogen dioxide pollution increases vulnerability to COVID-19 through altered immune function.	Environ Sci Pollut Res Int
+35111162	B- and T-Cell Responses After SARS-CoV-2 Vaccination in Patients With Multiple Sclerosis Receiving Disease Modifying Therapies: Immunological Patterns and Clinical Implications.	Front Immunol
+35095880	Persistent Oxidative Stress and Inflammasome Activation in CD14(high)CD16(-) Monocytes From COVID-19 Patients.	Front Immunol
+35082777	Persistence of SARS CoV-2 S1 Protein in CD16+ Monocytes in Post-Acute Sequelae of COVID-19 (PASC) up to 15 Months Post-Infection.	Front Immunol
+35076123	Subcutaneous immunoglobulins in chronic lymphocytic leukemia with secondary antibody deficiency. A monocentric experience during Covid-19 pandemics.	Hematol Oncol
+35062250	Expansion of CD56(dim)CD16(neg) NK Cell Subset and Increased Inhibitory KIRs in Hospitalized COVID-19 Patients.	Viruses
+35032429	Complement activation induces excessive T cell cytotoxicity in severe COVID-19.	Cell
+34980810	[Contribution to development of remedies for COVID-19: focusing on Eritoran].	Nihon Yakurigaku Zasshi
+34914824	TIM3+ TRBV11-2 T cells and IFNgamma signature in patrolling monocytes and CD16+ NK cells delineate MIS-C.	J Exp Med
+34872098	Efficacy of the BNT162b2 mRNA COVID-19 Vaccine in Patients with Chronic Lymphocytic Leukemia: A Serologic and Cellular Study.	Chemotherapy
+34868726	Successful Anti-SARS-CoV-2 Spike Protein Antibody Response to Vaccination in MAGT1 Deficiency.	Allergy Rhinol (Providence)
+34846101	Peripheral innate and adaptive immune cells during COVID-19: Functional neutrophils, pro-inflammatory monocytes, and half-dead lymphocytes.	Cytometry B Clin Cytom
+34831404	NK and T Cell Immunological Signatures in Hospitalized Patients with COVID-19.	Cells
+34777333	The Dynamic Immunological Parameter Landscape in Coronavirus Disease 2019 Patients With Different Outcomes.	Front Immunol
+34712741	COVID-19 and Cancer: Discovery of Difference in Clinical Immune Indexes.	J Immunol Res
+34681595	Successful Treatment of Persistent SARS-CoV-2 Infection in a B-Cell Depleted Patient with Activated Cytotoxic T and NK Cells: A Case Report.	Int J Mol Sci
+34625989	Correlation of myeloid-derived suppressor cells with C-reactive protein, ferritin and lactate dehydrogenase levels in patients with severe COVID-19.	Scand J Immunol
+34578386	Acute HIV-1 and SARS-CoV-2 Infections Share Slan+ Monocyte Depletion-Evidence from an Hyperacute HIV-1 Case Report.	Viruses
+34543980	Increased LPS levels coexist with systemic inflammation and result in monocyte activation in severe COVID-19 patients.	Int Immunopharmacol
+34531370	Single-cell immune profiling reveals distinct immune response in asymptomatic COVID-19 patients.	Signal Transduct Target Ther
+34478921	Meta-analysis of single-cell RNA-seq data reveals phenotypic switching of immune cells in severe COVID-19 patients.	Comput Biol Med
+34478612	An association between immune status and chest CT scores in COVID-19 patients.	Int J Clin Pract
+34415473	Immunological parameters associated with the severity of COVID-19 pneumonia in kidney transplant recipients.	Int Urol Nephrol
+34394090	CD169 Defines Activated CD14(+) Monocytes With Enhanced CD8(+) T Cell Activation Capacity.	Front Immunol
+34339730	Abnormality in the NK-cell population is prolonged in severe COVID-19 patients.	J Allergy Clin Immunol
+34284214	Restoring NK cells functionality via cytokine activation enhances cetuximab-mediated NK-cell ADCC: A promising therapeutic tool for HCC patients.	Mol Immunol
+34266981	A yeast expressed RBD-based SARS-CoV-2 vaccine formulated with 3M-052-alum adjuvant promotes protective efficacy in non-human primates.	Sci Immunol
+34262570	Immune-Based Prediction of COVID-19 Severity and Chronicity Decoded Using Machine Learning.	Front Immunol
+34260780	A systematic meta-analysis of immune signatures in patients with COVID-19.	Rev Med Virol
+34252919	Systems vaccinology of the BNT162b2 mRNA vaccine in humans.	Nature
+34248984	Severe COVID-19 Recovery Is Associated with Timely Acquisition of a Myeloid Cell Immune-Regulatory Phenotype.	Front Immunol
+34248955	Kinetics of Neutrophil Subsets in Acute, Subacute, and Chronic Inflammation.	Front Immunol
+34216735	Immunological predictors of disease severity in patients with COVID-19.	Int J Infect Dis
+34180719	The Systematic Effect of Mesenchymal Stem Cell Therapy in Critical COVID-19 Patients: A Prospective Double Controlled Trial.	Cell Transplant
+34150910	Analysis of Lymphocyte Subpopulations and Cytokines in COVID-19-Associated Pneumonia and Community-Acquired Pneumonia.	J Immunol Res
+34108966	Transcriptional Changes in CD16+ Monocytes May Contribute to the Pathogenesis of COVID-19.	Front Immunol
+34108657	Single-cell epigenomic landscape of peripheral immune cells reveals establishment of trained immunity in individuals convalescing from COVID-19.	Nat Cell Biol
+34071149	Immunosuppression as a Hallmark of Critical COVID-19: Prospective Study.	Cells
+34062964	The Systemic Immune Response in COVID-19 Is Associated with a Shift to Formyl-Peptide Unresponsive Eosinophils.	Cells
+34032853	Association of Circulating Sex Hormones With Inflammation and Disease Severity in Patients With COVID-19.	JAMA Netw Open
+33986193	A specific low-density neutrophil population correlates with hypercoagulation and disease severity in hospitalized COVID-19 patients.	JCI Insight
+33977279	Comparative immune profiling of acute respiratory distress syndrome patients with or without SARS-CoV-2 infection.	Cell Rep Med
+33936072	Single-Cell RNA Sequencing Analysis of the Immunometabolic Rewiring and Immunopathogenesis of Coronavirus Disease 2019.	Front Immunol
+33879890	Single-cell multi-omics analysis of the immune response in COVID-19.	Nat Med
+33867696	Antiviral activity of fermented foods and their probiotics bacteria towards respiratory and alimentary tracts viruses.	Food Control
+33774551	The development and kinetics of functional antibody-dependent cell-mediated cytotoxicity (ADCC) to SARS-CoV-2 spike protein.	Virology
+33713619	Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19.	Cell
+33688079	Identification of human immune cell subtypes most responsive to IL-1beta-induced inflammatory signaling using mass cytometry.	Sci Signal
+33650305	Relationship between lymphocyte subsets values and C-reactive protein in COVID-19 patients.	Cytometry A
+33643285	VISTA: A Target to Manage the Innate Cytokine Storm.	Front Immunol
+33617030	Flow cytometric evaluation of the neutrophil compartment in COVID-19 at hospital presentation: A normal response to an abnormal situation.	J Leukoc Biol
+33606928	A low level of CD16(pos) monocytes in SARS-CoV-2 infected patients is a marker of severity.	Clin Chem Lab Med
+33531264	Dynamic changes in monocytes subsets in COVID-19 patients.	Hum Immunol
+33524886	Characterizing the immune responses of those who survived or succumbed to COVID-19: Can immunological signatures predict outcome?	Cytokine
+33521697	A distinct innate immune signature marks progression from mild to severe COVID-19.	Cell Rep Med
+33498051	Dynamic Changes of Lymphocyte Subsets in the Course of COVID-19.	Int Arch Allergy Immunol
+33482019	An increase in CD62L(dim) neutrophils precedes the development of pulmonary embolisms in COVID-19 patients.	Scand J Immunol
+33378057	Aerobic exercises recommendations and specifications for patients with COVID-19: a systematic review.	Eur Rev Med Pharmacol Sci
+33375675	Peripheral Blood Immune Profiling of Convalescent Plasma Donors Reveals Alterations in Specific Immune Subpopulations Even at 2 Months Post SARS-CoV-2 Infection.	Viruses
+33288414	Hyperglycemia associated with lymphopenia and disease severity of COVID-19 in type 2 diabetes mellitus.	J Diabetes Complications
+33251605	Deregulated cellular circuits driving immunoglobulins and complement consumption associate with the severity of COVID-19 patients.	Eur J Immunol
+33247138	Cellular events of acute, resolving or progressive COVID-19 in SARS-CoV-2 infected non-human primates.	Nat Commun
+33238863	Storm at the Time of Corona: A Glimpse at the Current Understanding and Therapeutic Opportunities of the SARS-CoV-2 Cytokine Storm.	Curr Pharm Des
+33204385	Lymphocyte subsets in haematological patients with COVID-19: Multicentre prospective study.	Transl Oncol
+33187018	Lymphocyte subsets early predict mortality in a large series of hospitalized COVID-19 patients in Spain.	Clin Exp Immunol
+33178207	A Longitudinal Study of Immune Cells in Severe COVID-19 Patients.	Front Immunol
+33177214	Daily Viral Kinetics and Innate and Adaptive Immune Response Assessment in COVID-19: a Case Series.	mSphere
+33154753	Elevated Exhaustion Levels of NK and CD8(+) T Cells as Indicators for Progression and Prognosis of COVID-19 Disease.	Front Immunol
+33098813	Immunity and coagulation and fibrinolytic processes may reduce the risk of severe illness in pregnant women with coronavirus disease 2019.	Am J Obstet Gynecol
+33076729	Immune system changes during COVID-19 recovery play key role in determining disease severity.	Int J Immunopathol Pharmacol
+33061829	Distinguishable Immunologic Characteristics of COVID-19 Patients with Comorbid Type 2 Diabetes Compared with Nondiabetic Individuals.	Mediators Inflamm
+33040384	Frontline Science: COVID-19 infection induces readily detectable morphologic and inflammation-related phenotypic changes in peripheral blood monocytes.	J Leukoc Biol
+33015591	PPARgamma Cistrome Repression during Activation of Lung Monocyte-Macrophages in Severe COVID-19.	iScience
+32941618	A Granulocytic Signature Identifies COVID-19 and Its Severity.	J Infect Dis
+32816392	Monocytopenia, monocyte morphological anomalies and hyperinflammation characterise severe COVID-19 in type 2 diabetes.	EMBO Mol Med
+32810439	Elevated Calprotectin and Abnormal Myeloid Cell Subsets Discriminate Severe from Mild COVID-19.	Cell
+32746940	Abnormal immunity of non-survivors with COVID-19: predictors for mortality.	Infect Dis Poverty
+32669467	Clinical Characteristics and Immune Injury Mechanisms in 71 Patients with COVID-19.	mSphere
+32663051	An immunotherapeutic method for COVID-19 patients: a soluble ACE2-Anti-CD16 VHH to block SARS-CoV-2 Spike protein.	Hum Vaccin Immunother
+32634585	Dynamic changes in peripheral blood lymphocyte subsets in adult patients with COVID-19.	Int J Infect Dis
+32574284	Clinical Characteristics of 5 COVID-19 Cases With Non-respiratory Symptoms as the First Manifestation in Children.	Front Pediatr
+32504360	SARS-CoV-2 infection in infants under 1 year of age in Wuhan City, China.	World J Pediatr
+32437740	The immunologic status of newborns born to SARS-CoV-2-infected mothers in Wuhan, China.	J Allergy Clin Immunol
+32405080	Decreased T cell populations contribute to the increased severity of COVID-19.	Clin Chim Acta
+32344320	The clinical course and its correlated immune status in COVID-19 pneumonia.	J Clin Virol
+32193831	Clinical features of severe pediatric patients with coronavirus disease 2019 in Wuhan: a single center's observational study.	World J Pediatr

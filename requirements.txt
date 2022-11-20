@@ -1,0 +1,8 @@
+extra_streamlit_components==0.1.56
+pyvis
+seaborn
+streamlit-aggrid
+stringdb==0.1.5
+lxml
+requests
+beautifulsoup4

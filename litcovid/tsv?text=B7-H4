@@ -1,0 +1,80 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36251581	The effects of social interactions on momentary stress and mood during COVID-19 lockdowns.	Br J Health Psychol
+36210962	EffViT-COVID: A dual-path network for COVID-19 percentage estimation.	Expert Syst Appl
+36121927	The immunological role of B7-H4 in pregnant women with Sars-Cov2 infection.	Am J Reprod Immunol
+36033751	Research on older people's health information search behavior based on risk perception in social networks-A case study in China during COVID-19.	Front Public Health
+35966467	Online group psychodynamic psychotherapy-The effectiveness and role of attachment-The results of a short study.	Front Psychiatry
+35953544	A disturbed balance between blood complement protective factors (FH, ApoE) and common pathway effectors (C5a, TCC) in acute COVID-19 and during convalesce.	Sci Rep
+35903104	SARS-Arena: Sequence and Structure-Guided Selection of Conserved Peptides from SARS-related Coronaviruses for Novel Vaccine Development.	Front Immunol
+35812515	Fitness Apps, Live Streaming Workout Classes, and Virtual Reality Fitness for Physical Activity During the COVID-19 Lockdown: An Empirical Study.	Front Public Health
+35690632	Antibody-nanobody combination increases their neutralizing activity against SARS-CoV-2 and nanobody H11-H4 is effective against Alpha, Kappa and Delta variants.	Sci Rep
+35611169	Identification of vaccine targets & design of vaccine against SARS-CoV-2 coronavirus using computational and deep learning-based approaches.	PeerJ
+35587364	SARS-CoV-2 host-shutoff impacts innate NK cell functions, but antibody-dependent NK activity is strongly activated through non-spike antibodies.	Elife
+35533364	SARS-CoV-2 Delta Variant Decreases Nanobody Binding and ACE2 Blocking Effectivity.	J Chem Inf Model
+35357947	Teleconsultation Services in Pediatric Primary Care in Austria: Upgrading Clinical Decision Support in Primary Health Care Settings.	Telemed J E Health
+35321232	Demographic Characteristics and Digital Platforms for Physical Activity Among the Chinese Residents During the COVID-19 Pandemic: A Mediating Analysis.	J Multidiscip Healthc
+35305996	Implications for health system resilience: Quantifying the impact of the COVID-19-related stay at home orders on cancer screenings and diagnoses in southeastern North Carolina, USA.	Prev Med
+35273357	Histones released by NETosis enhance the infectivity of SARS-CoV-2 by bridging the spike protein subunit 2 and sialic acid on host cells.	Cell Mol Immunol
+35271224	[Correlation between ultrasonography and thorax portable radiography in patients with COVID-19].	Rev Med Inst Mex Seguro Soc
+35228696	An engineered bispecific human monoclonal antibody against SARS-CoV-2.	Nat Immunol
+35194576	Impact of new variants on SARS-CoV-2 infectivity and neutralization: A molecular assessment of the alterations in the spike-host protein interactions.	iScience
+35082540	Virtual Reality Fitness (VRF) for Behavior Management During the COVID-19 Pandemic: A Mediation Analysis Approach.	Psychol Res Behav Manag
+35079241	Exploring Structural Mechanism of COVID-19 Treatment with Glutathione as a Potential Peptide Inhibitor to the Main Protease: Molecular Dynamics Simulation and MM/PBSA Free Energy Calculations Study.	Int J Pept Res Ther
+34802985	HDL proteome remodeling associates with COVID-19 severity.	J Clin Lipidol
+34702738	Increased in vitro neutralizing activity of SARS-CoV-2 IgA1 dimers compared to monomers and IgG.	Proc Natl Acad Sci U S A
+34637888	The mutational landscape of SARS-CoV-2 variants diversifies T cell targets in an HLA-supertype-dependent manner.	Cell Syst
+34608231	Longitudinal urinary biomarkers of immunological activation in covid-19 patients without clinically apparent kidney disease versus acute and chronic failure.	Sci Rep
+34601741	I Think, Therefore I Act: The Influence of Critical Reasoning Ability on Trust and Behavior During the COVID-19 Pandemic.	Risk Anal
+34599091	Highly active engineered IgG3 antibodies against SARS-CoV-2.	Proc Natl Acad Sci U S A
+34581563	Binding Mechanism of Neutralizing Nanobodies Targeting SARS-CoV-2 Spike Glycoprotein.	J Chem Inf Model
+34451505	Monitoring the Circulation of SARS-CoV-2 Variants by Genomic Analysis of Wastewater in Marseille, South-East France.	Pathogens
+34379620	Plant-produced SARS-CoV-2 receptor binding domain (RBD) variants showed differential binding efficiency with anti-spike specific monoclonal antibodies.	PLoS One
+34264868	Endothelium-protective, histone-neutralizing properties of the polyanionic agent defibrotide.	JCI Insight
+33951417	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope display high naive precursor frequency and TCR promiscuity.	Immunity
+33945786	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope cross-react with selective seasonal coronaviruses.	Immunity
+33910079	PEGylated nanoparticle albumin-bound steroidal ginsenoside derivatives ameliorate SARS-CoV-2-mediated hyper-inflammatory responses.	Biomaterials
+33794145	Modular basis for potent SARS-CoV-2 neutralization by a prevalent VH1-2-derived antibody class.	Cell Rep
+33635872	Histone H4 potentiates neutrophil inflammatory responses to influenza A virus: Down-modulation by H4 binding to C-reactive protein and Surfactant protein D.	PLoS One
+33573681	Impact of intravenous lidocaine on clinical outcomes of patients with ARDS during COVID-19 pandemia (LidoCovid): A structured summary of a study protocol for a randomised controlled trial.	Trials
+33519638	The Psychological Impacts of COVID-19 Home Confinement and Physical Activity: A Structural Equation Model Analysis.	Front Psychol
+33329653	Monoclonal Antibodies B38 and H4 Produced in Nicotiana benthamiana Neutralize SARS-CoV-2 in vitro.	Front Plant Sci
+33234837	Findings and Prognostic Value of Lung Ultrasonography in Coronal Virus Disease 2019 (COVID-19) Pneumonia.	Shock
+32923731	An immunoinformatics study on the spike protein of SARS-CoV-2 revealing potential epitopes as vaccine candidates.	Heliyon
+32866640	Comprehensive evolution and molecular characteristics of a large number of SARS-CoV-2 genomes reveal its epidemic trends.	Int J Infect Dis
+32836468	A semantic network approach to measuring sentiment.	Qual Quant
+32661423	Neutralizing nanobodies bind SARS-CoV-2 spike RBD and block interaction with ACE2.	Nat Struct Mol Biol
+32534226	Monoclonal antibody as a potential anti-COVID-19.	Biomed Pharmacother
+32404477	A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2.	Science

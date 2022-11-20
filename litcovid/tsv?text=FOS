@@ -1,0 +1,88 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36249762	Potential therapeutic strategies for quercetin targeting critical pathological mechanisms associated with colon adenocarcinoma and COVID-19.	Front Pharmacol
+36181744	Porcine deltacoronavirus E protein induces interleukin-8 production via NF-kappaB and AP-1 activation.	Vet Microbiol
+36172231	The relationship between religious/spiritual well-being, psychiatric symptoms and addictive behaviors among young adults during the COVID-19-pandemic.	Front Psychol
+36048718	Insights into functional connectivity in mammalian signal transduction pathways by pairwise comparison of protein interaction partners of critical signaling hubs.	Biomol Concepts
+35999833	An acute lower limb ischemia revealing a covid-19 infection: A case report.	Ann Med Surg (Lond)
+35838055	Beneficial effect of polyphenols in COVID-19 and the ectopic F1 FO -ATP synthase: Is there a link?	J Cell Biochem
+35834221	Fear of COVID-19 and future orientation: Different profiles in dealing with the pandemic and associations with loneliness and posttraumatic growth.	Psychol Trauma
+35718334	In silico drug repurposing against SARS-CoV-2 using an integrative transcriptomic profiling approach: Hydrocortisone and Benzhydrocodone as potential drug candidates against COVID-19.	Infect Genet Evol
+35677450	Puerarin: A Potential Therapeutic for Colon Adenocarcinoma (COAD) Patients Suffering From SARS-CoV-2 Infection.	Front Pharmacol
+35663983	Puerarin: A Potential Therapeutic for SARS-CoV-2 and Hantavirus Co-Infection.	Front Immunol
+35634246	Is fractional-order chaos theory the new tool to model chaotic pandemics as Covid-19?	Nonlinear Dyn
+35632177	Rapid Optical Biosensing of SARS-CoV-2 Spike Proteins in Artificial Samples.	Sensors (Basel)
+35480316	Global Gene Expression and Docking Profiling of COVID-19 Infection.	Front Genet
+35378952	Hydroxychloroquine versus placebo in the treatment of non-hospitalised patients with COVID-19 (COPE - Coalition V): A double-blind, multicentre, randomised, controlled trial.	Lancet Reg Health Am
+35377853	Lifelong vaccination strategy as a tool against pandemics in Hungary	Orv Hetil
+35310068	Numerical treatment on the new fractional-order SIDARTHE COVID-19 pandemic differential model via neural networks.	Eur Phys J Plus
+35261488	Lessons learned from the COVID-19 pandemic in planning the future energy systems of developing countries using an integrated MCDM approach in the off-grid areas of Bangladesh.	Renew Energy
+35227178	Therapeutic Mechanism of Xiaoqinglong Decoction against COVID-19 Based on Network Pharmacology and Molecular Docking Technology.	Comb Chem High Throughput Screen
+35220274	Monitoring the development of post-COVID-19 syndrome.	Orv Hetil
+35178029	Luteolin Potentially Treating Prostate Cancer and COVID-19 Analyzed by the Bioinformatics Approach: Clinical Findings and Drug Targets.	Front Endocrinol (Lausanne)
+35151002	Rapid biosensing SARS-CoV-2 antibodies in vaccinated healthy donors.	Biosens Bioelectron
+35127957	Molecular and pharmacological aspects of piperine as a potential molecule for disease prevention and management: evidence from clinical trials.	Beni Suef Univ J Basic Appl Sci
+35127768	The Potential Bioactive Components of Nine TCM Prescriptions Against COVID-19 in Lung Cancer Were Explored Based on Network Pharmacology and Molecular Docking.	Front Med (Lausanne)
+35061357	Innovative FO-SPR Label-free Strategy for Detecting Anti-RBD Antibodies in COVID-19 Patient Serum and Whole Blood.	ACS Sens
+35046942	Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities.	Front Immunol
+34704999	Pediococcus acidilactici CCFM6432 mitigates chronic stress-induced anxiety and gut microbial abnormalities.	Food Funct
+34633983	Changes in suicide mortality of Hungary during the first year of the COVID-19 pandemic	Orv Hetil
+34631608	Clinical Characteristics of Pediatric Cases of COVID-19 in Hunan, China: A Retrospective, Multi-Center Case Series.	Front Pediatr
+34615784	Evaluation of a Series of Overdentures Made in a Higher Education Dental Institution in Southern Brazil.	J Contemp Dent Pract
+34549098	Depression and anxiety in Malaysian population during third wave of the COVID-19 pandemic.	Clin Epidemiol Glob Health
+34538965	Sustainable development goal deficits and the Covid 19 pandemic.	Technol Forecast Soc Change
+34386336	Intranasal temperature-sensitive hydrogels of cannabidiol inclusion complex for the treatment of post-traumatic stress disorder.	Acta Pharm Sin B
+34120103	Opinions about coronavirus vaccination - the role of healthcare workers in communication in December 2020	Orv Hetil
+34092050	History repeats itself: horse originated hyperimmune sera production against SARS CoV-2	Turk J Med Sci
+34014798	IL-6 Inhibition Reduces Neuronal Injury in a Murine Model of Ventilator-induced Lung Injury.	Am J Respir Cell Mol Biol
+33908913	Cardiopulmonary Exercise Testing in the Coronavirus Disease - 2019 Era: Safety and Protocol Considerations.	Curr Sports Med Rep
+33845867	Multi-arm Trial of Inflammatory Signal Inhibitors (MATIS) for hospitalised patients with mild or moderate COVID-19 pneumonia: a structured summary of a study protocol for a randomised controlled trial.	Trials
+33806599	Relationship of Decrease in Frequency of Socialization to Daily Life, Social Life, and Physical Function in Community-Dwelling Adults Aged 60 and Over after the COVID-19 Pandemic.	Int J Environ Res Public Health
+33662681	Network pharmacology and RNA-sequencing reveal the molecular mechanism of Xuebijing injection on COVID-19-induced cardiac dysfunction.	Comput Biol Med
+33581688	Chemical composition and pharmacological mechanism of ephedra-glycyrrhiza drug pair against coronavirus disease 2019 (COVID-19).	Aging (Albany NY)
+33519325	COVID-19 X-ray images classification based on enhanced fractional-order cuckoo search optimizer using heavy-tailed distributions.	Appl Soft Comput
+33451032	Novel Regeneration Approach for Creating Reusable FO-SPR Probes with NTA Surface Chemistry.	Nanomaterials (Basel)
+33284859	SARS-CoV-2 spike protein promotes IL-6 trans-signaling by activation of angiotensin II receptor signaling in epithelial cells.	PLoS Pathog
+33241658	Anti-coronavirus disease 2019 (COVID-19) targets and mechanisms of puerarin.	J Cell Mol Med
+33190124	Changes in epilepsy care during the first medical emergency period of COVID-19 pandemic in Hungary: A questionnaire survey	Orv Hetil
+33135607	Exploring the Potential Mechanism of Shufeng Jiedu Capsule for Treating COVID-19 by Comprehensive Network Pharmacological Approaches and Molecular Docking Validation.	Comb Chem High Throughput Screen
+33073716	A computational and bioinformatic analysis of ACE2: an elucidation of its dual role in COVID-19 pathology and finding its associated partners as potential therapeutic targets.	J Biomol Struct Dyn
+33029305	REACH for mental health in the COVID19 pandemic: an urgent call for public health action.	Eur J Psychotraumatol
+32958781	COVID-19 image classification using deep features and fractional-order marine predators algorithm.	Sci Rep
+32883809	A blueprint for academic laboratories to produce SARS-CoV-2 quantitative RT-PCR test kits.	J Biol Chem
+32660047	The Association between Perceived Social Hardship and Future Orientation among Hong Kong Young People: The Mediation Role of Belief in a Just World.	Int J Environ Res Public Health
+32485858	Javamide-II Inhibits IL-6 without Significant Impact on TNF-alpha and IL-1beta in Macrophage-Like Cells.	Biomedicines
+32455629	Tripartite Combination of Candidate Pandemic Mitigation Agents: Vitamin D, Quercetin, and Estradiol Manifest Properties of Medicinal Agents for Targeted Mitigation of the COVID-19 Pandemic Defined by Genomics-Guided Tracing of SARS-CoV-2 Targets in Human Cells.	Biomedicines
+32423888	Clinical characteristics and changes of chest CT features in 307 patients with common COVID-19 pneumonia infected SARS-CoV-2: A multicenter study in Jiangsu, China.	Int J Infect Dis

@@ -1,0 +1,45 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36238761	Fatal COVID-19 is Associated with Reduced HLA-DR, CD123 or CD11c Expression on Circulating Dendritic Cells.	J Inflamm Res
+35754159	Cutaneous lupus-erythematosus-like reaction arising after COVID-19 vaccination.	J Cutan Pathol
+35373396	Histopathological analysis of skin reactions after coronavirus disease 2019 vaccination: Increment in number of infiltrated plasmacytoid dendritic cell.	J Dermatol
+34867943	Data-Driven Analysis of COVID-19 Reveals Persistent Immune Abnormalities in Convalescent Severe Individuals.	Front Immunol
+34616409	LOX-1-Expressing Immature Neutrophils Identify Critically-Ill COVID-19 Patients at Risk of Thrombotic Complications.	Front Immunol
+33936047	SARS-CoV-2 Infection Induces Psoriatic Arthritis Flares and Enthesis Resident Plasmacytoid Dendritic Cell Type-1 Interferon Inhibition by JAK Antagonism Offer Novel Spondyloarthritis Pathogenesis Insights.	Front Immunol
+33725700	Covid-19 Interstitial Pneumonia: Histological and Immunohistochemical Features on Cryobiopsies.	Respiration
+33602937	Interleukin-3 is a predictive marker for severity and outcome during SARS-CoV-2 infections.	Nat Commun
+33442367	A Rare Case of Hairy Cell Leukemia with Unusual Loss of CD123 Associated with COVID-19 at the Time of Presentation.	Case Rep Oncol
+33156022	COVID Purpura (Toes) Case Series: A Chilblains-Like Vasculopathy.	Am J Dermatopathol
+32779733	The differing pathophysiologies that underlie COVID-19-associated perniosis and thrombotic retiform purpura: a case series.	Br J Dermatol

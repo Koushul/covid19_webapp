@@ -1,0 +1,148 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36251581	The effects of social interactions on momentary stress and mood during COVID-19 lockdowns.	Br J Health Psychol
+36210962	EffViT-COVID: A dual-path network for COVID-19 percentage estimation.	Expert Syst Appl
+36159508	Role of H2 receptor blocker famotidine over the clinical recovery of COVID-19 patients: A randomized controlled trial.	World J Clin Cases
+36121927	The immunological role of B7-H4 in pregnant women with Sars-Cov2 infection.	Am J Reprod Immunol
+36043056	Factors associated with poor outcomes among COVID-19 patients with gastrointestinal symptoms.	Gastro Hep Adv
+36033751	Research on older people's health information search behavior based on risk perception in social networks-A case study in China during COVID-19.	Front Public Health
+36033729	Hydrogen-rich gas production from disposable COVID-19 mask by steam gasification.	Fuel (Lond)
+36032234	Post-COVID-19 fatigue: A systematic review.	Front Psychiatry
+36000017	Numerical and experimental analysis of pyrolysis process of RDF containing a high percentage of plastic waste.	Fuel (Lond)
+35972835	Chemiluminescent Imaging Assay of SARS-CoV-2 Protein with Target-Induced Enzyme Activity Regulation.	Chemistry
+35967841	Malproduction of endogenous hydrogen gas in COVID-19.	Front Cell Infect Microbiol
+35966467	Online group psychodynamic psychotherapy-The effectiveness and role of attachment-The results of a short study.	Front Psychiatry
+35953544	A disturbed balance between blood complement protective factors (FH, ApoE) and common pathway effectors (C5a, TCC) in acute COVID-19 and during convalesce.	Sci Rep
+35903104	SARS-Arena: Sequence and Structure-Guided Selection of Conserved Peptides from SARS-related Coronaviruses for Novel Vaccine Development.	Front Immunol
+35897337	Buffering the Effects of Burnout on Healthcare Professionals' Health-The Mediating Role of Compassionate Relationships at Work in the COVID Era.	Int J Environ Res Public Health
+35896167	Efficacy of Covexir(R) (Ferula foetida oleo-gum) treatment in symptomatic improvement of patients with mild to moderate COVID-19: A randomized, double-blind, placebo-controlled trial.	Phytother Res
+35812515	Fitness Apps, Live Streaming Workout Classes, and Virtual Reality Fitness for Physical Activity During the COVID-19 Lockdown: An Empirical Study.	Front Public Health
+35782753	Coronavirus disease-19 infection and angioedema in African Americans: A case series.	Otolaryngol Case Rep
+35698720	Alternating magnetic field initiated catalytic deconstruction of medical waste to produce hydrogen-rich gases and graphite.	Cell Rep Phys Sci
+35664030	Histamine 2 receptor antagonists do not improve the outcomes of hospitalized COVID-19 patients.	Prz Gastroenterol
+35632474	COVID-19 Vaccination Is Safe among Mast Cell Disorder Patients, under Adequate Premedication.	Vaccines (Basel)
+35611169	Identification of vaccine targets & design of vaccine against SARS-CoV-2 coronavirus using computational and deep learning-based approaches.	PeerJ
+35599638	Erratum to: Experimental Search for New Means of Pathogenetic Therapy COVID-19: Inhibitor of H2-Receptors Famotidine Increases the Effect of Oseltamivir on Survival and Immune Status of Mice Infected by A/PR/8/34 (H1N1).	J Evol Biochem Physiol
+35587364	SARS-CoV-2 host-shutoff impacts innate NK cell functions, but antibody-dependent NK activity is strongly activated through non-spike antibodies.	Elife
+35574926	Acoustic analysis of the effect of personal protective equipment on speech understanding: lessons for clinical environments.	Int J Audiol
+35564657	Food Traceability as an Element of Sustainable Consumption-Pandemic-Driven Changes in Consumer Attitudes.	Int J Environ Res Public Health
+35548336	Histamine Potentiates SARS-CoV-2 Spike Protein Entry Into Endothelial Cells.	Front Pharmacol
+35507573	Towards Control and Oversight of SARS-CoV-2 Diagnosis and Monitoring through Multiplexed Quantitative Electroanalytical Immune Response Biosensors.	Angew Chem Int Ed Engl
+35493814	Molecular Hydrogen as a Medical Gas for the Treatment of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Possible Efficacy Based on a Literature Review.	Front Neurol
+35357947	Teleconsultation Services in Pediatric Primary Care in Austria: Upgrading Clinical Decision Support in Primary Health Care Settings.	Telemed J E Health
+35343384	Transcriptomic analysis of the innate immune signatures of a SARS-CoV-2 protein subunit vaccine ZF2001 and an mRNA vaccine RRV.	Emerg Microbes Infect
+35330457	GSTO1, GSTO2 and ACE2 Polymorphisms Modify Susceptibility to Developing COVID-19.	J Pers Med
+35321232	Demographic Characteristics and Digital Platforms for Physical Activity Among the Chinese Residents During the COVID-19 Pandemic: A Mediating Analysis.	J Multidiscip Healthc
+35305996	Implications for health system resilience: Quantifying the impact of the COVID-19-related stay at home orders on cancer screenings and diagnoses in southeastern North Carolina, USA.	Prev Med
+35283537	Experimental Search for New Means of Pathogenetic Therapy COVID-19: Inhibitor of H2-Receptors Famotidine Increases the Effect of Oseltamivir on Survival and Immune Status of Mice Infected by A/PR/8/34 (H1N1).	J Evol Biochem Physiol
+35271224	[Correlation between ultrasonography and thorax portable radiography in patients with COVID-19].	Rev Med Inst Mex Seguro Soc
+35218022	The Effects of Endotracheal Tube Size During Bronchoscopy in Simulated Models of Intubated Patients.	Laryngoscope
+35206179	Molecular Hydrogen Positively Affects Physical and Respiratory Function in Acute Post-COVID-19 Patients: A New Perspective in Rehabilitation.	Int J Environ Res Public Health
+35130238	Anti-histamines and Covid-19: Hype or Hope.	J Pak Med Assoc
+35119706	Structure and dynamics of the SARS-CoV-2 envelope protein monomer.	Proteins
+35082540	Virtual Reality Fitness (VRF) for Behavior Management During the COVID-19 Pandemic: A Mediation Analysis Approach.	Psychol Res Behav Manag
+35079241	Exploring Structural Mechanism of COVID-19 Treatment with Glutathione as a Potential Peptide Inhibitor to the Main Protease: Molecular Dynamics Simulation and MM/PBSA Free Energy Calculations Study.	Int J Pept Res Ther
+35067766	H2 antagonists, proton pump inhibitors and COVID-19.	J Anesth
+35060637	Oxidative stress status and vitamin D levels of asymptomatic to mild symptomatic COVID-19 infections during the third trimester of pregnancy: A retrospective study in Metz, France.	J Med Virol
+35055023	Computational Design of Miniproteins as SARS-CoV-2 Therapeutic Inhibitors.	Int J Mol Sci
+34998144	Hybridization chain reaction circuit-based electrochemiluminescent biosensor for SARS-cov-2 RdRp gene assay.	Talanta
+34987419	Hydrogen, a Novel Therapeutic Molecule, Regulates Oxidative Stress, Inflammation, and Apoptosis.	Front Physiol
+34913536	How does antiseptic mouthwashes against SARS-COV-2 affect the bond strength of universal adhesive to enamel?	Microsc Res Tech
+34903909	Simultaneous synthesis of H2, O2, and N2 via an innovatory energy system in Coronavirus pandemic time: Design, techno-economic assessment, and optimization approaches.	Int J Hydrogen Energy
+34848204	Cytochrome P450-derived fatty acid epoxides and diols in angiogenesis and stem cell biology.	Pharmacol Ther
+34817624	Acid suppressant use in association with incidence and severe outcomes of COVID-19: a systematic review and meta-analysis.	Eur J Clin Pharmacol
+34745440	Peptide Inhibitors of the Interaction of the SARS-CoV-2 Receptor-Binding Domain with the ACE2 Cell Receptor.	Biochem Mosc Suppl B Biomed Chem
+34735523	Effect of famotidine on hospitalized patients with COVID-19: A systematic review and meta-analysis.	PLoS One
+34709678	Comments on the Discussion Forum: Oromucosal immunomodulation as clinical spectrum mitigating factor in SARS-CoV-2 infection.	Scand J Immunol
+34703815	A case of acute encephalopathy and non-ST segment elevation myocardial infarction following mRNA-1273 vaccination: possible adverse effect?	Clin Exp Vaccine Res
+34688775	Upregulation of type 1 conventional dendritic cells implicates antigen cross-presentation in multisystem inflammatory syndrome.	J Allergy Clin Immunol
+34646423	Combating Oxidative Stress and Inflammation in COVID-19 by Molecular Hydrogen Therapy: Mechanisms and Perspectives.	Oxid Med Cell Longev
+34637888	The mutational landscape of SARS-CoV-2 variants diversifies T cell targets in an HLA-supertype-dependent manner.	Cell Syst
+34608231	Longitudinal urinary biomarkers of immunological activation in covid-19 patients without clinically apparent kidney disease versus acute and chronic failure.	Sci Rep
+34601741	I Think, Therefore I Act: The Influence of Critical Reasoning Ability on Trust and Behavior During the COVID-19 Pandemic.	Risk Anal
+34560479	Valorization of hazardous COVID-19 mask waste while minimizing hazardous byproducts using catalytic gasification.	J Hazard Mater
+34451505	Monitoring the Circulation of SARS-CoV-2 Variants by Genomic Analysis of Wastewater in Marseille, South-East France.	Pathogens
+34409028	CLEC4s as Potential Therapeutic Targets in Hepatocellular Carcinoma Microenvironment.	Front Cell Dev Biol
+34378840	Gastrointestinal symptoms and healthcare utilization have increased among patients with functional gastrointestinal and motility disorders during the COVID-19 pandemic.	Neurogastroenterol Motil
+34312429	S494 O-glycosylation site on the SARS-CoV-2 RBD affects the virus affinity to ACE2 and its infectivity; a molecular dynamics study.	Sci Rep
+34249404	Two Cases of Well Controlled Chronic Spontaneous Urticaria Triggered by the Moderna COVID-19 Vaccine.	Allergy Rhinol (Providence)
+34214498	Famotidine inhibits toll-like receptor 3-mediated inflammatory signaling in SARS-CoV-2 infection.	J Biol Chem
+34169390	Molecular screening of glycyrrhizin-based inhibitors against ACE2 host receptor of SARS-CoV-2.	J Mol Model
+34155209	Sequence signatures of two public antibody clonotypes that bind SARS-CoV-2 receptor binding domain.	Nat Commun
+34152260	Valorisation of hazardous medical waste using steam injected plasma gasifier: a parametric study on the modelling and multi-objective optimisation by integrating Aspen plus with RSM.	Environ Technol
+34142531	[Peptide inhibitors of the interaction of the SARS-CoV-2 receptor-binding domain with the ACE2 cell receptor].	Biomed Khim
+34025513	A Balancing Act During Covid-19: Teachers' Self-Efficacy, Perception of Stress in the Distance Learning Experience.	Front Psychol
+33994654	COVID-19 mask waste to energy via thermochemical pathway: Effect of Co-Feeding food waste.	Energy (Oxf)
+33975825	Use of repurposed and adjuvant drugs in hospital patients with covid-19: multinational network cohort study.	BMJ
+33970560	An Androsterone-H2 @C60 hybrid: Synthesis, Properties and Molecular Docking Simulations with SARS-Cov-2.	Chempluschem
+33951417	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope display high naive precursor frequency and TCR promiscuity.	Immunity
+33945786	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope cross-react with selective seasonal coronaviruses.	Immunity
+33932326	Diverse immunoglobulin gene usage and convergent epitope targeting in neutralizing antibody responses to SARS-CoV-2.	Cell Rep
+33932255	Heart failure with preserved ejection fraction according to the HFA-PEFF score in COVID-19 patients: clinical correlates and echocardiographic findings.	Eur J Heart Fail
+33840883	Plasma gasification of the medical waste.	Int J Hydrogen Energy
+33833683	COVID-19: Famotidine, Histamine, Mast Cells, and Mechanisms.	Front Pharmacol
+33821621	Self-Perpetuating Carbon Foam Microwave Plasma Conversion of Hydrocarbon Wastes into Useful Fuels and Chemicals.	Environ Sci Technol
+33806292	Potential Therapeutic Applications of Hydrogen in Chronic Inflammatory Diseases: Possible Inhibiting Role on Mitochondrial Stress.	Int J Mol Sci
+33780988	[Functional Exams in the gastroenterology - new developments and tips for the common practice].	Dtsch Med Wochenschr
+33757133	Famotidine Repurposing for Novel Corona Virus Disease of 2019: A Systematic Review.	Drug Res (Stuttg)
+33540487	An Androsterone-H2 @C60 hybrid: Synthesis, Properties and Molecular Docking Simulations with SARS-Cov-2.	Chempluschem
+33519638	The Psychological Impacts of COVID-19 Home Confinement and Physical Activity: A Structural Equation Model Analysis.	Front Psychol
+33503571	Stable dechlorination of Trichloroacetic Acid (TCAA) to acetic acid catalyzed by palladium nanoparticles deposited on H2-transfer membranes.	Water Res
+33491579	Molecular basis for the repurposing of histamine H2-receptor antagonist to treat COVID-19.	J Biomol Struct Dyn
+33449395	Virucidal potential of H2 O2 -based spray against SARS-CoV-2 and biosafety in a dental environment.	Oral Dis
+33441437	Cutting Edge: Mouse SARS-CoV-2 Epitope Reveals Infection and Vaccine-Elicited CD8 T Cell Responses.	J Immunol
+33380588	A narrative review of hydrogen-oxygen mixture for medical purpose and the inhaler thereof.	Med Gas Res
+33368699	Molecular hydrogen (H2 ) as a potential treatment for acute and chronic fatigue.	Arch Pharm (Weinheim)
+33349213	Hydrogen Gas Therapy: From Preclinical Studies to Clinical Trials.	Curr Pharm Des
+33308113	New Approaches for Hydrogen Therapy of Various Diseases.	Curr Pharm Des
+33307773	Coronavirus stigmatization and psychological distress among Asians in the United States.	Ethn Health
+33247531	Efficacy of personal protective equipment and H2 O2 -based spray against coronavirus in dental setting.	Oral Dis
+33234837	Findings and Prognostic Value of Lung Ultrasonography in Coronal Virus Disease 2019 (COVID-19) Pneumonia.	Shock
+33206207	Histamine receptors and COVID-19.	Inflamm Res
+33164796	Identification of a dominant CD8(+) CTL epitope in the SARS-associated coronavirus 2 spike protein.	Vaccine
+33095474	Nutrition Support During Prone Positioning: An Old Technique Reawakened by COVID-19.	Nutr Clin Pract
+33029275	Low-Flow Nasal Cannula Hydrogen Therapy.	J Clin Med Res
+32963703	Hydrogen: A Novel Option in Human Disease Treatment.	Oxid Med Cell Longev
+32945158	Mast cells activated by SARS-CoV-2 release histamine which increases IL-1 levels causing cytokine storm and inflammatory reaction in COVID-19.	J Biol Regul Homeost Agents
+32923731	An immunoinformatics study on the spike protein of SARS-CoV-2 revealing potential epitopes as vaccine candidates.	Heliyon
+32866640	Comprehensive evolution and molecular characteristics of a large number of SARS-CoV-2 genomes reveal its epidemic trends.	Int J Infect Dis
+32836468	A semantic network approach to measuring sentiment.	Qual Quant
+32834763	Valorization of disposable COVID-19 mask through the thermo-chemical process.	Chem Eng J
+32783196	Anti-inflammatory and antiviral roles of hydrogen sulfide: Rationale for considering H2 S donors in COVID-19 therapy.	Br J Pharmacol
+32767925	Direct Targets and Subsequent Pathways for Molecular Hydrogen to Exert Multiple Functions: Focusing on Interventions in Radical Reactions.	Curr Pharm Des
+32763826	DNA nanoscaffold-based SARS-CoV-2 detection for COVID-19 diagnosis.	Biosens Bioelectron
+32608097	Comparison of In Vitro Inactivation of SARS CoV-2 with Hydrogen Peroxide and Povidone-Iodine Oral Antiseptic Rinses.	J Prosthodont
+32441351	Tracheotomy in COVID-19 patients: Optimizing patient selection and identifying prognostic indicators.	Head Neck
+32370065	Hybridization Chain Reactions Targeting the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).	Int J Mol Sci

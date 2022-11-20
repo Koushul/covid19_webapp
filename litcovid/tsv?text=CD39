@@ -1,0 +1,53 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36248842	Dysfunctional purinergic signaling correlates with disease severity in COVID-19 patients.	Front Immunol
+35901034	The percentage of CD39+ monocytes is higher in pregnant COVID-19+ patients than in nonpregnant COVID-19+ patients.	PLoS One
+35754396	Alterations in CD39/CD73 axis of T cells associated with COVID-19 severity.	J Cell Physiol
+35405594	Viral load is associated with mitochondrial dysfunction and altered monocyte phenotype in acute severe SARS-CoV-2 infection.	Int Immunopharmacol
+35249135	High levels of extracellular ATP lead to different inflammatory responses in COVID-19 patients according to the severity.	J Mol Med (Berl)
+35173744	Role of CD39 in COVID-19 Severity: Dysregulation of Purinergic Signaling and Thromboinflammation.	Front Immunol
+35165981	C4d deposition and CD39 downregulation in the placental infection by SARS-CoV-2.	Pathol Int
+35032133	Assessment of CD39 expression in regulatory T-cell subsets by disease severity in adult and juvenile COVID-19 cases.	J Med Virol
+34676128	Plasma metabolomic and lipidomic alterations associated with COVID-19.	Natl Sci Rev
+34608452	Limited TCR repertoire and ENTPD1 dysregulation mark late-stage COVID-19.	iScience
+34571872	Thrombo-Inflammation: A Focus on NTPDase1/CD39.	Cells
+34536418	Immunologic memory to SARS-CoV-2 in convalescent COVID-19 patients at 1 year postinfection.	J Allergy Clin Immunol
+34499819	TIM-3 as a potential exhaustion marker in CD4(+) T cells of COVID-19 patients.	Immun Inflamm Dis
+34312258	The Quality of SARS-CoV-2-Specific T Cell Functions Differs in Patients with Mild/Moderate versus Severe Disease, and T Cells Expressing Coinhibitory Receptors Are Highly Activated.	J Immunol
+33740184	Possible role of purinergic signaling in COVID-19.	Mol Cell Biochem
+33617048	B cell analysis in SARS-CoV-2 versus malaria: Increased frequencies of plasmablasts and atypical memory B cells in COVID-19.	J Leukoc Biol
+33548481	Pronounce expression of Tim-3 and CD39 but not PD1 defines CD8 T cells in critical Covid-19 patients.	Microb Pathog
+32717399	Purinergic signaling in infectious diseases of the central nervous system.	Brain Behav Immun
+32707842	Defining the CD39/CD73 Axis in SARS-CoV-2 Infection: The CD73(-) Phenotype Identifies Polyfunctional Cytotoxic Lymphocytes.	Cells

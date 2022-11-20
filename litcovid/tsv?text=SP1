@@ -1,0 +1,55 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36010199	Extent and Distribution of Parenchymal Abnormalities in Baseline CT-Scans Do Not Predict Awake Prone Positioning Response in COVID-19 Related ARDS.	Diagnostics (Basel)
+35951767	An Antibody from Single Human VH-rearranging Mouse Neutralizes All SARS-CoV-2 Variants Through BA.5 by Inhibiting Membrane Fusion.	Sci Immunol
+35758003	Epigenetic rewiring of pathways related to odour perception in immune cells exposed to SARS-CoV-2 in vivo and in vitro.	Epigenetics
+35525888	Bioinformatics analysis reveals molecular connections between non-alcoholic fatty liver disease (NAFLD) and COVID-19.	J Cell Commun Signal
+35244289	Improved immunologic response to COVID-19 vaccine with prolonged dosing interval in haemodialysis patients.	Scand J Immunol
+35116022	CD8(+) T-Cell Epitope Variations Suggest a Potential Antigen HLA-A2 Binding Deficiency for Spike Protein of SARS-CoV-2.	Front Immunol
+35100036	Specific Regulatory Motifs Network in SARS-CoV-2-Infected Caco-2 Cell Line, as a Model of Gastrointestinal Infections.	Cell Reprogram
+34950134	Imiquimod Boosts Interferon Response, and Decreases ACE2 and Pro-Inflammatory Response of Human Bronchial Epithelium in Asthma.	Front Immunol
+34843493	Modelling the concentration of anti-SARS-CoV-2 immunoglobulin G in intravenous immunoglobulin product batches.	PLoS One
+34612687	PABPC4 Broadly Inhibits Coronavirus Replication by Degrading Nucleocapsid Protein through Selective Autophagy.	Microbiol Spectr
+34540553	Impact of COVID-19 on gastroenterology fellowship training: a multicenter analysis of endoscopy volumes.	Endosc Int Open
+34423108	A network-based systems biology approach for identification of shared Gene signatures between male and female in COVID-19 datasets.	Inform Med Unlocked
+34366686	Integrated multi-omics approach identified molecular mechanism and pathogenetic processes of COVID-19 that affect patient with Parkinson's disorder.	Saudi J Biol Sci
+34232065	Porcine Epidemic Diarrhea Virus Inhibits HDAC1 Expression To Facilitate Its Replication via Binding of Its Nucleocapsid Protein to Host Transcription Factor Sp1.	J Virol
+34115306	The impact of the SARS-CoV-2 pandemic on referral characteristics in a national tertiary spinal injuries unit.	Ir J Med Sci
+33964301	Identification of Distinct Clinical Subphenotypes in Critically Ill Patients With COVID-19.	Chest
+33676864	Multicenter evaluation of four immunoassays for the performance of early diagnosis of COVID-19 and assessment of antibody responses of patients with pneumonia in Taiwan.	J Microbiol Immunol Infect
+33213198	Impact of COVID-19 pandemic and lockdown on eye emergencies.	Eur J Ophthalmol
+33127745	A Founder Effect Led Early SARS-CoV-2 Transmission in Spain.	J Virol
+32859121	SARS-CoV-2 Spike 1 Protein Controls Natural Killer Cell Activation via the HLA-E/NKG2A Pathway.	Cells
+32764519	Phosphate Derivatives of 3-Carboxyacylbetulin: SynThesis, In Vitro Anti-HIV and Molecular Docking Study.	Biomolecules

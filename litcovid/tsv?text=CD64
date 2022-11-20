@@ -1,0 +1,53 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36246016	Monocyte HLADR and Immune Dysregulation Index as Biomarkers for COVID-19 Severity and Mortality.	Indian J Clin Biochem
+36010361	The Low Expression of Fc-Gamma Receptor III (CD16) and High Expression of Fc-Gamma Receptor I (CD64) on Neutrophil Granulocytes Mark Severe COVID-19 Pneumonia.	Diagnostics (Basel)
+35959245	A rapid, easy, and scalable whole blood monocyte CD169 assay for outpatient screening during SARS-CoV-2 outbreak, and potentially other emerging disease outbreaks.	SAGE Open Med
+35508575	In-vitro NET-osis induced by COVID-19 sera is associated to severe clinical course in not vaccinated patients and immune-dysregulation in breakthrough infection.	Sci Rep
+35491910	Alterations of blood monocyte subset distribution and surface phenotype are linked to infection severity in COVID-19 inpatients.	Eur J Immunol
+35484408	CD66b(-)CD64(dim)CD115(-) cells in the human bone marrow represent neutrophil-committed progenitors.	Nat Immunol
+35394410	PIMS-TS immunophenotype: description and comparison with healthy children, Kawasaki disease and severe viral and bacterial infections.	Infect Dis (Lond)
+34991873	Innate cell response in severe SARS-CoV-2 infection in children: Expression analysis of CD64, CD18 and CD11a.	Med Intensiva (Engl Ed)
+34688775	Upregulation of type 1 conventional dendritic cells implicates antigen cross-presentation in multisystem inflammatory syndrome.	J Allergy Clin Immunol
+34616409	LOX-1-Expressing Immature Neutrophils Identify Critically-Ill COVID-19 Patients at Risk of Thrombotic Complications.	Front Immunol
+34572425	Cell Properties of Lung Tissue-Resident Macrophages Propagated by Co-Culture with Lung Fibroblastic Cells from C57BL/6 and BALB/c Mice.	Biomedicines
+34377464	High expression of neutrophil and monocyte CD64 with simultaneous lack of upregulation of adhesion receptors CD11b, CD162, CD15, CD65 on neutrophils in severe COVID-19.	Ther Adv Infect Dis
+33994613	Innate cell response in severe SARS-CoV-2 infection in children: Expression analysis of CD64, CD18 and CD11a.	Med Intensiva
+33979758	Blood neutrophils from children with COVID-19 exhibit both inflammatory and anti-inflammatory markers.	EBioMedicine
+33869256	Validation of a Quick Flow Cytometry-Based Assay for Acute Infection Based on CD64 and CD169 Expression. New Tools for Early Diagnosis in COVID-19 Pandemic.	Front Med (Lausanne)
+33521315	CD64, CD11a and CD18 leukocytes expression in children with SARS-CoV-2 multisystem inflammatory syndrome versus children with Kawasaki disease: Similar but not the same.	Med Clin (Engl Ed)
+33491921	CD169 and CD64 could help differentiate bacterial from CoVID-19 or other viral infections in the Emergency Department.	Cytometry A
+33160625	CD64, CD11a and CD18 leukocytes expression in children with SARS-CoV-2 multisystem inflammatory syndrome versus children with Kawasaki disease: Similar but not the same.	Med Clin (Barc)
+32812012	Peripheral immunophenotypes in children with multisystem inflammatory syndrome associated with SARS-CoV-2 infection.	Nat Med

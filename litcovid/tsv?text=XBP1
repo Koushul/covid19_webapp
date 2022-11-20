@@ -1,0 +1,40 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36125275	SARS-CoV-2 Diverges from Other Betacoronaviruses in Only Partially Activating the IRE1alpha/XBP1 Endoplasmic Reticulum Stress Pathway in Human Lung-Derived Cells.	mBio
+35507291	Plasmablast-like Phenotype Among Antigen-Experienced CXCR5-CD19(low) B Cells in Systemic Lupus Erythematosus.	Arthritis Rheumatol
+35149556	Glycosite-deleted mRNA of SARS-CoV-2 spike protein as a broad-spectrum vaccine.	Proc Natl Acad Sci U S A
+34615619	Possible Involvement of Adipose Tissue in Patients With Older Age, Obesity, and Diabetes With SARS-CoV-2 Infection (COVID-19) via GRP78 (BIP/HSPA5): Significance of Hyperinsulinemia Management in COVID-19.	Diabetes
+34514445	DJ-1-Nrf2 axis is activated upon murine beta-coronavirus infection in the CNS.	Brain Disord
+33254564	Role of inositol to improve surfactant functions and reduce IL-6 levels: A potential adjuvant strategy for SARS-CoV-2 pneumonia?	Med Hypotheses

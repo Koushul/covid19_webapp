@@ -1,0 +1,51 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36214307	Bioinformatics analysis to identify intersection genes, associated pathways and therapeutic drugs between COVID-19 and Oral candidiasis.	Comb Chem High Throughput Screen
+35953728	CXCR4-targeted molecular imaging after severe SARS-Cov-2 infection.	Eur J Nucl Med Mol Imaging
+35866483	PTP1B inhibitors protect against acute lung injury and regulate CXCR4 signaling in neutrophils.	JCI Insight
+35763308	Effect of Chemokine Gene Variants on Covid-19 Disease Severity.	Immunol Invest
+35263584	Targeted intracellular delivery of Cas13 and Cas9 nucleases using bacterial toxin-based platforms.	Cell Rep
+35046942	Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities.	Front Immunol
+35040417	Ligand-based Modeling of CXC Chemokine Receptor 4 and Identification of Inhibitors of Novel Chemotypes as Potential Leads towards New Anti- COVID-19 Treatments.	Med Chem
+35007290	Hyperinflammatory environment drives dysfunctional myeloid cell effector response to bacterial challenge in COVID-19.	PLoS Pathog
+35002537	Identification of Differentially Expressed Genes in COVID-19 and Integrated Bioinformatics Analysis of Signaling Pathways.	Genet Res (Camb)
+34944610	COVID-19 Specific Immune Markers Revealed by Single Cell Phenotypic Profiling.	Biomedicines
+34548411	High-dimensional profiling reveals phenotypic heterogeneity and disease-specific alterations of granulocytes in COVID-19.	Proc Natl Acad Sci U S A
+34493195	Computational Analysis Illustrates the Mechanism of Qingfei Paidu Decoction in Blocking the Transition of COVID-19 Patients from Mild to Severe Stage.	Curr Gene Ther
+34260965	Distinctive features of SARS-CoV-2-specific T cells predict recovery from severe COVID-19.	Cell Rep
+34153417	Construction of an autophagy interaction network based on competitive endogenous RNA reveals the key pathways and central genes of SARS-CoV-2 infection in vivo.	Microb Pathog
+33345622	Increased expression of hypoxia-induced factor 1alpha mRNA and its related genes in myeloid blood cells from critically ill COVID-19 patients.	Ann Med
+33339432	Functional Complexes of Angiotensin-Converting Enzyme 2 and Renin-Angiotensin System Receptors: Expression in Adult but Not Fetal Lung Tissue.	Int J Mol Sci
+32810439	Elevated Calprotectin and Abnormal Myeloid Cell Subsets Discriminate Severe from Mild COVID-19.	Cell

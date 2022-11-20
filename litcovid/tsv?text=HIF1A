@@ -1,0 +1,44 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35855804	Reveal the Mechanisms of Yi-Fei-Jian-Pi-Tang on Covid-19 through Network Pharmacology Approach.	Comput Intell Neurosci
+35844544	SARS-CoV-2 Achieves Immune Escape by Destroying Mitochondrial Quality: Comprehensive Analysis of the Cellular Landscapes of Lung and Blood Specimens From Patients With COVID-19.	Front Immunol
+35805716	The Potential of Thyroid Hormone Therapy in Severe COVID-19: Rationale and Preliminary Evidence.	Int J Environ Res Public Health
+35525888	Bioinformatics analysis reveals molecular connections between non-alcoholic fatty liver disease (NAFLD) and COVID-19.	J Cell Commun Signal
+35277473	ACE2-independent infection of T lymphocytes by SARS-CoV-2.	Signal Transduct Target Ther
+35069552	Cardiovascular Risk After SARS-CoV-2 Infection Is Mediated by IL18/IL18R1/HIF-1 Signaling Pathway Axis.	Front Immunol
+34975885	Differential Co-Expression Network Analysis Reveals Key Hub-High Traffic Genes as Potential Therapeutic Targets for COVID-19 Pandemic.	Front Immunol
+34803696	Phillyrin for COVID-19 and Influenza Co-infection: A Potential Therapeutic Strategy Targeting Host Based on Bioinformatics Analysis.	Front Pharmacol
+32697943	Elevated Glucose Levels Favor SARS-CoV-2 Infection and Monocyte Response through a HIF-1alpha/Glycolysis-Dependent Axis.	Cell Metab
+32455629	Tripartite Combination of Candidate Pandemic Mitigation Agents: Vitamin D, Quercetin, and Estradiol Manifest Properties of Medicinal Agents for Targeted Mitigation of the COVID-19 Pandemic Defined by Genomics-Guided Tracing of SARS-CoV-2 Targets in Human Cells.	Biomedicines

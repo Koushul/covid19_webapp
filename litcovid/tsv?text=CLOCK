@@ -1,0 +1,204 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36241659	TIMELESS is a key gene mediating thrombogenesis in COVID-19 and antiphospholipid syndrome.	Sci Rep
+36213637	Causal association of epigenetic aging and COVID-19 severity and susceptibility: A bidirectional Mendelian randomization study.	Front Med (Lausanne)
+36210721	An online survey of UK women's attitudes to having children, the age they want children and the effect of the COVID-19 pandemic.	Hum Reprod
+36202148	Associations of chronotype and social jetlag with eating jetlag and their changes among German students during the first COVID-19 lockdown. The Chronotype and Nutrition study.	Appetite
+36154515	Time of Day of Vaccination Does Not Associate With SARS-CoV-2 Antibody Titer Following First Dose of mRNA COVID-19 Vaccine.	J Biol Rhythms
+36113669	COVID-19: Vaccines and therapeutics.	Bioorg Med Chem Lett
+36106627	Circadian orchestration of host and gut microbiota in infection.	Biol Rev Camb Philos Soc
+36095163	Systems Biology of COVID-19 and Human Diseases: Beyond a Bird's Eye View, and Toward One Health.	OMICS
+36081727	Time estimation and passage of time judgment predict eating behaviors during COVID-19 lockdown.	Front Psychol
+35908730	Quantification of diurnal variation in "glove hygiene" compliance in COVID ICUs: An exploratory study.	Am J Infect Control
+35906476	Gene networks under circadian control exhibit diurnal organization in primate organs.	Commun Biol
+35859514	Challenges in setting up a diagnostic microbiology laboratory during coronavirus disease 2019 crisis and impact on the diagnosis of communicable diseases.	Indian J Public Health
+35851068	The fall of vulnerability to sleep disturbances in evening chronotypes when working from home and its implications for depression.	Sci Rep
+35789939	The "Gift" of Time: Documenting Faculty Decisions to Stop the Tenure Clock During a Pandemic.	Innov High Educ
+35786087	A Culturally and Linguistically Appropriate Telephone Support Intervention for Diverse Family Caregivers of Persons With Dementia During the COVID-19 Pandemic.	J Fam Nurs
+35764826	Cancer's clock, data hoarding - the week in infographics.	Nature
+35763527	Effect of 17beta-estradiol on the daily pattern of ACE2, ADAM17, TMPRSS2 and estradiol receptor transcription in the lungs and colon of male rats.	PLoS One
+35730571	Time of Day of BNT162b2 COVID-19 Immunization Affects Total SARS-CoV-2 Antibody Levels but Not Neutralizing Activity.	J Biol Rhythms
+35719387	Longitudinal Study of DNA Methylation and Epigenetic Clocks Prior to and Following Test-Confirmed COVID-19 and mRNA Vaccination.	Front Genet
+35691211	Clocking out: Nurses refusing to work in a time of pandemic.	Soc Sci Med
+35634151	Increase in Ca(2+)-Activated cAMP/PKA Signaling Prevents Hydroxychloroquine-Induced Bradycardia of the Cardiac Pacemaker.	Front Physiol
+35632836	Dating the Emergence of Human Endemic Coronaviruses.	Viruses
+35602207	Genetic and phenotypic analysis of the causal relationship between aging and COVID-19.	Commun Med (Lond)
+35599507	Neuropsychological manifestations of long COVID in hospitalized and non-hospitalized Brazilian Patients.	NeuroRehabilitation
+35598567	A cautionary note on altered pace of aging in the COVID-19 era.	Forensic Sci Int Genet
+35592648	Modeling Users' Cognitive Performance Using Digital Pen Features.	Front Artif Intell
+35570702	Temporal patterns of sleep and eating among children during school closure in Japan due to COVID-19 pandemic: associations with lifestyle behaviours and dietary intake.	Public Health Nutr
+35526855	Variability of Mortality: Additional Information on Mortality and Morbidity Curves under Normal and Pathological Conditions [Commentary on the Article by A. G. Malygin "Programmed Risks of Death in Male Patients with Diabetes" Published in Biochemistry (Moscow), vol. 86, pp. 1553-1562 (2021)].	Biochemistry (Mosc)
+35504432	"Nanodecoys" - Future of drug delivery by encapsulating nanoparticles in natural cell membranes.	Int J Pharm
+35492060	An open-source non-contact thermometer using low-cost electronic components.	HardwareX
+35479882	A comprehensive overview of vaccines developed for pandemic viral pathogens over the past two decades including those in clinical trials for the current novel SARS-CoV-2.	RSC Adv
+35451089	Monocytes and macrophages in pregnancy: The good, the bad, and the ugly.	Immunol Rev
+35440567	Accelerated biological aging in COVID-19 patients.	Nat Commun
+35393141	Response to comment: Anti-COVID-19 measures threaten our healthy body weight: Changes in sleep and external synchronizers of circadian clocks during confinement.	Clin Nutr
+35354418	Young people and adolescents have more irregular meals during the COVID-19 pandemic: A nested case-control study on chrono-nutrition before and during the COVID-19 pandemic.	Chronobiol Int
+35330062	Mathematical Modeling to Predict COVID-19 Infection and Vaccination Trends.	J Clin Med
+35324585	Genetic Analysis of Influenza A/H1N1pdm Strains Isolated in Bangladesh in Early 2020.	Trop Med Infect Dis
+35323170	The Relationship between Acceptance and Sleep-Wake Quality before, during, and after the First Italian COVID-19 Lockdown.	Clocks Sleep
+35301268	'The time is out of joint': temporality, COVID-19 and graphic medicine.	Med Humanit
+35281442	Macrophage Meets the Circadian Clock: Implication of the Circadian Clock in the Role of Macrophages in Acute Lower Respiratory Tract Infection.	Front Cell Infect Microbiol
+35275841	Strengthening Social Capital to Address Isolation and Loneliness in Long-term Care Facilities During the COVID-19 Pandemic: Protocol for a Systematic Review of Research on Information and Communication Technologies.	JMIR Res Protoc
+35262615	Effective recommendations towards healthy routines to preserve mental health during the COVID-19 pandemic.	Braz J Psychiatry
+35235773	Metabolic programs tailor T cell immunity in viral infection, cancer, and aging.	Cell Metab
+35225954	The Importance of Sleep and Circadian Rhythms for Vaccination Success and Susceptibility to Viral Infections.	Clocks Sleep
+35150881	Evidence-based dosing of convalescent plasma for COVID-19 in future trials.	Clin Microbiol Infect
+35143770	Physical and mental health 3 months after SARS-CoV-2 infection (long COVID) among adolescents in England (CLoCk): a national matched cohort study.	Lancet Child Adolesc Health
+35136715	An efficient hardware architecture based on an ensemble of deep learning models for COVID -19 prediction.	Sustain Cities Soc
+35113443	Evaluation of cognitive deficits in patients infected with COVID-19.	Eur Rev Med Pharmacol Sci
+35084464	Telepharmacy services in acute care: Diverse needs within a large health system.	Am J Health Syst Pharm
+35058977	Impact of COVID-19 on the 937 Telephone Medical Consultation Service in Saudi Arabia.	Int J Telemed Appl
+35040871	Association of Telomere Length With Risk of Disease and Mortality.	JAMA Intern Med
+35038741	The Emergence of SARS-CoV-2 Variants of Concern Is Driven by Acceleration of the Substitution Rate.	Mol Biol Evol
+35038728	Purifying Selection Determines the Short-Term Time Dependency of Evolutionary Rates in SARS-CoV-2 and pH1N1 Influenza.	Mol Biol Evol
+34971289	Telehealth outreach programming in the Pacific island of Guam: Providing access to dementia care support services during the COVID-19 pandemic.	Alzheimers Dement
+34951379	The Oversight of Circadian Clock Genes for the Detection, Prevention, and Treatment of COVID-19 Infection.	Curr Neurovasc Res
+34865910	Comment on "Anti-COVID-19 measures threaten our healthy body weight: Changes in sleep and external synchronizers of circadian clocks during confinement" Clinical Nutrition 2021.	Clin Nutr
+34725568	Epidemiological dynamics of SARS-CoV-2 VOC Gamma in Rio de Janeiro, Brazil.	Virus Evol
+34698137	Pilot Sleep Behavior across Time during Ultra-Long-Range Flights.	Clocks Sleep
+34691006	Discovery and Evolution of a Divergent Coronavirus in the Plateau Pika From China That Extends the Host Range of Alphacoronaviruses.	Front Microbiol
+34672531	Triboelectric Nanogenerator from Used Surgical Face Mask and Waste Mylar Materials Aiding the Circular Economy.	ACS Appl Mater Interfaces
+34671962	Evaluation of pain in patients with COVID-19.	Agri
+34667714	Integration of mobile sensors in a telemedicine hospital system: remote-monitoring in COVID-19 patients.	Z Gesundh Wiss
+34619425	Studying sense of agency online: Can intentional binding be observed in uncontrolled online settings?	Conscious Cogn
+34617289	The clock on the wall.	J Am Geriatr Soc
+34603246	Genomic and Epidemiological Analysis of SARS-CoV-2 Viruses in Sri Lanka.	Front Microbiol
+34589820	Chronic circadian phase advance in male mice induces depressive-like responses and suppresses neuroimmune activation.	Brain Behav Immun Health
+34584519	[Virtual and in-person accompaniment of hospitalized patients during the COVID-19 pandemic in ColombiaAcompanhamento virtual e presencial de pacientes hospitalizados durante a pandemia de COVID-19 na Colombia].	Rev Panam Salud Publica
+34549481	Outdoor daylight exposure and longer sleep promote wellbeing under COVID-19 mandated restrictions.	J Sleep Res
+34545347	The circadian clock component BMAL1 regulates SARS-CoV-2 entry and replication in lung epithelial cells.	iScience
+34542826	Is There a Link between Circadian Clock Protein PERIOD 3 (PER3) (rs57875989) Variant and the Severity of COVID-19 Infection?	Curr Med Sci
+34527281	Genomic epidemiology of SARS-CoV-2 transmission lineages in Ecuador.	Virus Evol
+34502212	Epigenetic Clocks Are Not Accelerated in COVID-19 Patients.	Int J Mol Sci
+34478645	A mechanistic evolutionary model explains the time-dependent pattern of substitution rates in viruses.	Curr Biol
+34454972	Phylogenetic reconstruction of the initial stages of the spread of the SARS-CoV-2 virus in the Eurasian and American continents by analyzing genomic data.	Virus Res
+34449575	Dream Recall/Affect and the Hypothalamic-Pituitary-Adrenal Axis.	Clocks Sleep
+34446502	Long COVID and the mental and physical health of children and young people: national matched cohort study protocol (the CLoCk study).	BMJ Open
+34440564	Update on the Phylodynamics of SADS-CoV.	Life (Basel)
+34440474	Increased Pace of Aging in COVID-Related Mortality.	Life (Basel)
+34421788	Subacute Cognitive Impairment in Individuals With Mild and Moderate COVID-19: A Case Series.	Front Neurol
+34413555	Intelligent computing on time-series data analysis and prediction of COVID-19 pandemics.	Pattern Recognit Lett
+34411808	Estimating the age of the subfamily Orthocoronavirinae using host divergence times as calibration ages at two internal nodes.	Virology
+34396817	The Circadian Clock, the Brain, and COVID-19: The Cases of Olfaction and the Timing of Sleep.	J Biol Rhythms
+34328586	Quantum simulations of SARS-CoV-2 main protease M(pro) enable high-quality scoring of diverse ligands.	J Comput Aided Mol Des
+34313128	Strengths and Weaknesses of Docking Simulations in the SARS-CoV-2 Era: the Main Protease (Mpro) Case Study.	J Chem Inf Model
+34270193	[Surgical procedures at the city hospital for patients with Covid-19. A 9-month experience].	Khirurgiia (Mosk)
+34254725	Clinical evidence that the pandemic from 1889 to 1891 commonly called the Russian flu might have been an earlier coronavirus pandemic.	Microb Biotechnol
+34246488	Anti-COVID-19 measures threaten our healthy body weight: Changes in sleep and external synchronizers of circadian clocks during confinement.	Clin Nutr
+34245443	Characteristics of Calls to a COVID-19 Mental Health Hotline in the First Wave of the Pandemic in New York.	Community Ment Health J
+34223865	Prevention of the spread of SARS COV-2 by Rapid Antigenic Tests on the passengers entering an Italian seaport.	Ann Ig
+34220430	COVID-19: Sleep, Circadian Rhythms and Immunity - Repurposing Drugs and Chronotherapeutics for SARS-CoV-2.	Front Neurosci
+34175433	Daytime variation in SARS-CoV-2 infection and cytokine production.	Microb Pathog
+34145908	Moving geroscience from the bench to clinical care and health policy.	J Am Geriatr Soc
+34093241	Frontiers in Chronobiology: Endogenous Clocks at the Core of Signaling Pathways in Physiology.	Front Physiol
+34072951	Neuropsychological Pattern in a Series of Post-Acute COVID-19 Patients in a Rehabilitation Unit: Retrospective Analysis and Correlation with Functional Outcomes.	Int J Environ Res Public Health
+34041192	Exploratory study on the operational issues faced in collection, transportation, and laboratory testing related to COVID-19 in remote areas of selected EAG states of North East and East India.	J Family Med Prim Care
+33946700	LUX: Smart Mirror with Sentiment Analysis for Mental Comfort.	Sensors (Basel)
+33921946	Meal and Sleep Timing before and during the COVID-19 Pandemic: A Cross-Sectional Anonymous Survey Study from Sweden.	Clocks Sleep
+33901264	Impact of COVID-19 social-distancing on sleep timing and duration during a university semester.	PLoS One
+33853970	Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil.	Science
+33847185	Therapeutic Nuclear Magnetic Resonance affects the core clock mechanism and associated Hypoxia-inducible factor-1.	Chronobiol Int
+33820462	Circadian clock modulating small molecules repurposing as inhibitors of SARS-CoV-2 M(pro) for pharmacological interventions in COVID-19 pandemic.	Chronobiol Int
+33819681	Immunogenicity and antigenicity based T-cell and B-cell epitopes identification from conserved regions of 10664 SARS-CoV-2 genomes.	Infect Genet Evol
+33816948	Data in the time of COVID-19: a general methodology to select and secure a NoSQL DBMS for medical data.	PeerJ Comput Sci
+33810168	Multiple Early Introductions of SARS-CoV-2 to Cape Town, South Africa.	Viruses
+33798717	Creating and implementing a COVID-19 recruitment Data Mart.	J Biomed Inform
+33792447	The circadian clock gene Bmal1: Role in COVID-19 and periodontitis.	Chronobiol Int
+33785836	Effect of coronavirus lockdowns on the ambient seismic noise levels in Gujarat, northwest India.	Sci Rep
+33748539	Night shift schedule alters endogenous regulation of circulating cytokines.	Neurobiol Sleep Circadian Rhythms
+33746094	World Tuberculosis Day 2021 Theme - 'The Clock is Ticking' - and the world is running out of time to deliver the United Nations General Assembly commitments to End TB due to the COVID-19 pandemic.	Int J Infect Dis
+33737402	Timing the SARS-CoV-2 index case in Hubei province.	Science
+33706965	Melatonin and healthy aging.	Vitam Horm
+33672021	Molecular Epidemiological Investigation of a Nosocomial Cluster of C. auris: Evidence of Recent Emergence in Italy and Ease of Transmission during the COVID-19 Pandemic.	J Fungi (Basel)
+33651111	Assessment of a Hotel-Based COVID-19 Isolation and Quarantine Strategy for Persons Experiencing Homelessness.	JAMA Netw Open
+33601567	Optimal control in pandemics.	Phys Rev E
+33573430	A Timely Call to Arms: COVID-19, the Circadian Clock, and Critical Care.	J Biol Rhythms
+33568452	Molecular Evolution of Human Coronavirus 229E in Hong Kong and a Fatal COVID-19 Case Involving Coinfection with a Novel Human Coronavirus 229E Genogroup.	mSphere
+33551661	Computational drug screening against the SARS-CoV-2 Saudi Arabia isolates through a multiple-sequence alignment approach.	Saudi J Biol Sci
+33480287	Clocks, Viruses, and Immunity: Lessons for the COVID-19 Pandemic.	J Biol Rhythms
+33467418	Health Behaviors of Higher Education Students from 7 Countries: Poorer Sleep Quality during the COVID-19 Pandemic Predicts Higher Dietary Risk.	Clocks Sleep
+33464672	Sterilizing Immunity against SARS-CoV-2 Infection in Mice by a Single-Shot and Lipid Amphiphile Imidazoquinoline TLR7/8 Agonist-Adjuvanted Recombinant Spike Protein Vaccine*.	Angew Chem Int Ed Engl
+33464637	Genome-wide DNA methylation profiling of peripheral blood reveals an epigenetic signature associated with severe COVID-19.	J Leukoc Biol
+33425157	A review of COVID-19 vaccines in development: 6 months into the pandemic.	Pan Afr Med J
+33387941	Acute kidney injury due to COVID-19 and the circadian rhythm.	Med Hypotheses
+33364325	Exploring changes in cigar smoking patterns and motivations to quit cigars among black young adults in the time of COVID-19.	Addict Behav Rep
+33340273	Cortisol level dysregulation and its prevalence-Is it nature's alarm clock?	Physiol Rep
+33335241	COVID-19-mandated social restrictions unveil the impact of social time pressure on sleep and body clock.	Sci Rep
+33320031	Reengineering the Discharge Transition Process of COVID-19 Patients Using Telemedicine, Remote Patient Monitoring, and Around-the-Clock Remote Patient Monitoring from the Emergency Department and Inpatient Units.	Telemed J E Health
+33295605	Assessing Uncertainty in the Rooting of the SARS-CoV-2 Phylogeny.	Mol Biol Evol
+33272180	Circadian Clock Genes: Targeting Innate Immunity for Antiviral Strategies Against COVID-19.	Curr Neurovasc Res
+33263102	The Flood of COVID-19 Publications: a Word of Caution.	SN Compr Clin Med
+33226725	Impacts of COVID-19 on ecology and evolutionary biology faculty in the United States.	Ecol Appl
+33219449	Current methods for diagnosis of human coronaviruses: pros and cons.	Anal Bioanal Chem
+33192897	Pandemic, Quarantine, and Psychological Time.	Front Psychol
+33183203	Nicotinamide: Oversight of Metabolic Dysfunction Through SIRT1, mTOR, and Clock Genes.	Curr Neurovasc Res
+33165945	Rapid adaptation and continuous performance evaluation of SARS-CoV-2 envelope gene (E-gene) real-time RT-PCR assays to support the hospital surge in test demand.	J Med Virol
+33165384	Psychiatry postgraduate examinations for 2020 in the middle of COVID19 crisis: Suggestions from Indian teachers of psychiatry.	Indian J Psychiatry
+33161818	The Circadian Clock and Viral Infections.	J Biol Rhythms
+33130483	Stay-at-home circumstances do not produce sleep disorders: An international survey during the COVID-19 pandemic.	J Psychosom Res
+33107038	COVID-19: An overview for dermatologists.	Int J Dermatol
+33092637	Human genetic factors associated with susceptibility to SARS-CoV-2 infection and COVID-19 disease severity.	Hum Genomics
+33089208	Increased Resilience Weakens the Relationship between Perceived Stress and Anxiety on Sleep Quality: A Moderated Mediation Analysis of Higher Education Students from 7 Countries.	Clocks Sleep
+33015537	Elderly as a High-risk Group during COVID-19 Pandemic: Effect of Circadian Misalignment, Sleep Dysregulation and Melatonin Administration.	Sleep Vigil
+33003040	COVID-19 Threatens Progress Toward Gender Equity Within Academic Medicine.	Acad Med
+32963703	Hydrogen: A Novel Option in Human Disease Treatment.	Oxid Med Cell Longev
+32887735	An Early Pandemic Analysis of SARS-CoV-2 Population Structure and Dynamics in Arizona.	mBio
+32875944	Accounting for Time: Circadian Rhythms in the Time of COVID-19.	J Biol Rhythms
+32864178	Multidisciplinary, three-dimensional and individualized comprehensive treatment for severe/critical COVID-19.	Liver Res
+32836501	International connectedness and local disconnectedness: MNE strategy, city-regions and disruption.	J Int Bus Stud
+32816316	Geographical reconstruction of the SARS-CoV-2 outbreak in Lombardy (Italy) during the early phase.	J Med Virol
+32804145	Fiat Lux: The Light Became Therapy. An Overview on the Bright Light Therapy in Alzheimer's Disease Sleep Disorders.	J Alzheimers Dis
+32758906	Are night shift workers at an increased risk for COVID-19?	Med Hypotheses
+32755538	[A race against the clock: creation of SARS-Cov-2 in the laboratory, a month after its emergence!]	Med Sci (Paris)
+32700513	Clock genes may drive seasonal variation in SARS-CoV-2 infectivity: are we due for a second wave of COVID-19 in the fall?	J Biol Regul Homeost Agents
+32700231	Sleep and circadian rhythm in response to the COVID-19 pandemic.	Can J Public Health
+32699357	COVID-19 management in light of the circadian clock.	Nat Rev Mol Cell Biol
+32697346	Transmission route and introduction of pandemic SARS-CoV-2 between China, Italy, and Spain.	J Med Virol
+32633583	COVID-19 and "natural" experiments arising from physical distancing: a hypothetical case study from chronobiology.	Chronobiol Int
+32585699	Effects of tobacco cigarettes, e-cigarettes, and waterpipe smoking on endothelial function and clinical outcomes.	Eur Heart J
+32519912	Effects of altered photoperiod due to COVID-19 lockdown on pregnant women and their fetuses.	Chronobiol Int
+32516020	Early dinner or "dinner like a pauper": Evidence, the habitual time of the largest meal of the day - dinner - is predisposing to severe COVID-19 outcome - death.	Chronobiol Int
+32506942	Telemedicine for Diabetes After the COVID-19 Pandemic: We Can't Put the Toothpaste Back in the Tube or Turn Back the Clock.	J Diabetes Sci Technol
+32478712	Global Collaboration in Times of COVID-19: Cuba's Emergency Medical Contingent.	MEDICC Rev
+32470948	Why does COVID-19 disproportionately affect older people?	Aging (Albany NY)
+32442317	The case for chronotherapy in Covid-19-induced acute respiratory distress syndrome.	Br J Pharmacol
+32414076	Global Transmission, Spatial Segregation, and Recombination Determine the Long-Term Evolution and Epidemiology of Bovine Coronaviruses.	Viruses
+32377508	Review on government action plans to reduce energy consumption in buildings amid COVID-19 pandemic outbreak.	Mater Today Proc
+32376543	[Dandelion clock-like sign on CT for diagnose of COVID-19].	Nan Fang Yi Ke Da Xue Xue Bao
+32350105	Putative contributions of circadian clock and sleep in the context of SARS-CoV-2 infection.	Eur Respir J
+32229705	Geroprotective and senoremediative strategies to reduce the comorbidity, infection rates, severity, and lethality in gerophilic and gerolavic infections.	Aging (Albany NY)
+32048560	The global spread of 2019-nCoV: a molecular evolutionary analysis.	Pathog Glob Health

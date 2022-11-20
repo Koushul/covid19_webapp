@@ -1,0 +1,1250 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36254196	Parallel detection of SARS-CoV-2 epitopes reveals dynamic immunodominance profiles of CD8(+) T memory cells in convalescent COVID-19 donors.	Clin Transl Immunology
+36253938	Global case fatality rate from COVID-19 has decreased by 96.8% during 2.5 years of the pandemic.	J Med Virol
+36250073	Immunological imprint on peripheral blood in kidney transplant recipients after two doses of SARS-CoV-2 mRNA vaccination in Japan.	Front Med (Lausanne)
+36248859	Case report: Bilateral panuveitis resembling Vogt-Koyanagi-Harada disease after second dose of BNT162b2 mRNA COVID-19 vaccine.	Front Immunol
+36246568	Analysis of Adrenocorticotropic Hormone and Cortisol Levels in Acute Respiratory Distress Syndrome COVID-19 Patients.	Dis Markers
+36246016	Monocyte HLADR and Immune Dysregulation Index as Biomarkers for COVID-19 Severity and Mortality.	Indian J Clin Biochem
+36245699	The Relationship Between Individuals' Use of Complementary and Alternative Medicine During the Pandemic in Turkey and Their Attitudes Towards Perceived COVID-19 Risk.	Eur J Integr Med
+36238761	Fatal COVID-19 is Associated with Reduced HLA-DR, CD123 or CD11c Expression on Circulating Dendritic Cells.	J Inflamm Res
+36231789	COVID-19 Rapid Antigen Tests: Bibliometric Analysis of the Scientific Literature.	Int J Environ Res Public Health
+36229378	In-silico study of influence of HLA heterogeneity on CTL responses across ethnicities to SARS-CoV-2.	Hum Immunol
+36228659	Human leukocyte antigen alleles associate with COVID-19 vaccine immunogenicity and risk of breakthrough infection.	Nat Med
+36223872	Comparison of hand hygiene compliance among healthcare workers in Intensive care units and wards of COVID-19: A large scale multicentric study in India.	Am J Infect Control
+36220753	Impact of SARS-CoV-2 infection on the profiles and responses of innate immune cells after recovery.	J Microbiol Immunol Infect
+36220024	[Clinical-epidemiological profile of patients hospitalized with COVID-19 in Coronel Suarez, Argentina].	Medicina (B Aires)
+36220022	[Immunotherapy with anti-SARS-COV-2 neutralizing F(ab')2 antibodies from equine serum in the treatment of outpatients with bilateral COVID-19 pneumonia].	Medicina (B Aires)
+36205462	Genome Reporting for Healthy Populations-Pipeline for Genomic Screening from the GENCOV COVID-19 Study.	Curr Protoc
+36204816	Genetics of COVID-19 and myalgic encephalomyelitis/chronic fatigue syndrome: a systematic review.	Ann Clin Transl Neurol
+36203479	Time-dependent contraction of the SARS-CoV-2-specific T-cell responses in convalescent individuals.	J Allergy Clin Immunol Glob
+36202985	A novel vaccine based on SARS-CoV-2 CD4(+) and CD8(+) T cell conserved epitopes from variants Alpha to Omicron.	Sci Rep
+36196903	Utilizing clinical pharmacology in the drug repurposing arena: a look into COVID-19.	Expert Rev Clin Pharmacol
+36195992	SARS-CoV-2: Has artificial intelligence stood the test of time.	Chin Med J (Engl)
+36192361	Immunophenotyping Characteristics of COVID-19 Patients: Peripheral Blood CD8+ HLA-DR+ T Cells as a Biomarker for Mortality Outcome.	J Med Virol
+36191383	Midwives' and women's views on digital midwifery care in Germany: Results from an online survey.	Midwifery
+36182109	Dr. Kitajima et al reply.	J Rheumatol
+36170483	10 minutes with Dr Shabnum Sarfraz, Senior Advisor for Health Systems and Policy Research at P2Impact Associates and Member Social Sector & Devolution, Planning Commission, Government of Pakistan, Islamabad, Pakistan.	BMJ Lead
+36166765	Literature Commentary.	J Neuroophthalmol
+36163880	CLL-189 Ibrutinib Treatment and Its Impact on Circulating Immune Cells in Chronic Lymphocytic Leukemia Patients.	Clin Lymphoma Myeloma Leuk
+36163208	Letter to the Editor: Influence of right ventricular structure and function on hospital outcomes in COVID-19 patients.	Heart Lung
+36161614	Evaluation of the frequency and intensity of COVID-19 in patients with ankylosing spondylitis under anti-TNF therapy.	Turk J Med Sci
+36160947	COVID 19 Associated Mucormycosis: Preventable Risk Factors Leading to a Better Prognosis: A Case Series.	Indian J Otolaryngol Head Neck Surg
+36156421	HLA-DR4 and DRB4 and COVID-19 vaccination-related ANCA-associated vasculitis: Correspondence.	Ther Apher Dial
+36152665	Dr Hammond's COVID-19 inquiry.	Lancet Infect Dis
+36148740	Letter to the Editor: "Respiratory and peripheral muscular ultrasound characteristics in ICU COVID 19 ARDS patients".	J Crit Care
+36148228	Evaluation of the immunomodulatory effects of interleukin-10 on peripheral blood immune cells of COVID-19 patients: Implication for COVID-19 therapy.	Front Immunol
+36148017	Pediatric Residency Training amid the COVID-19 Pandemic: Exploring the Impact of Supervision and Clinical Practice Guidelines on Clinical and Financial Outcomes.	Comput Math Methods Med
+36143338	Exome-Wide Association Study Reveals Host Genetic Variants Likely Associated with the Severity of COVID-19 in Patients of European Ancestry.	Life (Basel)
+36138590	Clinical and Evolutionary Features of SARS-CoV-2 Infection (COVID-19) in Children, a Romanian Perspective.	Children (Basel)
+36136066	Molecular Mimicry between SARS-CoV-2 and Human Endocrinocytes: A Prerequisite of Post-COVID-19 Endocrine Autoimmunity?	Pathophysiology
+36130991	Deep RNA sequencing of intensive care unit patients with COVID-19.	Sci Rep
+36130929	The SARS-CoV-2 Omicron BA.1 spike G446S mutation potentiates antiviral T-cell recognition.	Nat Commun
+36122752	Photocatalytic degradation of COVID-19 related drug arbidol hydrochloride by Ti3C2 MXene/supramolecular g-C3N4 Schottky junction photocatalyst.	Chemosphere
+36116149	Bioinformatics pipeline unveils genetic variability to synthetic vaccine design for Indian SARS-CoV-2 genomes.	Int Immunopharmacol
+36116110	MHC2AffyPred: A machine-learning approach to estimate affinity of MHC class II peptides based on structural interaction fingerprints.	Proteins
+36109290	HLA-B evolutionary divergence is associated with outcomes after SARS-CoV-2 infection.	Hum Immunol
+36108414	SEIR-FMi: A coronavirus disease epidemiological model based on intra-city movement, inter-city movement and medical resource investment.	Comput Biol Med
+36105740	Pretomanid for tuberculosis treatment: an update for clinical purposes.	Curr Res Pharmacol Drug Discov
+36105250	COVID-19 diverse outcomes: Aggravated reinfection, type I interferons and antibodies.	Med Hypotheses
+36099369	High mortality at the beginning of the COVID-19 pandemic in a referral center in the metropolitan area of Mexico City.	J Infect Dev Ctries
+36096524	Reactive arthritis after SARS-CoV-2 infection.	RMD Open
+36091644	Lockdown-induced Urban Aerosol Change over Changchun, China During COVID-19 Outbreak with Polarization LiDAR.	Chin Geogr Sci
+36090540	Perspective of Uncertainty and Emotional Responses in Breast Cancer Patients During the COVID-19 Pandemic.	SAGE Open Nurs
+36089469	Screening for antibodies to HLA class I in apheresis donors following Covid-19 or SARS-CoV-2 vaccination.	Transfus Apher Sci
+36077133	The Severity of COVID-19 Affects the Plasma Soluble Levels of the Immune Checkpoint HLA-G Molecule.	Int J Mol Sci
+36074724	HLA-DR4 and DRB4: Potential risk alleles for COVID-19 vaccination-related ANCA-associated vasculitis.	Ther Apher Dial
+36072193	Effect of the COVID-19 Pandemic Lockdown on the Management of Diabetic Retinopathy: A Cross-Sectional Study.	Cureus
+36070571	Analysis of Cross-sectional and Longitudinal HLA and Anti-viral Responses After COVID Infection in Renal Allograft Recipients: Differences and Correlates.	Transplantation
+36068292	HLA alleles, disease severity, and age associate with T-cell responses following infection with SARS-CoV-2.	Commun Biol
+36068240	Long-term memory CD8(+) T cells specific for SARS-CoV-2 in individuals who received the BNT162b2 mRNA vaccine.	Nat Commun
+36066279	Response to COVID-19 vaccine is reduced in patients with inflammatory bowel disease, but improved with additional dose.	J Gastroenterol Hepatol
+36065457	Footballers' citizenship during COVID-19: A case study of Premier League players' community support.	Int Rev Sociol Sport
+36059830	Humoral response to SARS-CoV-2 mRNA vaccination in previous non-responder kidney transplant recipients after short-term withdrawal of mycophenolic acid.	Front Med (Lausanne)
+36049601	SARS-CoV-2-specific T cell responses in patients with multisystem inflammatory syndrome in children.	Clin Immunol
+36042219	Deconvoluting complex correlates of COVID-19 severity with a multi-omic pandemic tracking strategy.	Nat Commun
+36035093	A service evaluation of a community project combining psychoeducation and mind-body complementary approaches to support those with long covid in the UK.	Eur J Integr Med
+36033878	Changes in molecular characteristics and antimicrobial resistance of invasive Staphylococcus aureus infection strains isolated from children in Kunming, China during the COVID-19 epidemic.	Front Microbiol
+36018887	Epitope-Evaluator: An interactive web application to study predicted T-cell epitopes.	PLoS One
+36014949	Reply to Scarpati, G.; Piazza, O. Comment on "Guerrero-Romero et al. Magnesium-to-Calcium Ratio and Mortality from COVID-19. Nutrients 2022, 14, 1686".	Nutrients
+36006472	[History of reactive arthritis. Historical milestones and future].	Z Rheumatol
+36004041	How coordinated link sharing behavior and partisans' narrative framing fan the spread of COVID-19 misinformation and conspiracy theories.	Soc Netw Anal Min
+36002440	A review on computer-aided chemogenomics and drug repositioning for rational COVID-19 drug discovery.	Chem Biol Drug Des
+36001817	Prevalence Versus Evidence: A Closer Look at the Research Available for Serving Children Exposed to Maltreatment and a Response to Hyter's Call for Trauma-Informed Care.	Am J Speech Lang Pathol
+35996885	Respiratory and systemic monocytes, dendritic cells, and myeloid-derived suppressor cells in COVID-19: Implications for disease severity.	J Intern Med
+35996834	Establishment of the large-scale longitudinal multi-omics dataset in COVID-19 patients: data profile and biospecimen.	BMB Rep
+35992449	Cross-cultural validity of the Death Reflection Scale during the COVID-19 pandemic.	Front Psychol
+35988866	Author reply to letter to the editor "Imaging abnormalities in pediatric neuro-COVID are more diverse than specified".	Biomed J
+35987702	Association between SARS-CoV-2 infection and de novo HLA donor specific antibody production in lung transplant recipients: Single-center study.	Hum Immunol
+35983319	Predictors of Decision Regret among Caregivers of Older Canadians Receiving Home Care: A Cross-Sectional Online Survey.	MDM Policy Pract
+35979935	Serum-derived extracellular vesicles: Novel biomarkers reflecting the disease severity of COVID-19 patients.	J Extracell Vesicles
+35979368	Single-cell RNA sequencing to decipher the immunogenicity of ChAdOx1 nCoV-19/AZD1222 and mRNA-1273 vaccines in patients with autoimmune rheumatic diseases.	Front Immunol
+35979235	Identifying Drug-Induced Liver Injury Associated With Inflammation-Drug and Drug-Drug Interactions in Pharmacologic Treatments for COVID-19 by Bioinformatics and System Biology Analyses: The Role of Pregnane X Receptor.	Front Pharmacol
+35978325	Lessons from the COVID-19 pandemic and recent developments on the communication of clinical trials, publishing practices, and research integrity: in conversation with Dr. David Moher.	Trials
+35971907	Public health in undergraduate nursing education and workforce readiness.	Public Health Nurs
+35967415	Viral immunogenic footprints conferring T cell cross-protection to SARS-CoV-2 and its variants.	Front Immunol
+35966613	Role of T Lymphocyte Activation Profile in Predicting SARS-CoV-2 Severity: Experience from Tertiary Care Centre of North India.	Indian J Hematol Blood Transfus
+35966047	Kinetics of anti-SARS-CoV-2 responses post complete vaccination with coronavac: A prospective study in 50 health workers.	J Public Health Res
+35963198	Anti-neuronal antibodies against brainstem antigens are associated with COVID-19.	EBioMedicine
+35962258	Digital innovations for retinal care in diabetic retinopathy.	Acta Diabetol
+35960731	Association between HLA-C alleles and COVID-19 severity in a pilot study with a Spanish Mediterranean Caucasian cohort.	PLoS One
+35957961	High-resolution analysis of individual spike peptide-specific CD4(+) T-cell responses in vaccine recipients and COVID-19 patients.	Clin Transl Immunology
+35956066	Anatomical and Functional Effects of Oral Administration of Curcuma Longa and Boswellia Serrata Combination in Patients with Treatment-Naive Diabetic Macular Edema.	J Clin Med
+35955721	T-Cell Receptor Repertoire Sequencing and Its Applications: Focus on Infectious Diseases and Cancer.	Int J Mol Sci
+35950798	Appearance of Anti-MDA5 Antibody-Positive Dermatomyositis After COVID-19 Vaccination.	Mod Rheumatol Case Rep
+35946342	Advances in delivery methods of Arthrospira platensis (spirulina) for enhanced therapeutic outcomes.	Bioengineered
+35937077	Exosomal Vaccine Loading T Cell Epitope Peptides of SARS-CoV-2 Induces Robust CD8(+) T Cell Response in HLA-A Transgenic Mice.	Int J Nanomedicine
+35934109	Letter to the editor regarding 2022 publication by Dr Melnyk et al titled, "Associations among infection prevention professionals' mental/physical health, lifestyle behaviors, shift length, race, and workplace wellness support during COVID-19."	Am J Infect Control
+35932763	Immunological memory to common cold coronaviruses assessed longitudinally over a three-year period pre-COVID19 pandemic.	Cell Host Microbe
+35931021	Emergence of immune escape at dominant SARS-CoV-2 killer T cell epitope.	Cell
+35927962	A conversation on evidence-based medicine in the COVID-era, patient revolution, and academic career with Dr. Victor Montori.	J Evid Based Med
+35917148	Evaluation of the Attitude of Parents in Pediatric Oncology Towards COVID-19 Vaccine.	J Pediatr Hematol Oncol
+35915642	Deep learning and machine learning-based voice analysis for the detection of COVID-19: A proposal and comparison of architectures.	Knowl Based Syst
+35912367	Influence of Disease Severity and Gender on HLA-C Methylation in COVID-19 Patients.	Iran J Sci Technol Trans A Sci
+35911710	Susceptibility and Severity of COVID-19 Are Both Associated With Lower Overall Viral-Peptide Binding Repertoire of HLA Class I Molecules, Especially in Younger People.	Front Immunol
+35910083	At the Root of 3 "Long" Diseases: Persistent Antigens Inflicting Chronic Damage on the Brain and Other Organs in Gulf War Illness, Long-COVID-19, and Chronic Fatigue Syndrome.	Neurosci Insights
+35910062	Learning about cardiac arrest from 'Dr. Google': a pre- and peri-pandemic infodemiology study in Nigeria.	Pan Afr Med J
+35908645	Data driven health monitoring of Peltier modules using machine-learning-methods.	SLAS Technol
+35903104	SARS-Arena: Sequence and Structure-Guided Selection of Conserved Peptides from SARS-related Coronaviruses for Novel Vaccine Development.	Front Immunol
+35901034	The percentage of CD39+ monocytes is higher in pregnant COVID-19+ patients than in nonpregnant COVID-19+ patients.	PLoS One
+35899989	Application in medicine: Has artificial intelligence stood the test of time.	Chin Med J (Engl)
+35898494	Immune Cells Profiles In The Peripheral Blood Of Patients With Moderate To Severe COVID-19 And Healthy Subjects With and Without Vaccination With The Pfizer-BioNTech mRNA Vaccine.	Front Immunol
+35896335	Cutting Edge: Hyperinflammatory Monocytes Expressing CD56 Abound in Severe COVID-19 Patients.	J Immunol
+35894946	Designing ferritin nanocage based vaccine candidates for SARS-CoV-2 by in silico engineering of its HLA I and HLA II epitope peptides.	J Biomol Struct Dyn
+35891550	Omicron BA.1 Mutations in SARS-CoV-2 Spike Lead to Reduced T-Cell Response in Vaccinated and Convalescent Individuals.	Viruses
+35891306	Development of a T Cell-Based COVID-19 Vaccine Using a Live Attenuated Influenza Vaccine Viral Vector.	Vaccines (Basel)
+35891287	The T Cell Epitope Landscape of SARS-CoV-2 Variants of Concern.	Vaccines (Basel)
+35885790	Managing the Mental Health of Healthcare Professionals in Times of Crisis: The Aruban COVID-19 Experience.	Healthcare (Basel)
+35884927	Prediction of Conserved HLA Class I and Class II Epitopes from SARS-CoV-2 Licensed Vaccines Supports T-Cell Cross-Protection against SARS-CoV-1.	Biomedicines
+35882503	Dr Jiwu Chen: providing a full range of services to the community during the COVID-19 pandemic.	Br J Sports Med
+35880144	COVID-19 Infection Does Not Alter HLA Antibody Reactivity.	Kidney Int Rep
+35876296	Oral treatments for outpatient COVID-19: Effectiveness and value.	J Manag Care Spec Pharm
+35875056	Case report: Paradoxical manifestation of covid 19 induced thyroiditis in the unvaccinated patient.	Ann Med Surg (Lond)
+35874762	Tuberculosis Phenotypic and Genotypic Drug Susceptibility Testing and Immunodiagnostics: A Review.	Front Immunol
+35874712	The KIR2DL2/HLA-C1C1 Gene Pairing Is Associated With an Increased Risk of SARS-CoV-2 Infection.	Front Immunol
+35859327	Single-cell transcriptomic atlas reveals distinct immunological responses between COVID-19 vaccine and natural SARS-CoV-2 infection.	J Med Virol
+35856382	Real-time RT-PCR Ct value is not associated with COVID-19 disease severity: an observational study in tertiary COVID-19 referral hospital of West Java, Indonesia.	Eur Rev Med Pharmacol Sci
+35850783	COVID-19 vaccine hesitancy in Africa: a scoping review.	Glob Health Res Policy
+35850651	Plant Extracts and Phytochemicals, a Promising Strategy Against Oral Lichen Planus: a review on Clinical Trials.	Recent Pat Biotechnol
+35848942	Detailed stratified GWAS analysis for severe COVID-19 in four European populations.	Hum Mol Genet
+35844816	Business trends & challenges in Islamic FinTech: A systematic literature review.	F1000Res
+35844628	Can targeted messages reduce COVID-19 vaccination hesitancy? A randomized trial.	Prev Med Rep
+35841887	Resolving SARS-CoV-2 CD4(+) T cell specificity via reverse epitope discovery.	Cell Rep Med
+35841813	Uncovering the Overlap of Global and Domestic Rural Surgery for Medical Trainees.	J Surg Res
+35838957	SARS-CoV-2 Host Immunogenetic Biomarkers.	Methods Mol Biol
+35838097	Survival analysis and outcome prediction of COVID-19 patients: a retrospective observational study from tertiary referral hospital in Indonesia.	Trop Biomed
+35835296	SARS-CoV-2 mRNA vaccination is not associated with the induction of anti-HLA or non-HLA antibodies.	Transpl Immunol
+35833981	An association between a positive direct antiglobulin test and HLA-DR12 in COVID-19.	Ann Hematol
+35833790	Follow-Up of Cases with the Telemedicine Method During the COVID-19 Pandemic: An Alternative Strategy for Reduction of Hospital Workload and Hospital-Related Transmissions.	Telemed J E Health
+35818985	Giant cell arteritis presenting with chronic cough and headache after BNT162b2 mRNA COVID-19 vaccination.	QJM
+35818892	The association of human leucocyte antigen (HLA) alleles with COVID-19 severity: A systematic review and meta-analysis.	Rev Med Virol
+35814918	Telehealth Encourages Patients with Diabetes in Racial and Ethnic Minority Groups to Return for in-Person Ophthalmic Care During the COVID-19 Pandemic.	Clin Ophthalmol
+35812392	Monocytic-Myeloid Derived Suppressor Cells Suppress T-Cell Responses in Recovered SARS CoV2-Infected Individuals.	Front Immunol
+35812370	Peptidome Surveillance Across Evolving SARS-CoV-2 Lineages Reveals HLA Binding Conservation in Nucleocapsid Among Variants With Most Potential for T-Cell Epitope Loss in Spike.	Front Immunol
+35809595	Immune checkpoint inhibitors in kidney transplant recipients: a multicentre, single-arm, phase 1 study.	Lancet Oncol
+35806995	NKG2A Expression among CD8 Cells Is Associated with COVID-19 Progression in Hypertensive Patients: Insights from the BRACE CORONA Randomized Trial.	J Clin Med
+35800913	Arterial Hypertension in Patients with COVID-19 - Neural Network Model.	Acta Inform Med
+35800084	Case Report: Functional Outcome of COVID-19 Subjects With Myasthenia Gravis and Critical Illness Polyneuropathy.	Front Neurol
+35798496	Case of reactive sacroiliitis possibly induced by an mRNA coronavirus disease vaccine.	BMJ Case Rep
+35793369	Genetic polymorphisms associated with susceptibility to COVID-19 disease and severity: A systematic review and meta-analysis.	PLoS One
+35789569	Association of anti-SARS-COV-2 vaccine with increased incidence of myositis-related anti-RNA-synthetases auto-antibodies.	J Transl Autoimmun
+35788229	In silico study on the effects of disulfide bonds in ORF8 of SARS-CoV-2.	Phys Chem Chem Phys
+35787874	Dr Li Wenliang: Wuhan "Whistleblower" and Early COVID-19 Victim.	Mayo Clin Proc
+35781135	A high-throughput yeast display approach to profile pathogen proteomes for MHC-II binding.	Elife
+35779558	Enoxaparin for primary thromboprophylaxis in symptomatic outpatients with COVID-19 (OVID): a randomised, open-label, parallel-group, multicentre, phase 3 trial.	Lancet Haematol
+35777823	Dr. Trefond et al reply: Giant Cell Arteritis After SARS-CoV-2 Vaccination-Coincidence or Trigger?	J Rheumatol
+35777803	Abstracts of Presentations at the Association of Clinical Scientists 143(rd) Meeting Louisville, KY May 11-14,2022.	Ann Clin Lab Sci
+35770351	Do undergraduate general practice placements propagate the 'inverse care law'?	Educ Prim Care
+35770252	Epigenetic profiling linked to multisystem inflammatory syndrome in children (MIS-C): A multicenter, retrospective study.	EClinicalMedicine
+35766602	Memory elicitation, T-cell response and antibody production: an independent study of an inactivated entire virus vaccine (Coronavac).	An Acad Bras Cienc
+35766069	Accreditation de la mesure de l'expression des molecules HLA-DR a la surface des monocytes (mHLA-DR) par cytometrie en flux.	Ann Biol Clin (Paris)
+35765462	The 'Fauci Effect': Reducing COVID-19 misconceptions and vaccine hesitancy using an authentic multimodal intervention.	Contemp Educ Psychol
+35760475	Recent updates in diagnosis and management of drug-resistant tuberculosis in India: A paradigm shift and the way ahead during the COVID-19 crisis.	Indian J Tuberc
+35760377	Severe rhabdomyolysis and SARS-CoV-2 vaccination: a reply to the letter by Dr. Josef Finsterer.: Reply to Letter to the Editor regarding our report to Dr. Finsterer.	Int J Infect Dis
+35754606	COVID-19-from emerging global threat to ongoing pandemic crisis.	Proc (Bayl Univ Med Cent)
+35754572	An exploration of vaccination in the 19th century through the eyes of Dr. Albert Mackey.	Proc (Bayl Univ Med Cent)
+35750048	SARS-CoV-2-specific T cell memory with common TCRalphabeta motifs is established in unvaccinated children who seroconvert after infection.	Immunity
+35746613	Autoimmune Effect of Antibodies against the SARS-CoV-2 Nucleoprotein.	Viruses
+35746528	Effect of a Third Dose of SARS-CoV-2 mRNA BNT162b2 Vaccine on Humoral and Cellular Responses and Serum Anti-HLA Antibodies in Kidney Transplant Recipients.	Vaccines (Basel)
+35745684	Cardio- and Neurotoxicity of Selected Anti-COVID-19 Drugs.	Pharmaceuticals (Basel)
+35727933	[A new paradigm for the development of neurodegenerative diseases on the example of Alzheimer's disease and Parkinson's disease.]	Adv Gerontol
+35724850	Predictors of Covid-19 Vaccination Response After In-Vivo T-Cell-Depleted Stem Cell Transplantation.	Transplant Cell Ther
+35722553	Health Action Process Approach (HAPA) as a Framework to Understand Compliance Issues With Health Protocols Among People Undergoing Isolation at Emergency Hospital for COVID-19 Wisma Atlet Kemayoran and RSCM Kiara Ultimate Jakarta Indonesia.	Front Psychiatry
+35721689	Role of systems engineering attributes in enhancing supply chain resilience: Healthcare in context of COVID-19 pandemic.	Heliyon
+35720156	Predictive Ability of Factors in diagnosing COVID-19: Experiences from Qatar's Primary Care Settings.	IJID Reg
+35720153	SARS-CoV-2 seropositivity and subsequent infection risk: a prospective cohort study.	IJID Reg
+35719293	Area-level socioeconomic deprivation, non-national residency, and Covid-19 incidence: A longitudinal spatiotemporal analysis in Germany.	EClinicalMedicine
+35715359	An insight into the current perceptions of UK radiographers on the future impact of AI on the profession: A cross-sectional survey.	J Med Imaging Radiat Sci
+35714803	The association of COVID-19 severity and susceptibility and genetic risk factors: A systematic review of the literature.	Gene
+35700770	Can machines learn the mutation signatures of SARS-CoV-2 and enable viral-genotype guided predictive prognosis?	J Mol Biol
+35699617	Establishing a health profession: What oncology patient navigators can learn from the National Association of Community Health Workers.	Cancer
+35699331	Quo vadis reactive arthritis?	Curr Opin Rheumatol
+35696165	Effect of Text Messaging and Behavioral Interventions on COVID-19 Vaccination Uptake: A Randomized Clinical Trial.	JAMA Netw Open
+35693819	SM-COLSARSPROT: Highly Immunogenic Supramutational Synthetic Peptides Covering the World's Population.	Front Immunol
+35688122	Cross-border knowledge transfer via collaborative virtual training programme during the Covid crisis.	Nurse Educ Pract
+35681490	HLA Allele Frequencies and Association with Severity of COVID-19 Infection in Northern Italian Patients.	Cells
+35679009	Low levels of the key B cell activation marker, HLA-DR, in COVID-19 hospitalized cases are associated with disease severity, dexamethasone treatment, and circulating IL-6 levels.	Immunol Res
+35675811	Broadly recognized, cross-reactive SARS-CoV-2 CD4 T cell epitopes are highly conserved across human coronaviruses and presented by common HLA alleles.	Cell Rep
+35669996	Death, Dying, and Bereavement Around the World: Theories, Varied Views, and Customs.	J Gerontol Soc Work
+35669157	The association between different predictive biomarkers and mortality of COVID-19.	Bull Natl Res Cent
+35668890	The Changing Face of Pediatric Diabetes: How the Pandemic Brought an Epidemic to Light.	Diabetes Spectr
+35668886	It Takes a Brain, a Heart, Courage, and Support.	Diabetes Spectr
+35664353	Human Leukocyte Antigen (HLA) System: Genetics and Association with Bacterial and Viral Infections.	J Immunol Res
+35663899	The ORF8 Protein of SARS-CoV-2 Modulates the Spike Protein and Its Implications in Viral Transmission.	Front Microbiol
+35660968	Mental distress before and during the COVID-19 pandemic: A longitudinal study among communities affected by Ebola virus disease in the DR Congo.	Psychiatry Res
+35657947	Changes in physical activity, dietary and sleeping pattern among the general population in COVID-19: A systematic review protocol.	PLoS One
+35647028	Dysregulated Exosomes Result in Suppression of the Immune Response of Pregnant COVID-19 Convalescent Women.	Front Mol Biosci
+35641328	Response to "COVID-19 and impact on trauma injuries. A Janus facing in opposite directions?" by Drs. Sotiropoulou, Vailas, and Kapirisin, a Letter to the Editor regarding "The influence of a statewide stay-at-home order on trauma volume and patterns at a level 1 trauma center in the United States".	Injury
+35639782	Investigation on anti-Corona viral potential of Yarrow tea.	J Biomol Struct Dyn
+35632815	Molecular Analysis of SARS-CoV-2 Lineages in Armenia.	Viruses
+35632439	Moving beyond Titers.	Vaccines (Basel)
+35632410	Dual-Positive MPO- and PR3-ANCA-Associated Vasculitis Following SARS-CoV-2 mRNA Booster Vaccination: A Case Report and Systematic Review.	Vaccines (Basel)
+35626389	Cardiovascular Risk Stratification in Diabetic Retinopathy via Atherosclerotic Pathway in COVID-19/Non-COVID-19 Frameworks Using Artificial Intelligence Paradigm: A Narrative Review.	Diagnostics (Basel)
+35625532	Matrix Metalloproteinases on Severe COVID-19 Lung Disease Pathogenesis: Cooperative Actions of MMP-8/MMP-2 Axis on Immune Response through HLA-G Shedding and Oxidative Stress.	Biomolecules
+35623041	Signaling via dopamine and adenosine receptors modulate viral peptide-specific and T-cell IL-8 response in COVID-19.	Immunol Med
+35621721	Impact of the COVID-19 pandemic on hepatitis C outcomes at a health-system specialty pharmacy.	J Manag Care Spec Pharm
+35615469	Utility of Monocyte Expression of HLA-DR versus T Lymphocyte Frequency in the Assessment of COVID-19 Outcome.	Int J Gen Med
+35615242	Critical care transfers and COVID-19: Managing capacity challenges through critical care networks.	J Intensive Care Soc
+35611169	Identification of vaccine targets & design of vaccine against SARS-CoV-2 coronavirus using computational and deep learning-based approaches.	PeerJ
+35603215	T Cell Epitope Discovery in the Context of Distinct and Unique Indigenous HLA Profiles.	Front Immunol
+35601809	Identification of a Potential mRNA-based Vaccine Candidate against the SARS-CoV-2 Spike Glycoprotein: A Reverse Vaccinology Approach.	ChemistrySelect
+35601470	Evaluating South African and Namibian governments' use of digital media during Covid-19.	World Med Health Policy
+35601094	Control of CDH1/E-Cadherin Gene Expression and Release of a Soluble Form of E-Cadherin in SARS-CoV-2 Infected Caco-2 Intestinal Cells: Physiopathological Consequences for the Intestinal Forms of COVID-19.	Front Cell Infect Microbiol
+35600841	Virtual pedagogy in neurosurgery during the COVID-19 pandemic: Perspectives from university hospital in Nepal.	Interdiscip Neurosurg
+35600330	Highly multiplexed immune repertoire sequencing links multiple lymphocyte classes with severity of response to COVID-19.	EClinicalMedicine
+35599776	Severe Anxiety and PTSD Symptoms Among Ebola Virus Disease Survivors and Healthcare Workers in the Context of the COVID-19 Pandemic in Eastern DR Congo.	Front Psychiatry
+35597120	Immunoinformatic paradigm predicts macrophage and T-cells epitope responses against globally conserved spike fragments of SARS CoV-2 for universal vaccination.	Int Immunopharmacol
+35593707	Neutrophilia, lymphopenia and myeloid dysfunction: a living review of the quantitative changes to innate and adaptive immune cells which define COVID-19 pathology.	Oxf Open Immunol
+35593023	A cross-sectional study to determine the psychological distress among pulmonary tuberculosis patients during COVID-19 pandemic.	Monaldi Arch Chest Dis
+35584714	The association of decreased HLA-G(+) immune cell frequencies with critical COVID-19 patients.	Microb Pathog
+35580839	HLAncPred: a method for predicting promiscuous non-classical HLA binding sites.	Brief Bioinform
+35578985	Subacute thyroiditis associated with thyrotoxic periodic paralysis after COVID-19 vaccination: a case report.	Endocrinol Diabetes Metab Case Rep
+35577837	SARS-CoV-2 in silico binding affinity to human leukocyte antigen (HLA) Class II molecules predicts vaccine effectiveness across variants of concern (VOC).	Sci Rep
+35576833	Immunoinformatic approach for the construction of multi-epitopes vaccine against omicron COVID-19 variant.	Virology
+35573168	Extracorporeal membrane oxygenation support in children with severe coronavirus disease-2019: A case series.	Lancet Reg Health Am
+35572806	Psychological wellbeing and associated factors among nurses exposed to COVID 19: Findings from a cross sectional study.	Int J Disaster Risk Reduct
+35572563	In Silico Analysis Predicts a Limited Impact of SARS-CoV-2 Variants on CD8 T Cell Recognition.	Front Immunol
+35572546	Markers of Memory CD8 T Cells Depicting the Effect of the BNT162b2 mRNA COVID-19 Vaccine in Japan.	Front Immunol
+35571871	Mobile Robotic Platform for Contactless Vital Sign Monitoring.	Cyborg Bionic Syst
+35569928	Graves' Disease after Administration of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccine in a Type 1 Diabetes Patient.	Intern Med
+35568352	Mutations in spike protein T cell epitopes of SARS-COV-2 variants: Plausible influence on vaccine efficacy.	Biochim Biophys Acta Mol Basis Dis
+35567391	T-cell recovery and evidence of persistent immune activation 12 months after severe COVID-19.	Allergy
+35564591	Social Media User Behavior and Emotions during Crisis Events.	Int J Environ Res Public Health
+35561882	The impact of non-infection pandemic stress on depression and anxiety severity: Investigating mediation by intrusive and deliberate rumination.	J Affect Disord
+35543420	An ecological modeling on the adjusted effects of socioeconomic determinants and HLA-DRB1 alleles in fatality of COVID-19 during the early phase of epidemics in a group of countries.	Przegl Epidemiol
+35537758	Editorial Comment from Dr Yuasa to Effect of active anticancer therapy on serologic response to SARS-CoV-2 BNT162b2 vaccine in patients with urothelial and renal cell carcinoma.	Int J Urol
+35536080	Lymphocyte Phenotyping and HLA-DR Expression over the Course of COVID-19 Infection in Patients with Different Disease Severity.	Clin Lab
+35534061	Systems approach to improving traumatic brain injury care in Myanmar: a mixed-methods study from lived experience to discrete event simulation.	BMJ Open
+35531263	Initial anterior uveitis event associated with recent novel SARS-CoV-2 (COVID-19) infection in the setting of HLA-B27.	Am J Ophthalmol Case Rep
+35528867	[Management of immunosuppressive therapy in kidney transplant recipients with COVID19. A multicentre national study derived form the S.E.N. COVID registry.]	Nefrologia
+35528480	Locating temporary waste treatment facilities in the cities to handle the explosive growth of HCWs during pandemics: A novel Grey-AHP-OCRA hybrid approach.	Sustain Cities Soc
+35527232	Re-evaluating the merits of decentralization as a core strategy for effective delivery of drug-resistant tuberculosis care in Pakistan.	Health Policy Plan
+35525710	Distribution of HLA-A, -B, -C, -DRB1, -DQB1, -DPB1 allele frequencies in patients with COVID-19 bilateral pneumonia in Russians, living in the Chelyabinsk region (Russia).	Hum Immunol
+35524970	Discovery of a novel HLA-B*40 allele, HLA-B*40:02:01:30 in a Japanese individual.	HLA
+35524372	The Association between Proportion HLA-BW4 or HLA-BW6 May Causes Immunity Failure in COVID-19.	Iran J Allergy Asthma Immunol
+35524091	"pySewage": a hybrid approach to predict the number of SARS-CoV-2-infected people from wastewater in Brazil.	Environ Sci Pollut Res Int
+35514995	A Protective HLA Extended Haplotype Outweighs the Major COVID-19 Risk Factor Inherited From Neanderthals in the Sardinian Population.	Front Immunol
+35514962	B Cell Characteristics at Baseline Predict Vaccination Response in RTX Treated Patients.	Front Immunol
+35512053	MERS Pseudotyped particle entry (Huh7 tox counterscreen)	SARS-CoV-2 Assays
+35512041	SARS-CoV Pseudotyped particle entry (VeroE6 tox counterscreen)	SARS-CoV-2 Assays
+35512040	MERS Pseudotyped particle entry	SARS-CoV-2 Assays
+35512038	SARS-CoV Pseudotyped particle entry	SARS-CoV-2 Assays
+35506029	Identification of Potential Vaccine Candidates Against SARS-CoV-2 to Fight COVID-19: Reverse Vaccinology Approach.	JMIR Bioinform Biotech
+35505605	"Vitreous Hemorrhage and Long-Lasting Priapism After COVID-19 m-RNA Based Vaccine: A Case Report".	Eur J Ophthalmol
+35502206	Alterations in SARS-CoV-2 Omicron and Delta peptides presentation by HLA molecules.	PeerJ
+35486722	High-resolution profiling of MHC II peptide presentation capacity reveals SARS-CoV-2 CD4 T cell targets and mechanisms of immune escape.	Sci Adv
+35484951	Successful ABO-incompatible living donor kidney transplantation in a recipient who developed flow cytometry crossmatch-positive donor-specific class I HLA antibodies following COVID-19 vaccination.	HLA
+35484931	HLA-B*13:01:01:09, a variant of HLA-B*13:01:01:01, detected in a Japanese individual.	HLA
+35478200	Editorial Comment from Dr Kobayashi to Effect of active anticancer therapy on serologic response to SARS-CoV-2 BNT162b2 vaccine in patients with urothelial and renal cell carcinoma.	Int J Urol
+35478135	The Impact of COVID-19 Infection During the Postoperative Period After Surgery for Ovarian Cancer.	In Vivo
+35471658	Evaluating performance of existing computational models in predicting CD8+ T cell pathogenic epitopes and cancer neoantigens.	Brief Bioinform
+35466171	Successful Treatment of SARS-CoV-2 Vaccination-related Activation of Rheumatoid Arthritis with Positive Findings for Epstein-Barr Virus.	Intern Med
+35465298	Evaluation of Pediatric COVID-19 Screening Process in a Tertiary Hospital of Indonesia.	J Trop Med
+35462277	HLA variation and antigen presentation in COVID-19 and SARS-CoV-2 infection.	Curr Opin Immunol
+35456189	Short- and Long-Term Visual Outcomes in Patients Receiving Intravitreal Injections: The Impact of the Coronavirus 2019 Disease (COVID-19)-Related Lockdown.	J Clin Med
+35455312	An Association Study of HLA with the Kinetics of SARS-CoV-2 Spike Specific IgG Antibody Responses to BNT162b2 mRNA Vaccine.	Vaccines (Basel)
+35455291	Identification of Potential SARS-CoV-2 CD8(+) T Cell Escape Mutants.	Vaccines (Basel)
+35454008	The New Entity of Subacute Thyroiditis amid the COVID-19 Pandemic: From Infection to Vaccine.	Diagnostics (Basel)
+35453072	Immune features of COVID-19 convalescent individuals revealed by a single-cell RNA sequencing.	Int Immunopharmacol
+35441904	Immunoinformatics approach of epitope prediction for SARS-CoV-2.	J Genet Eng Biotechnol
+35438676	No Changes in Body Composition in NCAA Division I Collegiate Football Players because of COVID-19 Restrictions.	J Strength Cond Res
+35432769	Mesenchymal stromal cell delivery as a potential therapeutic strategy against COVID-19: Promising evidence from in vitro results.	World J Biol Chem
+35432316	Computer-Based Immunoinformatic Analysis to Predict Candidate T-Cell Epitopes for SARS-CoV-2 Vaccine Design.	Front Immunol
+35425776	Hyperinflammatory State and Low T1 Adaptive Immune Response in Severe and Critical Acute COVID-19 Patients.	Front Med (Lausanne)
+35422799	Distinct Expression Patterns of Interleukin-22 Receptor 1 on Blood Hematopoietic Cells in SARS-CoV-2 Infection.	Front Immunol
+35420680	Platelet-monocyte interaction amplifies thromboinflammation through tissue factor signaling in COVID-19.	Blood Adv
+35418996	Sex, Age, and Ethnic Background Shape Adaptive Immune Responses Induced by the SARS-CoV-2 mRNA Vaccine.	Front Immunol
+35418729	Epitope Identification and Designing a Potent Multi-epitope Vaccine Construct against SARS-CoV-2 Including the Emerging Variants.	J Glob Infect Dis
+35417332	What really brings you here today? Applying McWhinney's Taxonomy of Patient Behaviour between the first waves of COVID-19.	J Prim Health Care
+35414157	Reverse vaccinology approach for multi-epitope centered vaccine design against delta variant of the SARS-CoV-2.	Environ Sci Pollut Res Int
+35408772	Potential Immunogenic Activity of Computationally Designed mRNA- and Peptide-Based Prophylactic Vaccines against MERS, SARS-CoV, and SARS-CoV-2: A Reverse Vaccinology Approach.	Molecules
+35405594	Viral load is associated with mitochondrial dysfunction and altered monocyte phenotype in acute severe SARS-CoV-2 infection.	Int Immunopharmacol
+35397002	Clinical Features of Multisystem Inflammatory Syndrome in Children Associated with COVID-19 in Indonesia.	J Trop Pediatr
+35395388	Protective HLA alleles against severe COVID-19: HLA-A*68 as an ancestral protection allele in Tapachula-Chiapas, Mexico.	Clin Immunol
+35395248	Pre-existing diabetic retinopathy as a prognostic factor for COVID-19 outcomes amongst people with diabetes: A systematic review.	Diabetes Res Clin Pract
+35392095	Activated CD8(+)CD38(+) Cells Are Associated With Worse Clinical Outcome in Hospitalized COVID-19 Patients.	Front Immunol
+35389886	Immunogenic epitope panel for accurate detection of non-cross-reactive T cell response to SARS-CoV-2.	JCI Insight
+35389244	Simultaneous Measurement of IgM and IgG Antibodies to SARS-CoV-2 Spike, RBD, and Nucleocapsid Multiplexed in a Single Assay on the xMAP INTELLIFLEX DR-SE Flow Analyzer.	Microbiol Spectr
+35387473	Association of Human Leukocyte Antigen Genotypes with Severe Acute Respiratory Syndrome Coronavirus 2 Vaccine-Induced Subacute Thyroiditis.	Thyroid
+35386227	Severe COVID-19 is characterised by inflammation and immature myeloid cells early in disease progression.	Heliyon
+35385690	Bringing research to the intensive care setting.	Cell
+35378533	SARS-COV-2 triggers the development of class I and class II HLA antibodies in recovered convalescent plasma donors.	Intervirology
+35372845	In Situ Pulmonary Thrombolysis and Perfusion Lung Angiography in Severe COVID-19 Respiratory Failure.	Crit Care Explor
+35368387	Autoantibodies against interleukin-1 receptor antagonist in multisystem inflammatory syndrome in children: a multicentre, retrospective, cohort study.	Lancet Rheumatol
+35366470	A privacy-aware method for COVID-19 detection in chest CT images using lightweight deep conventional neural network and blockchain.	Comput Biol Med
+35353341	Rapid identification of SARS-CoV-2 in the point-of-care using digital PCR-based Dr. PCR Di20K COVID-19 Detection Kit without viral RNA extraction.	Genes Genomics
+35352468	The Society for Craniofacial Genetics and Developmental Biology 44th Annual Meeting.	Am J Med Genet A
+35350707	Management strategies and outcomes in renal transplant recipients recovering from COVID-19: A retrospective, multicentre, cohort study.	EClinicalMedicine
+35349827	T cell response against SARS-CoV-2 persists after one year in patients surviving severe COVID-19.	EBioMedicine
+35348437	Human-Immune-System (HIS) humanized mouse model (DRAGA: HLA-A2.HLA-DR4.Rag1KO.IL-2RgammacKO.NOD) for COVID-19.	Hum Vaccin Immunother
+35346953	R&D during public health emergencies: the value(s) of trust, governance and collaboration.	BMJ Glob Health
+35346565	Lung Opacity and Coronary Artery Calcium Score: A Combined Tool for Risk Stratification and Outcome Prediction in COVID-19 Patients.	Acad Radiol
+35342133	Polymyalgia Rheumatica Following COVID-19 Vaccination.	Intern Med
+35336856	Developing an Effective Peptide-Based Vaccine for COVID-19: Preliminary Studies in Mice Models.	Viruses
+35335034	HLA Class II Polymorphism and Humoral Immunity Induced by the SARS-CoV-2 mRNA-1273 Vaccine.	Vaccines (Basel)
+35332841	Mesenchymal Stem Cells-derived Exosomes Ameliorate Lupus by Inducing M2 Macrophage Polarization and Regulatory T Cell Expansion in MRL/lpr Mice.	Immunol Invest
+35325873	Gastrointestinal Health of People Working From Home Due to the COVID-19 Pandemic: Online, Cross-sectional Survey.	Altern Ther Health Med
+35324925	Epitope-based peptide vaccine design and elucidation of novel compounds against 3C like protein of SARS-CoV-2.	PLoS One
+35322240	Allelic imbalance of HLA-B expression in human lung cells infected with coronavirus and other respiratory viruses.	Eur J Hum Genet
+35317914	The African Stroke Organization Conference 2021: Building Capacity, Careers, Collaborations, and Contributions.	J Stroke Cerebrovasc Dis
+35314848	Establishment and recall of SARS-CoV-2 spike epitope-specific CD4(+) T cell memory.	Nat Immunol
+35311993	A Pilot Study Comparing Two Measures of Perceived Health Services Access Among Military Veterans With Musculoskeletal Injuries and Mental Health Conditions.	Mil Med
+35305830	HLA-G 14-bp insertion/deletion polymorphism and risk of coronavirus disease 2019 (COVID-19) among Iraqi patients.	Hum Immunol
+35305718	Immunological insights of selectins in human disease mechanism.	Adv Protein Chem Struct Biol
+35281000	Identification of Distinct Immune Cell Subsets Associated With Asymptomatic Infection, Disease Severity, and Viral Persistence in COVID-19 Patients.	Front Immunol
+35273895	Urinary Albumin to Creatinine Ratio to Predict Diabetic Retinopathy: The Eyes Have It!	Cureus
+35273641	Individualized Constellation of Killer Cell Immunoglobulin-Like Receptors and Cognate HLA Class I Ligands that Controls Natural Killer Cell Antiviral Immunity Predisposes COVID-19.	Front Genet
+35273388	Severe acute interstitial lung disease after BNT162b2 mRNA COVID-19 vaccination in a patient post HLA-haploidentical hematopoietic stem cell transplantation.	Bone Marrow Transplant
+35269808	COVID-19 Pandemic: Escape of Pathogenic Variants and MHC Evolution.	Int J Mol Sci
+35268409	Mobile Telemedicine Screening for Diabetic Retinopathy Using Nonmydriatic Fundus Photographs in Burgundy: 11 Years of Results.	J Clin Med
+35266618	OPTN/SRTR 2020 Annual Data Report: Kidney.	Am J Transplant
+35254660	Rituximab-treated patients with lymphoma develop strong CD8 T-cell responses following COVID-19 vaccination.	Br J Haematol
+35252791	Editorial Comment from Dr Kishida to Rare case of a patient with testicular torsion complicated by acute pneumonia, requiring emergency surgery, during the COVID-19 pandemic.	IJU Case Rep
+35252790	Editorial Comment from Dr Kato to Rare case of a patient with testicular torsion complicated by acute pneumonia, requiring emergency surgery, during the COVID-19 pandemic.	IJU Case Rep
+35250581	Pharmacogenetics and Precision Medicine Approaches for the Improvement of COVID-19 Therapies.	Front Pharmacol
+35247969	Late antibody-mediated rejection in a kidney transplant recipient: COVID 19 induced?	BMC Nephrol
+35247132	Reactive arthritis before and after the onset of the COVID-19 pandemic.	Clin Rheumatol
+35244355	Authors' response to the Letter to the Editor regarding: Post severe COVID-19 infection lung damages study. The experience of early three months multidisciplinary follow-up.	Monaldi Arch Chest Dis
+35235832	SARS-CoV-2 Nsp13 encodes for an HLA-E-stabilizing peptide that abrogates inhibition of NKG2A-expressing NK cells.	Cell Rep
+35232808	COVID-19 Update for the GRAPPA 2021 Annual Meeting: Focus on COVID-19 Vaccination.	J Rheumatol
+35232801	Dr. Trefond et al reply: Giant Cell Arteritis After SARS-CoV-2 Vaccination-Coincidence or Trigger ?	J Rheumatol
+35229637	Minimal Crossover between Mutations Associated with Omicron Variant of SARS-CoV-2 and CD8(+) T-Cell Epitopes Identified in COVID-19 Convalescent Individuals.	mBio
+35228342	Nursing Faculty Experiences Transitioning to a Virtual DNP Residency During COVID-19.	J Dr Nurs Pract
+35227263	Using Andersen's model of health care utilization to assess factors associated with COVID-19 testing among adults in nine low-and middle-income countries: an online survey.	BMC Health Serv Res
+35220372	Drug-resistant tuberculosis: advances in diagnosis and management.	Curr Opin Pulm Med
+35218991	Diagnostic performance of two serological assays for the detection of SARS-CoV-2 specific antibodies: surveillance after vaccination.	Diagn Microbiol Infect Dis
+35216789	Newly diagnosed neuromyelitis optica spectrum disorders following vaccination: Case report and systematic review.	Mult Scler Relat Disord
+35214738	Significance of HLA Haplotypes in Two Patients with Subacute Thyroiditis Triggered by mRNA-Based COVID-19 Vaccine.	Vaccines (Basel)
+35214676	Cytotoxic T-Cell-Based Vaccine against SARS-CoV-2: A Hybrid Immunoinformatic Approach.	Vaccines (Basel)
+35214130	Lipid Nanoparticle Delivery Systems to Enable mRNA-Based Therapeutics.	Pharmaceutics
+35213582	Novel prognostic determinants of COVID-19-related mortality: A pilot study on severely-ill patients in Russia.	PLoS One
+35208550	From Free Binding Energy Calculations of SARS-CoV-2-Receptor Interactions to Cellular Immune Responses.	Medicina (Kaunas)
+35204759	Immunomodulatory Potential of Non-Classical HLA-G in Infections including COVID-19 and Parasitic Diseases.	Biomolecules
+35202566	T cell reactivity to the SARS-CoV-2 Omicron variant is preserved in most but not all individuals.	Cell
+35196160	Reduced Monocyte Subsets, Their HLA-DR Expressions, and Relations to Acute Phase Reactants in Severe COVID-19 Cases.	Viral Immunol
+35194575	SARS-CoV-2 variant B.1.1.7 caused HLA-A2(+) CD8(+) T cell epitope mutations for impaired cellular immune response.	iScience
+35186375	A COVID-19 T-Cell Response Detection Method Based on a Newly Identified Human CD8(+) T Cell Epitope from SARS-CoV-2 - Hubei Province, China, 2021.	China CDC Wkly
+35185875	HLA-C*04:01 Affects HLA Class I Heterozygosity and Predicted Affinity to SARS-CoV-2 Peptides, and in Combination With Age and Sex of Armenian Patients Contributes to COVID-19 Severity.	Front Immunol
+35178559	Response to Letter to Editor by Dr. Pranav Ish entitled 'COVID-19 and Diabetes- double whammy'.	QJM
+35177862	Immunopathological signatures in multisystem inflammatory syndrome in children and pediatric COVID-19.	Nat Med
+35175152	Coeliac disease in the COVID-19 pandemic: does HLA have a protective effect?	Ann Med
+35173720	Successful Induction of Specific Immunological Tolerance by Combined Kidney and Hematopoietic Stem Cell Transplantation in HLA-Identical Siblings.	Front Immunol
+35171086	Identification of a promiscuous conserved CTL epitope within the SARS-CoV-2 spike protein.	Emerg Microbes Infect
+35166838	Response to letter to Editor by Dr Rohan Magoon entitled 'Glycemic control and COVID-19 outcomes: the missing metabolic players'.	QJM
+35164129	Newly Emerging Strategies in Antiviral Drug Discovery: Dedicated to Prof. Dr. Erik De Clercq on Occasion of His 80th Anniversary.	Molecules
+35162544	Promoting and Risk Factors of Nurses' Hardiness Levels during the COVID-19 Pandemic: Results from an Italian Cohort.	Int J Environ Res Public Health
+35157735	SARS-CoV-2-specific T cells generated for adoptive immunotherapy are capable of recognizing multiple SARS-CoV-2 variants.	PLoS Pathog
+35157641	Innate Immune Stimulation Should not be Overlooked in Post-exposure Prophylaxis and Early Therapy for Coronavirus Infections.	MEDICC Rev
+35157634	Cuban COVID-19 Vaccines for Children: Rinaldo Puga MD MS Principal Investigator, Pediatric Clinical Trials for Soberana 02 and Soberana Plus.	MEDICC Rev
+35157633	Vaccines and Public Trust: Containing COVID-19 in Cuba.	MEDICC Rev
+35156709	HLA-DR polymorphism in SARS-CoV-2 infection and susceptibility to symptomatic COVID-19.	Immunology
+35155848	Occurrence of De novo Donor-Specific Antibodies After COVID-19 in Kidney Transplant Recipients Is Low Despite Immunosuppression Modulation.	Kidney Int Rep
+35154154	Predicted HLA Class I and Class II Epitopes From Licensed Vaccines Are Largely Conserved in New SARS-CoV-2 Omicron Variant of Concern.	Front Immunol
+35154095	Three Specific Potential Epitopes That Could Be Recognized by T Cells of Convalescent COVID-19 Patients Were Identified From Spike Protein.	Front Immunol
+35151853	Authors' response to Dr Finsterer's comment "Exclude differentials before diagnosing SARS-CoV-2-associated acute hemorrhagic necrotizing encephalitis" (THEIJID-D-22-00008).	Int J Infect Dis
+35149224	In silico analysis of mutant epitopes in new SARS-CoV-2 lineages suggest global enhanced CD8+ T cell reactivity and also signs of immune response escape.	Infect Genet Evol
+35148261	Mixed-Weight Neural Bagging for Detecting m(6)A Modifications in SARS-CoV-2 RNA Sequencing.	IEEE Trans Biomed Eng
+35146763	The relationship between peripheral immune response and disease severity in SARS-CoV-2-infected subjects: A cross-sectional study.	Immunology
+35143694	HLA-dependent variation in SARS-CoV-2 CD8 (+) T cell cross-reactivity with human coronaviruses.	Immunology
+35143484	Predicted impact of the viral mutational landscape on the cytotoxic response against SARS-CoV-2.	PLoS Comput Biol
+35133988	T cell response to intact SARS-CoV-2 includes coronavirus cross-reactive and variant-specific components.	JCI Insight
+35132938	Deciphering the immunogenic T-cell epitopes from spike protein of SARS-CoV-2 concerning the diverse population of India.	J Biomol Struct Dyn
+35123437	Long-term efficacy and safety of SARS-CoV-2 vaccination in patients with chronic kidney disease, on dialysis or after kidney transplantation: a national prospective observational cohort study.	BMC Nephrol
+35120040	Therapeutic Hyperthermia Is Associated With Improved Survival in Afebrile Critically Ill Patients With Sepsis: A Pilot Randomized Trial.	Crit Care Med
+35118818	Minimal observed impact of HLA genotype on hospitalization and severity of SARS-CoV-2 infection.	HLA
+35116022	CD8(+) T-Cell Epitope Variations Suggest a Potential Antigen HLA-A2 Binding Deficiency for Spike Protein of SARS-CoV-2.	Front Immunol
+35114793	Telacebec (Q203): Is there a novel effective and safe anti-tuberculosis drug on the horizon?	Ceska Slov Farm
+35110673	Identification of cytotoxic T cells and their T cell receptor sequences targeting COVID-19 using MHC class I-binding peptides.	J Hum Genet
+35110199	Awareness and Knowledge of COVID-19 Among Health Care Workers in Early Phase of COVID-19 Pandemic.	Turk Thorac J
+35108599	Routine molecular point-of-care testing for SARS-CoV-2 reduces hospital-acquired COVID-19.	J Infect
+35099036	General surgery practice under the COVID-19 pandemic: The experience of a pandemic hospital in Istanbul.	Ulus Travma Acil Cerrahi Derg
+35097250	Is France Once Again Looking for a Scapegoat?	Pathog Immun
+35096288	Evidence of a SARS-CoV-2 double Spike mutation D614G/S939F potentially affecting immune response of infected subjects.	Comput Struct Biotechnol J
+35095907	Large-Scale Structure-Based Screening of Potential T Cell Cross-Reactivities Involving Peptide-Targets From BCG Vaccine and SARS-CoV-2.	Front Immunol
+35095616	Socioeconomic and Environmental Factors Associated With Increased Alcohol Purchase and Consumption in 38 Countries During the Covid-19 Pandemic.	Front Psychiatry
+35092237	Northeastern Conference on Avian Diseases from 1928-2021: 93 Years of Contributions to Organized Avian Medicine.	Avian Dis
+35091267	Management and Outcomes of COVID - 19 Associated Cerebral Venous Sinus Thrombosis.	J Stroke Cerebrovasc Dis
+35072145	Factors associated with SARS-CoV-2 test positivity in long-term care homes: A population-based cohort analysis using machine learning.	Lancet Reg Health Am
+35072118	Online Public Interest in Urological Cancers During the COVID-19 Pandemic: What Can "Dr. Google" Teach Us?	Eur Urol Open Sci
+35069546	Comprehensive Analysis of CD4(+) T Cell Response Cross-Reactive to SARS-CoV-2 Antigens at the Single Allele Level of HLA Class II.	Front Immunol
+35068618	Trump's COVID-19 tweets and Dr. Fauci's emails.	Scientometrics
+35067905	SARS-CoV-2 infection in dialysis and kidney transplant patients: immunological and serological response.	J Nephrol
+35067002	Association of HLA gene polymorphism with susceptibility, severity, and mortality of COVID-19: A systematic review.	HLA
+35065948	Reply to the letter from Dr. Nikolayevskyy et al. referring to our publication published in the Journal of Virological Methods 298 (2021)11:4295 "Evaluation of the QuantiFERON SARS-CoV-2 Interferon- release assay in mRNA-1273 vaccinated health care workers".	J Virol Methods
+35064122	Single-cell multi-omics reveals dyssynchrony of the innate and adaptive immune system in progressive COVID-19.	Nat Commun
+35063317	A Case of Bleeding During Infection With COVID-19.	J Emerg Med
+35047875	Structure-Based Modeling of SARS-CoV-2 Peptide/HLA-A02 Antigens.	Front Med Technol
+35046942	Single-Cell Analysis Reveals the Immune Characteristics of Myeloid Cells and Memory T Cells in Recovered COVID-19 Patients With Different Severities.	Front Immunol
+35037854	A human-based multi-gene signature enables quantitative drug repurposing for metabolic disease.	Elife
+35032428	Francis Collins: Reflections on being the NIH Director.	Cell
+35026152	SARS-CoV-2 mRNA vaccination elicits a robust and persistent T follicular helper cell response in humans.	Cell
+35025131	Polymorphism of the HLA system and weak antibody response to BNT162b2 mRNA vaccine.	HLA
+35022495	Innate immune deficiencies are associated with severity and poor prognosis in patients with COVID-19.	Sci Rep
+35018660	Evaluation of childhood hospitalization rates and degree of severity of SARS-CoV-2 variants, including B.1.1.7 (Alpha), B.1.315/P.1 (Beta/Gamma), and B.1.617.2 (Delta).	J Med Virol
+35014605	Selection and T-cell antigenicity of synthetic long peptides derived from SARS-CoV-2.	J Gen Virol
+35013235	Structural assessment of HLA-A2-restricted SARS-CoV-2 spike epitopes recognized by public and private T-cell receptors.	Nat Commun
+35012329	From the Heart to the Brain: Building Bridges to a Better Future.	Stroke
+35007561	A vaccine built from potential immunogenic pieces derived from the SARS-CoV-2 spike glycoprotein: A computational approximation.	J Immunol Methods
+35007290	Hyperinflammatory environment drives dysfunctional myeloid cell effector response to bacterial challenge in COVID-19.	PLoS Pathog
+35006282	Immunoinformatics prediction of potential immunodominant epitopes from human coronaviruses and association with autoimmunity.	Immunogenetics
+35005651	HLA-A *03:01 is associated with increased risk of fever, chills, and stronger side effects from Pfizer-BioNTech COVID-19 vaccination.	HGG Adv
+35004790	Exacerbation of Psoriasis Following COVID-19 Vaccination: Report From a Single Center.	Front Med (Lausanne)
+35003063	Off-the-Shelf Partial HLA Matching SARS-CoV-2 Antigen Specific T Cell Therapy: A New Possibility for COVID-19 Treatment.	Front Immunol
+35002537	Identification of Differentially Expressed Genes in COVID-19 and Integrated Bioinformatics Analysis of Signaling Pathways.	Genet Res (Camb)
+35002513	The Different Immune Responses by Age Are due to the Ability of the Fetal Immune System to Secrete Primal Immunoglobulins Responding to Unexperienced Antigens.	Int J Biol Sci
+34992728	Renal Consequences of COVID-19.	Methodist Debakey Cardiovasc J
+34992149	The First Lady Presses for Cancer Screening to Get Back On Track.	Cancer Prev Res (Phila)
+34988717	Clinical heterogeneity in patients with myoclonus associated to COVID-19.	Neurol Sci
+34987795	Nasopharyngeal and oropharyngeal rinses with neutral electrolyzed water prevents COVID-19 in front-line health professionals: A randomized, open-label, controlled trial in a general hospital in Mexico City.	Biomed Rep
+34983411	SARS-CoV2 infection in symptomatic patients: interest of serological tests and predictors of mortality: experience of DR Congo.	BMC Infect Dis
+34981440	Bioengineering of Novel Non-Replicating mRNA (NRM) and Self-Amplifying mRNA (SAM) Vaccine Candidates Against SARS-CoV-2 Using Immunoinformatics Approach.	Mol Biotechnol
+34977602	Humoral and cellular immune responses to two and three doses of SARS-CoV-2 vaccines in rituximab-treated patients with rheumatoid arthritis: a prospective, cohort study.	Lancet Rheumatol
+34974076	Potential role of Drug Repositioning Strategy (DRS) for management of tauopathy.	Life Sci
+34973599	Letter #1 Response to letter to Editor by Dr. Sarkar et al. for' who said differentiating preeclampsia from COVID-19 infection was easy? Refers to PII: S2210-7789(21)00539-0 Letter #2 Response to letter to Editor by Dr. Hantoushzadeh et al. for' is COVID-19 disease a risk factor for preeclampsia? Should aspirin be considered for prophylaxis of preeclampsia in these patients?' Refers to PII: S2210-7789(21)00538-9.	Pregnancy Hypertens
+34970064	A reflection from a polio patient at the Texas Scottish Rite Hospital for Children in Dallas.	Proc (Bayl Univ Med Cent)
+34969344	Supporting Vulnerable Populations During the Pandemic: Stakeholders' Experiences and Perceptions of Social Prescribing in Scotland During Covid-19.	Qual Health Res
+34968416	Recruitment of highly cytotoxic CD8(+) T cell receptors in mild SARS-CoV-2 infection.	Cell Rep
+34965282	Cross-reactive and mono-reactive SARS-CoV-2 CD4+ T cells in prepandemic and COVID-19 convalescent individuals.	PLoS Pathog
+34964709	The polymorphism L412F in TLR3 inhibits autophagy and is a marker of severe COVID-19 in males.	Autophagy
+34962259	Immuno-informatics analysis predicts B and T cell consensus epitopes for designing peptide vaccine against SARS-CoV-2 with 99.82% global population coverage.	Brief Bioinform
+34961636	A promiscuous T cell epitope-based HIV vaccine providing redundant population coverage of the HLA class II elicits broad, polyfunctional T cell responses in nonhuman primates.	Vaccine
+34960716	Clinical Manifestation of Subacute Thyroiditis Triggered by SARS-CoV-2 Infection Can Be HLA-Dependent.	Viruses
+34960205	Immunoinformatics Analysis of SARS-CoV-2 ORF1ab Polyproteins to Identify Promiscuous and Highly Conserved T-Cell Epitopes to Formulate Vaccine for Indonesia and the World Population.	Vaccines (Basel)
+34960156	The Impact of Mutations on the Pathogenic and Antigenic Activity of SARS-CoV-2 during the First Wave of the COVID-19 Pandemic: A Comprehensive Immunoinformatics Analysis.	Vaccines (Basel)
+34960148	The Differences in the Level of Anti-SARS-CoV-2 Antibodies after mRNA Vaccine between Convalescent and Non-Previously Infected People Disappear after the Second Dose-Study in Healthcare Workers Group in Poland.	Vaccines (Basel)
+34957352	Common NLRP3 inflammasome inhibitors and Covid-19: Divide and Conquer.	Sci Afr
+34956225	Overlapping but Disparate Inflammatory and Immunosuppressive Responses to SARS-CoV-2 and Bacterial Sepsis: An Immunological Time Course Analysis.	Front Immunol
+34953080	Therapeutic drug monitoring of posaconazole delayed release tablet while managing COVID-19-associated mucormycosis in a real-life setting.	Mycoses
+34952634	The geography of COVID-19 misinformation: using geospatial maps for targeted messaging to combat misinformation on COVID-19, South Africa.	BMC Res Notes
+34952570	Immunological effects of convalescent plasma therapy for coronavirus: a scoping review.	BMC Infect Dis
+34938296	Perspective of HLA-G Induced Immunosuppression in SARS-CoV-2 Infection.	Front Immunol
+34938124	Knowledge, Attitude, Behavior, and Socioeconomic Conditions of People Living with HIV in Indonesia During the COVID-19 Pandemic: A Cross-Sectional Study.	HIV AIDS (Auckl)
+34937933	Prolonged activation of nasal immune cell populations and development of tissue-resident SARS-CoV-2-specific CD8(+) T cell responses following COVID-19.	Nat Immunol
+34937174	Identification of HLA-A*24:02-Restricted CTL Candidate Epitopes Derived from the Nonstructural Polyprotein 1a of SARS-CoV-2 and Analysis of Their Conservation Using the Mutation Database of SARS-CoV-2 Variants.	Microbiol Spectr
+34935110	The Neuroimmune Pharmacology of SARS-CoV-2.	J Neuroimmune Pharmacol
+34931251	A Comparative Study of Children with MIS-C between Admitted to the Pediatric Intensive Care Unit and Pediatric Ward: A One-Year Retrospective Study.	J Trop Pediatr
+34929892	Comorbidities and mortality in COVID-19 patients.	Gac Sanit
+34925459	Approaching Genetics Through the MHC Lens: Tools and Methods for HLA Research.	Front Genet
+34921724	New insights into Covid-19 disease. Apo-A1 antibodies are generated after mRNA Covid-19 vaccination and after Covid-19 infection.	Eur J Clin Invest
+34919800	HLA-A( *)02:01 restricted T cell receptors against the highly conserved SARS-CoV-2 polymerase cross-react with human coronaviruses.	Cell Rep
+34919589	The role of conformity in mask-wearing during COVID-19.	PLoS One
+34919005	COVID-19 induced aorto duodenal fistula following evar in the so called "negative" patient.	Vascular
+34916744	Clinical Characteristics and Outcomes of Critically Ill Neurological Patients with COVID-19 Infection in Neuro-intensive Care Unit: A Retrospective Study.	Indian J Crit Care Med
+34914824	TIM3+ TRBV11-2 T cells and IFNgamma signature in patrolling monocytes and CD16+ NK cells delineate MIS-C.	J Exp Med
+34914046	Vaccines Targeting Numerous Coronavirus Antigens, Ensuring Broader Global Population Coverage: Multi-epitope and Multi-patch Vaccines.	Methods Mol Biol
+34912378	Current HLA Investigations on SARS-CoV-2 and Perspectives.	Front Genet
+34910857	ALVR109, an off-the-shelf partially HLA matched SARS-CoV-2-specific T cell therapy, to treat refractory severe COVID-19 pneumonia in a heart transplant patient: Case report.	Am J Transplant
+34909708	Epidemiology of Pemphigus.	JID Innov
+34909175	Molecular docking and dynamic simulation of conserved B cell epitope of SARS-CoV-2 glycoprotein Indonesian isolates: an immunoinformatic approach.	F1000Res
+34908883	Cervical Fracture During COVID-19 Pandemic Era: A Case Series.	Open Access Emerg Med
+34904053	Hematologic and coagulopathy parameter as a survival predictor among moderate to severe COVID-19 patients in non- ICU ward: a single-center study at the main referral hospital in Surabaya, East Java, Indonesia.	F1000Res
+34899692	Predicted Epitope Abundance Supports Vaccine-Induced Cytotoxic Protection Against SARS-CoV-2 Variants of Concern.	Front Immunol
+34889371	Evidence-Based Minireview: In young children with severe sickle cell disease, do the benefits of HLA-identical sibling donor HCT outweigh the risks?	Hematology Am Soc Hematol Educ Program
+34880972	Impact of pandemic COVID-19 on dermatology and venereology outpatient clinic in a tertiary referral hospital in Yogyakarta, Indonesia.	Dermatol Reports
+34875901	Constituting good health citizenship through British Columbia's COVID-19 public updates.	Health (London)
+34875838	Telacebec (Q203): Is there a novel effective and safe anti-tuberculosis drug on the horizon?	Ceska Slov Farm
+34875601	One hundred years of BCG vaccine.	Medicina (B Aires)
+34873499	Effect of COVID-19 Pandemic on Presentation of Patients With Diabetic Retinopathy in a Multitier Ophthalmology Network in India.	Cureus
+34870641	The Impact of COVID-19 on Trainees: Lessons Learned and Unanticipated Opportunities.	J Neurosurg Anesthesiol
+34870635	Multisystem Inflammatory Syndrome in Children (MIS-C): Experiences With a New Disease Process.	J Neurosurg Anesthesiol
+34870634	COVID-19 Impact on Resident Mental Health and Well-Being.	J Neurosurg Anesthesiol
+34870630	Primer of COVID-19 Vaccines for the Perioperative Physician.	J Neurosurg Anesthesiol
+34867988	Severe Adaptive Immune Suppression May Be Why Patients With Severe COVID-19 Cannot Be Discharged From the ICU Even After Negative Viral Tests.	Front Immunol
+34865496	Voices in Molecular Pharmaceutics: Meet Dr. Venecia Wilson, a Scientist Helping to Maintain a Robust Supply Chain for the Manufacture of COVID-19 Vaccines.	Mol Pharm
+34862317	Disorders of Consciousness Associated With COVID-19: A Prospective Multimodal Study of Recovery and Brain Connectivity.	Neurology
+34857854	Identification of TCR repertoires in functionally competent cytotoxic T cells cross-reactive to SARS-CoV-2.	Commun Biol
+34856806	N-Terminal-Driven Binding Mechanism of an Antigen Peptide to Human Leukocyte Antigen-A*2402 Elucidated by Multicanonical Molecular Dynamic-Based Dynamic Docking and Path Sampling Simulations.	J Phys Chem B
+34855943	Accelerating RPM: COVID-19 Speeds Adoption of Remote Patient Monitoring.	Tex Med
+34852683	Receptor-binding domain-based immunoassays for serosurveillance differentiate efficiently between SARS-CoV2-exposed and non-exposed farmed mink.	J Vet Diagn Invest
+34852352	ESCAPE: An Open-Label Trial of Personalized Immunotherapy in Critically lll COVID-19 Patients.	J Innate Immun
+34846101	Peripheral innate and adaptive immune cells during COVID-19: Functional neutrophils, pro-inflammatory monocytes, and half-dead lymphocytes.	Cytometry B Clin Cytom
+34845983	TCR meta-clonotypes for biomarker discovery with tcrdist3 enabled identification of public, HLA-restricted clusters of SARS-CoV-2 TCRs.	Elife
+34837630	Evidence for the Use of Secukinumab in Patients with Radiographic and Non-radiographic Axial Spondyloarthritis in the Last 5 Years.	Rheumatol Ther
+34831965	Exploring Factors Associated with Diabetic Retinopathy Treatment Compliance Behaviour in Cape Town, South Africa.	Int J Environ Res Public Health
+34831403	Effect of BCG Revaccination on Occupationally Exposed Medical Personnel Vaccinated against SARS-CoV-2.	Cells
+34828620	Usability of Telemedicine Mobile Applications during COVID-19 in Saudi Arabia: A Heuristic Evaluation of Patient User Interfaces.	Healthcare (Basel)
+34826061	The COVID-19 Pandemic: Reflections of Science, Person, and Challenge in Academic Research Settings.	J Neuroimmune Pharmacol
+34824230	Pediatric COVID-19 patients in South Brazil show abundant viral mRNA and strong specific anti-viral responses.	Nat Commun
+34822202	Relevance of VEGF and CD147 in different SARS-CoV-2 positive digestive tracts characterized by thrombotic damage.	FASEB J
+34813236	Teleconsultation during a pandemic. Experience of developmental pediatricians at Hospital de Pediatria "Prof. Dr. Juan P. Garrahan".	Arch Argent Pediatr
+34812364	2019 Novel Coronavirus-Infected Pneumonia on CT: A Feasibility Study of Few-Shot Learning for Computerized Diagnosis of Emergency Diseases.	IEEE Access
+34803190	Student Reflections on Shared Trauma: One Year Later.	Clin Soc Work J
+34801393	The Year in Cardiothoracic and Vascular Anesthesia: Selected Highlights from 2021.	J Cardiothorac Vasc Anesth
+34794908	Efficacy and safety of convalescent plasma therapy in patients with moderate-to-severe COVID-19: A non-randomized comparative study with historical control in a referral hospital in Indonesia.	J Infect Public Health
+34793243	Allelic variation in class I HLA determines CD8(+) T cell repertoire shape and cross-reactive memory responses to SARS-CoV-2.	Sci Immunol
+34792445	Leadership Perspective: Addressing Canada's Opioid Crisis - Reducing the Harm of Leadership.	Healthc Q
+34791833	SARS Cov-2 vaccination induces de novo donor-specific HLA antibodies in a renal transplant patient on waiting list: A case report.	HLA
+34790673	The Role of HLA Antigens and Steroid Dose on the Course of COVID-19 of Patients After Kidney Transplantation.	Front Med (Lausanne)
+34790197	Case Report: Interferon- gamma Rescues Monocytic Human Leukocyte Antigen Receptor (mHLA-DR) Function in a COVID-19 Patient With ARDS and Superinfection With Multiple MDR 4MRGN Bacterial Strains.	Front Immunol
+34786358	HeberNasvac, a Therapeutic Vaccine for Chronic Hepatitis B, Stimulates Local and Systemic Markers of Innate Immunity: Potential Use in SARS-CoV-2 Postexposure Prophylaxis.	Euroasian J Hepatogastroenterol
+34778864	County-Level Impact of the COVID-19 Pandemic on Excess Mortality Among U.S. Veterans: A Population-Based Study.	Lancet Reg Health Am
+34777333	The Dynamic Immunological Parameter Landscape in Coronavirus Disease 2019 Patients With Different Outcomes.	Front Immunol
+34776580	How Fuzzy-trace Theory Predicts Development of Risky Decision Making, with Novel Extensions to Culture and Reward Sensitivity.	Dev Rev
+34776567	PEGylated green halloysite/spinel ferrite nanocomposites for pH sensitive delivery of dexamethasone: A potential pulmonary drug delivery treatment option for COVID-19.	Appl Clay Sci
+34763205	Safety and cross-variant immunogenicity of a three-dose COVID-19 mRNA vaccine regimen in kidney transplant recipients.	EBioMedicine
+34759998	T-cell immunophenotyping in COVID-19 pneumonia.	J Res Med Sci
+34758492	A Possible Type IV Hypersensitivity Reaction to Older Antiepileptic Drugs During and After Recovery from COVID-19 Infection.	Pharmacopsychiatry
+34754164	Impact of COVID-19 pandemic on the neuropsychiatric status of Wilson's disease.	World J Gastroenterol
+34753597	[Focus on high speed rotational atherectomy by Rotablator in 2021 and datas from France PCI registry].	Ann Cardiol Angeiol (Paris)
+34752738	The Impact of COVID-19 on Liver Injury.	Am J Med Sci
+34749207	Host factors: Implications in immunopathogenesis of COVID-19.	Pathol Res Pract
+34745109	Sex-Related Differences in Innate and Adaptive Immune Responses to SARS-CoV-2.	Front Immunol
+34743755	Much ado about something: a response to "COVID-19: underpowered randomised trials, or no randomised trials?"	Trials
+34741638	Aging whole blood transcriptome reveals candidate genes for SARS-CoV-2-related vascular and immune alterations.	J Mol Med (Berl)
+34736919	Are Nonpharmacologic Interventions Delivered Through Synchronous Telehealth as Effective and Safe as In-Person Interventions for the Management of Patients With Nonacute Musculoskeletal Conditions? A Systematic Rapid Review.	Arch Phys Med Rehabil
+34728796	Screening HLA-A-restricted T cell epitopes of SARS-CoV-2 and the induction of CD8(+) T cell responses in HLA-A transgenic mice.	Cell Mol Immunol
+34726292	The relationship between COVID-19 and HLA in kidney transplant recipients, an evaluation of predictive and prognostic factors.	Clin Transplant
+34722384	Frequency of HLA Alleles in a Group of Severe COVID-19 Iranian Patients.	Iran J Public Health
+34722002	HLA alleles measured from COVID-19 patient transcriptomes reveal associations with disease prognosis in a New York cohort.	PeerJ
+34720274	Proceedings of the 43nd Annual Upper Midwest Neuro-Ophthalmology Group Meeting, July 23, 2021 and Second Virtual Upper Midwest Neuro-Ophthalmology Group Meeting.	Neuroophthalmology
+34713175	Immune Profile of SARS-CoV-2 Variants of Concern.	Front Digit Health
+34712065	Fear, Anxiety, Stress, and Depression of Novel Coronavirus (COVID-19) Pandemic Among Patients and Their Healthcare Workers - A Descriptive Study.	Psychol Res Behav Manag
+34708728	Situational analysis of diabetic retinopathy screening in India: How has it changed in the last three years?	Indian J Ophthalmol
+34704270	Reply to 'Adenovirus COVID-19 Vaccines and Guillain-Barre Syndrome with Facial Paralysis' by Dr Pegat et al.	Ann Neurol
+34703296	Hematologic Profiles and Correlation Between Absolute Lymphocyte Count and Neutrophil/Lymphocyte Ratio with Markers of Inflammation of COVID-19 in an Indonesian National Referral Hospital.	Int J Gen Med
+34696480	Rapid and Successful Implementation of a COVID-19 Convalescent Plasma Programme-The South African Experience.	Viruses
+34688775	Upregulation of type 1 conventional dendritic cells implicates antigen cross-presentation in multisystem inflammatory syndrome.	J Allergy Clin Immunol
+34685626	Molecular Basis of a Dominant SARS-CoV-2 Spike-Derived Epitope Presented by HLA-A*02:01 Recognised by a Public TCR.	Cells
+34685388	Demographic, Clinical and Immunogenetic Profiles of a Greek Cohort of COVID-19 Patients.	Life (Basel)
+34678611	Severe COVID-19 is characterized by the co-occurrence of moderate cytokine inflammation and severe monocyte dysregulation.	EBioMedicine
+34678504	Evaluation of Panbio rapid antigen test for SARS-CoV-2 in symptomatic patients and their contacts: a multicenter study.	Int J Infect Dis
+34673372	Molecular docking of SARS-COV-2 Spike epitope sequences identifies heterodimeric peptide-protein complex formation with human Zo-1, TLR8 and brain specific glial proteins.	Med Hypotheses
+34669281	Immune characterization of a Colombian family cluster with SARS-CoV-2 infection.	Biomedica
+34663481	Effects of dexamethasone on immune dysfunction and ventilator-associated pneumonia in COVID-19 acute respiratory distress syndrome: an observational study.	J Intensive Care
+34660398	Role of vaccine science diplomacy in low-middle-income countries for eradicating the vaccine-preventable diseases: Targeting the "LAST MILE".	J Family Med Prim Care
+34659748	Is COVID-19 impacting cancer screening in Pakistan? An observational study of cancer screening test requests during the pandemic.	Ann Med Surg (Lond)
+34658652	eHealth for neonatal nurse education despite Covid-19.	J Neonatal Nurs
+34655355	Blood and bone marrow donor registry of Istanbul medical faculty activity and experience in past 3 years : A cross-sectional documentation of TRIS activity: the first blood and marrow registry in Turkey.	Cell Tissue Bank
+34653660	The Effect of Melatonin on Thrombosis, Sepsis and Mortality Rate in COVID-19 Patients.	Int J Infect Dis
+34653117	In Haiti, Cubans Among First Responders, Again: Luis Orlando Oliveros-Serrano MD Coordinator, Cuban Medical Team in Haiti.	MEDICC Rev
+34650566	MHC Variants Associated With Symptomatic Versus Asymptomatic SARS-CoV-2 Infection in Highly Exposed Individuals.	Front Immunol
+34647971	Identification of conserved SARS-CoV-2 spike epitopes that expand public cTfh clonotypes in mild COVID-19 patients.	J Exp Med
+34646643	Long COVID Syndrome and Takotsubo Cardiomyopathy: An Unwelcome Combination.	Cureus
+34637888	The mutational landscape of SARS-CoV-2 variants diversifies T cell targets in an HLA-supertype-dependent manner.	Cell Syst
+34637605	Association of HLA class I and II genes with Middle East respiratory syndrome coronavirus infection in Koreans.	Immun Inflamm Dis
+34636466	Retraction Statement.	Int J Clin Pract
+34636464	Retraction Statement.	Int J Clin Pract
+34636459	Retraction Statement.	Int J Clin Pract
+34633094	Dudrick Research Symposium: Expanding the boundaries of cancer care through nutrition support.	JPEN J Parenter Enteral Nutr
+34629953	BENEFITS OF THE WALANT TECHNIQUE AGAINST THE COVID-19 PANDEMIC.	Acta Ortop Bras
+34627082	Immunogenic T cell epitopes of SARS-CoV-2 are recognized by circulating memory and naive CD8 T cells of unexposed individuals.	EBioMedicine
+34626490	Association of lymphocyte subsets with mortality in severe COVID-19 pneumonia patients.	J Clin Lab Anal
+34621509	Characterization of SARS-CoV-2 East Java isolate, Indonesia.	F1000Res
+34619565	Judging film, not skin: can radiologists combat bias in medicine?	Clin Imaging
+34611467	Identification of M(pro) inhibitors of SARS-CoV-2 using structure based computational drug repurposing.	Biocatal Agric Biotechnol
+34607724	HLA-B*15 predicts survival in Egyptian patients with COVID-19.	Hum Immunol
+34607639	HLA Antibody Rates Are Not Increased in a Regional Group of Male COVID-19 Convalescent Plasma Donors.	Mayo Clin Proc
+34600562	A phase I/II dose-escalation multi-center study to evaluate the safety of infusion of natural killer cells or memory T cells as adoptive therapy in coronavirus pneumonia and/or lymphopenia: RELEASE study protocol.	Trials
+34600455	Overview Of The Canadian Clinician Investigator Trainees' Research Presented At The 2020 CSCI-CITAC Joint Meeting.	Clin Invest Med
+34599045	Dr. Conway et al reply.	J Rheumatol
+34584415	The Influence of COVID-19 Lockdown in Jordan on Patients with Diabetic Retinopathy: A Case-Control Study.	Ther Clin Risk Manag
+34579267	Immunological Analysis of People in Northeast China after SARS-CoV-2 Inactivated Vaccine Injection.	Vaccines (Basel)
+34578436	Increased sHLA-G Is Associated with Improved COVID-19 Outcome and Reduced Neutrophil Adhesion.	Viruses
+34574906	SARS-CoV-2: Origin, Intermediate Host and Allergenicity Features and Hypotheses.	Healthcare (Basel)
+34572439	Alterations in Circulating Monocytes Predict COVID-19 Severity and Include Chromatin Modifications Still Detectable Six Months after Recovery.	Biomedicines
+34569101	SARS-COV-2 vaccination with BNT162B2 in renal transplant patients: Risk factors for impaired response and immunological implications.	Clin Transplant
+34567833	IAMSE 2021-Plenary Session: Top 10 Ways an Instructional Designer Can Help You Define the New Normal.	Med Sci Educ
+34567268	Highlights from the IOB Conference on Cancer, 20-22 May 2021 and the new research vision of The Institute of Oncology Prof. Dr. Alexandru Trestioreanu, Bucharest, Romania.	Ecancermedicalscience
+34567001	Persistent High Percentage of HLA-DR(+)CD38(high) CD8(+) T Cells Associated With Immune Disorder and Disease Severity of COVID-19.	Front Immunol
+34566990	Degenerate CD8 Epitopes Mapping to Structurally Constrained Regions of the Spike Protein: A T Cell-Based Way-Out From the SARS-CoV-2 Variants Storm.	Front Immunol
+34563798	HLA and PF4 antibody production after adenoviral vector SARS-CoV-2 vaccination.	Curr Res Transl Med
+34562365	Persistent progress.	Cell
+34560183	Does immune recognition of SARS-CoV2 epitopes vary between different ethnic groups?	Virus Res
+34557359	Level of anxiety among healthcare providers during COVID-19 pandemic in Saudi Arabia: cross-sectional study.	PeerJ
+34552996	The Association of Human Leukocyte Antigen and COVID-19 in Southern China.	Open Forum Infect Dis
+34545062	Human genetic basis of coronavirus disease 2019.	Signal Transduct Target Ther
+34542663	A reverse vaccinology and immunoinformatics approach for designing a multiepitope vaccine against SARS-CoV-2.	Immunogenetics
+34539660	The First Chemically-Synthesised, Highly Immunogenic Anti-SARS-CoV-2 Peptides in DNA Genotyped Aotus Monkeys for Human Use.	Front Immunol
+34538222	Preclinical evaluation of a synthetic peptide vaccine against SARS-CoV-2 inducing multiepitopic and cross-reactive humoral neutralizing and cellular CD4 and CD8 responses.	Emerg Microbes Infect
+34536697	Complications after discharge with COVID-19 infection and risk factors associated with development of post-COVID pulmonary fibrosis.	Respir Med
+34536634	DR-MIL: deep represented multiple instance learning distinguishes COVID-19 from community-acquired pneumonia in CT images.	Comput Methods Programs Biomed
+34530915	Association of HLA genotypes, AB0 blood type and chemokine receptor 5 mutant CD195 with the clinical course of COVID-19.	Eur J Med Res
+34530086	An overview of human proteins and genes involved in SARS-CoV-2 infection.	Gene
+34529740	Broadly directed SARS-CoV-2-specific CD4+ T cell response includes frequently detected peptide specificities within the membrane and nucleoprotein in patients with acute and resolved COVID-19.	PLoS Pathog
+34524612	Diagnostic evaluation of qRT-PCR-based kit and dPCR-based kit for COVID-19.	Genes Genomics
+34518303	Improving turnaround times for HLA-B*27 and HLA-B*57:01 gene testing: a Barts Health NHS Trust quality improvement project.	BMJ Open Qual
+34514016	Defective Severe Acute Respiratory Syndrome Coronavirus 2 Immune Responses in an Immunocompromised Individual With Prolonged Viral Replication.	Open Forum Infect Dis
+34506741	Profiling CD8(+) T cell epitopes of COVID-19 convalescents reveals reduced cellular immune responses to SARS-CoV-2 variants.	Cell Rep
+34506551	Examining and investigating the impact of demographic characteristics and chronic diseases on mortality of COVID-19: Retrospective study.	PLoS One
+34495377	The Impact of COVID-19 on Diabetic Retinopathy Monitoring and Treatment.	Curr Diab Rep
+34490415	Increased risk of severe clinical course of COVID-19 in carriers of HLA-C*04:01.	EClinicalMedicine
+34490409	Mucormycosis as a complication of Covid-19 - A case report.	Vis J Emerg Med
+34489816	The Transcultural Community Resilience Scale: Psychometric Properties and Multinational Validity in the Context of the COVID-19 Pandemic.	Front Psychol
+34489196	Integrative immunoinformatics paradigm for predicting potential B-cell and T-cell epitopes as viable candidates for subunit vaccine design against COVID-19 virulence.	Biomed J
+34488659	Investigation of SARS-CoV-2 in tear and conjunctival secretions of hospitalized patients with clinically-confirmed COVID-19 pneumonia.	BMC Infect Dis
+34484734	Prone position during ECMO in patients with COVID-19 in Morocco: Case series.	Ann Med Surg (Lond)
+34484239	PopCover-2.0. Improved Selection of Peptide Sets With Optimal HLA and Pathogen Diversity Coverage.	Front Immunol
+34483599	Genetic Risk Factors for the Development of COVID-19 Coronavirus Infection.	Russ J Genet
+34476970	Person-centred innovations for family medicine and COVID-19 in Ghana: A short report.	Afr J Prim Health Care Fam Med
+34475005	Study of HLA-A, -B, -C, -DRB1 and -DQB1 polymorphisms in COVID-19 patients.	J Microbiol Immunol Infect
+34462158	HLA repertoire of 115 UAE nationals infected with SARS-CoV-2.	Hum Immunol
+34452933	Suppressive Monocytes Impair MAIT Cells Response via IL-10 in Patients with Severe COVID-19.	J Immunol
+34452410	Data of the COVID-19 mRNA-Vaccine V-Safe Surveillance System and Pregnancy Registry Reveals Poor Embryonic and Second Trimester Fetal Survival Rate. Comment on Stuckelberger et al. SARS-CoV-2 Vaccine Willingness among Pregnant and Breastfeeding Women during the First Pandemic Wave: A Cross-Sectional Study in Switzerland. Viruses 2021, 13, 1199.	Viruses
+34452063	Risk Factors Associated with the Clinical Outcomes of COVID-19 and Its Variants in the Context of Cytokine Storm and Therapeutics/Vaccine Development Challenges.	Vaccines (Basel)
+34451403	Implementation of Adenovirus-Mediated Pulmonary Expression of Human ACE2 in HLA Transgenic Mice Enables Establishment of a COVID-19 Murine Model for Assessment of Immune Responses to SARS-CoV-2 Infection.	Pathogens
+34448482	The perspective of Canadian health care professionals on abortion service during the COVID-19 pandemic.	Fam Pract
+34447375	SARS-CoV-2 Proteome Harbors Peptides Which Are Able to Trigger Autoimmunity Responses: Implications for Infection, Vaccination, and Population Coverage.	Front Immunol
+34446788	A novel and efficient approach to high-throughput production of HLA-E/peptide monomer for T-cell epitope screening.	Sci Rep
+34436508	An immunogenetic view of COVID-19.	Genet Mol Biol
+34433521	Two cases of chronic obstructive pulmonary disease evaluated by dynamic-ventilatory digital radiography for pulmonary function and assessment of treatment efficacy.	Respir Investig
+34429182	Twins Separated at Birth: Across a Country and Around the World/Twin Research: Memorial Tribute to Isaac Blickstein, MD; Infanticide and Sacrifice of Archaic-Aged Twins and Triplets; Prehistoric Twin Burials; Highlights from a Conference on Three Identical Strangers/Media Reports: An Atypical Twin Father; An Actor's Twin Brother; Twin Link to Tulsa, Oklahoma Massacre; Superfetated Twins; Twin Comedians and Script Writers; Indian Twins' Loss to COVID-19.	Twin Res Hum Genet
+34424997	SARS-CoV-2-reactive T-cell receptors isolated from convalescent COVID-19 patients confer potent T-cell effector function.	Eur J Immunol
+34421902	BCG Vaccine Derived Peptides Induce SARS-CoV-2 T Cell Cross-Reactivity.	Front Immunol
+34414382	The surveillance of systemic cancer therapy access amidst the COVID-19 pandemic: the power of good data.	Lancet Reg Health West Pac
+34414379	Optimization of antigen-specific CD8(+) T cell activation conditions for infectious diseases including COVID-19.	STAR Protoc
+34411976	Detection of SARS-CoV-2 N protein allelic variants by rapid high-throughput CLEIA antigen assay.	J Clin Virol
+34406642	Vitamin D supplementation and COVID-19 disease: safety but unproven efficacy-reply to Dr Helga Rhein.	Aging Clin Exp Res
+34405140	Phase I dose-escalation single centre clinical trial to evaluate the safety of infusion of memory T cells as adoptive therapy in COVID-19 (RELEASE).	EClinicalMedicine
+34404419	Health facilities' readiness for safe surgical care provision in Uganda and the Eastern Democratic Republic of Congo during Ebola and COVID-19 era.	BMC Health Serv Res
+34400256	Pearls on science, collaboration, and mentorship in health research: A masterclass conversation with Dr. John Ioannidis.	J Clin Epidemiol
+34396391	T-CoV: a comprehensive portal of HLA-peptide interactions affected by SARS-CoV-2 mutations.	Nucleic Acids Res
+34394090	CD169 Defines Activated CD14(+) Monocytes With Enhanced CD8(+) T Cell Activation Capacity.	Front Immunol
+34393909	Changes in Parents' Home Learning Activities With Their Children During the COVID-19 Lockdown - The Role of Parental Stress, Parents' Self-Efficacy and Social Support.	Front Psychol
+34391936	Systemic DPP4/CD26 is associated with natural HIV-1 control: Implications for COVID-19 susceptibility.	Clin Immunol
+34388133	Photocatalytic degradation of hydroxychloroquine using ZnO supported on clinoptilolite zeolite.	Water Sci Technol
+34387839	Vitamin D and COVID-19 disease: don't believe everything you read in the papers! Reply to Dr William B. Grant.	Aging Clin Exp Res
+34386018	HLA Does Not Impact on Short-Medium-Term Antibody Response to Preventive Anti-SARS-Cov-2 Vaccine.	Front Immunol
+34384783	Structural basis of biased T cell receptor recognition of an immunodominant HLA-A2 epitope of the SARS-CoV-2 spike protein.	J Biol Chem
+34382551	The impact of COVID-19 national lockdown on orthopaedic trauma admissions in the northern part of South Africa: A multicentre review of tertiary- and secondary-level hospital admissions.	S Afr Med J
+34381451	Individual HLA-A, -B, -C, and -DRB1 Genotypes Are No Major Factors Which Determine COVID-19 Severity.	Front Immunol
+34367930	Hypotheses and facts for genetic factors related to severe COVID-19.	World J Virol
+34367190	Monocytes and Macrophages in COVID-19.	Front Immunol
+34358213	Bioinformatics Prediction of SARS-CoV-2 Epitopes as Vaccine Candidates for the Colombian Population.	Vaccines (Basel)
+34352002	Natural killer-cell immunoglobulin-like receptors trigger differences in immune response to SARS-CoV-2 infection.	PLoS One
+34350584	Successful treatment of COVID-19 infection with convalescent plasma in B-cell-depleted patients may promote cellular immunity.	Eur J Immunol
+34350146	Perspective of Immunopathogenesis and Immunotherapies for Kawasaki Disease.	Front Pediatr
+34349756	Influence of HLA Class II Polymorphism on Predicted Cellular Immunity Against SARS-CoV-2 at the Population and Individual Level.	Front Immunol
+34345197	Assessing the Role of Internal Motivation and Extrinsic Factors on Online Undergraduate Medical Teaching in a Resource-Poor Setting During Covid-19 Pandemic in North India: An Observational Study.	Adv Med Educ Pract
+34344463	Association between HLA genotypes and COVID-19 susceptibility, severity and progression: a comprehensive review of the literature.	Eur J Med Res
+34343373	Multisystem inflammatory syndrome in children during severe acute respiratory syndrome coronavirus-2 pandemic in Turkey: A single-centre experience.	J Paediatr Child Health
+34338865	Tribute to Dr. Takuo Aoyagi, inventor of pulse oximetry.	J Anesth
+34338446	HLA genetic polymorphism in patients with Coronavirus Disease 2019 in Midwestern United States.	HLA
+34338380	Systematic review of host genetic association with Covid-19 prognosis and susceptibility: What have we learned in 2020?	Rev Med Virol
+34329696	SARS-CoV-2 specific memory T cell epitopes identified in COVID-19-recovered subjects.	Virus Res
+34327748	Editorial: Telemedicine in the era of coronavirus 19: Implications for postoperative care in cardiac surgery.	J Card Surg
+34322810	Bioinformatic analyses suggest augmented interleukin-17 signaling as the mechanism of COVID-19-associated herpes zoster.	Environ Sci Pollut Res Int
+34319851	SARS-CoV-2 infection in domestic and feral cats: current evidence and implications.	Vet Q
+34315945	Virus Induced Lymphocytes (VIL) as a novel viral antigen-specific T cell therapy for COVID-19 and potential future pandemics.	Sci Rep
+34308301	The impact of lockdown timing on COVID-19 transmission across US counties.	EClinicalMedicine
+34305429	Relevance between COVID-19 and host genetics of immune response.	Saudi J Biol Sci
+34305356	Synthesis of modified beta bismuth oxide by titanium oxide and highly efficient solar photocatalytic properties on hydroxychloroquine degradation and pathways.	J Photochem Photobiol A Chem
+34304938	Soluble HLA-G is upregulated in serum of patients with severe COVID-19.	Hum Immunol
+34304676	Association between HLA genotype and ferritin levels in COVID-19 infection: a study of a Saudi cohort.	Infect Dis (Lond)
+34303556	HLA B53 is associated with a poor outcome in black COVID-19 patients.	Hum Immunol
+34294460	HLA-DRB1*04 may predict the severity of disease in a group of Iranian COVID-19 patients.	Hum Immunol
+34294060	Morning report for all: a qualitative study of disseminating case conferences via podcasting.	BMC Med Educ
+34293683	Acute autoimmune-like hepatitis with atypical anti-mitochondrial antibody after mRNA COVID-19 vaccination: A novel clinical entity?	J Autoimmun
+34293596	Neurotransmitters and Neuropeptides decrease PD-1 in T cells of healthy subjects and patients with hepatocellular carcinoma (HCC), and increase their proliferation and eradication of HCC cells.	Neuropeptides
+34291552	Cellular and humoral immune response after mRNA-1273 SARS-CoV-2 vaccine in liver and heart transplant recipients.	Am J Transplant
+34289534	High-resolution HLA genotyping identifies alleles associated with severe COVID-19: A preliminary study from India.	Immun Inflamm Dis
+34283810	CD8+PD-L1+CXCR3+ polyfunctional T cell abundances are associated with survival in critical SARS-CoV-2-infected patients.	JCI Insight
+34273522	Healthcare Professionals' Experiences of the Barriers and Facilitators to Pediatric Pain Management in the Community at End-of-Life: A Qualitative Interview Study.	J Pain Symptom Manage
+34272224	COVID-19-related attitudes, risk perceptions, preventive behaviours and economic impact in sub-Saharan African countries: implementing a longitudinal phone-based survey protocol in rural Senegalese households.	BMJ Open
+34266452	A randomized open-label trial to evaluate the efficacy and safety of triple therapy with aspirin, atorvastatin, and nicorandil in hospitalised patients with SARS Cov-2 infection: A structured summary of a study protocol for a randomized controlled trial.	Trials
+34265281	Structure-guided T cell vaccine design for SARS-CoV-2 variants and sarbecoviruses.	Cell
+34259942	Myeloid phenotypes in severe COVID-19 predict secondary infection and mortality: a pilot study.	Ann Intensive Care
+34258049	A Real-World Single-Centre Study of Patients with Diabetic Macular Oedema Who Wore a Home-Use Sleep Mask (Noctura 400) for One Year.	J Ophthalmol
+34257506	Mathematical Modeling and Numerical Simulation of Atherosclerosis Based on a Novel Surgeon's View.	Arch Comput Methods Eng
+34249666	Prevalence of Olfactory and Gustatory Dysfunction in Coronavirus Disease (COVID-19): A Cross Sectional Study in Our Tertiary Care Hospital.	Indian J Otolaryngol Head Neck Surg
+34249101	A Peptide Vaccine Candidate Tailored to Individuals' Genetics Mimics the Multi-Targeted T Cell Immunity of COVID-19 Convalescent Subjects.	Front Genet
+34248984	Severe COVID-19 Recovery Is Associated with Timely Acquisition of a Myeloid Cell Immune-Regulatory Phenotype.	Front Immunol
+34248788	The Impact of General Self-Efficacy on Psychological Resilience During the COVID-19 Pandemic: The Mediating Role of Posttraumatic Growth and the Moderating Role of Deliberate Rumination.	Front Psychol
+34245254	Sequential Dengue and Coronavirus Disease 2019 (COVID-19): A Case of Viral Dr. Jekyll or Mr. Hyde?	Clin Infect Dis
+34241963	Positive flow cytometry crossmatch with discrepant antibody testing results following COVID-19 vaccination.	Am J Transplant
+34241692	[Post-Corona-Virus-Disease19 arthritis. Manifestation under the clinical picture of a reactive arthritis].	Z Rheumatol
+34240749	Response to Dr. Masaya Miyauchi and Dr. Teruhiko Imamura, Clinical implication of COVID-19 associated bradycardia.	Clin Cardiol
+34236391	Application of 5G Technology to Conduct Real-Time Teleretinal Laser Photocoagulation for the Treatment of Diabetic Retinopathy.	JAMA Ophthalmol
+34234488	Quality of Life Differences in Pre- and Post-Educational Treatment in Type 1 Diabetes Mellitus During COVID-19.	Diabetes Metab Syndr Obes
+34231935	Identification of HLA-A2 restricted CD8(+) T cell epitopes in SARS-CoV-2 structural proteins.	J Leukoc Biol
+34225749	HLA-dependent heterogeneity and macrophage immunoproteasome activation during lung COVID-19 disease.	J Transl Med
+34225491	Methyltransferase-like 3 Modulates Severe Acute Respiratory Syndrome Coronavirus-2 RNA N6-Methyladenosine Modification and Replication.	mBio
+34225337	Development and optimization of heavy metal lead biosensors in biomedical and environmental applications.	J Chin Med Assoc
+34222847	Nitazoxanide superiority to placebo to treat moderate COVID-19 - A Pilot prove of concept randomized double-blind clinical trial.	EClinicalMedicine
+34222172	Helping Mothers Survive: Program Evaluation and Early Outcomes of Maternal Care Training in the Dominican Republic.	Front Public Health
+34220854	Chronic Immune Activation and CD4(+) T Cell Lymphopenia in Healthy African Individuals: Perspectives for SARS-CoV-2 Vaccine Efficacy.	Front Immunol
+34218245	The presence of anti-leucocyte antibodies in the plasma of convalescent women after SARS-CoV-2 infection as a reason for disqualification for plasma therapy - analysis based on a literature review.	Pol Merkur Lekarski
+34208061	Multi-Epitope Vaccine Design Using an Immunoinformatic Approach for SARS-CoV-2.	Pathogens
+34205992	An Immunoinformatics Approach for SARS-CoV-2 in Latam Populations and Multi-Epitope Vaccine Candidate Directed towards the World's Population.	Vaccines (Basel)
+34204591	Diabetic Retinopathy Screening and Registration in Europe-Narrative Review.	Healthcare (Basel)
+34196842	Reactive Arthritis Update: Spotlight on New and Rare Infectious Agents Implicated as Pathogens.	Curr Rheumatol Rep
+34193364	Innate immune response analysis in COVID-19 and kawasaki disease reveals MIS-C predictors.	J Formos Med Assoc
+34189150	An economist's take on risk, COVID-19, and infectious diseases - An interview with Dr. Emily Oster.	Open Forum Infect Dis
+34183902	Emergent spine surgery during COVID-19 pandemic: 10 Months experience in Dr. Sardjito general hospital, Indonesia a case series.	Ann Med Surg (Lond)
+34183364	SARS-CoV-2 Proteins Induce Endotoxin Tolerance Hallmarks: A Demonstration in Patients with COVID-19.	J Immunol
+34180719	The Systematic Effect of Mesenchymal Stem Cell Therapy in Critical COVID-19 Patients: A Prospective Double Controlled Trial.	Cell Transplant
+34178755	The Potential Association of Human Leukocyte Antigen (HLA)-A and -B with COVID-19 Mortality: A Neglected Risk Factor.	Iran J Public Health
+34177422	Neutralizing Antibodies against SARS-CoV-2 and HLA Class I and II Polymorphism.	Transfus Med Hemother
+34177193	Exploring AyuGenomics approach for understanding COVID-19 predisposition and progression.	J Ayurveda Integr Med
+34175482	Antiviral Effects of Ivermectin in COVID-19- Clinically Plausible?	Int J Infect Dis
+34171305	Profiling SARS-CoV-2 HLA-I peptidome reveals T cell epitopes from out-of-frame ORFs.	Cell
+34171266	SARS-CoV-2 spike L452R variant evades cellular immunity and increases infectivity.	Cell Host Microbe
+34166618	Identification of presented SARS-CoV-2 HLA class I and HLA class II peptides using HLA peptidomics.	Cell Rep
+34165257	HLA-A homozygosis is associated with susceptibility to COVID-19.	HLA
+34146538	Peptides of H. sapiens and P. falciparum that are predicted to bind strongly to HLA-A*24:02 and homologous to a SARS-CoV-2 peptide.	Acta Trop
+34145459	Large-Scale Identification of T-Cell Epitopes Derived From Severe Acute Respiratory Syndrome Coronavirus 2 for the Development of Peptide Vaccines Against Coronavirus Disease 2019.	J Infect Dis
+34144720	Strategies for Students to Optimize Their Learning Experience in Virtual Patient-Care Settings.	Sr Care Pharm
+34142917	Specialization Within a Specialty: Advanced Practice Psychiatric Nursing Pathways for the Greatest Good.	J Psychosoc Nurs Ment Health Serv
+34139370	Situational analysis of 10 countries with a high burden of drug-resistant tuberculosis 2 years post-UNHLM declaration: progress and setbacks in a changing landscape.	Int J Infect Dis
+34137173	Single-cell RNA sequencing identify SDCBP in ACE2-positive bronchial epithelial cells negatively correlates with COVID-19 severity.	J Cell Mol Med
+34136572	Bioinformatic HLA Studies in the Context of SARS-CoV-2 Pandemic and Review on Association of HLA Alleles with Preexisting Medical Conditions.	Biomed Res Int
+34135624	Modified Chest X-Ray Scoring System in Evaluating Severity of COVID-19 Patient in Dr. Soetomo General Hospital Surabaya, Indonesia.	Int J Gen Med
+34128747	COVID-19 Efforts at the Institute of Image Guided Surgery (IHU-Strasbourg): 2020.	Surg Innov
+34128425	Protect the nurse, protect the practice: Effective communication is the foundation for keeping nurses safe.	Healthc Manage Forum
+34127050	Landscape and selection of vaccine epitopes in SARS-CoV-2.	Genome Med
+34125988	Patients with schizophrenia have decreased COVID-19 prevalence among hospitalised patients with psychiatric and neurological diseases: A retrospective analysis in Mexican population.	Int J Clin Pract
+34124695	Protein purification and crystallization of HLA-A *02:01 in complex with SARS-CoV-2 peptides.	STAR Protoc
+34123705	COVID-19 infection as a trigger for new-onset type 1 diabetes in a susceptible individual - or just coincidence?	GMS Hyg Infect Control
+34117826	Bicentric evaluation of stabilizing sampling tubes for assessment of monocyte HLA-DR expression in clinical samples.	Cytometry B Clin Cytom
+34117370	Yeast display of MHC-II enables rapid identification of peptide ligands from protein antigens (RIPPA).	Cell Mol Immunol
+34116863	Antigen presentation in SARS-CoV-2 infection: the role of class I HLA and ERAP polymorphisms.	Hum Immunol
+34113207	A Message from the Editor-in-Chief.	Acta Med Litu
+34112886	HLA-B27 is associated with reduced disease activity in axial spondyloarthritis.	Sci Rep
+34112657	Managing high frequency users of an electronic consultation system in primary care: a quality improvement project.	BMJ Open Qual
+34108200	Improving the Perception of Patient-Centered Wellness in a Virtual Population During the COVID-19 Pandemic.	J Dr Nurs Pract
+34108199	Correct Execution of the Nasopharyngeal Swab: A Fundamental Method to Improve Diagnosis of SARS-CoV-2 Infection.	J Dr Nurs Pract
+34102247	Remote screening of diabetic retinopathy using ultra-widefield retinal imaging.	Diabetes Res Clin Pract
+34101623	Impaired humoral and cellular immunity after SARS-CoV-2 BNT162b2 (tozinameran) prime-boost vaccination in kidney transplant recipients.	J Clin Invest
+34098342	SARS-CoV-2 elicits robust adaptive immune responses regardless of disease severity.	EBioMedicine
+34094782	Effect of COVID-19-Associated Lockdown on Patients With Diabetic Retinopathy.	Cureus
+34088803	COVID-19 Pandemic Practices, Payment Models, and Publication Successes: Family Medicine Studies a Variety of Primary Care Questions.	J Am Board Fam Med
+34088341	The impact of the COVID-19 pandemic on healthcare-associated infections in intensive care unit patients: a retrospective cohort study.	Antimicrob Resist Infect Control
+34086722	Assessment of depressive symptoms in patients with COVID-19 during the second wave of epidemic in Myanmar: A cross-sectional single-center study.	PLoS One
+34086357	SARS-CoV-2-specific CD8(+) T-cell responses and TCR signatures in the context of a prominent HLA-A*24:02 allomorph.	Immunol Cell Biol
+34084578	FDA and Its Role in Drug Development.	J Adv Pract Oncol
+34082568	Clinical microbiology laboratories and COVID-19: an interview with Joseph Blondeau.	Future Microbiol
+34080738	Critical COVID-19 is associated with distinct leukocyte phenotypes and transcriptome patterns.	J Intern Med
+34077451	Identification of naturally processed Zika virus peptides by mass spectrometry and validation of memory T cell recall responses in Zika convalescent subjects.	PLoS One
+34075005	Impact of COVID-19 on Lung Allograft and Clinical Outcomes in Lung Transplant Recipients: A Case-control Study.	Transplantation
+34073934	Identification of Novel Candidate CD8(+) T Cell Epitopes of the SARS-CoV2 with Homology to Other Seasonal Coronaviruses.	Viruses
+34070971	Innate and Adaptive Immune Genes Associated with MERS-CoV Infection in Dromedaries.	Cells
+34070152	A Synthetic Peptide CTL Vaccine Targeting Nucleocapsid Confers Protection from SARS-CoV-2 Challenge in Rhesus Macaques.	Vaccines (Basel)
+34066389	Comparison of Immunological Profiles of SARS-CoV-2 Variants in the COVID-19 Pandemic Trends: An Immunoinformatics Approach.	Antibiotics (Basel)
+34063426	Label-Free Comparative Proteomics of Differentially Expressed Mycobacterium tuberculosis Protein in Rifampicin-Related Drug-Resistant Strains.	Pathogens
+34056536	Battling the COVID-19 infodemic in an Irish context: the role of iHealthFacts.	HRB Open Res
+34051259	Ethyl cellulose coated sustained release aspirin spherules for treating COVID-19: DOE led rapid optimization using arbitrary interface; applicable for emergency situations.	Int J Biol Macromol
+34051147	Distinct immunological signatures discriminate severe COVID-19 from non-SARS-CoV-2-driven critical pneumonia.	Immunity
+34050837	MHC Haplotyping of SARS-CoV-2 Patients: HLA Subtypes Are Not Associated with the Presence and Severity of COVID-19 in the Israeli Population.	J Clin Immunol
+34046264	The impact of COVID-19 pandemic on the level of depression among health care workers: cross-sectional study.	PeerJ
+34036116	Debating the Role of Vitamin D in COVID-19 - An interview with Dr. David Meltzer.	Open Forum Infect Dis
+34035116	Polyclonal expansion of TCR Vbeta 21.3(+) CD4(+) and CD8(+) T cells is a hallmark of Multisystem Inflammatory Syndrome in Children.	Sci Immunol
+34027499	SARS-CoV-2 variants: Subversion of antibody response and predicted impact on T cell recognition.	Cell Rep Med
+34026045	Most Japanese individuals are genetically predisposed to recognize an immunogenic protein fragment shared between COVID-19 and common cold coronaviruses.	F1000Res
+34024946	Coronavirus lockdown and virus suppression: An international analysis.	Technol Forecast Soc Change
+34022099	A eulogy for Dr Francisco Miguel Marty Forero.	Transpl Infect Dis
+34018818	Letter to the Editor: CD14(+)HLA-DR(+) Cells in Patients May Be a Biomarker Reflecting the Progression of COVID-19.	Viral Immunol
+34016183	Genetic susceptibility of COVID-19: a systematic review of current evidence.	Eur J Med Res
+34015620	Frequency of HLA alleles among COVID-19 infected patients: Preliminary data from Saudi Arabia.	Virology
+34011623	The value of anal swab RT-PCR for COVID-19 diagnosis in adult Indonesian patients.	BMJ Open Gastroenterol
+34008291	COVID-19 and family violence: Is this a perfect storm?	Int J Ment Health Nurs
+34006597	Clonal analysis of immunodominance and cross-reactivity of the CD4 T cell response to SARS-CoV-2.	Science
+34004174	Mapping the SARS-CoV-2 spike glycoprotein-derived peptidome presented by HLA class II on dendritic cells.	Cell Rep
+34003957	Face Mask-Related Ocular Surface Modifications During COVID-19 Pandemic: A Clinical, In Vivo Confocal Microscopy, and Immune-Cytology Study.	Transl Vis Sci Technol
+34001248	Initial study on TMPRSS2 p.Val160Met genetic variant in COVID-19 patients.	Hum Genomics
+34000622	Clinical features and prognostic factors in Covid-19: A prospective cohort study.	EBioMedicine
+33998265	Preventing the next pandemic and tackling antiscience: an interview with Peter Hotez.	Future Microbiol
+33995351	SARS-CoV-2-Seronegative Subjects Target CTL Epitopes in the SARS-CoV-2 Nucleoprotein Cross-Reactive to Common Cold Coronaviruses.	Front Immunol
+33994395	The Doctor Stamp and COVID-19: A Perspective.	Perspect Biol Med
+33993214	Structure-based drug repurposing against COVID-19 and emerging infectious diseases: methods, resources and discoveries.	Brief Bioinform
+33989473	Comorbilidad asociada con infeccion por SARS-CoV-2 (Covid-19), en el Hospital General de Mexico Dr. Eduardo Liceaga.	Salud Publica Mex
+33986354	Surge of severe acute respiratory syndrome coronavirus 2 infections linked to single introduction of a virus strain in Myanmar, 2020.	Sci Rep
+33986292	Highly conserved, non-human-like, and cross-reactive SARS-CoV-2 T cell epitopes for COVID-19 vaccine design and validation.	NPJ Vaccines
+33982129	The last rites in a time of pandemic.	J Public Health (Oxf)
+33979758	Blood neutrophils from children with COVID-19 exhibit both inflammatory and anti-inflammatory markers.	EBioMedicine
+33977279	Comparative immune profiling of acute respiratory distress syndrome patients with or without SARS-CoV-2 infection.	Cell Rep Med
+33977169	How healthcare workers are coping with mental health challenges during COVID-19 pandemic? - A cross-sectional multi-countries study.	Clin Epidemiol Glob Health
+33976610	Leukocyte-Reactive Antibodies in Female Blood Donors: The Austrian Experience.	Transfus Med Hemother
+33974610	Monoclonal Antibodies vs COVID-19: Eduardo Ojito-Magaz MS General Director, Molecular Immunology Center.	MEDICC Rev
+33974607	COVID-19 Requires Innovation, Regulation and Rigor: Amaylid Arteaga-Garcia MD MS Director, National Clinical Trials Coordinating Center (CENCEC).	MEDICC Rev
+33972535	Identification and characterization of a SARS-CoV-2 specific CD8(+) T cell response with immunodominant features.	Nat Commun
+33972137	Risk HLA alleles in South America and potential new epitopes for SARS-CoV2.	Hum Immunol
+33970560	An Androsterone-H2 @C60 hybrid: Synthesis, Properties and Molecular Docking Simulations with SARS-Cov-2.	Chempluschem
+33969163	Survey data of COVID-19 vaccine side effects among hospital staff in a national referral hospital in Indonesia.	Data Brief
+33968060	HLA-A*11:01:01:01, HLA-C*12:02:02:01-HLA-B*52:01:02:02, Age and Sex Are Associated With Severity of Japanese COVID-19 With Respiratory Failure.	Front Immunol
+33964514	Cryopreservation of Unrelated Hematopoietic Stem Cells from a Blood and Marrow Donor Bank During the COVID-19 Pandemic: A Nationwide Survey by the Japan Marrow Donor Program.	Transplant Cell Ther
+33951417	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope display high naive precursor frequency and TCR promiscuity.	Immunity
+33950404	New aspects in the pathogenesis and management of subacute thyroiditis.	Rev Endocr Metab Disord
+33945786	CD8(+) T cells specific for an immunodominant SARS-CoV-2 nucleocapsid epitope cross-react with selective seasonal coronaviruses.	Immunity
+33945513	Relationship of SARS-CoV-2-specific CD4 response to COVID-19 severity and impact of HIV-1 and tuberculosis coinfection.	J Clin Invest
+33944606	Violations of Suicide-Prevention Guidelines in US Media Coverage of Physician's Suicide Death During the COVID-19 Pandemic.	Crisis
+33937096	Immune Profile in Patients With COVID-19: Lymphocytes Exhaustion Markers in Relationship to Clinical Outcome.	Front Cell Infect Microbiol
+33936347	Immunoinformatics Identification of B- and T-Cell Epitopes in the RNA-Dependent RNA Polymerase of SARS-CoV-2.	Can J Infect Dis Med Microbiol
+33936047	SARS-CoV-2 Infection Induces Psoriatic Arthritis Flares and Enthesis Resident Plasmacytoid Dendritic Cell Type-1 Interferon Inhibition by JAK Antagonism Offer Novel Spondyloarthritis Pathogenesis Insights.	Front Immunol
+33933633	Genetic polymorphisms as multi-biomarkers in severe acute respiratory syndrome (SARS) by coronavirus infection: A systematic review of candidate gene association studies.	Infect Genet Evol
+33931567	Prior SARS-CoV-2 infection rescues B and T cell responses to variants after first vaccine dose.	Science
+33928374	Activating Killer-Cell Immunoglobulin-Like Receptors Are Associated With the Severity of Coronavirus Disease 2019.	J Infect Dis
+33924118	Behavioral and Attitudinal Correlates of Trusted Sources of COVID-19 Vaccine Information in the US.	Behav Sci (Basel)
+33923363	Designing a SARS-CoV-2 T-Cell-Inducing Vaccine for High-Risk Patient Groups.	Vaccines (Basel)
+33913911	Lockdown effects on a patient receiving immunosuppression for unilateral HLA- B27 associated uveitis during COVID-19 pandemic.	Indian J Ophthalmol
+33911008	Genome-Wide B Cell, CD4(+), and CD8(+) T Cell Epitopes That Are Highly Conserved between Human and Animal Coronaviruses, Identified from SARS-CoV-2 as Targets for Preemptive Pan-Coronavirus Vaccines.	J Immunol
+33910707	COVID-19 does not impact HLA antibody profile in a series of waitlisted renal transplant candidates.	Hum Immunol
+33908363	Up close and personal with Covid 19: An interview with Dr Usha Sriram.	Indian J Med Ethics
+33906069	VB10, a new blood biomarker for differential diagnosis and recovery monitoring of acute viral and bacterial infections.	EBioMedicine
+33905752	HLA-C*17 in COVID-19 patients: Hints for associations with severe clinical outcome and cardiovascular risk.	Immunol Lett
+33897692	Case Report: Interferon-gamma Restores Monocytic Human Leukocyte Antigen Receptor (mHLA-DR) in Severe COVID-19 With Acquired Immunosuppression Syndrome.	Front Immunol
+33897044	"Be the Person You Ought to Be": A Convocation Speech to the Graduating Medical Students.	Linacre Q
+33896121	The influence of HLA genotype on the severity of COVID-19 infection.	HLA
+33874649	Axial and peripheral spondyloarthritis triggered by sars-cov-2 infection: a report of two cases.	Reumatismo
+33868239	Genetics Insight for COVID-19 Susceptibility and Severity: A Review.	Front Immunol
+33867313	Epigenome-wide association study of COVID-19 severity with respiratory failure.	EBioMedicine
+33865804	The Effect of Donor Graft Cryopreservation on Allogeneic Hematopoietic Cell Transplantation Outcomes: A Center for International Blood and Marrow Transplant Research Analysis. Implications during the COVID-19 Pandemic.	Transplant Cell Ther
+33861802	Extensive activation, tissue trafficking, turnover and functional impairment of NK cells in COVID-19 patients at disease onset associates with subsequent disease severity.	PLoS Pathog
+33859488	Decreased T Cell Levels in Critically Ill Coronavirus Patients: Single-Center, Prospective and Observational Study.	J Inflamm Res
+33857609	Mortality in children with positive SARS-CoV-2 polymerase chain reaction test: Lessons learned from a tertiary referral hospital in Indonesia.	Int J Infect Dis
+33845874	Longitudinal assessment of IFN-I activity and immune profile in critically ill COVID-19 patients with acute respiratory distress syndrome.	Crit Care
+33841050	A Practical Approach to Filtering Facepiece Respirator Decontamination and Reuse: Ultraviolet Germicidal Irradiation.	Curr Treat Options Infect Dis
+33838086	United States internet searches for "infertility" following COVID-19 vaccine misinformation.	J Osteopath Med
+33837428	Faster than warp speed: early attention to COVD-19 by anti-vaccine groups on Facebook.	J Public Health (Oxf)
+33830530	Association between the HLA genotype and the severity of COVID-19 infection among South Asians.	J Med Virol
+33828922	Immunoinformatic approach to design a multiepitope vaccine targeting non-mutational hotspot regions of structural and non-structural proteins of the SARS CoV2.	PeerJ
+33824725	Genetic variability in COVID-19-related genes in the Brazilian population.	Hum Genome Var
+33819681	Immunogenicity and antigenicity based T-cell and B-cell epitopes identification from conserved regions of 10664 SARS-CoV-2 genomes.	Infect Genet Evol
+33816518	Teamwork and Leadership Under Fire at the Epicenter of the COVID-19 Epidemic in the Bronx.	Front Med (Lausanne)
+33816013	Assessing Vaping Views, Usage, and Vaping-Related Education Among Medical Students: A Pilot Study.	Cureus
+33811468	Resourcing, annotating, and analysing synthetic peptides of SARS-CoV-2 for immunopeptidomics and other immunological studies.	Proteomics
+33802310	Immunogenetic Predictors of Severe COVID-19.	Vaccines (Basel)
+33800764	Developing Pandemic Prevention and Control by ANP-QFD Approach: A Case Study on Urban Furniture Design in China Communities.	Int J Environ Res Public Health
+33799096	Developing social presence in online learning among nurses: Exploration of the community of inquiry models domain of social using a qualitative descriptive design.	Nurse Educ Pract
+33796627	The Covid Impact to Public Healthcare Utilization Among Urban Low-Income Subsidized Community in Klang Valley Malaysia.	Health Serv Res Manag Epidemiol
+33793006	Features of HLA class I expression and its clinical relevance in SARS-CoV-2: What do we know so far?	Rev Med Virol
+33790965	Different Appearance of Chest CT Images of T2DM and NDM Patients with COVID-19 Pneumonia Based on an Artificial Intelligent Quantitative Method.	Int J Endocrinol
+33785044	Hypothetical COVID-19 protection mechanism: hints from centenarians.	Immun Ageing
+33780418	"Cuba's Medical Team in the European Epicenter of COVID-19: Carlos R. Perez-Diaz MD MS PhD Director, Joaquin Albarran Provincial Clinical-Surgical Hospital, Havana Henry Reeve Medical Contingent Leader, Lombardy, Italy".	MEDICC Rev
+33780417	Researchers at Cuba's National Medical Genetics Center: Pioneering Studies on COVID-19.	MEDICC Rev
+33777054	T Cell Activation, Highly Armed Cytotoxic Cells and a Shift in Monocytes CD300 Receptors Expression Is Characteristic of Patients With Severe COVID-19.	Front Immunol
+33777028	Immune Memory in Mild COVID-19 Patients and Unexposed Donors Reveals Persistent T Cell Responses After SARS-CoV-2 Infection.	Front Immunol
+33773127	Ebola and COVID-19 in DR Congo and Guinea.	Lancet Infect Dis
+33769683	SARS-CoV-2 biology and variants: anticipation of viral evolution and what needs to be done.	Environ Microbiol
+33751722	Bioinformatic analyses hinted at augmented T helper 17 cell differentiation and cytokine response as the central mechanism of COVID-19-associated Guillain-Barre syndrome.	Cell Prolif
+33751111	Broad phenotypic alterations and potential dysfunction of lymphocytes in individuals clinically recovered from COVID-19.	J Mol Cell Biol
+33748696	Learning from HIV-1 to predict the immunogenicity of T cell epitopes in SARS-CoV-2.	iScience
+33748317	Calling for an Evidence-Based Approach to COVID-19 - An interview with Dr. Vinay Prasad.	Open Forum Infect Dis
+33745966	Usefulness of a multiplex immunodot in case of discordant results between automated COVID-19 serological assays.	J Virol Methods
+33736695	Mesenchymal stem/stromal cells as a valuable source for the treatment of immune-mediated disorders.	Stem Cell Res Ther
+33735661	Microbleed patterns in critical illness and COVID-19.	Clin Neurol Neurosurg
+33734601	Association of HLA-DRB1*09:01 with severe COVID-19.	HLA
+33732261	Association of HLA Class I Genotypes With Severity of Coronavirus Disease-19.	Front Immunol
+33732254	Phenotype, Susceptibility, Autoimmunity, and Immunotherapy Between Kawasaki Disease and Coronavirus Disease-19 Associated Multisystem Inflammatory Syndrome in Children.	Front Immunol
+33728324	Immunoinformatics and Molecular Docking Studies Predicted Potential Multiepitope-Based Peptide Vaccine and Novel Compounds against Novel SARS-CoV-2 through Virtual Screening.	Biomed Res Int
+33722265	Clinical and immunological effects of mRNA vaccines in malignant diseases.	Mol Cancer
+33718434	Drug Repurposing Strategy (DRS): Emerging Approach to Identify Potential Therapeutics for Treatment of Novel Coronavirus Infection.	Front Mol Biosci
+33717195	COVID-19 Impairs Immune Response to Candida albicans.	Front Immunol
+33717140	Epigenetic Landscapes of Single-Cell Chromatin Accessibility and Transcriptomic Immune Profiles of T Cells in COVID-19 Patients.	Front Immunol
+33717077	A Proteome-Wide Immunoinformatics Tool to Accelerate T-Cell Epitope Discovery and Vaccine Design in the Context of Emerging Infectious Diseases: An Ethnicity-Oriented Approach.	Front Immunol
+33716943	The Impact of COVID-19 Lockdown on People With Epilepsy and Vagal Nerve Stimulation.	Front Neurol
+33715015	High dimensional profiling identifies specific immune types along the recovery trajectories of critically ill COVID19 patients.	Cell Mol Life Sci
+33705359	HLA class I-associated expansion of TRBV11-2 T cells in multisystem inflammatory syndrome in children.	J Clin Invest
+33704358	Patient Perceptions of SARS-CoV-2 Exposure Risk and Association With Continuity of Ophthalmic Care.	JAMA Ophthalmol
+33693853	The Belt and Road Initiative and disease control amid the COVID-19 pandemic.	J Travel Med
+33692788	Reduced Expression of Autophagy Markers and Expansion of Myeloid-Derived Suppressor Cells Correlate With Poor T Cell Response in Severe COVID-19 Patients.	Front Immunol
+33691936	Authors' reply to: Comment on the article by Dr. Dmitry Tretiakow: Management of tracheostomy in COVID-19 patients: The Japanese experience.	Auris Nasus Larynx
+33690228	How Do We Manage Hematopoietic Cell Transplant during the SARS-CoV-2 Pandemic?	Acta Haematol
+33686367	Outcomes of Patients Undergoing Emergency Tracheostomy During COVID 19 Pandemic: Our Experience from a Tertiary Care Centre in North-East India.	Indian J Otolaryngol Head Neck Surg
+33684317	Insulin Use and Poor COVID-19 Outcomes among Diabetes Patients: Association Not Necessarily Causation.	Endocr Res
+33664060	SARS-CoV-2 mutations in MHC-I-restricted epitopes evade CD8(+) T cell responses.	Sci Immunol
+33653867	Reactive arthritis after COVID-19.	BMJ Case Rep
+33652000	Rebuttal From Drs Brenner, Feller-Kopman, and De Cardenas.	Chest
+33641832	75th National Conference of tuberculosis and chest diseases: DR KS Sachdeva Speech.	Indian J Tuberc
+33640878	Elevated frequencies of CD14(+)HLA-DR(lo/neg) MDSCs in COVID-19 patients.	Aging (Albany NY)
+33633155	Immunoinformatic based identification of cytotoxic T lymphocyte epitopes from the Indian isolate of SARS-CoV-2.	Sci Rep
+33627999	Tedious, Tiresome, and Dull: An Unrecognized Problem That We Can Solve.	Diabetes Spectr
+33627998	50 Years of Behavioral Science in Diabetes: A 2020 Vision of the Future.	Diabetes Spectr
+33622579	Authors' reply to: Comment on the article by Dr. W. Narozny: ENT manifestation in COVID-19 patients.	Auris Nasus Larynx
+33616026	Update on SARS-CoV-2 infection in children.	Paediatr Int Child Health
+33615877	Honoring Eula Bingham: A Memorial Gathering During the Covid-19 Pandemic.	New Solut
+33615195	Structural insight reveals SARS-CoV-2 ORF7a as an immunomodulating factor for human CD14(+) monocytes.	iScience
+33614408	COVID-19 pandemic and emerging plastic-based personal protective equipment waste pollution and management in Africa.	J Environ Chem Eng
+33612185	COVID-19 Reinfection in An Immunosuppressed Patient Without An Antibody Response.	Am J Med Sci
+33608324	50 Years of Behavioral Science in Diabetes: A 2020 Vision of the Future.	Diabetes Care
+33607744	In Reply to "Letter to the Editor Regarding Neurosurgery Services in Dr. Sardjito General Hospital, Yogyakarta, Indonesia, During the COVID-19 Pandemic: Experience from a Developing Country".	World Neurosurg
+33607743	Letter to the Editor Regarding "Neurosurgery Services in Dr. Sardjito General Hospital, Yogyakarta, Indonesia, During the COVID-19 Pandemic: Experience from a Developing Country".	World Neurosurg
+33602595	Perspective on the New IR Residency Selection Process: 4-year Experience at a Large, Collaborative Training Program.	Acad Radiol
+33588349	Epitope mimicry analysis of SARS-COV-2 surface proteins and human lung proteins.	J Mol Graph Model
+33586620	Whole proteome screening and identification of potential epitopes of SARS-CoV-2 for vaccine design-an immunoinformatic, molecular docking and molecular dynamics simulation accelerated robust strategy.	J Biomol Struct Dyn
+33584668	Induction of SARS-CoV-2 Protein S-Specific CD8+ T Cells in the Lungs of gp96-Ig-S Vaccinated Mice.	Front Immunol
+33584278	Biomarkers of Neurodegeneration and Precision Therapy in Retinal Disease.	Front Pharmacol
+33581239	Single nucleotide polymorphisms in key aging pathways, and phenotypic markers of frailty are associated with increased odds of hospital admission with COVID-19.	J Infect
+33573778	Critical evaluation of the methodology used by Wilson-Davies et al., (2020) entitled "Concerning the Optigene Direct LAMP assay, and it`s use in at-risk groups and hospital staff".	J Infect
+33570850	Preventing Clinician Suicide: A Call to Action During the COVID-19 Pandemic and Beyond.	Acad Med
+33549269	Elevated Rate of HLA Antibodies in Male COVID-19 Convalescent Plasma Donors: A Risk Factor for Transfusion-Related Acute Lung Injury.	Mayo Clin Proc
+33546902	Predictive immunogenetic markers in COVID-19.	Hum Immunol
+33546489	Mucosal-Associated Invariant T (MAIT) Cells Are Highly Activated and Functionally Impaired in COVID-19 Patients.	Viruses
+33542445	Pharmacogenomics and COVID-19: clinical implications of human genome interactions with repurposed drugs.	Pharmacogenomics J
+33539638	A novel allele, HLA-C*15:227, identified when typing COVID-19 patients.	HLA
+33535230	jSRC: a flexible and accurate joint learning algorithm for clustering of single-cell RNA-sequencing data.	Brief Bioinform
+33534800	The effect of spokesperson attribution on public health message sharing during the COVID-19 pandemic.	PLoS One
+33531264	Dynamic changes in monocytes subsets in COVID-19 patients.	Hum Immunol
+33527777	Reply to the letter from Dr. Pirjo Parnanen et al.	Physiol Rep
+33525308	On the case report of Platypnea-orthodeoxia after SARSCoV-2 pneumonia plus historical notes.	Acta Biomed
+33521695	Comprehensive analysis of T cell immunodominance and immunoprevalence of SARS-CoV-2 epitopes in COVID-19 cases.	Cell Rep Med
+33521593	The presentation of SARS-CoV-2 peptides by the common HLA-A( *)02:01 molecule.	iScience
+33509642	Response to Letter by Dr. Mammi et al.	J Stroke Cerebrovasc Dis
+33509045	Applying high throughput and comprehensive immunoinformatics approaches to design a trivalent subunit vaccine for induction of immune response against emerging human coronaviruses SARS-CoV, MERS-CoV and SARS-CoV-2.	J Biomol Struct Dyn
+33500568	Deletion of the NKG2C receptor encoding KLRC2 gene and HLA-E variants are risk factors for severe COVID-19.	Genet Med
+33498051	Dynamic Changes of Lymphocyte Subsets in the Course of COVID-19.	Int Arch Allergy Immunol
+33497700	Virtual Dr Amy Goes to Clinic.	Arch Phys Med Rehabil
+33493287	Monocytes and Macrophages, Targets of Severe Acute Respiratory Syndrome Coronavirus 2: The Clue for Coronavirus Disease 2019 Immunoparalysis.	J Infect Dis
+33493010	Web Exclusive. Annals Graphic Medicine - Dr. Mom: The Emotions of Getting the COVID-19 Vaccine.	Ann Intern Med
+33488597	HLA, Immune Response, and Susceptibility to COVID-19.	Front Immunol
+33488592	Rapid GMP-Compliant Expansion of SARS-CoV-2-Specific T Cells From Convalescent Donors for Use as an Allogeneic Cell Therapy for COVID-19.	Front Immunol
+33481306	Anti-HLA and anti-SARS-CoV-2 antibodies in kidney transplant recipients with COVID-19.	Transpl Int
+33479795	"Swords and Shields" against COVID-19 for patients with cancer at "clean" and "pandemic" hospitals: are we ready for the second wave?	Support Care Cancer
+33478794	Immunoinformatics prediction of overlapping CD8(+) T-cell, IFN-gamma and IL-4 inducer CD4(+) T-cell and linear B-cell epitopes based vaccines against COVID-19 (SARS-CoV-2).	Vaccine
+33469510	A domain-based vaccine construct against SARS-CoV-2, the causative agent of COVID-19 pandemic: development of self-amplifying mRNA and peptide vaccines.	Bioimpacts
+33461602	Evaluation of the efficacy and safety of inhaled magnesium sulphate in combination with standard treatment in patients with moderate or severe COVID-19: A structured summary of a study protocol for a randomised controlled trial.	Trials
+33461262	First year with COVID-19: Assessment and prospects.	Geospat Health
+33457195	Footprint of the COVID-19 Pandemic in India: A Study of Immune Landscape and Other Factors Shielding Mortality.	Anal Cell Pathol (Amst)
+33443088	Identification of SARS-CoV-2 Nucleocapsid and Spike T-Cell Epitopes for Assessing T-Cell Immunity.	J Virol
+33442258	Anxiety and Resilience of Healthcare Workers During COVID-19 Pandemic in Indonesia.	J Multidiscip Healthc
+33441437	Cutting Edge: Mouse SARS-CoV-2 Epitope Reveals Infection and Vaccine-Elicited CD8 T Cell Responses.	J Immunol
+33439784	Benefits behind barriers in physiology education.	Adv Physiol Educ
+33435711	Diabetic Retinopathy Screening Using Artificial Intelligence and Handheld Smartphone-Based Retinal Camera.	J Diabetes Sci Technol
+33430933	Hydroxychloroquine in the treatment of adult patients with Covid-19 infection in a primary care setting (LIBERTY): A structured summary of a study protocol for a randomised controlled trial.	Trials
+33427749	SARS-CoV-2-specific CD8+ T cell responses in convalescent COVID-19 individuals.	J Clin Invest
+33424804	Imaging Mass Cytometric Analysis of Postmortem Tissues Reveals Dysregulated Immune Cell and Cytokine Responses in Multiple Organs of COVID-19 Patients.	Front Microbiol
+33421662	Mental Health & Parental Concerns during COVID-19: The Experiences of New Mothers Amidst Social Isolation.	Midwifery
+33421440	Immune reactivity during COVID-19: Implications for treatment.	Immunol Lett
+33420950	Medical Education for What?: Neoliberal Fascism Versus Social Justice.	J Med Humanit
+33419040	Usefulness of the New Hematological Parameter: Reactive Lymphocytes RE-LYMP with Flow Cytometry Markers of Inflammation in COVID-19.	Cells
+33409170	From quarantine room: Physician perspective.	J Family Med Prim Care
+33403186	Human Leukocyte Antigen (HLA) Class I Susceptible Alleles Against COVID-19 Increase Both Infection and Severity Rate.	Cureus
+33401171	The JANUS of chronic inflammatory and autoimmune diseases onset during COVID-19 - A systematic review of the literature.	J Autoimmun
+33395028	In the time of COVID....	J Am Assoc Nurse Pract
+33391255	Class I HLA Allele Predicted Restricted Antigenic Coverages for Spike and Nucleocapsid Proteins Are Associated With Deaths Related to COVID-19.	Front Immunol
+33390295	Timing of COVID-19 vaccine approval and endorsement by public figures.	Vaccine
+33385714	Genome-wide analysis of Indian SARS-CoV-2 genomes to identify T-cell and B-cell epitopes from conserved regions based on immunogenicity and antigenicity.	Int Immunopharmacol
+33382687	SARS-CoV-2 infection induces mixed M1/M2 phenotype in circulating monocytes and alterations in both dendritic cell and monocyte subsets.	PLoS One
+33380328	Design of a companion bioinformatic tool to detect the emergence and geographical distribution of SARS-CoV-2 Spike protein genetic variants.	J Transl Med
+33372946	Letter From Executive Director Dr. John Cho.	Mil Med
+33369996	Childhood B-Cell Acute Lymphoblastic Leukemia Following SARS CoV-2 Infection: A Potential Second "Hit" in Leukemogenesis.	J Pediatr Hematol Oncol
+33362779	Dynamic SARS-CoV-2-Specific Immunity in Critically Ill Patients With Hypertension.	Front Immunol
+33362757	Early Phases of COVID-19 Are Characterized by a Reduction in Lymphocyte Populations and the Presence of Atypical Monocytes.	Front Immunol
+33361777	Artificial intelligence predicts the immunogenic landscape of SARS-CoV-2 leading to universal blueprints for vaccine designs.	Sci Rep
+33360831	A computational drug repurposing approach in identifying the cephalosporin antibiotic and anti-hepatitis C drug derivatives for COVID-19 treatment.	Comput Biol Med
+33359434	Silver lining of COVID for HPV vaccination in Japan.	Travel Med Infect Dis
+33359051	Insensitivity of the 'Moonshot' LAMP assay, unsuitable for use in at-risk groups and hospital staff.	J Infect
+33358275	Continued Counseling for the Relationship Between State-Level Medicine and Public Health.	Am J Prev Med
+33357192	In Silico Studies Reveal Antiviral Effects of Traditional Indian Spices on COVID-19.	Curr Pharm Des
+33351863	Designing of a next generation multiepitope based vaccine (MEV) against SARS-COV-2: Immunoinformatics and in silico approaches.	PLoS One
+33351354	[The role of HLA genes: from autoimmune diseases to COVID-19].	Probl Endokrinol (Mosk)
+33348990	Allyship, Antiracism and the Strength of Weak Ties: A Barber, a Professor and an Entrepreneur Walk Into a Room.	Am J Health Promot
+33348427	Care bundles for improving outcomes in patients with COVID-19 or related conditions in intensive care - a rapid scoping review.	Cochrane Database Syst Rev
+33347770	Web Exclusive. Annals Graphic Medicine - Dr. Mom: My COVID Coping Mechanisms.	Ann Intern Med
+33343579	Human Leukocyte Antigen Complex and Other Immunogenetic and Clinical Factors Influence Susceptibility or Protection to SARS-CoV-2 Infection and Severity of the Disease Course. The Sardinian Experience.	Front Immunol
+33343156	Increased Interest for Mindfulness Online.	Int J Yoga
+33338400	RBM-MHC: A Semi-Supervised Machine-Learning Method for Sample-Specific Prediction of Antigen Presentation by HLA-I Alleles.	Cell Syst
+33336506	Consequences of canceling elective invasive cardiac procedures during Covid-19 outbreak.	Catheter Cardiovasc Interv
+33336349	"COVID-19 Pandemic as stimulator to Re-Establish Nuclear Medicine as Clinical Specialty" based on a report of Prof. Dr. Ignasi Carrio.	Nuklearmedizin
+33325143	T and B cell Epitope analysis of SARS-CoV-2 S protein based on immunoinformatics and experimental research.	J Cell Mol Med
+33324414	Negative Clinical Evolution in COVID-19 Patients Is Frequently Accompanied With an Increased Proportion of Undifferentiated Th Cells and a Strong Underrepresentation of the Th1 Subset.	Front Immunol
+33310368	Real-world outcomes in thoracic cancer patients with severe Acute respiratory syndrome Coronavirus 2 (COVID-19): Single UK institution experience.	Cancer Treat Res Commun
+33305790	ACE2, a multifunctional protein - from cardiovascular regulation to COVID-19.	Clin Sci (Lond)
+33301503	CD8 T cell epitope generation toward the continually mutating SARS-CoV-2 spike protein in genetically diverse human population: Implications for disease control and prevention.	PLoS One
+33299503	An Immunoinformatics Study to Predict Epitopes in the Envelope Protein of SARS-CoV-2.	Can J Infect Dis Med Microbiol
+33298875	Initial whole-genome sequencing and analysis of the host genetic contribution to COVID-19 severity and susceptibility.	Cell Discov
+33295314	A PAHO Perspective on COVID-19 in Cuba Jose Moya MD MPH PhD.	MEDICC Rev
+33295313	Early Action, Applied Research & Collaboration to Combat COVID-19: Maria Guadalupe Guzman MD PhD DSc.	MEDICC Rev
+33293514	A blood transcriptome-based analysis of disease progression, immune regulation, and symptoms in coronavirus-infected patients.	Cell Death Discov
+33291194	Investigation of QT Prolongation with Hydroxychloroquine and Azithromycin for the Treatment of COVID-19.	J Coll Physicians Surg Pak
+33283062	Proteins from SARS-CoV-2 reduce T cell proliferation: A mirror image of sepsis.	Heliyon
+33276297	DBCOVP: A database of coronavirus virulent glycoproteins.	Comput Biol Med
+33275483	Retracted: A Study of Potential SARS-CoV-2 Antiviral Drugs and Preliminary Research of Their Molecular Mechanism, Based on Anti-SARS-CoV Drug Screening and Molecular Dynamics Simulation.	J Comput Biol
+33274246	Multiepitope Subunit Vaccine Design against COVID-19 Based on the Spike Protein of SARS-CoV-2: An In Silico Analysis.	J Immunol Res
+33268522	Identification of HLA-A*02:01-restricted candidate epitopes derived from the non-structural polyprotein 1a of SARS-CoV-2 that may be natural targets of CD8(+) T cell recognition in vivo.	J Virol
+33264073	Lymphocyte Subset Alteration and Monocyte CD4 Expression Reduction in Patients with Severe COVID-19.	Viral Immunol
+33260132	The adjustment of neurosurgical procedures during the COVID-19 pandemic: a case study at Dr. Sardjito General Hospital as a part of an academic health system.	Neurosurg Focus
+33251083	Identification of potential mRNA panels for severe acute respiratory syndrome coronavirus 2 (COVID-19) diagnosis and treatment using microarray dataset and bioinformatics methods.	3 Biotech
+33247138	Cellular events of acute, resolving or progressive COVID-19 in SARS-CoV-2 infected non-human primates.	Nat Commun
+33241247	Tracer-based characterization of source variations of PM2.5 and organic carbon in Shanghai influenced by the COVID-19 lockdown.	Faraday Discuss
+33235669	An interfaith dialogue with Sir William Osler: crossing the divide of COVID-19 pandemic.	J Community Hosp Intern Med Perspect
+33235258	Identification and validation of 174 COVID-19 vaccine candidate epitopes reveals low performance of common epitope prediction tools.	Sci Rep
+33233780	Population Difference in Allele Frequency of HLA-C*05 and Its Correlation with COVID-19 Mortality.	Viruses
+33232897	Patient navigation in epilepsy care.	Epilepsy Behav
+33230417	SARS-CoV-2 and Plasmodium falciparum common immunodominant regions may explain low COVID-19 incidence in the malaria-endemic belt.	New Microbes New Infect
+33229168	The Year in Cardiothoracic and Vascular Anesthesia: Selected Highlights from 2020.	J Cardiothorac Vasc Anesth
+33227043	The Canadian response to the COVID-19 pandemic.	Indian J Psychiatry
+33226519	Aerosol containment device for airway management of patients with COVID-19: a narrative review.	J Anesth
+33225779	Is respiratory syncytial virus infection more dangerous than COVID 19 in the neonatal period?	J Matern Fetal Neonatal Med
+33217916	COVID-19 Infection Detection and Prevention by SARS-CoV-2 Active Antigens: A Synthetic Vaccine Approach.	Vaccines (Basel)
+33214890	Immediate impact of COVID-19 on mental health and its associated factors among healthcare workers: A global perspective across 31 countries.	J Glob Health
+33206563	Current Controversies in Inferior Vena Cava Filter Placement: AJR Expert Panel Narrative Review.	AJR Am J Roentgenol
+33204385	Lymphocyte subsets in haematological patients with COVID-19: Multicentre prospective study.	Transl Oncol
+33202292	Interventional radiology procedural volume changes during COVID-19 initial phase: A tertiary level Midwest health system experience.	Clin Imaging
+33200089	A multiple peptides vaccine against COVID-19 designed from the nucleocapsid phosphoprotein (N) and Spike Glycoprotein (S) via the immunoinformatics approach.	Inform Med Unlocked
+33196004	Kawasaki Disease and COVID-19.	Mediterr J Rheumatol
+33195415	Systematic Analysis of Coronavirus Disease 2019 (COVID-19) Receptor ACE2 in Malignant Tumors: Pan-Cancer Analysis.	Front Mol Biosci
+33195402	Determine the Potential Epitope Based Peptide Vaccine Against Novel SARS-CoV-2 Targeting Structural Proteins Using Immunoinformatics Approaches.	Front Mol Biosci
+33193384	Heightened Circulating Interferon-Inducible Chemokines, and Activated Pro-Cytolytic Th1-Cell Phenotype Features Covid-19 Aggravation in the Second Week of Illness.	Front Immunol
+33188677	Numbers and phenotype of non-classical CD14dimCD16+ monocytes are predictors of adverse clinical outcome in patients with coronary artery disease and severe SARS-CoV-2 infection.	Cardiovasc Res
+33187979	Distinct inflammatory profiles distinguish COVID-19 from influenza with limited contributions from cytokine storm.	Sci Adv
+33186710	Lessons From the 1918 Flu Pandemic: A Novel Etiologic Subtype of ADHD?	J Am Acad Child Adolesc Psychiatry
+33184674	Correction to: Central Nervous System Manifestations Associated with COVID-19.	Curr Neurol Neurosci Rep
+33179437	Association of HLA-B22 serotype with SARS-CoV-2 susceptibility in Hong Kong Chinese patients.	HLA
+33178720	Frequencies of CD33+CD11b+HLA-DR-CD14-CD66b+ and CD33+CD11b+HLA-DR-CD14+CD66b- Cells in Peripheral Blood as Severity Immune Biomarkers in COVID-19.	Front Med (Lausanne)
+33178207	A Longitudinal Study of Immune Cells in Severe COVID-19 Patients.	Front Immunol
+33175614	COVID-19 coronavirus vaccine T cell epitope prediction analysis based on distributions of HLA class I loci (HLA-A, -B, -C) across global populations.	Hum Vaccin Immunother
+33174576	Context contribution to the intermolecular recognition of human ACE2-derived peptides by SARS-CoV-2 spike protein: implications for improving the peptide affinity but not altering the peptide specificity by optimizing indirect readout.	Mol Omics
+33155524	Computationally validated SARS-CoV-2 CTL and HTL Multi-Patch vaccines, designed by reverse epitomics approach, show potential to cover large ethnically distributed human population worldwide.	J Biomol Struct Dyn
+33147821	Epitope-Based Immunoinformatics Approach on Nucleocapsid Protein of Severe Acute Respiratory Syndrome-Coronavirus-2.	Molecules
+33145293	Coronavirus disease 2019: MRI examination procedures and infection prevention and protection.	Ann Transl Med
+33141807	HLA and AB0 Polymorphisms May Influence SARS-CoV-2 Infection and COVID-19 Severity.	Transplantation
+33134426	An ID Doctor's Confrontation with His Own Case of COVID-19 - An Interview with Dr. Michael Saag.	Open Forum Infect Dis
+33133593	Observational study of the suspected or confirmed cases of sars COV-2 infection needing emergency surgical intervention during the first months of the pandemic in a third level hospital: Case series.	Ann Med Surg (Lond)
+33131963	Authors' reply to: Comment on the article by Dr. N. Shakrawal: Barrier device prototype for open tracheotomy during COVID-19 pandemic.	Auris Nasus Larynx
+33128877	Unbiased Screens Show CD8(+) T Cells of COVID-19 Patients Recognize Shared Epitopes in SARS-CoV-2 that Largely Reside outside the Spike Protein.	Immunity
+33128792	Immunological imprint of COVID-19 on human peripheral blood leukocyte populations.	Allergy
+33125816	Monocyte HLA-DR Measurement by Flow Cytometry in COVID-19 Patients: An Interim Review.	Cytometry A
+33123599	The Importance of Telemedicine during COVID-19 Pandemic: A Focus on Diabetic Retinopathy.	J Diabetes Res
+33119547	Sustained cellular immune dysregulation in individuals recovering from SARS-CoV-2 infection.	J Clin Invest
+33091154	Vaccine design based on 16 epitopes of SARS-CoV-2 spike protein.	J Med Virol
+33085221	Projected Utility of Pharmacogenomic Testing Among Individuals Hospitalized With COVID-19: A Retrospective Multicenter Study in the United States.	Clin Transl Sci
+33082015	Exploring the out of sight antigens of SARS-CoV-2 to design a candidate multi-epitope vaccine by utilizing immunoinformatics approaches.	Vaccine
+33075259	In adults exposed to COVID-19, hydroxychloroquine did not reduce confirmed or probable COVID-19; trial stopped for futility.	Ann Intern Med
+33073612	Infusion of HLA-matched and static magnetic field-exposed allogenic lymphocytes treating lymphocytopenia and cytokine storm syndrome: A treatment proposal for COVID-19 patients.	Electromagn Biol Med
+33069093	NCAM protein and SARS-COV-2 surface proteins: In-silico hypothetical evidence for the immunopathogenesis of Guillain-Barre syndrome.	Med Hypotheses
+33063241	Biased and unbiased estimation of the average length of stay in intensive care units in the Covid-19 pandemic.	Ann Intensive Care
+33060311	The Effect of HLA-B27 on Susceptibility and Severity of COVID-19.	J Rheumatol
+33054313	Resuming ultrasound activity after the acute phase of the COVID-19 pandemic.	Rev Esp Enferm Dig
+33047883	Association between HLA gene polymorphisms and mortality of COVID-19: An in silico analysis.	Immun Inflamm Dis
+33046268	Puzzling out the COVID-19: Therapy targeting HLA-G and HLA-E.	Hum Immunol
+33035760	Frequency and correlates of anxiety symptoms during the COVID-19 pandemic in low- and middle-income countries: A multinational study.	J Psychiatr Res
+33031918	Understanding the genetic contribution of the human leukocyte antigen system to common major psychiatric disorders in a world pandemic context.	Brain Behav Immun
+33031781	Dr Mom's Added Burden.	J Am Coll Radiol
+33024578	Benchmarking evolutionary tinkering underlying human-viral molecular mimicry shows multiple host pulmonary-arterial peptides mimicked by SARS-CoV-2.	Cell Death Discov
+33017695	Editorial Response to Drs. Simone and Mancusi.	Int J Infect Dis
+33013857	Identification of Novel Candidate Epitopes on SARS-CoV-2 Proteins for South America: A Review of HLA Frequencies by Country.	Front Immunol
+33006723	HLA and immunological features of SARS-CoV-2-induced Guillain-Barre syndrome.	Neurol Sci
+32999467	SARS-CoV-2-derived peptides define heterologous and COVID-19-induced T cell recognition.	Nat Immunol
+32997881	COVID-19 in a lung transplant recipient: Exploring the diagnostic role of circulating exosomes and the clinical impact of advanced immunosuppression.	Transpl Infect Dis
+32988645	[HLA genetic polymorphisms and prognosis of patients with COVID-19].	Med Intensiva (Engl Ed)
+32986250	A bioinformatic prediction of antigen presentation from SARS-CoV-2 spike protein revealed a theoretical correlation of HLA-DRB1*01 with COVID-19 fatality in Mexican population: An ecological approach.	J Med Virol
+32983106	Analysis of Co-inhibitory Receptor Expression in COVID-19 Infection Compared to Acute Plasmodium falciparum Malaria: LAG-3 and TIM-3 Correlate With T Cell Activation and Course of Disease.	Front Immunol
+32983097	A Systematic, Unbiased Mapping of CD8(+) and CD4(+) T Cell Epitopes in Yellow Fever Vaccinees.	Front Immunol
+32977506	Erratum: Meyer, J., et al. Changes in Physical Activity and Sedentary Behavior in Response to COVID-19 and Their Associations with Mental Health in 3052 US Adults. Int. J. Environ. Res. Public Health 2020, 17(18), 6469.	Int J Environ Res Public Health
+32977223	Immunological features of coronavirus disease 2019 in patients with cancer.	Eur J Cancer
+32959892	Quantitative proteomics reveals a broad-spectrum antiviral property of ivermectin, benefiting for COVID-19 treatment.	J Cell Physiol
+32957901	Drug Repurposing Approaches: Existing Leads For Novel Threats And Drug Targets.	Curr Protein Pept Sci
+32938504	Reverse vaccinology assisted designing of multiepitope-based subunit vaccine against SARS-CoV-2.	Infect Dis Poverty
+32935877	Screening for SARS-CoV-2 antibodies in convalescent plasma in Brazil: Preliminary lessons from a voluntary convalescent donor program.	Transfusion
+32933522	Correlation of the two most frequent HLA haplotypes in the Italian population to the differential regional incidence of Covid-19.	J Transl Med
+32933383	The COVID-19 cannabis health study: Results from an epidemiologic assessment of adults who use cannabis for medicinal reasons in the United States.	J Addict Dis
+32931291	Generation of SARS-CoV-2 S1 Spike Glycoprotein Putative Antigenic Epitopes in Vitro by Intracellular Aminopeptidases.	J Proteome Res
+32929138	Analysis of the SARS-CoV-2 spike protein glycan shield reveals implications for immune recognition.	Sci Rep
+32927307	Pathology without microscope: From a projection screen to a virtual slide.	Pathol Res Pract
+32926920	New insights on possible vaccine development against SARS-CoV-2.	Life Sci
+32925314	Reduced Monocytic Human Leukocyte Antigen-DR Expression Indicates Immunosuppression in Critically Ill COVID-19 Patients.	Anesth Analg
+32925313	Human Leukocyte Antigen-DR Deficiency and Immunosuppression-Related End-Organ Failure in SARS-CoV2 Infection.	Anesth Analg
+32923731	An immunoinformatics study on the spike protein of SARS-CoV-2 revealing potential epitopes as vaccine candidates.	Heliyon
+32918975	Parameters predicting COVID-19-induced myocardial injury and mortality.	Life Sci
+32917282	Genetic variants of the human host influencing the coronavirus-associated phenotypes (SARS, MERS and COVID-19): rapid systematic review and field synopsis.	Hum Genomics
+32916095	Estimating the Binding of Sars-CoV-2 Peptides to HLA Class I in Human Subpopulations Using Artificial Neural Networks.	Cell Syst
+32913053	Suboptimal SARS-CoV-2-specific CD8(+) T cell response associated with the prominent HLA-A*02:01 phenotype.	Proc Natl Acad Sci U S A
+32907701	COVID-19 medical management including World Health Organization (WHO) suggested management strategies.	Dis Mon
+32905939	No benefit of hydroxychloroquine in COVID-19: Results of Systematic Review and Meta-Analysis of Randomized Controlled Trials".	Diabetes Metab Syndr
+32904589	Impact of the COVID-19 Pandemic on Biomedical and Clinical Research.	Matter
+32899009	Analysis of type I IFN response and T cell activation in severe COVID-19/HIV-1 coinfection: A case report.	Medicine (Baltimore)
+32895579	Encrypted monument: The birth of crypto place on the blockchain.	Geoforum
+32893365	Reply to Dr. Vincenzo Patella et al. Could anti-tubercular vaccination protect against COVID-19 infection?	Allergy
+32890908	Two serological approaches for detection of antibodies to SARS-CoV-2 in different scenarios: a screening tool and a point-of-care test.	Diagn Microbiol Infect Dis
+32890670	Dr. Loades and Prof. Reynolds Reply.	J Am Acad Child Adolesc Psychiatry
+32888767	Conserved HLA binding peptides from five non-structural proteins of SARS-CoV-2-An in silico glance.	Hum Immunol
+32883517	COVID-19 Laboratory Testing/CDC Guidelines.	Dis Mon
+32882432	Genome based evolutionary lineage of SARS-CoV-2 towards the development of novel chimeric vaccine.	Infect Genet Evol
+32879473	Autoantibody-negative insulin-dependent diabetes mellitus after SARS-CoV-2 infection: a case report.	Nat Metab
+32870529	Quantitative and qualitative alterations of circulating myeloid cells and plasmacytoid DC in SARS-CoV-2 infection.	Immunology
+32869865	Evaluation of sample pooling for diagnosis of COVID-19 by real time-PCR: A resource-saving combat strategy.	J Med Virol
+32869699	Designing an efficient multi-epitope vaccine displaying interactions with diverse HLA molecules for an efficient humoral and cellular immune response to prevent COVID-19 infection.	Expert Rev Vaccines
+32866033	Uncontrolled Innate and Impaired Adaptive Immune Responses in Patients with COVID-19 Acute Respiratory Distress Syndrome.	Am J Respir Crit Care Med
+32863400	Nigella sativa L as a potential phytotherapy for coronavirus disease 2019: A mini review of in silico studies.	Curr Ther Res Clin Exp
+32863070	BCG vaccine may generate cross-reactive T cells against SARS-CoV-2: In silico analyses and a hypothesis.	Vaccine
+32859121	SARS-CoV-2 Spike 1 Protein Controls Natural Killer Cell Activation via the HLA-E/NKG2A Pathway.	Cells
+32853340	HLA predictions from the bronchoalveolar lavage fluid and blood samples of eight COVID-19 patients at the pandemic onset.	Bioinformatics
+32849643	Contriving Multi-Epitope Subunit of Vaccine for COVID-19: Immunoinformatics Approaches.	Front Immunol
+32843695	Immunoinformatic identification of B cell and T cell epitopes in the SARS-CoV-2 proteome.	Sci Rep
+32841114	Tracking COVID-19: There's an App for That.	IEEE Pulse
+32840823	Humiliating Whistle-Blowers: Li Wenliang, the Response to Covid-19, and the Call for a Decent Society.	J Bioeth Inq
+32838213	Rapid production of clinical-grade SARS-CoV-2 specific T cells.	Adv Cell Gene Ther
+32837057	Takuo Aoyagi-a Tribute to the Brain Behind Pulse Oximetry.	Indian J Surg
+32835036	Quantitative proteomic dataset from oro- and naso-pharyngeal swabs used for COVID-19 diagnosis: Detection of viral proteins and host's biological processes altered by the infection.	Data Brief
+32832263	Anti-COVID-19 multi-epitope vaccine designs employing global viral genome sequences.	PeerJ
+32828069	Immunoinformatics-guided design of an epitope-based vaccine against severe acute respiratory syndrome coronavirus 2 spike glycoprotein.	Comput Biol Med
+32827698	Systematic application of COVID-19 nucleic acid tests in general surgery departments in China: An update of current status with nationwide survey data.	Int J Surg
+32827400	Repurposing Drugs for COVID-19: An Approach for Treatment in the Pandemic.	Altern Ther Health Med
+32827207	HLA allele frequencies and susceptibility to COVID-19 in a group of 99 Italian patients.	HLA
+32820555	Petsonk and Harber respond to Dr McLellan.	Am J Ind Med
+32819710	Impact of SARS-COV-2 pandemic on elective and emergency surgery in a university hospital.	Cir Esp (Engl Ed)
+32815428	COVID-19: Nurses have responded, now it is time to support them as we move forward.	Healthc Manage Forum
+32812895	Health Must Be Recognized as the Human Right It Is: Hector Javier Sanchez MD MSSenior Researcher, Department of Society, Culture and HealthEl Colegio de la Frontera Sur (ECOSUR), Chiapas, Mexico.	MEDICC Rev
+32812012	Peripheral immunophenotypes in children with multisystem inflammatory syndrome associated with SARS-CoV-2 infection.	Nat Med
+32810602	Possible role of HLA class-I genotype in SARS-CoV-2 infection and progression: A pilot study in a cohort of Covid-19 Spanish patients.	Clin Immunol
+32810439	Elevated Calprotectin and Abnormal Myeloid Cell Subsets Discriminate Severe from Mild COVID-19.	Cell
+32810438	Severe COVID-19 Is Marked by a Dysregulated Myeloid Cell Compartment.	Cell
+32808094	Immuno-epidemiology and pathophysiology of coronavirus disease 2019 (COVID-19).	J Mol Med (Berl)
+32795830	Autoimmunity to ACE2 as a possible cause of tissue inflammation in Covid-19.	Med Hypotheses
+32793762	COVID-19's Siege on Elmhurst Hospital in New York City - An interview with Dr. Eric Bressman.	Open Forum Infect Dis
+32792942	Evidence for the Effectiveness of Remdesivir (GS-5734), a Nucleoside-Analog Antiviral Drug in the Inhibition of I K(M) or I K(DR) and in the Stimulation of I MEP.	Front Pharmacol
+32791978	Sequence-based prediction of SARS-CoV-2 vaccine targets using a mass spectrometry-based bioinformatics predictor identifies immunogenic T cell epitopes.	Genome Med
+32788292	Systems biological assessment of immunity to mild versus severe COVID-19 infection in humans.	Science
+32785416	Choosing a hospital assistance ship to fight the covid-19 pandemic.	Rev Saude Publica
+32774764	COVID-19 outbreak and surgical practice: The rationale for suspending non-urgent surgeries and role of testing modalities.	World J Gastrointest Surg
+32770807	Kawasaki disease fact check: Myths, misconceptions and mysteries.	J Paediatr Child Health
+32763956	Reactive arthritis after COVID-19 infection.	RMD Open
+32761974	The roles of a pediatric pulmonologist during the COVID-19 pandemic.	Pediatr Pulmonol
+32761248	Patient experiences of fertility clinic closure during the COVID-19 pandemic: appraisals, coping and emotions.	Hum Reprod
+32759312	Immunoinformatic approach to assess SARS-CoV-2 protein S epitopes recognised by the most frequent MHC-I alleles in the Brazilian population.	J Clin Pathol
+32755822	Applications of industry 4.0 to overcome the COVID-19 operational challenges.	Diabetes Metab Syndr
+32754160	Designing Multi-Epitope Vaccines to Combat Emerging Coronavirus Disease 2019 (COVID-19) by Employing Immuno-Informatics Approach.	Front Immunol
+32748176	Diabetic retinopathy screening in urban primary care setting with a handheld smartphone-based retinal camera.	Acta Diabetol
+32741544	Final commentary: COVID-19 and the rush to "normalcy".	Dis Mon
+32741372	Bioinformatics analysis of epitope-based vaccine design against the novel SARS-CoV-2.	Infect Dis Poverty
+32724754	COVID-19 Fears May Be Worse Than the Virus: A Case of Cardiogenic Shock Secondary to Post-Myocardial Infarction Ventricular Septum Rupture.	Cureus
+32721383	Computationally Optimized SARS-CoV-2 MHC Class I and II Vaccine Formulations Predicted to Target Human Haplotype Distributions.	Cell Syst
+32717807	HLA-B*44 and C*01 Prevalence Correlates with Covid19 Spreading across Italy.	Int J Mol Sci
+32716835	Coronavirus 2019 outbreak pathogenesis: Why China and Italy?	Eur J Rheumatol
+32703647	Diagnostic and Interventional Radiology Case Volume and Education in the Age of Pandemics: Impact Analysis and Potential Future Directions.	Acad Radiol
+32703615	Authors' reply to: Comment on the article by Dr. T.Huda: Barrier device prototype for open tracheotomy during COVID-19 pandemic.	Auris Nasus Larynx
+32699345	SARS-CoV-2 genomic variations associated with mortality rate of COVID-19.	J Hum Genet
+32693089	Mortality in COVID-19 disease patients: Correlating the association of major histocompatibility complex (MHC) with severe acute respiratory syndrome 2 (SARS-CoV-2) variants.	Int J Infect Dis
+32686943	Potential role of Bacillus Calmette-Guerin (BCG) vaccination in COVID-19 pandemic mortality: Epidemiological and Immunological aspects.	Asian Pac J Allergy Immunol
+32685969	Does Combining Severe and Mild Cases of COVID-19 Produce Low Fatality Rates After Treatment With Hydroxychloroquine and Azithromycin?	Am J Epidemiol
+32683966	Lessons Learned and Experiences Shared From the Front Lines: Milan and Madrid.	Am Surg
+32682041	Design of a multi-epitope vaccine against SARS-CoV-2 using immunoinformatics approach.	Int J Biol Macromol
+32678526	Weaning From Exogenous Sedation in the Era of COVID-19 Infection: Recommendations for Sedation and Its Discontinuation.	Prim Care Companion CNS Disord
+32676080	"Small" Intestinal Immunopathology Plays a "Big" Role in Lethal Cytokine Release Syndrome, and Its Modulation by Interferon-gamma, IL-17A, and a Janus Kinase Inhibitor.	Front Immunol
+32675312	ACE2 and TMPRSS2 expression by clinical, HLA, immune, and microbial correlates across 34 human cancers and matched normal tissues: implications for SARS-CoV-2 COVID-19.	J Immunother Cancer
+32673759	The American College of Surgeons Responds to COVID-19.	J Am Coll Surg
+32658335	The role of host genetics in the immune response to SARS-CoV-2 and COVID-19 susceptibility and severity.	Immunol Rev
+32654350	Decrease of Non-Classical and Intermediate Monocyte Subsets in Severe Acute SARS-CoV-2 Infection.	Cytometry A
+32651978	COVID-19: making the right diagnosis.	Diagnosis (Berl)
+32644266	Immune responses and pathogenesis in persistently PCR-positive patients with SARS-CoV-2 infection.	J Med Virol
+32632825	Richard Allen Williams, M.D.: a Career Fighting Disparities and Fostering Equity.	J Racial Ethn Health Disparities
+32623831	A role for human leucocyte antigens in the susceptibility to SARS-Cov-2 infection observed in transplant patients.	Int J Immunogenet
+32623571	The Smallpox Epidemics in America in the 1700s and the Role of the Surgeons: Lessons to be Learned During the Global Outbreak of COVID-19.	World J Surg
+32622668	Comment on the article by Dr. T. Huda: Barrier device prototype for open tracheotomy during COVID-19 pandemic.	Auris Nasus Larynx
+32621841	Epitope-based peptide vaccines predicted against novel coronavirus disease caused by SARS-CoV-2.	Virus Res
+32618328	Doctors in China Need More Power of Discourse.	J Public Health (Oxf)
+32617987	Microstructure, pathophysiology, and potential therapeutics of COVID-19: A comprehensive review.	J Med Virol
+32610112	COVID-19 and TB co-infection - 'Finishing touch'' in perfect recipe to 'severity' or 'death'.	J Infect
+32602676	Clinical and Epidemiological Features of SARS-CoV-2 Patients in SARI Ward of a Tertiary Care Centre in New Delhi.	J Assoc Physicians India
+32592406	Immune response in children with COVID-19 is characterized by lower levels of T-cell activation than infected adults.	Eur J Immunol
+32579014	Systemic inflammatory response and thrombosis due to alterations in the gut microbiota in COVID-19.	Rev Esp Enferm Dig
+32576678	Upregulation of CD47 Is a Host Checkpoint Response to Pathogen Recognition.	mBio
+32561401	COVID-19 in patients with lung cancer.	Ann Oncol
+32543740	Dysregulation of the immune response affects the outcome of critical COVID-19 patients.	J Med Virol
+32541245	Immune monitoring of a child with autoimmune hepatitis and type 1 diabetes during COVID-19 infection.	Eur J Gastroenterol Hepatol
+32540479	A reply to Dr. Pan's and Dr. Wu's response: "Wuhan COVID-19 data - An example to show the importance of public health interventions to fight against the pandemic".	Toxicology
+32540100	Fixed Wing Patient Air Transport during the Covid-19 Pandemic.	Air Med J
+32538343	Engaging with Policy Makers: The Need for Accessible and Timely Health Services and Systems Research in 2020.	Healthc Policy
+32533988	COVID19 in South Asians/Asian Indians: Heterogeneity of data and implications for pathophysiology and research.	Diabetes Res Clin Pract
+32528613	Public trust in the time of the Coronavirus Disease 2019 (COVID-19): the case of the DR Congo.	Pan Afr Med J
+32519618	Incidence and Immunologic Analysis of Coronavirus Disease (COVID-19) in Hemodialysis Patients:A Single-Center Experience.	Exp Clin Transplant
+32514174	A single-cell atlas of the peripheral immune response in patients with severe COVID-19.	Nat Med
+32513790	Drs. Cron and Chatham reply.	J Rheumatol
+32511058	COVID-19 Interview: Dr. Belgin Eroglu Kesim on Women in Science Advancing SARS-CoV-2 Tests-"One Health" and Changing the World for the Better.	OMICS
+32504463	Battling COVID-19 in Bangladesh: A Conversation with Dr. John Clemens of icddr,b.	Am J Trop Med Hyg
+32502825	Assessing the psychological response to the COVID-19: A response to Bitan et al. "Fear of COVID-19 scale: Psychometric characteristics, reliability and validity in the Israeli population".	Psychiatry Res
+32492787	Reply: "Vitamin D Supplementation in Influenza and COVID-19 Infections. Comment on: Evidence That Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths Nutrients 2020, 12(4), 988".	Nutrients
+32482654	Dr. Favalli, et al reply.	J Rheumatol
+32480418	Harnessing HLA-E-restricted CD8 T lymphocytes for adoptive cell therapy of patients with severe COVID-19.	Br J Haematol
+32478713	US Physicians Trained in Cuba Battle COVID-19 at Home:A Personal Account from the New York City Epicenter.	MEDICC Rev
+32478709	Stemming COVID-19 in Cuba: Strengths, Strategies, Challenges Francisco Duran MD. National Director of Epidemiology, Ministry of Public Health, Cuba	MEDICC Rev
+32478704	Much more visible now are the inequalities that have always existed in our system and much clearer the need for stronger state intervention.	MEDICC Rev
+32478703	Are we witnessing the swan song of neoliberalism?	MEDICC Rev
+32478702	"Universal" doesn't just apply to health care, but to every sector's actions taken to protect the population's health.	MEDICC Rev
+32478701	In this kind of situation, health as a public good once again becomes paramount...	MEDICC Rev
+32478699	We are living in the geologic age when human activities have dramatically affected our planet and its environment.	MEDICC Rev
+32475052	Binding affinities of 438 HLA proteins to complete proteomes of seven pandemic viruses and distributions of strongest and weakest HLA peptide binders in populations worldwide.	HLA
+32473236	Ethnicity profiles of COVID-19 admissions and outcomes.	J Infect
+32473127	Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals.	Cell
+32470595	Commentary on: A novel solution to the PPE crisis during the Coronavirus pandemic (COVID-19).	Int J Surg
+32461062	Modelling SARS-COV2 Spread in London: Approaches to Lift the Lockdown.	J Infect
+32457068	Covid-19 and acute kidney injury in hospital: summary of NICE guidelines.	BMJ
+32456751	The Alternative Pandemic.	Sr Care Pharm
+32451354	Drs. Cron and Chatham reply.	J Rheumatol
+32451351	Dr. Balevic, et al reply.	J Rheumatol
+32445724	Different patterns of Influenza A and B detected during early stages of COVID-19 in a university hospital in Sao Paulo, Brazil.	J Infect
+32442732	Neurosurgery Services in Dr. Sardjito General Hospital, Yogyakarta, Indonesia, During the COVID-19 Pandemic: Experience from a Developing Country.	World Neurosurg
+32424945	Distribution of HLA allele frequencies in 82 Chinese individuals with coronavirus disease-2019 (COVID-19).	HLA
+32418793	An effective CTL peptide vaccine for Ebola Zaire Based on Survivors' CD8+ targeting of a particular nucleocapsid protein epitope with potential implications for COVID-19 vaccine design.	Vaccine
+32414291	Fake Science: XMRV, COVID-19, and the Toxic Legacy of Dr. Judy Mikovits.	AIDS Res Hum Retroviruses
+32408809	A Message from the Guest Editor.	Healthc Manage Forum
+32399213	Dynamics of peripheral immune cells and their HLA-G and receptor expressions in a patient suffering from critical COVID-19 pneumonia to convalescence.	Clin Transl Immunology
+32386659	Turning Adversity and Deprivation into Improvements in Medicine - The COVID Opportunity.	Injury
+32374001	Clinical display, diagnostics and genetic implication of novel Coronavirus (COVID-19) epidemic.	Eur Rev Med Pharmacol Sci
+32372051	Bioinformatic prediction of potential T cell epitopes for SARS-Cov-2.	J Hum Genet
+32371647	Editorial: Obstetric anesthesia and COVID 19 times.	Curr Opin Anaesthesiol
+32352026	Epitope based vaccine prediction for SARS-COV-2 by deploying immuno-informatics approach.	Inform Med Unlocked
+32335551	Reply to the Comment by Dr. Cure on "Should COVID-19 Concern Nephrologists? Why and to What Extent? The Emerging Impasse of Angiotensin Blockade".	Nephron
+32335514	Drs. Cron and Chatham reply.	J Rheumatol
+32334276	The other side of COVID-19: Impact on obsessive compulsive disorder (OCD) and hoarding.	Psychiatry Res
+32327853	COVID-19: A revelation - A reply to Ian Mitroff.	Technol Forecast Soc Change
+32324595	The laboratory tests and host immunity of COVID-19 patients with different severity of illness.	JCI Insight
+32320677	Complex Immune Dysregulation in COVID-19 Patients with Severe Respiratory Failure.	Cell Host Microbe
+32315883	Psychological preparedness for the COVID-19 pandemic, perspectives from India.	Psychiatry Res
+32310553	Ophthalmic Manifestations Of Coronavirus (COVID-19)	StatPearls
+32303592	Human Leukocyte Antigen Susceptibility Map for Severe Acute Respiratory Syndrome Coronavirus 2.	J Virol
+32301206	'Let us Help'-Why senior medical students are the next step in battling the COVID-19 Pandemic.	Int J Clin Pract
+32297958	HLA studies in the context of coronavirus outbreaks.	Swiss Med Wkly
+32295479	Reverse vaccinology approach to design a novel multi-epitope vaccine candidate against COVID-19: an in silico study.	J Biomol Struct Dyn
+32292869	Dr. Hong Yu leads a team battling against the COVID-19 outbreak in Wuhan.	Laparosc Endosc Robot Surg
+32288543	Is Sub-Saharan Africa prepared for COVID-19?	Trop Med Health
+32279976	Infection Control in the Medical Imaging Department During the COVID-19 Pandemic.	J Med Imaging Radiat Sci
+32269766	In silico identification of vaccine targets for 2019-nCoV.	F1000Res
+32241328	Limited Early Warnings and Public Attention to Coronavirus Disease 2019 in China, January-February, 2020: A Longitudinal Cohort of Randomly Sampled Weibo Users.	Disaster Med Public Health Prep
+32238428	Dr. Li Wenliang and the Time of COVID-19.	J Nucl Med
+32235086	As COVID-19 cases, deaths and fatality rates surge in Italy, underlying causes require investigation.	J Infect Dev Ctries
+32191675	WHO Declares COVID-19 a Pandemic.	Acta Biomed
+32141588	Coronavirus Disease 2019 outbreak: preparedness and readiness of countries in the Eastern Mediterranean Region.	East Mediterr Health J
+32099717	Should, and how can, exercise be done during a coronavirus outbreak? An interview with Dr. Jeffrey A. Woods.	J Sport Health Sci
+32049461	Coronavirus : Dr Li Wenliang, lanceur d'alerte, heros et martyr.	Rev Med Suisse

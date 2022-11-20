@@ -1,0 +1,45 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36254292	The role of melatonin as an adjuvant in the treatment of COVID-19: A systematic review.	Heliyon
+35997599	Expression Pattern of Inflammatory and Anti-Inflammatory Cytokines and Key Differential Transcription Factors in Peripheral Blood Mononuclear Cells of Iranian Coronavirus Disease 2019 Patients with Different Disease Severity.	Viral Immunol
+35748061	Multifocal lymphadenopathies with polyclonal reactions primed after EBV infection in a mRNA-1273 vaccine recipient.	Swiss Med Wkly
+34541720	A triple-blind, placebo-controlled, randomized clinical trial to evaluate the effect of curcumin-containing nanomicelles on cellular immune responses subtypes and clinical outcome in COVID-19 patients.	Phytother Res
+34449643	Molecular Pathology Demonstration of SARS-CoV-2 in Cytotrophoblast from Placental Tissue with Chronic Histiocytic Intervillositis, Trophoblast Necrosis and COVID-19.	J Dev Biol
+34387280	Nucleic acid vaccines and CpG oligodeoxynucleotides for allergen immunotherapy.	Curr Opin Allergy Clin Immunol
+34015316	Evaluation of Th1 and Th2 mediated cellular and humoral immunity in patients with COVID-19 following the use of melatonin as an adjunctive treatment.	Eur J Pharmacol
+33923155	Investigating Cellular Trajectories in the Severity of COVID-19 and Their Transcriptional Programs Using Machine Learning Approaches.	Genes (Basel)
+33092653	The clinical effect of Nano micelles containing curcumin as a therapeutic supplement in patients with COVID-19 and the immune responses balance changes following treatment: A structured summary of a study protocol for a randomised controlled trial.	Trials
+33013413	A Review of the Pharmacological Properties of Psoralen.	Front Pharmacol
+32859121	SARS-CoV-2 Spike 1 Protein Controls Natural Killer Cell Activation via the HLA-E/NKG2A Pathway.	Cells

@@ -1,0 +1,57 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35994404	Evaluation of the active constituents of Nilavembu Kudineer for viral replication inhibition against SARS-CoV-2: An approach to targeting RNA-dependent RNA polymerase (RdRp).	J Food Biochem
+35874712	The KIR2DL2/HLA-C1C1 Gene Pairing Is Associated With an Increased Risk of SARS-CoV-2 Infection.	Front Immunol
+35455253	Intranasal Coronavirus SARS-CoV-2 Immunization with Lipid Adjuvants Provides Systemic and Mucosal Immune Response against SARS-CoV-2 S1 Spike and Nucleocapsid Protein.	Vaccines (Basel)
+35440794	Prediction of abdominal CT body composition parameters by thoracic measurements as a new approach to detect sarcopenia in a COVID-19 cohort.	Sci Rep
+35340531	In silico anti-SARS-CoV-2 activities of five-membered heterocycle-substituted benzimidazoles.	J Mol Struct
+35273641	Individualized Constellation of Killer Cell Immunoglobulin-Like Receptors and Cognate HLA Class I Ligands that Controls Natural Killer Cell Antiviral Immunity Predisposes COVID-19.	Front Genet
+35189823	Adipose tissue is a predictor of 30-days mortality in patients with bloodstream infection caused by carbapenem-resistant Klebsiella pneumoniae.	BMC Infect Dis
+35140034	Thoracic sarcopenia as a predictive factor of SARS-COV2 evolution.	Clin Nutr
+34801878	Association of body composition parameters measured on CT with risk of hospitalization in patients with Covid-19.	Eur J Radiol
+34772947	Computational redesign of Fab CC12.3 with substantially better predicted binding affinity to SARS-CoV-2 than human ACE2 receptor.	Sci Rep
+34675849	Long Term Effects of the COVID-19 Pandemic on Social Concerns.	Front Psychol
+34518528	The SARS-CoV-2 spike protein is vulnerable to moderate electric fields.	Nat Commun
+34343845	Feasibility of assessment of skeletal muscle mass on a single cross-sectional image at the level of the fourth thoracic vertebra.	Eur J Radiol
+34181461	Vitamin D and lumisterol novel metabolites can inhibit SARS-CoV-2 replication machinery enzymes.	Am J Physiol Endocrinol Metab
+34019009	A Case of Elsberg Syndrome in the Setting of Asymptomatic SARS-CoV-2 Infection.	J Clin Neuromuscul Dis
+33777333	Specific epitopes form extensive hydrogen-bonding networks to ensure efficient antibody binding of SARS-CoV-2: Implications for advanced antibody design.	Comput Struct Biotechnol J
+33412356	Variations in Black Carbon concentration and sources during COVID-19 lockdown in Delhi.	Chemosphere
+33375460	A Computational Approach to Explore the Interaction of Semisynthetic Nitrogenous Heterocyclic Compounds with the SARS-CoV-2 Main Protease.	Biomolecules
+33144890	[The virology of SARS-CoV-2].	Gastroenterologe
+33047658	Cysteine focused covalent inhibitors against the main protease of SARS-CoV-2.	J Biomol Struct Dyn
+32963413	Synthesis, characterization and computational study on potential inhibitory action of novel azo imidazole derivatives against COVID-19 main protease (M(pro): 6LU7).	J Mol Struct
+32904625	Exploration of inhibitory action of Azo imidazole derivatives against COVID-19 main protease (M(pro)): A computational study.	J Mol Struct
+32748252	Visceral adipose tissue in patients with COVID-19: risk stratification for severity.	Abdom Radiol (NY)

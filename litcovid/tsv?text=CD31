@@ -1,0 +1,56 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36176453	Single-cell sequencing of brain tissues reveal the central nervous system's susceptibility to SARS-CoV-2 and the drug.	Front Pharmacol
+36056566	Subtle vascular and astrocytic changes in the brain of coronavirus disease 2019 (COVID-19) patients.	Eur J Neurol
+35982357	Increased Circulating CD62E(+) Endothelial Extracellular Vesicles Predict Severity and in- Hospital Mortality of COVID-19 Patients.	Stem Cell Rev Rep
+35855219	Intradural, extramedullary hemangioblastoma at the level of the conus medullaris: illustrative case.	J Neurosurg Case Lessons
+35647028	Dysregulated Exosomes Result in Suppression of the Immune Response of Pregnant COVID-19 Convalescent Women.	Front Mol Biosci
+35032087	Platelet and immune signature associated with a rapid response to the BNT162b2 mRNA COVID-19 vaccine.	J Thromb Haemost
+34987111	Comprehensive Immune Profiling Reveals CD56(+) Monocytes and CD31(+) Endothelial Cells Are Increased in Severe COVID-19 Disease.	J Immunol
+34791561	Morphometric Parameters of Placental Villi in Parturient Women with COVID-19.	Bull Exp Biol Med
+34722682	Evaluation of Endothelial Dysfunction and Inflammatory Vasculopathy After SARS-CoV-2 Infection-A Cross-Sectional Study.	Front Cardiovasc Med
+34694226	Effect of SARS-CoV-2 proteins on vascular permeability.	Elife
+34449302	Increased Angiotensin-Converting Enzyme 2 and Loss of Alveolar Type II Cells in COVID-19-related Acute Respiratory Distress Syndrome.	Am J Respir Crit Care Med
+34307634	Histopathology and immunophenotyping of late onset cutaneous manifestations of COVID-19 in elderly patients: Three case reports.	World J Clin Cases
+34307198	SARS-CoV-2 Infects Endothelial Cells In Vivo and In Vitro.	Front Cell Infect Microbiol
+34112226	Comparison of renal histopathology and gene expression profiles between severe COVID-19 and bacterial sepsis in critically ill patients.	Crit Care
+33918079	Vascular Inflammation Is Associated with Loss of Aquaporin 1 Expression on Endothelial Cells and Increased Fluid Leakage in SARS-CoV-2 Infected Golden Syrian Hamsters.	Viruses
+33908688	Rapid endotheliitis and vascular damage characterize SARS-CoV-2 infection in a human lung-on-chip model.	EMBO Rep
+33857718	Endothelial-Mesenchymal Transition in COVID-19 lung lesions.	Pathol Res Pract
+33799867	Development of an In Vitro Airway Epithelial-Endothelial Cell Culture Model on a Flexible Porous Poly(Trimethylene Carbonate) Membrane Based on Calu-3 Airway Epithelial Cells and Lung Microvascular Endothelial Cells.	Membranes (Basel)
+33758071	Pulmonary vascular proliferation in patients with severe COVID-19: an autopsy study.	Thorax
+33312949	Single-Cell Sequencing of Glioblastoma Reveals Central Nervous System Susceptibility to SARS-CoV-2.	Front Oncol
+33128792	Immunological imprint of COVID-19 on human peripheral blood leukocyte populations.	Allergy
+32615987	Histopathological findings in a COVID-19 patient affected by ischemic gangrenous cholecystitis.	World J Emerg Surg

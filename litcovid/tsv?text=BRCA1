@@ -1,0 +1,51 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36048718	Insights into functional connectivity in mammalian signal transduction pathways by pairwise comparison of protein interaction partners of critical signaling hubs.	Biomol Concepts
+36001346	Lessons from the Failure to Complete a Trial of Denosumab in Women With a Pathogenic BRCA1/2 Variant Scheduling Risk-Reducing Salpingo-Oophorectomy.	Cancer Prev Res (Phila)
+35867288	Remote vs in-person BRCA1/2 non-carriers test disclosure: patients' choice during Covid-19 pandemic restriction.	Fam Cancer
+35139834	Nurse-led decision coaching by specialized nurses for healthy BRCA1/2 gene mutation carriers - adaptation and pilot testing of a curriculum for nurses: a qualitative study.	BMC Nurs
+34969949	COVID-19 experiences predicting high anxiety and depression among a sample of BRCA1/BRCA2-positive women in the US.	Sci Rep
+34696485	SARS-CoV-2 Spike Impairs DNA Damage Repair and Inhibits V(D)J Recombination In Vitro.	Viruses
+34625409	Novel Models of Genetic Education and Testing for Pancreatic Cancer Interception: Preliminary Results from the GENERATE Study.	Cancer Prev Res (Phila)
+34210336	Bayesian optimization with evolutionary and structure-based regularization for directed protein evolution.	Algorithms Mol Biol
+33630927	Transcriptomic profiling and genomic mutational analysis of Human coronavirus (HCoV)-229E -infected human cells.	PLoS One
+33313973	BRCA testing delay during the COVID-19 pandemic: How to act?	Mol Biol Rep
+33283554	Exploring the real-world effect of the SARS-CoV-2 pandemic on the molecular diagnostics for cancer patients and high-risk individuals.	Expert Rev Mol Diagn
+33186762	Utility of a mainstreamed genetic testing pathway in breast and ovarian cancer patients during the COVID-19 pandemic.	Eur J Med Genet
+33131182	A systematic review and meta-analysis of telephone vs in-person genetic counseling in BRCA1/BRCA2 genetic testing.	J Genet Couns
+33061542	A Staphylococcus aureus Coinfection on a COVID-19 Pneumonia in a Breast Cancer Patient.	Int J Gen Med
+32788235	Clinical activity of pembrolizumab in metastatic prostate cancer with microsatellite instability high (MSI-H) detected by circulating tumor DNA.	J Immunother Cancer
+32619819	S2 subunit of SARS-nCoV-2 interacts with tumor suppressor protein p53 and BRCA: an in silico study.	Transl Oncol
+32591346	Data, Reagents, Assays and Merits of Proteomics for SARS-CoV-2 Research and Testing.	Mol Cell Proteomics

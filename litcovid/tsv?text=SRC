@@ -1,0 +1,67 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36164884	[Medication law and mechanism of traditional Chinese medicine in prevention and treatment of epidemic diseases: based on traditional Chinese medicine theory of cold pestilence].	Zhongguo Zhong Yao Za Zhi
+35859316	Exploration of molecular targets and mechanisms of Chinese medicinal formula Acacia Catechu -Scutellariae Radix in the treatment of COVID-19 by a systems pharmacology strategy.	Phytother Res
+35754492	Modeling Kaempferol as a Potential Pharmacological Agent for COVID-19/PF Co-Occurrence Based on Bioinformatics and System Pharmacological Tools.	Front Pharmacol
+35637279	Genomic determinants of Furin cleavage in diverse European SARS-related bat coronaviruses.	Commun Biol
+35582326	Towards Large-Scale and Privacy-Preserving Contact Tracing in COVID-19 Pandemic: A Blockchain Perspective.	IEEE Trans Netw Sci Eng
+35571226	Supporting sustainable long-term residential care in Ireland: a study protocol for the Sustainable Residential Care (SRC) project.	HRB Open Res
+35468896	Modulation of innate immune response to viruses including SARS-CoV-2 by progesterone.	Signal Transduct Target Ther
+35408447	Angiotensin II Type I Receptor (AT1R): The Gate towards COVID-19-Associated Diseases.	Molecules
+35387219	Scleroderma renal crisis following Covid-19 infection.	J Scleroderma Relat Disord
+35221781	Machine learning-based automatic detection of novel coronavirus (COVID-19) disease.	Multimed Tools Appl
+35081224	Ozone disinfection for viruses with applications in healthcare environments: a scoping review.	Braz Oral Res
+35037831	Inflammatory activation and immune cell infiltration are main biological characteristics of SARS-CoV-2 infected myocardium.	Bioengineered
+35012610	Treatment with soluble CD24 attenuates COVID-19-associated systemic immunopathology.	J Hematol Oncol
+34931591	Effect and Mechanism of Qingfei Paidu Decoction in the Management of Pulmonary Fibrosis and COVID-19.	Am J Chin Med
+34908920	The mechanism and active compounds of semen armeniacae amarum treating coronavirus disease 2019 based on network pharmacology and molecular docking.	Food Nutr Res
+34548480	Characterising proteolysis during SARS-CoV-2 infection identifies viral cleavage sites and cellular targets with therapeutic potential.	Nat Commun
+34504502	The Molecular Mechanism of Multiple Organ Dysfunction and Targeted Intervention of COVID-19 Based on Time-Order Transcriptomic Analysis.	Front Immunol
+34472425	Complete reconstruction of dasatinib unbinding pathway from c-Src kinase by supervised molecular dynamics simulation method; assessing efficiency and trustworthiness of the method.	J Biomol Struct Dyn
+34316551	Cognitive deficits in people who have recovered from COVID-19.	EClinicalMedicine
+34288294	Transplantation programs facing lack of empirical evidence on SARS-CoV-2 vaccination: A society recommendation consensus update.	Transpl Infect Dis
+34087516	Suicide-related calls to a national crisis chat hotline service during the COVID-19 pandemic and lockdown.	J Psychiatr Res
+34009288	Multi-omics data integration and network-based analysis drives a multiplex drug repurposing approach to a shortlist of candidate drugs against COVID-19.	Brief Bioinform
+33935717	Na(+)/K(+)-ATPase as a Target of Cardiac Glycosides for the Treatment of SARS-CoV-2 Infection.	Front Pharmacol
+33796097	Immune Interaction Map of Human SARS-CoV-2 Target Genes: Implications for Therapeutic Avenues.	Front Immunol
+33778179	Mutational analysis of structural proteins of SARS-CoV-2.	Heliyon
+33617879	Selective targeting of the inactive state of hematopoietic cell kinase (Hck) with a stable curcumin derivative.	J Biol Chem
+33602138	SARS-CoV-2 early infection signature identified potential key infection mechanisms and drug targets.	BMC Genomics
+33436498	Cytoplasmic short linear motifs in ACE2 and integrin beta3 link SARS-CoV-2 host cell receptors to mediators of endocytosis and autophagy.	Sci Signal
+33396592	The Interactions of Nintedanib and Oral Anticoagulants-Molecular Mechanisms and Clinical Implications.	Int J Mol Sci
+33202598	The Pivotal Role of Adipocyte-Na K peptide in Reversing Systemic Inflammation in Obesity and COVID-19 in the Development of Heart Failure.	Antioxidants (Basel)
+33200027	In silico and in vitro studies reveal complement system drives coagulation cascade in SARS-CoV-2 pathogenesis.	Comput Struct Biotechnol J
+33043320	Ibrutinib for chronic lymphocytic leukemia in the setting of respiratory failure from severe COVID-19 infection: Case report and literature review.	EJHaem
+32829915	Inhibition of porcine epidemic diarrhea virus (PEDV) replication by A77 1726 through targeting JAK and Src tyrosine kinases.	Virology

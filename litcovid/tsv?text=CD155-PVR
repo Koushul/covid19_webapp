@@ -1,0 +1,47 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35609676	COVID-19 Vaccination Hesitancy and Its Association With Altered Presentation of Primary Rhegmatogenous Retinal Detachment.	Am J Ophthalmol
+35414355	Hidden systolic dysfunction of the right ventricle in patients with increased pulmonary vascular resistance 3 months after COVID-19 pneumonia.	Kardiologiia
+35363187	The association of clinical features and laboratory findings of COVID-19 infection with computed pneumonia volume.	Medicine (Baltimore)
+34972153	Clinical patterns of rhegmatogenous retinal detachment during the first state of emergency for the COVID-19 pandemic in a Tokyo center.	PLoS One
+34720095	NK cell receptor and ligand composition influences the clearance of SARS-CoV-2.	J Clin Invest
+34435456	Impact of COVID-19 pandemic on lower urinary tract symptoms in patients with benign prostatic hyperplasia and predictors of urine retention in such patients.	Low Urin Tract Symptoms
+33990185	The risk factors of the progression of rhegmatogenous retinal detachment on patients with the fourteen-day quarantine in the early period of COVID-19 outbreak.	BMC Ophthalmol
+33684142	Incidence and surgical care of retinal detachment during the first SARS-CoV-2 lockdown period at a tertiary referral center in Austria.	PLoS One
+33272285	Endothelial shear stress enhancements: a potential solution for critically ill Covid-19 patients.	Biomed Eng Online
+33242508	Right ventricular dysfunction in critically ill COVID-19 ARDS.	Int J Cardiol
+33073599	Changing clinical patterns of Rhegmatogeneous Retinal Detachments during the COVID19 pandemic lockdown in the North West of the UK.	Eur J Ophthalmol
+33058938	Clinical Presentation of Rhegmatogenous Retinal Detachment during the COVID-19 Pandemic: A Historical Cohort Study.	Ophthalmology
+32993136	Network Controllability-Based Prioritization of Candidates for SARS-CoV-2 Drug Repositioning.	Viruses

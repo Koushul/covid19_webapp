@@ -1,0 +1,466 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36254892	COVID-19 Vaccine Effectiveness among a Population-based Cohort of People Living with HIV.	AIDS
+36250571	Effectiveness of BNT162b2 and CoronaVac vaccinations against SARS-CoV-2 omicron infection in people aged 60 years or above: a case-control study.	J Travel Med
+36231083	Blood Endothelial-Cell Extracellular Vesicles as Potential Biomarkers for the Selection of Plasma in COVID-19 Convalescent Plasma Therapy.	Cells
+36217139	Gam-COVID-Vac, EpiVacCorona, and CoviVac effectiveness against lung injury during Delta and Omicron variant surges in St. Petersburg, Russia: a test-negative case-control study.	Respir Res
+36217108	Elevated vascular transformation blood biomarkers in Long-COVID indicate angiogenesis as a key pathophysiological mechanism.	Mol Med
+36216679	Vaccine Effectiveness, School Reopening, and Risk of Omicron Infection Among Adolescents Aged 12-17 Years.	J Adolesc Health
+36216647	COVID-19 outbreak in an elderly care home: Very low vaccine effectiveness and late impact of booster vaccination campaign.	Vaccine
+36215715	Effectiveness of mRNA COVID-19 Vaccine Boosters Against Infection, Hospitalization, and Death: A Target Trial Emulation in the Omicron (B.1.1.529) Variant Era.	Ann Intern Med
+36211700	Effectiveness of Pfizer/BioNTech and Sinopharm COVID-19 vaccines in reducing hospital admissions in prince Hamza hospital, Jordan.	Front Public Health
+36202800	Effectiveness of an inactivated Covid-19 vaccine with homologous and heterologous boosters against Omicron in Brazil.	Nat Commun
+36191615	Effectiveness of Second mRNA COVID-19 Booster Vaccine in Immunocompromised Persons and Long-Term Care Facility Residents.	Emerg Infect Dis
+36189425	BNT162b2 COVID-19 vaccination uptake, safety, effectiveness and waning in children and young people aged 12-17 years in Scotland.	Lancet Reg Health Eur
+36185968	Cuban Abdala vaccine: Effectiveness in preventing severe disease and death from COVID-19 in Havana, Cuba; A cohort study.	Lancet Reg Health Am
+36181868	Vaccine effectiveness against SARS-CoV-2 variants in adolescents from 15 to 90 days after second dose: a population-based test-negative case-control study.	J Pediatr
+36180428	Effectiveness of COVID-19 vaccines against Omicron and Delta hospitalisation, a test negative case-control study.	Nat Commun
+36173757	Effectiveness of a Second COVID-19 Vaccine Booster Dose Against Infection, Hospitalization, or Death Among Nursing Home Residents - 19 States, March 29-July 25, 2022.	MMWR Morb Mortal Wkly Rep
+36169462	How has the COVID-19 pandemic changed the diagnosis of rectus sheath hematoma and its follow-up?	Ulus Travma Acil Cerrahi Derg
+36164952	Comparison of clinical and radiological characteristics of COVID-19 patients with and without pneumothorax and/or pneumediastinum.	Tuberk Toraks
+36164949	Cross-sectional analysis of tobacco addiction in hospitalized COVID-19 patients.	Tuberk Toraks
+36164947	Incidence and clinical course of COVID-19 in patients using omalizumab for chronic spontaneous urticaria and/or severe allergic asthma and using mepolizumab for severe eosinophilic asthma: A single center real life experience.	Tuberk Toraks
+36156146	Estimation of COVID-19 mRNA Vaccine Effectiveness Against Medically Attended COVID-19 in Pregnancy During Periods of Delta and Omicron Variant Predominance in the United States.	JAMA Netw Open
+36152751	Host cell membrane proteins located near SARS-CoV-2 spike protein attachment sites are identified using proximity labeling and proteomic analysis.	J Biol Chem
+36147595	Effectiveness of COVID-19 Vaccines Over Time Prior to Omicron Emergence in Ontario, Canada: Test-Negative Design Study.	Open Forum Infect Dis
+36146536	Durability of Protection Post-Primary COVID-19 Vaccination in the United States.	Vaccines (Basel)
+36138385	COVID-19 vaccines effectiveness against symptomatic SARS-CoV-2 during Delta variant surge: a preliminary assessment from a case-control study in St. Petersburg, Russia.	BMC Public Health
+36136332	Estimated Effectiveness of COVID-19 Vaccines Against Omicron or Delta Symptomatic Infection and Severe Outcomes.	JAMA Netw Open
+36131356	Vaccine-induced binding and neutralizing antibodies against Omicron 6 months after a homologous BNT162b2 booster.	J Med Virol
+36129989	SARS-CoV-2 disrupts respiratory vascular barriers by suppressing Claudin-5 expression.	Sci Adv
+36123681	Vaccine effectiveness against referral to hospital after SARS-CoV-2 infection in St. Petersburg, Russia, during the Delta variant surge: a test-negative case-control study.	BMC Med
+36119318	An Epidemiological Investigation to evaluate the link between hypovitaminosis D and COVID-19.	J Family Med Prim Care
+36111555	COVID-19 mRNA vaccine effectiveness (second and first booster dose) against hospitalisation and death during Omicron BA.5 circulation: cohort study based on electronic health records, Portugal, May to July 2022.	Euro Surveill
+36105885	Comparison of immunogenicity and clinical effectiveness between BNT162b2 and ChAdOx1 SARS-CoV-2 vaccines in people with end-stage kidney disease receiving haemodialysis: A prospective, observational cohort study.	Lancet Reg Health Eur
+36104972	[Androgenic status in men during COVID-19].	Probl Endokrinol (Mosk)
+36099273	COVID-19 vaccine effectiveness against symptomatic SARS-CoV-2 infections, COVID-19 related hospitalizations and deaths, among individuals aged >/=65 years in Portugal: A cohort study based on data-linkage of national registries February-September 2021.	PLoS One
+36096406	COVID-19 Vaccine Effectiveness during a Prison Outbreak when Omicron was the Dominant Circulating Variant-Zambia, December 2021.	Am J Trop Med Hyg
+36096319	Effect of heated tobacco products and traditional cigarettes on pulmonary toxicity and SARS-CoV-2-induced lung injury.	Toxicology
+36096168	Effectiveness of COVID-19 vaccine booster in the general population and in subjects with comorbidities. A population-based study in Spain.	Environ Res
+36092825	Description of Hospitalizations due to the Severe Acute Respiratory Syndrome Coronavirus 2 Omicron Variant Based on Vaccination Status.	Open Forum Infect Dis
+36091023	Facing the Omicron variant-how well do vaccines protect against mild and severe COVID-19? Third interim analysis of a living systematic review.	Front Immunol
+36088642	Effects of continuous aerobic training associated with resistance training on maximal and submaximal exercise tolerance, fatigue, and quality of life of patients post-COVID-19.	Physiother Res Int
+36078466	Comparison of the Effectiveness and Safety of Heterologous Booster Doses with Homologous Booster Doses for SARS-CoV-2 Vaccines: A Systematic Review and Meta-Analysis.	Int J Environ Res Public Health
+36069511	Effectiveness of COVID-19 vaccines against SARS-CoV-2 variants of concern in real-world: a literature review and meta-analysis.	Emerg Microbes Infect
+36065651	Relative Effectiveness of COVID-19 Vaccination in Healthcare Workers: 3-Dose Versus 2-Dose Vaccination.	J Korean Med Sci
+36055952	Influence of Cancer on COVID-19 Incidence, Outcomes, and Vaccine Effectiveness: A Prospective Cohort Study of U.S. Veterans.	Semin Oncol
+36052820	[Effectiveness of vaccines against SARS-CoV-2 used in Spain: infection, hospitalization and mortality in people aged fifty/fifty-nine.]	Rev Esp Salud Publica
+36048766	Vaccine effectiveness against SARS-CoV-2 infection or COVID-19 hospitalization with the Alpha, Delta, or Omicron SARS-CoV-2 variant: A nationwide Danish cohort study.	PLoS Med
+36045530	A New Year, Newfangled COVID-19 Variant B.1.640.2 (IHU): What We Know So Far?	Infect Disord Drug Targets
+36044963	Comparison of antibody response durability of mRNA-1273, BNT162b2, and Ad26.COV2.S SARS-CoV-2 vaccines in healthcare workers.	Int J Infect Dis
+36043922	Factors affecting mortality in COVID-19 patients in intensive care.	Ulus Travma Acil Cerrahi Derg
+36043921	How did the general surgeons intend to treat acute calculous cholecystitis during COVID-19 era?Results of online survey.	Ulus Travma Acil Cerrahi Derg
+35987605	Real-world study of the effectiveness of BBIBP-CorV (Sinopharm) COVID-19 vaccine in the Kingdom of Morocco.	BMC Public Health
+35982357	Increased Circulating CD62E(+) Endothelial Extracellular Vesicles Predict Severity and in- Hospital Mortality of COVID-19 Patients.	Stem Cell Rev Rep
+35981815	Outbreak of SARS-CoV-2 Delta variant on a single liquified natural gas (LNG) vessel, with estimates of vaccine effectiveness.	Commun Dis Intell (2018)
+35968079	[Assessment of the effect of the COVID-19 health crisis on the aerobic capacities of healthy patients].	Sci Sports
+35935993	Effectiveness and Waning of Protection With Different SARS-CoV-2 Primary and Booster Vaccines During the Delta Pandemic Wave in 2021 in Hungary (HUN-VE 3 Study).	Front Immunol
+35925807	Interim Recommendation of the Advisory Committee on Immunization Practices for Use of the Novavax COVID-19 Vaccine in Persons Aged >/=18 years - United States, July 2022.	MMWR Morb Mortal Wkly Rep
+35922100	Effectiveness of mRNA COVID-19 vaccines against Omicron and Delta variants in a matched test-negative case-control study among US veterans.	BMJ Open
+35921537	COVID-19 vaccine effectiveness against SARS-CoV-2 infection in the United States prior to the Delta and Omicron-associated surges: a retrospective cohort study of repeat blood donors.	J Infect Dis
+35921109	Effectiveness Associated With BNT162b2 Vaccine Against Emergency Department and Urgent Care Encounters for Delta and Omicron SARS-CoV-2 Infection Among Adolescents Aged 12 to 17 Years.	JAMA Netw Open
+35920414	Impact of COVID-19 pandemic on pediatric appendicitis hospital admission time and length of hospital stay.	Ulus Travma Acil Cerrahi Derg
+35918782	COVID-19 vaccine effectiveness against symptomatic SARS-CoV-2 infection during Delta-dominant and Omicron-dominant periods in Japan: a multi-center prospective case-control study (FASCINATE study).	Clin Infect Dis
+35904059	Estimation of COVID-19 vaccine effectiveness against hospitalisation in individuals aged >/= 65 years using electronic health registries; a pilot study in four EU/EEA countries, October 2021 to March 2022.	Euro Surveill
+35891304	Relative Vaccine Effectiveness of the Third Dose of CoronaVac or BNT162b2 Following a Two-Dose CoronaVac Regimen: A Prospective Observational Cohort Study from an Adult Vaccine Center in Turkey.	Vaccines (Basel)
+35891245	Real-World Effectiveness of Mix-and-Match Vaccine Regimens against SARS-CoV-2 Delta Variant in Thailand: A Nationwide Test-Negative Matched Case-Control Study.	Vaccines (Basel)
+35891173	Effectiveness of COVID-19 Vaccination in Preventing All-Cause Mortality among Adults during the Third Wave of the Epidemic in Hungary: Nationwide Retrospective Cohort Study.	Vaccines (Basel)
+35891148	Retrospective Cohort Study of the Effectiveness of the Sputnik V and EpiVacCorona Vaccines against the SARS-CoV-2 Delta Variant in Moscow (June-July 2021).	Vaccines (Basel)
+35880469	COVID-19 vaccine effectiveness against hospitalization due to SARS-CoV-2: A test-negative design study based on Severe Acute Respiratory Infection (SARI) sentinel surveillance in Spain.	Influenza Other Respir Viruses
+35880233	Comparative COVID-19 Vaccine Effectiveness Over Time in Veterans.	Open Forum Infect Dis
+35872665	Effectiveness of BBIBP-CorV, BNT162b2 and mRNA-1273 vaccines against hospitalisations among children and adolescents during the Omicron outbreak in Argentina: A retrospective cohort study.	Lancet Reg Health Am
+35863935	Vaccine effectiveness against COVID-19 related hospital admission in the Netherlands: A test-negative case-control study.	Vaccine
+35862287	Effectiveness of 2, 3, and 4 COVID-19 mRNA Vaccine Doses Among Immunocompetent Adults During Periods when SARS-CoV-2 Omicron BA.1 and BA.2/BA.2.12.1 Sublineages Predominated - VISION Network, 10 States, December 2021-June 2022.	MMWR Morb Mortal Wkly Rep
+35859397	Development of the India COVID-19 vaccine tracker.	Indian J Med Res
+35856710	SARS-CoV-2 Convalescent Sera Binding and Neutralizing Antibody Concentrations Compared with COVID-19 Vaccine Efficacy Estimates against Symptomatic Infection.	Microbiol Spectr
+35856635	Effectiveness of Coronavirus Disease 2019 (COVID-19) Vaccination Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection Among Residents of US Nursing Homes Before and During the Delta Variant Predominance, December 2020-November 2021.	Clin Infect Dis
+35855494	Effectiveness of a fourth dose of mRNA COVID-19 vaccine against all-cause mortality in long-term care facility residents and in the oldest old: A nationwide, retrospective cohort study in Sweden.	Lancet Reg Health Eur
+35851597	Duration of protection of CoronaVac plus heterologous BNT162b2 booster in the Omicron period in Brazil.	Nat Commun
+35848843	A controlled effects approach to assessing immune correlates of protection.	Biostatistics
+35843496	Effectiveness of BBV152/Covaxin and AZD1222/Covishield vaccines against severe COVID-19 and B.1.617.2/Delta variant in India, 2021: a multi-centric hospital-based case-control study.	Int J Infect Dis
+35831042	Urban monitoring, evaluation and application of COVID-19 listed vaccine effectiveness: a health code blockchain study.	BMJ Open
+35818721	Ascertainment of vaccination status by self-report versus source documentation: Impact on measuring COVID-19 vaccine effectiveness.	Influenza Other Respir Viruses
+35812442	Nationwide Effectiveness of First and Second SARS-CoV2 Booster Vaccines During the Delta and Omicron Pandemic Waves in Hungary (HUN-VE 2 Study).	Front Immunol
+35802764	COVID-19 vaccine effectiveness against symptomatic SARS-CoV-2 infection and severe COVID-19 outcomes from Delta AY.4.2: Cohort and test-negative study of 5.4 million individuals in Scotland.	J Glob Health
+35798146	The impact of COVID-19 vaccination programme in the Republic of San Marino: Focus on effectiveness of Gam-Covid-Vac.	Clin Microbiol Infect
+35791428	Effectiveness of CoronaVac and BNT162b2 COVID-19 mass vaccination in Colombia: A population-based cohort study.	Lancet Reg Health Am
+35786109	Bereavement outcomes in family members of those who died in acute care hospitals before and during the first wave of COVID-19: A cohort study.	Palliat Med
+35785885	An another cause of COVID-19 related pulmonary fibrosis: The high oxygen supplement.	Tuberk Toraks
+35785882	VEGF, IL-17 and IgG4 levels of patients with lung sequelae in post-COVID-19 period.	Tuberk Toraks
+35782179	The Role of Internet of Things to Control the Outbreak of COVID-19 Pandemic.	IEEE Internet Things J
+35775687	Does COVID-19 increase the incidence of spontaneous rectus sheath hematoma?	Ulus Travma Acil Cerrahi Derg
+35775682	Impact of the COVID-19 pandemic on emergency general surgery outcomes: A single-center retrospective cohort study.	Ulus Travma Acil Cerrahi Derg
+35775678	Impact of COVID-19 pandemic on hand injuries.	Ulus Travma Acil Cerrahi Derg
+35775671	Management of uncomplicated acute appendicitis during the COVID-19 pandemic: Appendectomy or non-surgical treatment?	Ulus Travma Acil Cerrahi Derg
+35773247	Effect of vaccination on household transmission of SARS-CoV-2 Delta variant of concern.	Nat Commun
+35769163	COVID-19 infection, and reinfection, and vaccine effectiveness against symptomatic infection among health care workers in the setting of omicron variant transmission in New Delhi, India.	Lancet Reg Health Southeast Asia
+35760548	Comparative end-of-life communication and support in hospitalised decedents before and during the COVID-19 pandemic: a retrospective regional cohort study in Ottawa, Canada.	BMJ Open
+35758873	Effectiveness of Coronavirus Disease 2019 (COVID-19) mRNA Vaccines Against Infection During an Outbreak of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Beta (B.1.351) Variant in a Skilled Nursing Facility: Virginia, March-April 2021.	Clin Infect Dis
+35758441	EMOTIONAL IMPACT OF THE COVID-19 PANDEMIC ON HEALTHCARE WORKERS IN UKRAINE.	Wiad Lek
+35753370	Variation of pollution sources and health effects on air pollution before and during COVID-19 pandemic in Linfen, Fenwei Plain.	Environ Res
+35748494	Expert review on global real-world vaccine effectiveness against SARS-CoV-2.	Expert Rev Vaccines
+35735294	[Clinical and epidemiological features of SARS-CoV-2 infection in children under 16 years of age].	Andes Pediatr
+35717650	Vaccine Effectiveness of CanSino (Adv5-nCoV) Coronavirus Disease 2019 (COVID-19) Vaccine Among Childcare Workers-Mexico, March-December 2021.	Clin Infect Dis
+35710987	Rapid evaluation of COVID-19 vaccine effectiveness against symptomatic infection with SARS-CoV-2 variants by analysis of genetic distance.	Nat Med
+35709328	Preferential uptake of SARS-CoV-2 by pericytes potentiates vascular damage and permeability in an organoid model of the microvasculature.	Cardiovasc Res
+35701379	Comparative effectiveness and durability of COVID-19 vaccination against death and severe disease in an ongoing nationwide mass vaccination campaign.	J Med Virol
+35675695	Effectiveness of the Ad26.COV2.S (Johnson & Johnson) Coronavirus Disease 2019 (COVID-19) Vaccine for Preventing COVID-19 Hospitalizations and Progression to High Disease Severity in the United States.	Clin Infect Dis
+35670221	COVID-19 pandemic dynamics in India, the SARS-CoV-2 Delta variant and implications for vaccination.	J R Soc Interface
+35665358	Real-Word Effectiveness of Global COVID-19 Vaccines Against SARS-CoV-2 Variants: A Systematic Review and Meta-Analysis.	Front Med (Lausanne)
+35652883	Relationship between SIRI, SII values, and Alvarado score with complications of acute appendicitis during the COVID-19 pandemic.	Ulus Travma Acil Cerrahi Derg
+35652875	The effects of COVID-19 pandemic on patients with acute appendicitis.	Ulus Travma Acil Cerrahi Derg
+35652869	Upper gastrointestinal system bleedings in COVID-19 patients: Risk factors and management/a retrospective cohort study.	Ulus Travma Acil Cerrahi Derg
+35647557	Concat_CNN: A Model to Detect COVID-19 from Chest X-ray Images with Deep Learning.	SN Comput Sci
+35644936	Effects of Wearing Face Masks on Exercise Capacity and Ventilatory Anaerobic Threshold in Healthy Subjects During the COVID-19 Epidemic.	Med Sci Monit
+35643564	A log-odds system for waning and boosting of COVID-19 vaccine effectiveness.	Vaccine
+35639918	Effectiveness of heterologous COVID-19 vaccine booster dosing in Brazilian healthcare workers, 2021.	Clin Infect Dis
+35635842	Pediatric Research Observing Trends and Exposures in COVID-19 Timelines (PROTECT): Protocol for a Multisite Longitudinal Cohort Study.	JMIR Res Protoc
+35632633	Molecular Cross-Talk between Integrins and Cadherins Leads to a Loss of Vascular Barrier Integrity during SARS-CoV-2 Infection.	Viruses
+35632535	Real-World Effectiveness of the mRNA COVID-19 Vaccines in Japan: A Case-Control Study.	Vaccines (Basel)
+35620997	Effectiveness of complete primary vaccination against COVID-19 at primary care and community level during predominant Delta circulation in Europe: multicentre analysis, I-MOVE-COVID-19 and ECDC networks, July to August 2021.	Euro Surveill
+35608204	The effect of medium-term recovery status after COVID-19 illness on cardiopulmonary exercise capacity in a physically active adult population.	J Appl Physiol (1985)
+35606843	Effectiveness of COVID-19 vaccines against SARS-CoV-2 variants of concern: a systematic review and meta-analysis.	BMC Med
+35603287	A comparison of respiratory particle emission rates at rest and while speaking or exercising.	Commun Med (Lond)
+35601094	Control of CDH1/E-Cadherin Gene Expression and Release of a Soluble Form of E-Cadherin in SARS-CoV-2 Infected Caco-2 Intestinal Cells: Physiopathological Consequences for the Intestinal Forms of COVID-19.	Front Cell Infect Microbiol
+35596946	Effectiveness of BNT162b2 and ChAdOx-1 vaccines in residents of long-term care facilities in England using a time-varying proportional hazards model.	Age Ageing
+35593166	mRNA vaccine effectiveness against hospitalisation due to severe acute respiratory infection (SARI) COVID-19 during Omicron variant predominance estimated from real-world surveillance data, Slovenia, February to March 2022.	Euro Surveill
+35584901	COVID-19 vaccines coverage and effectiveness against SARS-CoV-2 infection among residents in the largest Health Authority of Lazio region (Italy): a population-based cohort study.	Expert Rev Vaccines
+35580849	Protection of mRNA vaccines against hospitalized COVID-19 in adults over the first year following authorization in the United States.	Clin Infect Dis
+35560036	Association of Prior BNT162b2 COVID-19 Vaccination With Symptomatic SARS-CoV-2 Infection in Children and Adolescents During Omicron Predominance.	JAMA
+35549891	Continued effectiveness of COVID-19 vaccination among urban healthcare workers during delta variant predominance.	BMC Infect Dis
+35531384	SARS-CoV-2 mRNA Vaccine Effectiveness in Health Care Workers by Dosing Interval and Time Since Vaccination: Test-Negative Design, British Columbia, Canada.	Open Forum Infect Dis
+35525973	SARS-CoV-2 vaccine effectiveness against infection, symptomatic and severe COVID-19: a systematic review and meta-analysis.	BMC Infect Dis
+35522748	Measuring vaccine effectiveness from limited public health datasets: Framework and estimates from India's second COVID wave.	Sci Adv
+35521987	[Biological activity of interferons in the novel coronavirus infection COVID-19].	Vopr Virusol
+35511708	Effectiveness of a COVID-19 Additional Primary or Booster Vaccine Dose in Preventing SARS-CoV-2 Infection Among Nursing Home Residents During Widespread Circulation of the Omicron Variant - United States, February 14-March 27, 2022.	MMWR Morb Mortal Wkly Rep
+35508378	Safety and efficacy of Sinopharm vaccine (BBIBP-CorV) in elderly population of Faisalabad district of Pakistan.	Postgrad Med J
+35500793	Real-world effectiveness of BNT162b2 vaccine against SARS-CoV-2 infection among adolescents (12 to 17-year-olds) in Malaysia.	Int J Infect Dis
+35485564	Emergency surgical gastrostomy in an esophageal cancer patient unable to receive COVID-19 treatment due to obstruction, and operating room measures as per pandemic guidelines: Case report.	Ulus Travma Acil Cerrahi Derg
+35485557	Impact of coronavirus disease on acute appendicitis cases.	Ulus Travma Acil Cerrahi Derg
+35485522	Life-threatening hematomas in COVID-19 patients.	Ulus Travma Acil Cerrahi Derg
+35485461	Evaluation of the appendectomy cases performed under emergency conditions during the COVID-19 pandemic and discussed with the pathology reports.	Ulus Travma Acil Cerrahi Derg
+35483993	Effects of non-invasive respiratory supports on inspiratory effort in moderate-severe COVID-19 patients. A randomized physiological study.	Eur J Intern Med
+35482785	Durability of mRNA-1273 against COVID-19 in the time of Delta: Interim results from an observational cohort study.	PLoS One
+35482442	Protection by vaccines and previous infection against the Omicron variant of SARS-CoV-2.	J Infect Dis
+35482308	Household Secondary Attack Rates of SARS-CoV-2 by Variant and Vaccination Status: An Updated Systematic Review and Meta-analysis.	JAMA Netw Open
+35462461	Wearing a surgical mask: Effects on gas exchange and hemodynamic responses during maximal exercise.	Clin Physiol Funct Imaging
+35459558	Vaccine effectiveness against onward transmission of SARS-CoV2-infection by variant of concern and time since vaccination, Belgian contact tracing, 2021.	Vaccine
+35442474	Effectiveness of mRNA BNT162b2 COVID-19 vaccine against SARS-CoV-2 Delta variant among elderly residents from a long-term care facility, South of France, May 2021.	Eur Rev Med Pharmacol Sci
+35439361	Endothelial cells of pulmonary origin display unique sensitivity to the bacterial endotoxin lipopolysaccharide.	Physiol Rep
+35438175	Two-dose SARS-CoV-2 vaccine effectiveness with mixed schedules and extended dosing intervals: test-negative design studies from British Columbia and Quebec, Canada.	Clin Infect Dis
+35434432	Anti-COVID-19 potential of Azadirachta indica (Neem) leaf extract.	Sci Afr
+35426361	A late sharp increase in influenza detections and low interim vaccine effectiveness against the circulating A(H3N2) strain, Denmark, 2021/22 influenza season up to 25 March 2022.	Euro Surveill
+35421077	Effectiveness of COVID-19 mRNA Vaccination in Preventing COVID-19-Associated Hospitalization Among Adults with Previous SARS-CoV-2 Infection - United States, June 2021-February 2022.	MMWR Morb Mortal Wkly Rep
+35418276	Physiological effects of exercising at different intensities wearing surgical or double-layer cotton facemasks compared to not wearing a mask.	Eur J Sport Sci
+35413107	Investigation of a Severe Acute Respiratory Syndrome Coronavirus 2 Delta (B.1.617.2) Variant Outbreak Among Residents of a Skilled Nursing Facility and Vaccine Effectiveness Analysis: Maricopa County, Arizona, June-July 2021.	Clin Infect Dis
+35409724	Evaluation of BNT162b2 Vaccine Effectiveness in Galicia, Northwest Spain.	Int J Environ Res Public Health
+35405403	Bioacoustic signal analysis through complex network features.	Comput Biol Med
+35400799	Vaccine effectiveness to protect against moderate or severe disease in COVID cases: A prospective cohort study.	Med J Armed Forces India
+35400561	Effectiveness of adenovirus type 5 vectored and inactivated COVID-19 vaccines against symptomatic COVID-19, COVID-19 pneumonia, and severe COVID-19 caused by the B.1.617.2 (Delta) variant: Evidence from an outbreak in Yunnan, China, 2021.	Vaccine
+35395052	Does a humoral correlate of protection exist for SARS-CoV-2? A systematic review.	PLoS One
+35389748	Effectiveness of an mRNA vaccine booster dose against SARS-CoV-2 infection and severe COVID-19 in persons aged >/=60 years and other high-risk groups during predominant circulation of the delta variant in Italy, 19 July to 12 December 2021.	Expert Rev Vaccines
+35388292	HSP90 Inhibitors Modulate SARS-CoV-2 Spike Protein Subunit 1-Induced Human Pulmonary Microvascular Endothelial Activation and Barrier Dysfunction.	Front Physiol
+35385875	mRNA Vaccine Effectiveness Against Coronavirus Disease 2019 Hospitalization Among Solid Organ Transplant Recipients.	J Infect Dis
+35384172	Critical care outreach during the COVID-19 pandemic: An observational study.	Nurs Crit Care
+35379250	CoronaVac vaccine is effective in preventing symptomatic and severe COVID-19 in pregnant women in Brazil: a test-negative case-control study.	BMC Med
+35378797	Utility of exercise testing to assess athletes for post COVID-19 myocarditis.	Am Heart J Plus
+35368350	Outcomes among Hospitalized Chronic Kidney Disease Patients with COVID-19.	Kidney360
+35362314	Response to "Pulmonary fibrotic-like changes in patients recovering from COVID-19: Correspondence".	Tuberk Toraks
+35362313	Pulmonary fibrotic-like changes in patients recovering from COVID-19: Correspondence.	Tuberk Toraks
+35362306	Timeline of critically ill 2019 SARS-CoV-2 cases after onset of illness: Intensive care data from Turkey.	Tuberk Toraks
+35362304	Treatment cost of chest diseases during the COVID-19 pandemic: Case analysis at the Duzce University Hospital.	Tuberk Toraks
+35362302	Subacute neurological sequelae in mild COVID-19 outpatients.	Tuberk Toraks
+35362300	Coexistence of tuberculosis and COVID-19 pneumonia: A presentation of 16 patients from Turkey with their clinical features.	Tuberk Toraks
+35361311	Effectiveness of BNT162b2 Vaccine Booster against SARS-CoV-2 Infection and Breakthrough Complications, Israel.	Emerg Infect Dis
+35358170	Effectiveness of Homologous and Heterologous COVID-19 Booster Doses Following 1 Ad.26.COV2.S (Janssen [Johnson & Johnson]) Vaccine Dose Against COVID-19-Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Adults - VISION Network, 10 States, December 2021-March 2022.	MMWR Morb Mortal Wkly Rep
+35351217	Effectiveness of two COVID-19 vaccines (viral vector and inactivated viral vaccine) against SARS-CoV-2 infection in a cohort of healthcare workers.	Infect Control Hosp Epidemiol
+35345646	Efficacy of approved vaccines to prevent COVID-19: a systematic review and network meta-analysis of reconstructed individual patient data from randomized trials.	Z Gesundh Wiss
+35336915	Direct Lysis RT-qPCR of SARS-CoV-2 in Cell Culture Supernatant Allows for Fast and Accurate Quantification.	Viruses
+35335101	Effectiveness of BNT162b2 and mRNA-1273 Vaccines against COVID-19 Infection: A Meta-Analysis of Test-Negative Design Studies.	Vaccines (Basel)
+35335025	COVID-19 Vaccine Effectiveness: A Review of the First 6 Months of COVID-19 Vaccine Availability (1 January-30 June 2021).	Vaccines (Basel)
+35335021	Early Effectiveness of Four SARS-CoV-2 Vaccines in Preventing COVID-19 among Adults Aged >/=60 Years in Vojvodina, Serbia.	Vaccines (Basel)
+35331933	Waning COVID-19 Vaccine Effectiveness for BNT162b2 and CoronaVac in Malaysia: An Observational Study.	Int J Infect Dis
+35325923	Effects of Confounding Bias in Coronavirus Disease 2019 (COVID-19) and Influenza Vaccine Effectiveness Test-Negative Designs Due to Correlated Influenza and COVID-19 Vaccination Behaviors.	Clin Infect Dis
+35324878	Effectiveness of mRNA Vaccination in Preventing COVID-19-Associated Invasive Mechanical Ventilation and Death - United States, March 2021-January 2022.	MMWR Morb Mortal Wkly Rep
+35321895	COVID-19 vaccine effectiveness among healthcare workers in Albania (COVE-AL): protocol for a prospective cohort study and cohort baseline data.	BMJ Open
+35321625	Effectiveness of COVID-19 vaccine (Covaxin) against breakthrough SARS-CoV-2 infection in India.	Hum Vaccin Immunother
+35298453	Effectiveness of 2-Dose BNT162b2 (Pfizer BioNTech) mRNA Vaccine in Preventing SARS-CoV-2 Infection Among Children Aged 5-11 Years and Adolescents Aged 12-15 Years - PROTECT Cohort, July 2021-February 2022.	MMWR Morb Mortal Wkly Rep
+35297969	Durability of the Single-Dose Ad26.COV2.S Vaccine in the Prevention of COVID-19 Infections and Hospitalizations in the US Before and During the Delta Variant Surge.	JAMA Netw Open
+35296878	Vaccine efficacy at a point in time.	Biostatistics
+35268542	Cardiopulmonary Exercise Performance and Endothelial Function in Convalescent COVID-19 Patients.	J Clin Med
+35264194	Rapid method through routine data to evaluate real-world vaccine effectiveness against coronavirus disease 2019 (COVID-19) infection: lessons from Thailand.	Health Res Policy Syst
+35263352	Estimating the number of symptomatic SARS-CoV-2 infections among vaccinated individuals in the United States-January-July, 2021.	PLoS One
+35245940	Vaccine Effectiveness of 3 Versus 2 Doses of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) mRNA Vaccines in a High-Risk National Population.	Clin Infect Dis
+35240940	Waning effectiveness of SARS-CoV-2 mRNA vaccines in older adults: a rapid review.	Hum Vaccin Immunother
+35239634	Effectiveness of COVID-19 Pfizer-BioNTech BNT162b2 mRNA Vaccination in Preventing COVID-19-Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Nonimmunocompromised Children and Adolescents Aged 5-17 Years - VISION Network, 10 States, April 2021-January 2022.	MMWR Morb Mortal Wkly Rep
+35239462	COVID-19 vaccine uptake and effectiveness in adults aged 50 years and older in Wales UK: a 1.2m population data-linkage cohort approach.	Hum Vaccin Immunother
+35238933	Assessment of Clinical Effectiveness of BNT162b2 COVID-19 Vaccine in US Adolescents.	JAMA Netw Open
+35235811	Physiological Effects of Surgical and N95 Masks During Exercise in the COVID-19 era.	Am J Med Sci
+35214743	Modelling SARS-CoV-2 Binding Antibody Waning 8 Months after BNT162b2 Vaccination.	Vaccines (Basel)
+35214703	Thermostable Vaccines in Veterinary Medicine: State of the Art and Opportunities to Be Seized.	Vaccines (Basel)
+35195514	Effectiveness of 3 COVID-19 Vaccines in Preventing SARS-CoV-2 Infections, January-May 2021, Aragon, Spain.	Emerg Infect Dis
+35189624	Effectiveness of mRNA-1273 against SARS-CoV-2 Omicron and Delta variants.	Nat Med
+35187521	Effectiveness of a third dose of BNT162b2 mRNA COVID-19 vaccine in a large US health system: A retrospective cohort study.	Lancet Reg Health Am
+35186369	Effectiveness of Inactivated COVID-19 Vaccines Against Symptomatic, Pneumonia, and Severe Disease Caused by the Delta Variant: Real World Study and Evidence - China, 2021.	China CDC Wkly
+35178857	mRNA COVID-19 vaccine effectiveness against SARS-CoV-2 infection in a prospective community cohort, rural Wisconsin, November 2020 to December 2021.	Influenza Other Respir Viruses
+35176007	Waning 2-Dose and 3-Dose Effectiveness of mRNA Vaccines Against COVID-19-Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Adults During Periods of Delta and Omicron Variant Predominance - VISION Network, 10 States, August 2021-January 2022.	MMWR Morb Mortal Wkly Rep
+35168838	Effectiveness of Covishield vaccine in preventing Covid-19 - A test-negative case-control study.	Vaccine
+35165107	Investigating the uptake, effectiveness and safety of COVID-19 vaccines: protocol for an observational study using linked UK national data.	BMJ Open
+35142777	Vasculature-on-a-chip platform with innate immunity enables identification of angiopoietin-1 derived peptide as a therapeutic for SARS-CoV-2 induced inflammation.	Lab Chip
+35140406	Vaccine effectiveness of heterologous CoronaVac plus BNT162b2 in Brazil.	Nat Med
+35139175	Real-World Effectiveness of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) mRNA Vaccines in Preventing Confirmed Infection in Patients on Chronic Hemodialysis.	Clin Infect Dis
+35137006	Comparative Effectiveness of Coronavirus Disease 2019 (COVID-19) Vaccines Against the Delta Variant.	Clin Infect Dis
+35134810	BNT162b2 mRNA COVID-19 (Comirnaty) Vaccine Effectiveness in Elderly Patients Who Live in Long-Term Care Facilities: A Nationwide Cohort.	Gerontology
+35130777	Outcomes of SARS-CoV-2 infection in cancer versus non-cancer-patients: A population-based study in northeastern Italy.	Tumori
+35122051	SARS-CoV-2 infection in the Italian Veneto region: adverse outcomes in patients with cancer.	Nat Cancer
+35118687	The emergence and epidemic characteristics of the highly mutated SARS-CoV-2 Omicron variant.	J Med Virol
+35114893	Comparing real-life effectiveness of various COVID-19 vaccine regimens during the delta variant-dominant pandemic: a test-negative case-control study.	Emerg Microbes Infect
+35112973	COVID-19 vaccine effectiveness among immunocompromised populations: a targeted literature review of real-world studies.	Expert Rev Vaccines
+35099990	Effectiveness of Inactivated COVID-19 Vaccines Against Illness Caused by the B.1.617.2 (Delta) Variant During an Outbreak in Guangdong, China : A Cohort Study.	Ann Intern Med
+35099036	General surgery practice under the COVID-19 pandemic: The experience of a pandemic hospital in Istanbul.	Ulus Travma Acil Cerrahi Derg
+35099034	A comparison of patients who have appendectomy during the COVID-19 pandemic period with the period before the pandemic.	Ulus Travma Acil Cerrahi Derg
+35088048	Benefits of Home-Based Exercise Training Following Critical SARS-CoV-2 Infection: A Case Report.	Front Sports Act Living
+35085224	Effectiveness of a Third Dose of mRNA Vaccines Against COVID-19-Associated Emergency Department and Urgent Care Encounters and Hospitalizations Among Adults During Periods of Delta and Omicron Variant Predominance - VISION Network, 10 States, August 2021-January 2022.	MMWR Morb Mortal Wkly Rep
+35085218	Effectiveness of a Third Dose of Pfizer-BioNTech and Moderna Vaccines in Preventing COVID-19 Hospitalization Among Immunocompetent and Immunocompromised Adults - United States, August-December 2021.	MMWR Morb Mortal Wkly Rep
+35084500	Comparative Single-Dose mRNA and ChAdOx1 Vaccine Effectiveness Against Severe Acute Respiratory Syndrome Coronavirus 2, Including Variants of Concern: Test-Negative Design, British Columbia, Canada.	J Infect Dis
+35081612	Identifying and Alleviating Bias Due to Differential Depletion of Susceptible People in Postmarketing Evaluations of COVID-19 Vaccines.	Am J Epidemiol
+35062684	Effectiveness of COVID-19 Vaccines against Delta (B.1.617.2) Variant: A Systematic Review and Meta-Analysis of Clinical Studies.	Vaccines (Basel)
+35034983	A "Viral Epistolary" and Psychosocial Spirituality: Restoring Transcendental Meaning During COVID-19 Through a Digital Community Letter-Writing Project.	Pastoral Psychol
+35025852	Effectiveness of BNT162b2 (Pfizer-BioNTech) mRNA Vaccination Against Multisystem Inflammatory Syndrome in Children Among Persons Aged 12-18 Years - United States, July-December 2021.	MMWR Morb Mortal Wkly Rep
+35005708	Criteria for judging the immune markers of COVID-19 disease vaccines.	MedComm (2020)
+35003715	Uptake, effectiveness and safety of COVID-19 vaccines in children and young people in Scotland: Protocol for early pandemic evaluation and enhanced surveillance of COVID-19 (EAVE II).	J Glob Health
+34991780	Vaccine effectiveness against severe acute respiratory infections (SARI) COVID-19 hospitalisations estimated from real-world surveillance data, Slovenia, October 2021.	Euro Surveill
+34982962	Short-term effectiveness of COVID-19 vaccines in immunocompromised patients: A systematic literature review and meta-analysis.	J Infect
+34974072	Pfizer-BioNTech vaccine effectiveness against Sars-Cov-2 infection: Findings from a large observational study in Israel.	Prev Med
+34968373	Interim Estimate of Vaccine Effectiveness of BNT162b2 (Pfizer-BioNTech) Vaccine in Preventing SARS-CoV-2 Infection Among Adolescents Aged 12-17 Years - Arizona, July-December 2021.	MMWR Morb Mortal Wkly Rep
+34967433	An evaluation of the characteristics of orthopedic pediatric traumas during the COVID-19 pandemic lockdown period.	Ulus Travma Acil Cerrahi Derg
+34967425	The impact of COVID-19 pandemic in the first 100 days on orthopedic trauma surgery practice, the experience of a university hospital in Istanbul.	Ulus Travma Acil Cerrahi Derg
+34960235	Effectiveness of the WHO-Authorized COVID-19 Vaccines: A Rapid Review of Global Reports till 30 June 2021.	Vaccines (Basel)
+34957749	A life-threatening haemoptysis case that would have been defined as idiopathic before the COVID-19 era.	Tuberk Toraks
+34957748	Immunogenicity of SARS-CoV-2 mRNA vaccine in dialysis and kidney transplant patients: A systematic review.	Tuberk Toraks
+34957744	Clinical characteristics of lung cancer patients with COVID-19: Retrospective case series.	Tuberk Toraks
+34957743	Pulmonary fibrotic-like changes on follow-up chest CT exam in patients recovering from COVID-19 pneumonia.	Tuberk Toraks
+34957742	Contribution of artificial intelligence applications developed with the deep learning method to the diagnosis of COVID-19 pneumonia on computed tomography.	Tuberk Toraks
+34957739	Influenza viruses and SARS-CoV-2 in adult: 'Similarities and differences'.	Tuberk Toraks
+34957437	Influence of age on the effectiveness and duration of protection of Vaxzevria and CoronaVac vaccines: A population-based study.	Lancet Reg Health Am
+34952732	[Effectiveness of BNT162b2 vaccine to preventing COVID-19 in healthcare personnel].	Gac Sanit
+34946418	Effectiveness of BNT162b2 and ChAdOx1 Vaccines against Symptomatic COVID-19 among Healthcare Workers in Kuwait: A Retrospective Cohort Study.	Healthcare (Basel)
+34932114	Effectiveness of mRNA Vaccines Against COVID-19 Hospitalization by Age and Chronic Medical Conditions Burden Among Immunocompetent US Adults, March-August 2021.	J Infect Dis
+34928700	COVID-19 Vaccination Effectiveness Against Infection or Death in a National U.S. Health Care System : A Target Trial Emulation Study.	Ann Intern Med
+34927113	Comparative effectiveness of mRNA-1273 and BNT162b2 against symptomatic SARS-CoV-2 infection.	Med (N Y)
+34920180	Vaccine effectiveness against COVID-19 hospitalization in adults in France: A test negative case control study.	Infect Dis Now
+34919548	Vaccine effectiveness against SARS-CoV-2 infection, hospitalization, and death when combining a first dose ChAdOx1 vaccine with a subsequent mRNA vaccine in Denmark: A nationwide population-based cohort study.	PLoS Med
+34916547	Development of an affective database made of interactive virtual environments.	Sci Rep
+34909755	The challenges of COVID-19 Delta variant: Prevention and vaccine development.	MedComm (2020)
+34903372	Early effectiveness of BNT162b2 Covid-19 vaccine in preventing SARS-CoV-2 infection in healthcare personnel in six Israeli hospitals (CoVEHPI).	Vaccine
+34896622	Dysautonomia following COVID-19 is not associated with subjective limitations or symptoms but is associated with objective functional limitations.	Heart Rhythm
+34893611	Serological responses and vaccine effectiveness for extended COVID-19 vaccine schedules in England.	Nat Commun
+34882654	Comparative Effectiveness and Antibody Responses to Moderna and Pfizer-BioNTech COVID-19 Vaccines among Hospitalized Veterans - Five Veterans Affairs Medical Centers, United States, February 1-September 30, 2021.	MMWR Morb Mortal Wkly Rep
+34878031	Association of health vulnerability with adverse outcomes in older people with COVID-19: a prospective cohort study.	Clinics (Sao Paulo)
+34870134	Effectiveness of BNT162b2 mRNA COVID-19 vaccine against SARS-CoV-2 variant Beta (B.1.351) among persons identified through contact tracing in Israel: A prospective cohort study.	EClinicalMedicine
+34867844	Viable Severe Acute Respiratory Syndrome Coronavirus 2 Isolates Exhibit Higher Correlation With Rapid Antigen Assays Than Subgenomic RNA or Genomic RNA.	Front Microbiol
+34857177	Use of Cardiopulmonary Stress Testing for Patients With Unexplained Dyspnea Post-Coronavirus Disease.	JACC Heart Fail
+34849505	Real-world effectiveness of the mRNA-1273 vaccine against COVID-19: Interim results from a prospective observational cohort study.	Lancet Reg Health Am
+34838783	Nationwide effectiveness of five SARS-CoV-2 vaccines in Hungary-the HUN-VE study.	Clin Microbiol Infect
+34837141	Maximal exercise outcomes with a face mask: the effects of gender and age differences on cardiorespiratory responses.	Ir J Med Sci
+34819200	Validation of a COVID-19 self-assessment tool for the prediction of COVID-19 in a primary health care setting in Egypt.	Prim Health Care Res Dev
+34800687	Real-world effectiveness of COVID-19 vaccines: a literature review and meta-analysis.	Int J Infect Dis
+34793476	Effectiveness of vaccination against SARS-CoV-2 infection and Covid-19 hospitalisation among Finnish elderly and chronically ill-An interim analysis of a nationwide cohort study.	PLoS One
+34788645	Inhibitory effects and mechanisms of the anti-covid-19 traditional Chinese prescription, Keguan-1, on acute lung injury.	J Ethnopharmacol
+34776748	Particle composition, sources and evolution during the COVID-19 lockdown period in Chengdu, southwest China: Insights from single particle aerosol mass spectrometer data.	Atmos Environ (1994)
+34776011	Effectiveness and safety of SARS-CoV-2 vaccine in real-world studies: a systematic review and meta-analysis.	Infect Dis Poverty
+34760659	Use of heart rate variability to predict hospital length of stay for COVID-19 patients: A prospective observational study.	Int J Crit Illn Inj Sci
+34755408	Covid-19 vaccines and variants of concern: A review.	Rev Med Virol
+34739520	Is the BNT162b2 COVID-19 vaccine effective in elderly populations? Results from population data from Bavaria, Germany.	PLoS One
+34735426	Effectiveness of 2-Dose Vaccination with mRNA COVID-19 Vaccines Against COVID-19-Associated Hospitalizations Among Immunocompromised Adults - Nine States, January-September 2021.	MMWR Morb Mortal Wkly Rep
+34735261	SARS-CoV-2 vaccine protection and deaths among US veterans during 2021.	Science
+34730124	Corrigendum to: Genomic epidemiology reveals the reduction of the introduction and spread of SARS-CoV-2 after implementing control strategies in Republic of Korea, 2020.	Virus Evol
+34726239	Effectiveness of a Third Dose of BNT162b2 mRNA Vaccine.	J Infect Dis
+34710234	Management of burns during coronavirus disease pandemic: Single center experience and outcomes.	Ulus Travma Acil Cerrahi Derg
+34710228	Indicators that determine disease course in COVID-19 patients.	Ulus Travma Acil Cerrahi Derg
+34710222	Evaluation of emergency operations and anesthesia procedures used in surgical emergencies before and during the COVID-19 pandemic.	Ulus Travma Acil Cerrahi Derg
+34707988	SARS-CoV-2 Infection in Cancer Patients: A Population-Based Study.	Front Oncol
+34698827	Measuring Vaccine Efficacy Against Infection and Disease in Clinical Trials: Sources and Magnitude of Bias in Coronavirus Disease 2019 (COVID-19) Vaccine Efficacy Estimates.	Clin Infect Dis
+34698808	Effectiveness of BNT162b2 mRNA Coronavirus Disease 2019 (COVID-19) Vaccine Against Acquisition of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Among Healthcare Workers in Long-Term Care Facilities: A Prospective Cohort Study.	Clin Infect Dis
+34696252	BNT162b2 mRNA COVID-19 Vaccine Effectiveness in the Prevention of SARS-CoV-2 Infection and Symptomatic Disease in Five-Month Follow-Up: A Retrospective Cohort Study.	Vaccines (Basel)
+34694226	Effect of SARS-CoV-2 proteins on vascular permeability.	Elife
+34682548	Prioritization of the Target Population for Coronavirus Disease 2019 (COVID-19) Vaccination Program in Thailand.	Int J Environ Res Public Health
+34673751	Effectiveness of Pfizer-BioNTech mRNA Vaccination Against COVID-19 Hospitalization Among Persons Aged 12-18 Years - United States, June-September 2021.	MMWR Morb Mortal Wkly Rep
+34660995	Atomistic Simulations and In Silico Mutational Profiling of Protein Stability and Binding in the SARS-CoV-2 Spike Protein Complexes with Nanobodies: Molecular Determinants of Mutational Escape Mechanisms.	ACS Omega
+34657982	Data automated bag breathing unit for COVID-19 ventilator shortages.	Intensive Care Med Exp
+34651577	Effectiveness of COVID-19 vaccines against SARS-CoV-2 infection with the Delta (B.1.617.2) variant: second interim results of a living systematic review and meta-analysis, 1 January to 25 August 2021.	Euro Surveill
+34644393	Clinical and Genomic Characterization of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS CoV-2) Infections in mRNA Vaccinated Health Care Personnel in New York City.	Clin Infect Dis
+34635926	Frequency and characteristics of advanced cancer patients with COVID + ve status among inpatient supportive care consults during the pandemic: experience from a tertiary cancer center.	Support Care Cancer
+34632972	Effectiveness of COVID-19 vaccine in preventing infection and disease severity: a case-control study from an Eastern State of India.	Epidemiol Infect
+34615860	Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2 lineages circulating in Brazil.	Nat Commun
+34613401	Coverage and Estimated Effectiveness of mRNA COVID-19 Vaccines Among US Veterans.	JAMA Netw Open
+34602545	Rap1 Small GTPase Regulates Vascular Endothelial-Cadherin-Mediated Endothelial Cell-Cell Junctions and Vascular Permeability.	Biol Pharm Bull
+34581170	COVID-19 in patients with severe asthma using biological agents.	Tuberk Toraks
+34581169	Response to SARS-CoV-2 associated GuillainBarre syndrome after awaking on the ICU: Consider differentials.	Tuberk Toraks
+34581168	SARS-CoV-2 associated Guillain-Barre syndrome after awaking on the ICU: consider differentials.	Tuberk Toraks
+34581167	Electromyographic and sonographic assessment of diaphragm dysfunction in patients who recovered from the COVID-19 pneumonia.	Tuberk Toraks
+34581166	Geotrichum infection in an immunocompetent host with SARS-CoV-2 infection.	Tuberk Toraks
+34581160	[COVID-19 pandemic and sleep disorders: COVID-somnia].	Tuberk Toraks
+34581157	COVID-19 related acute respiratory distress syndrome: Pathological, radiological and clinical concordance.	Tuberk Toraks
+34566690	A Pilot Study on Electrical Impedance Tomography During CPAP Trial in Patients With Severe Acute Respiratory Syndrome Coronavirus 2 Pneumonia: The Bright Side of Non-invasive Ventilation.	Front Physiol
+34558406	mRNA vaccine effectiveness against COVID-19-related hospitalisations and deaths in older adults: a cohort study based on data linkage of national health registries in Portugal, February to August 2021.	Euro Surveill
+34555004	Comparative Effectiveness of Moderna, Pfizer-BioNTech, and Janssen (Johnson & Johnson) Vaccines in Preventing COVID-19 Hospitalizations Among Adults Without Immunocompromising Conditions - United States, March-August 2021.	MMWR Morb Mortal Wkly Rep
+34539141	Recombinant angiopoietin-like protein 4 attenuates intestinal barrier structure and function injury after ischemia/reperfusion.	World J Gastroenterol
+34537449	The BNT162b2 vaccine effectiveness against new COVID-19 cases and complications of breakthrough cases: A nation-wide retrospective longitudinal multiple cohort analysis using individualised data.	EBioMedicine
+34529645	New COVID-19 Cases and Hospitalizations Among Adults, by Vaccination Status - New York, May 3-July 25, 2021.	MMWR Morb Mortal Wkly Rep
+34529642	Interim Estimates of COVID-19 Vaccine Effectiveness Against COVID-19-Associated Emergency Department or Urgent Care Clinic Encounters and Hospitalizations Among Adults During SARS-CoV-2 B.1.617.2 (Delta) Variant Predominance - Nine States, June-August 2021.	MMWR Morb Mortal Wkly Rep
+34529637	Monitoring Incidence of COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Status - 13 U.S. Jurisdictions, April 4-July 17, 2021.	MMWR Morb Mortal Wkly Rep
+34498052	Messenger RNA Vaccine Effectiveness Against Coronavirus Disease 2019 Among Symptomatic Outpatients Aged >/=16 Years in the United States, February-May 2021.	J Infect Dis
+34493765	SARS-CoV2 infection: functional and morphological cardiopulmonary changes in elite handball players.	Sci Rep
+34486844	[The COVID-19: pandemic, vaccination, social dispositions of Russians].	Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med
+34485493	Immunotherapy of COVID-19 with Bacille Calmette - Guerin: Where is the missing red herring?	S Afr J Infect Dis
+34477054	Vaccine effectiveness against infection with the Delta (B.1.617.2) variant, Norway, April to August 2021.	Euro Surveill
+34476800	Does pandemic lockdowns affect the burn patient's admission?	Ulus Travma Acil Cerrahi Derg
+34476799	How did restrictions mandated by the COVID-19 pandemic affect the performance of orthopedic trauma surgery in a Level-1 tertiary trauma hospital?	Ulus Travma Acil Cerrahi Derg
+34476393	Exercise performance in patients with post-acute sequelae of SARS-CoV-2 infection compared to patients with unexplained dyspnea.	EClinicalMedicine
+34460902	Single-Dose Messenger RNA Vaccine Effectiveness Against Severe Acute Respiratory Syndrome Coronavirus 2 in Healthcare Workers Extending 16 Weeks Postvaccination: A Test-Negative Design From Quebec, Canada.	Clin Infect Dis
+34454789	Vaccine effectiveness against infection and onwards transmission of COVID-19: Analysis of Belgian contact tracing data, January-June 2021.	Vaccine
+34449643	Molecular Pathology Demonstration of SARS-CoV-2 in Cytotrophoblast from Placental Tissue with Chronic Histiocytic Intervillositis, Trophoblast Necrosis and COVID-19.	J Dev Biol
+34437524	Sustained Effectiveness of Pfizer-BioNTech and Moderna Vaccines Against COVID-19 Associated Hospitalizations Among Adults - United States, March-July 2021.	MMWR Morb Mortal Wkly Rep
+34437521	Effectiveness of COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Frontline Workers Before and During B.1.617.2 (Delta) Variant Predominance - Eight U.S. Locations, December 2020-August 2021.	MMWR Morb Mortal Wkly Rep
+34437519	Effectiveness of Pfizer-BioNTech and Moderna Vaccines in Preventing SARS-CoV-2 Infection Among Nursing Home Residents Before and During Widespread Circulation of the SARS-CoV-2 B.1.617.2 (Delta) Variant - National Healthcare Safety Network, March 1-August 1, 2021.	MMWR Morb Mortal Wkly Rep
+34437517	New COVID-19 Cases and Hospitalizations Among Adults, by Vaccination Status - New York, May 3-July 25, 2021.	MMWR Morb Mortal Wkly Rep
+34426804	COVID-19 vaccine strategies for Aotearoa New Zealand: a mathematical modelling study.	Lancet Reg Health West Pac
+34396940	Effectiveness of inactivated SARS-CoV-2 vaccines against the Delta variant infection in Guangzhou: a test-negative case-control real-world study.	Emerg Microbes Infect
+34389297	Persistent Exertional Intolerance After COVID-19: Insights From Invasive Cardiopulmonary Exercise Testing.	Chest
+34386791	Effectiveness of CoronaVac among healthcare workers in the setting of high SARS-CoV-2 Gamma variant transmission in Manaus, Brazil: A test-negative case-control study.	Lancet Reg Health Am
+34383734	Rapid Increase in Circulation of the SARS-CoV-2 B.1.617.2 (Delta) Variant - Mesa County, Colorado, April-June 2021.	MMWR Morb Mortal Wkly Rep
+34336891	Antibodies Can Last for More Than 1 Year After SARS-CoV-2 Infection: A Follow-Up Study From Survivors of COVID-19.	Front Med (Lausanne)
+34335981	Endothelial cell infection and dysfunction, immune activation in severe COVID-19.	Theranostics
+34334892	COVISHIELD (AZD1222) VaccINe effectiveness among healthcare and frontline Workers of INdian Armed Forces: Interim results of VIN-WIN cohort study.	Med J Armed Forces India
+34320789	Safety and efficacy of the BNT162b mRNA COVID-19 vaccine in patients with chronic lymphocytic leukemia.	Haematologica
+34296676	Vaccine effectiveness against symptomatic SARS-CoV-2 infection in adults aged 65 years and older in primary care: I-MOVE-COVID-19 project, Europe, December 2020 to May 2021.	Euro Surveill
+34282839	Prevention of Coronavirus Disease 2019 (COVID-19) by mRNA-Based Vaccines Within the General Population of California.	Clin Infect Dis
+34270608	Infection control, occupational and public health measures including mRNA-based vaccination against SARS-CoV-2 infections to protect healthcare workers from variants of concern: A 14-month observational study using surveillance data.	PLoS One
+34269175	Efficacy and effectiveness of COVID-19 vaccines against SARS-CoV-2 infection: interim results of a living systematic review, 1 January to 14 May 2021.	Euro Surveill
+34260716	Evaluating Vaccine Efficacy Against Severe Acute Respiratory Syndrome Coronavirus 2 Infection.	Clin Infect Dis
+34256521	Succesful treatment of COVID-19 infection in a child with tracheostomy.	Tuberk Toraks
+34256519	COVID-19 and thrombosis: Prophylaxis and management.	Tuberk Toraks
+34256515	An unusual course of SARS-CoV-2 infection: Challenging diagnosis of Guillain-Barre Syndrome.	Tuberk Toraks
+34256512	Corticosteroid use in COVID-19 pneumonia.	Tuberk Toraks
+34256511	COVID-19 phobia in healthcare workers; a cross-sectional study from a pandemic hospital.	Tuberk Toraks
+34256510	Evaluation of mortality predictors in hospitalized COVID-19 patients: Retrospective cohort study.	Tuberk Toraks
+34256509	The effect of radiological distribution on the COVID-19 disease.	Tuberk Toraks
+34256508	Differential diagnosis of COVID-19 pneumonia from acute heart failure in pandemic: Importance of radiological and laboratory findings.	Tuberk Toraks
+34250518	Decreased infectivity following BNT162b2 vaccination: A prospective cohort study in Israel.	Lancet Reg Health Eur
+34244723	Single-dose mRNA Vaccine Effectiveness Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), Including Alpha and Gamma Variants: A Test-negative Design in Adults 70 Years and Older in British Columbia, Canada.	Clin Infect Dis
+34208271	Exercise Ventilatory Inefficiency in Post-COVID-19 Syndrome: Insights from a Prospective Evaluation.	J Clin Med
+34179146	SARS-CoV-2 Spike Protein Induces Degradation of Junctional Proteins That Maintain Endothelial Barrier Integrity.	Front Cardiovasc Med
+34174097	Estimating vaccine efficacy over time after a randomized study is unblinded.	Biometrics
+34135592	Clinical Presentation of Asymptomatic and Mild SARS-CoV-2 Infection in Riyadh, Saudi Arabia.	J Multidiscip Healthc
+34128766	A case control study to assess effectiveness of measles containing vaccines in preventing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in children.	Hum Vaccin Immunother
+34112226	Comparison of renal histopathology and gene expression profiles between severe COVID-19 and bacterial sepsis in critically ill patients.	Crit Care
+34101734	Severe COVID-19 pneumonia: Perfusion analysis in correlation with pulmonary embolism and vessel enlargement using dual-energy CT data.	PLoS One
+34087389	Potential association of COVID-19 and ABO blood group: An Indian study.	Microb Pathog
+34086877	Mathematical Modeling to Inform Vaccination Strategies and Testing Approaches for Coronavirus Disease 2019 (COVID-19) in Nursing Homes.	Clin Infect Dis
+34041103	Clinical and demographic characteristics of patients with coronavirus disease 2019 in Security Forces Hospital, Riyadh, Saudi Arabia.	J Family Med Prim Care
+34018481	The potential for vaccination-induced herd immunity against the SARS-CoV-2 B.1.1.7 variant.	Euro Surveill
+34016472	The effect of seasonal influenza vaccine on medically-attended influenza and non-influenza respiratory viruses infections at primary care level, Hong Kong SAR, 2017/18 to 2019/20.	Vaccine
+34014909	Interim Estimates of Vaccine Effectiveness of Pfizer-BioNTech and Moderna COVID-19 Vaccines Among Health Care Personnel - 33 U.S. Sites, January-March 2021.	MMWR Morb Mortal Wkly Rep
+34007998	BNT162b2 mRNA COVID-19 Vaccine Effectiveness in the Prevention of SARS-CoV-2 Infection: A Preliminary Report.	J Infect Dis
+33958223	Modelling of COVID-19 vaccination strategies and herd immunity, in scenarios of limited and full vaccine supply in NSW, Australia.	Vaccine
+33956782	Effectiveness of Pfizer-BioNTech and Moderna Vaccines Against COVID-19 Among Hospitalized Adults Aged >/=65 Years - United States, January-March 2021.	MMWR Morb Mortal Wkly Rep
+33952647	CCR2 Regulates Vaccine-Induced Mucosal T-Cell Memory to Influenza A Virus.	J Virol
+33928660	Assessing vaccine durability in randomized trials following placebo crossover.	Stat Med
+33921458	Cardiorespiratory Fitness in Volleyball Athletes Following a COVID-19 Infection: A Cross-Sectional Study.	Int J Environ Res Public Health
+33913444	[Effectiveness of the first dose of BNT162b2 vaccine to preventing covid-19 in healthcare personnel.]	Rev Esp Salud Publica
+33907616	Data from a large Western centre exploring the impact of COVID-19 pandemic on endoscopy services and cancer diagnosis.	Frontline Gastroenterol
+33885256	COVID-19 and physical activity in sedentary individuals: differences in metabolic, cardiovascular, and respiratory responses during aerobic exercise performed with and without a surgical face masks.	J Sports Med Phys Fitness
+33884595	Percutaneous cholecystostomy in the treatment of acute calculous cholecystitis in elderly patients with COVID-19 and high comorbidity.	Ulus Travma Acil Cerrahi Derg
+33853318	Nitrofurantoin induced interstitial lung disease mimicking COVID-19 pneumonia: Case report and review of the literature.	Tuberk Toraks
+33853317	Is COVID-19 a risk factor for invasive pulmonary aspergillosis in critically ill patients?	Tuberk Toraks
+33853316	The impact of the COVID-19 on mediastinal lymph node examination in lung cancer surgery.	Tuberk Toraks
+33853313	[MinIP technique in COVID-19 pneumonia].	Tuberk Toraks
+33853310	Pneumomediastinum as a complication of COVID-19 disease: A case report.	Tuberk Toraks
+33853308	The effect of tocilizumab on severe COVID-19 infection: Review of current evidence.	Tuberk Toraks
+33846340	Force of infection: a determinant of vaccine efficacy?	NPJ Vaccines
+33824130	Novel Coronavirus-2019 (2019-nCoV): Perspectives of emergence, prophylaxis and predicted treatment approaches.	Pak J Pharm Sci
+33815683	Radiological and clinical spectrum of COVID-19: A major concern for public health.	World J Radiol
+33809260	Importance of Cardiopulmonary Exercise Testing amongst Subjects Recovering from COVID-19.	Diagnostics (Basel)
+33807647	Epidemiological Differences in the Impact of COVID-19 Vaccination in the United States and China.	Vaccines (Basel)
+33758071	Pulmonary vascular proliferation in patients with severe COVID-19: an autopsy study.	Thorax
+33754141	CvDeep-COVID-19 Detection Model.	SN Comput Sci
+33746095	Interim estimates in null models of COVID-19 vaccine effectiveness.	Int J Infect Dis
+33735374	Cardiopulmonary Exercise Testing to Assess Persistent Symptoms at 6 Months in People With COVID-19 Who Survived Hospitalization: A Pilot Study.	Phys Ther
+33735160	Effectiveness of the Pfizer-BioNTech COVID-19 Vaccine Among Residents of Two Skilled Nursing Facilities Experiencing COVID-19 Outbreaks - Connecticut, December 2020-February 2021.	MMWR Morb Mortal Wkly Rep
+33693529	Evaluating the Long-term Efficacy of Coronavirus Disease 2019 (COVID-19) Vaccines.	Clin Infect Dis
+33692300	Effectiveness of the 2019-2020 Influenza Vaccine and the Effect of Prior Influenza Infection and Vaccination in Children during the First Influenza Season Overlapping with the COVID-19 Epidemic.	J Nippon Med Sch
+33630284	Urgent and elective proctologic/anorectal interventions in the COVID-19 pandemic: A practical guideline for treatment safety.	Ulus Travma Acil Cerrahi Derg
+33578631	Molecular Insights into the Thrombotic and Microvascular Injury in Placental Endothelium of Women with Mild or Severe COVID-19.	Cells
+33504824	Altered high-density lipoprotein composition and functions during severe COVID-19.	Sci Rep
+33477776	ICU Admission Levels of Endothelial Biomarkers as Predictors of Mortality in Critically Ill COVID-19 Patients.	Cells
+33448742	Successful treatment of COVID-19 infection in a patient with tracheostomy.	Tuberk Toraks
+33448741	COVID-19 pneumonia and pneumothorax: case series.	Tuberk Toraks
+33448740	The role of mesenchymal stem cells in COVID-19 treatment.	Tuberk Toraks
+33448739	[Post-COVID-19 pulmonary sequla: longterm follow up and management].	Tuberk Toraks
+33448738	COVID-19 and acute kidney injury.	Tuberk Toraks
+33448734	Is there any effect of smoking status on severity and mortality of hospitalized patients with COVID-19 pneumonia?	Tuberk Toraks
+33448732	D-dimer levels and COVID-19 severity: Systematic Review and Meta-Analysis.	Tuberk Toraks
+33419396	SARS-CoV-2 pneumonia succesfully treated with cpap and cycles of tripod position: a case report.	BMC Anesthesiol
+33394479	Clinical approach to patients admitted to the emergency room due to acute cholecystitis during the COVID-19 pandemic and percutaneous cholecystostomy experience.	Ulus Travma Acil Cerrahi Derg
+33394477	Percutaneous cholecystostomy instead of laparoscopy to treat acute cholecystitis during the COVID-19 pandemic period: single center experience.	Ulus Travma Acil Cerrahi Derg
+33394473	Comparative analysis of the management of acute appendicitis between the normal period and COVID-19 pandemic.	Ulus Travma Acil Cerrahi Derg
+33331602	Lethality and characteristics of deaths due to COVID-19 in Rondonia: an observational study.	Epidemiol Serv Saude
+33321459	CT features of coronavirus disease 2019 (COVID-19) with an emphasis on the vascular enlargement pattern.	Eur J Radiol
+33295734	Nowadays COVID underestimates the other suspects.	Tuberk Toraks
+33295732	Prone positioning in non-intubated patients with COVID-19.	Tuberk Toraks
+33295720	Evaluation of the relationship of serum vitamin D levels in COVID-19 patients with clinical course and prognosis.	Tuberk Toraks
+33295719	Clinical presentation of health care workers with symptoms of coronavirus disease 2019 at the Izmir tertiary education hospital, during an early phase of the pandemic.	Tuberk Toraks
+33295317	COVID-19 in Cuba: Assessing the National Response.	MEDICC Rev
+33282445	SARS-CoV-2 induced intestinal responses with a biomimetic human gut-on-chip.	Sci Bull (Beijing)
+33205351	Multidimensional Proteomic Approach of Endothelial Progenitors Demonstrate Expression of KDR Restricted to CD19 Cells.	Stem Cell Rev Rep
+33182403	Epidemiological Impact of SARS-CoV-2 Vaccination: Mathematical Modeling Analyses.	Vaccines (Basel)
+33072525	COVID-19 and its relationship to particulate matter pollution - Case study from part of greater Chennai, India.	Mater Today Proc
+32946100	The impacts of the COVID-19 outbreak on emergency department visits of surgical patients.	Ulus Travma Acil Cerrahi Derg
+32935877	Screening for SARS-CoV-2 antibodies in convalescent plasma in Brazil: Preliminary lessons from a voluntary convalescent donor program.	Transfusion
+32793722	Pulmonary vascular enlargement on thoracic CT for diagnosis and differential diagnosis of COVID-19: a systematic review and meta-analysis.	Ann Transl Med
+32755121	COVID-19 infections and pulmonary rehabilitation.	Tuberk Toraks
+32755117	High flow nasal cannula in COVID-19: a literature review.	Tuberk Toraks
+32755116	Pathological features of COVID-19 infection from biopsy and autopsy series.	Tuberk Toraks
+32755114	Asthma and COVID-19: What do we know?	Tuberk Toraks
+32755113	[Management of obstructive sleep apnea during COVID-19 pandemic].	Tuberk Toraks
+32659713	Evaluation of the Aptima transcription-mediated amplification assay (Hologic(R)) for detecting SARS-CoV-2 in clinical specimens.	J Clin Virol
+32496715	[Etiology of epidemic outbreaks COVID-19 on Wuhan, Hubei province, Chinese People Republic associated with 2019-nCoV (Nidovirales, Coronaviridae, Coronavirinae, Betacoronavirus, Subgenus Sarbecovirus): lessons of SARS-CoV outbreak.]	Vopr Virusol
+32493494	Controlled, double-blind, randomized trial to assess the efficacy and safety of hydroxychloroquine chemoprophylaxis in SARS CoV2 infection in healthcare personnel in the hospital setting: A structured summary of a study protocol for a randomised controlled trial.	Trials
+32478701	In this kind of situation, health as a public good once again becomes paramount...	MEDICC Rev
+32394416	Recommendations for Trauma and Emergency General Surgery Practice During COVID-19 Pandemic.	Ulus Travma Acil Cerrahi Derg
+32337662	Classification of COVID-19 patients from chest CT images using multi-objective differential evolution-based convolutional neural networks.	Eur J Clin Microbiol Infect Dis
+32315082	capital PE, Cyrillicpasmall ve, Cyrillica small de, Cyrillicesmall te, Cyrillicesmall short i, Cyrillic-small i, Cyrillicsmall en, Cyrillicsmall ve, Cyrillicasmall el, Cyrillicsmall i, Cyrillicsmall de, Cyrillicosmall ve, Cyrillic small ve, Cyrillic small che, Cyrillicpesmall ze, Cyrillicsmall ve, Cyrillicsmall yeru, Cyrillicsmall che, Cyrillicasmall short i, Cyrillicsmall en, Cyrillicsmall yeru, Cyrillicx csmall i, Cyrillicsmall te, Cyrillicyasmall tse, Cyrillicsmall i, Cyrillicsmall ya, Cyrillicx small ve, Cyrillic osmall be, Cyrillicsmall el, Cyrillicacsmall te, Cyrillicsmall i, Cyrillic small ze, Cyrillicsmall de, Cyrillicpasmall ve, Cyrillicooxpasmall en, Cyrillicesmall en, Cyrillicsmall i, Cyrillicsmall ya, Cyrillic: small pe, Cyrillicposmall be, Cyrillicsmall el, Cyrillicesmall em, Cyrillica COVID-19.	Dev Med Child Neurol
+32267139	Hsa-miR-217 Inhibits the Proliferation, Migration, and Invasion in Non-small Cell Lung Cancer Cells Via Targeting SIRT1 and P53/KAI1 Signaling	Balkan Med J

@@ -1,0 +1,70 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36073416	Unidirectional Tactile Paving: Circulation for the Visually Impaired.	Stud Health Technol Inform
+36068807	Tumefactive demyelination after covid-19 successfully treated with betainterferon 1A.	Radiol Case Rep
+35989430	COVID19 challenges: Creating tactile experience during online teaching.	Med Educ
+35773747	Mirror, mirror, on the wall: During pandemics, how can self-perception research in people with eating disorders happen at all?	J Eat Disord
+35648844	All-printed soft human-machine interface for robotic physicochemical sensing.	Sci Robot
+35598700	Social Touch Somatotopically Affects Mental Body Representations.	Neuroscience
+35401904	A rare case of COVID-19 vaccine-induced myopericarditis in a young adult.	Radiol Case Rep
+35278631	Psychosis After Infection With SARS-CoV-2 in an Adolescent: A Case Report.	J Am Acad Child Adolesc Psychiatry
+35217676	Effects of training and using an audio-tactile sensory substitution device on speech-in-noise understanding.	Sci Rep
+35214306	Healing Hands: The Tactile Internet in Future Tele-Healthcare.	Sensors (Basel)
+35179576	An Algorithmic Approach to the Physical Exam for the Pain Medicine Practitioner: A Review of the Literature with Multidisciplinary Consensus.	Pain Med
+35173571	Environmental Temperature in Thermal Comfort Under Different Virtual Tourism Activity Intensities: Based on Microclimate Simulation Experiment.	Front Neurosci
+34945313	An Electret/Hydrogel-Based Tactile Sensor Boosted by Micro-Patterned and Electrostatic Promoting Methods with Flexibility and Wide-Temperature Tolerance.	Micromachines (Basel)
+34905921	Touchless Sensing Interface Based on the Magneto-Piezoresistive Effect of Magnetic Microstructures with Stacked Conductive Coating.	ACS Appl Mater Interfaces
+34904073	Multi-Sensory Balance Board for Children with SPD & ADHD Disorders.	J Biomed Phys Eng
+34892599	Remote creation of clinical-standard myoelectric trans-radial bypass sockets during COVID-19.	Annu Int Conf IEEE Eng Med Biol Soc
+34874142	Efficacy of a Toothpaste Based on Microcrystalline Hydroxyapatite on Children with Hypersensitivity Caused by MIH: A Randomised Controlled Trial.	Oral Health Prev Dent
+34692764	Freehand Stereotactic Image-Guidance Tailored to Neurotologic Surgery.	Front Surg
+34597259	Assessment of an Innovative Mobile Dentistry eHygiene Model Amid the COVID-19 Pandemic in the National Dental Practice-Based Research Network: Protocol for Design, Implementation, and Usability Testing.	JMIR Res Protoc
+34568767	Virtual Procedural Supervision During the COVID-19 Pandemic: A Novel Pilot for Supervising Invasive Bedside Procedures in the ICU.	Mayo Clin Proc Innov Qual Outcomes
+34557082	Exploring the Embodiment of a Virtual Hand in a Spatially Augmented Respiratory Biofeedback Setting.	Front Neurorobot
+34541319	Anatomical Models versus Nontactile Distanced Learning in Otolaryngology Teaching.	Surg J (N Y)
+34527270	Social touch deprivation during COVID-19: effects on psychological wellbeing and craving interpersonal touch.	R Soc Open Sci
+34388100	VaCoChain: Blockchain-Based 5G-Assisted UAV Vaccine Distribution Scheme for Future Pandemics.	IEEE J Biomed Health Inform
+34383957	Delayed Treatment of Acute Myocardial Infarction With Ventricular Septal Rupture Due to Patient Fear During the COVID-19 Pandemic.	Tex Heart Inst J
+34369117	COVID-19 as a Disruptor and a Catalyst for Change.	J Law Med
+34245154	Retrosigmoid Craniectomy and Suprameatal Drilling-3-Dimensionally Printed Microneurosurgical Simulation: 2-Dimensional Operative Video.	Oper Neurosurg (Hagerstown)
+34112828	Assessing the impact of multiple ultraviolet disinfection cycles on N95 filtering facepiece respirator integrity.	Sci Rep
+33906867	New-onset psychosis due to COVID-19.	BMJ Case Rep
+33679364	Integrating Tactile Feedback Technologies Into Home-Based Telerehabilitation: Opportunities and Challenges in Light of COVID-19 Pandemic.	Front Neurorobot
+33553247	Application of DenTeach in Remote Dentistry Teaching and Learning During the COVID-19 Pandemic: A Case Study.	Front Robot AI
+32947358	Quantitative High-speed Assessment of Droplet and Aerosol From an Eye After Impact With an Air-puff Amid COVID-19 Scenario.	J Glaucoma
+32840826	The Phenomenology of Contagion.	J Bioeth Inq
+32587166	Impact of COVID-19 pandemic on people living with visual disability.	Indian J Ophthalmol
+32439821	Generalized myoclonus in COVID-19.	Neurology
+32406115	Visualizing the invisible: class excursions to ignite children's enthusiasm for microbes.	Microb Biotechnol

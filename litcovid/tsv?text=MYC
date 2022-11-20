@@ -1,0 +1,47 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36180527	SARS-CoV-2 Nsp6 damages Drosophila heart and mouse cardiomyocytes through MGA/MAX complex-mediated increased glycolysis.	Commun Biol
+35632779	Signaling Pathway Reporter Screen with SARS-CoV-2 Proteins Identifies nsp5 as a Repressor of p53 Activity.	Viruses
+35594991	Discovery Proteomics Analysis Determines That Driver Oncogenes Suppress Antiviral Defense Pathways Through Reduction in Interferon-beta Autocrine Stimulation.	Mol Cell Proteomics
+35580327	Safety and efficacy of a dose-dense short-term therapy in patients with MYC-translocated aggressive lymphoma.	Blood Adv
+34940755	Co-Regulation of Protein Coding Genes by Transcription Factor and Long Non-Coding RNA in SARS-CoV-2 Infected Cells: An In Silico Analysis.	Noncoding RNA
+34469608	The 27th Annual Prostate Cancer Foundation Scientific Retreat Report.	Prostate
+34348612	Role of potential COVID-19 immune system associated genes and the potential pathways linkage with type-2 diabetes.	Comb Chem High Throughput Screen
+34157472	Multilevel systems biology analysis of lung transcriptomics data identifies key miRNAs and potential miRNA target genes for SARS-CoV-2 infection.	Comput Biol Med
+34105503	[Bioinformatics Analysis of the Influence of Coronavirus Infection on Hematopoietic System and Potential Intervention Drugs and Their Significance for COVID-19].	Zhongguo Shi Yan Xue Ye Xue Za Zhi
+33968364	Identifying potential drug targets and candidate drugs for COVID-19: biological networks and structural modeling approaches.	F1000Res
+33585567	SARS-CoV-2 and Glutamine: SARS-CoV-2 Triggered Pathogenesis via Metabolic Reprograming of Glutamine in Host Cells.	Front Mol Biosci
+33529230	High-level expression of the monomeric SARS-CoV-2 S protein RBD 320-537 in stably transfected CHO cells by the EEF1A1-based plasmid vector.	PLoS One
+32967703	TMPRSS2, a SARS-CoV-2 internalization protease is downregulated in head and neck cancer patients.	J Exp Clin Cancer Res

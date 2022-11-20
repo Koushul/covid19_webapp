@@ -1,0 +1,49 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36191906	TIGIT Monoallelic Nonsense Variant in Patient with Severe COVID-19 Infection, Thailand.	Emerg Infect Dis
+35911743	SARS-CoV2 Infection During Pregnancy Causes Persistent Immune Abnormalities in Women Without Affecting the Newborns.	Front Immunol
+35746736	High and Sustained Ex Vivo Frequency but Altered Phenotype of SARS-CoV-2-Specific CD4(+) T-Cells in an Anti-CD20-Treated Patient with Prolonged COVID-19.	Viruses
+35432324	Inhibitory Immune Checkpoint Receptors and Ligands as Prognostic Biomarkers in COVID-19 Patients.	Front Immunol
+35301508	Type I interferon transcriptional network regulates expression of coinhibitory receptors in human T cells.	Nat Immunol
+35141213	A Novel Prognostic Signature for Survival Prediction and Immune Implication Based on SARS-CoV-2-Related Genes in Kidney Renal Clear Cell Carcinoma.	Front Bioeng Biotechnol
+34913354	Inhibitory immune checkpoint molecules and exhaustion of T cells in COVID-19.	Physiol Res
+34741638	Aging whole blood transcriptome reveals candidate genes for SARS-CoV-2-related vascular and immune alterations.	J Mol Med (Berl)
+34720095	NK cell receptor and ligand composition influences the clearance of SARS-CoV-2.	J Clin Invest
+34536418	Immunologic memory to SARS-CoV-2 in convalescent COVID-19 patients at 1 year postinfection.	J Allergy Clin Immunol
+34312258	The Quality of SARS-CoV-2-Specific T Cell Functions Differs in Patients with Mild/Moderate versus Severe Disease, and T Cells Expressing Coinhibitory Receptors Are Highly Activated.	J Immunol
+33119547	Sustained cellular immune dysregulation in individuals recovering from SARS-CoV-2 infection.	J Clin Invest
+33080068	Cell-mediated and humoral adaptive immune responses to SARS-CoV-2 are lower in asymptomatic than symptomatic COVID-19 patients.	Eur J Immunol
+32983106	Analysis of Co-inhibitory Receptor Expression in COVID-19 Infection Compared to Acute Plasmodium falciparum Malaria: LAG-3 and TIM-3 Correlate With T Cell Activation and Course of Disease.	Front Immunol
+32668194	Next-Generation Sequencing of T and B Cell Receptor Repertoires from COVID-19 Patients Showed Signatures Associated with Severity of Disease.	Immunity

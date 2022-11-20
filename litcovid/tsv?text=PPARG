@@ -1,0 +1,48 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35992697	Network pharmacology and molecular docking-based investigations of Kochiae Fructus's active phytomolecules, molecular targets, and pathways in treating COVID-19.	Front Microbiol
+35923698	Transcriptome Analysis Reveals Hub Genes Regulating Autophagy in Patients With Severe COVID-19.	Front Genet
+35838222	Analysis of the molecular mechanism of Huangqi herb treating COVID-19 with myocardial injury by pharmacological tools, programming software and molecular docking.	Comb Chem High Throughput Screen
+35636166	Glycyrrhetinic acid: A potential drug for the treatment of COVID-19 cytokine storm.	Phytomedicine
+34944005	Transcriptomic Profiles Reveal Downregulation of Low-Density Lipoprotein Particle Receptor Pathway Activity in Patients Surviving Severe COVID-19.	Cells
+34931923	Bioinformatics and in-silico findings reveal medical features and pharmacological targets of biochanin A against colorectal cancer and COVID-19.	Bioengineered
+34676581	Virtual screening of functional foods and dissecting their roles in modulating gene functions to support post COVID-19 complications.	J Food Biochem
+34423108	A network-based systems biology approach for identification of shared Gene signatures between male and female in COVID-19 datasets.	Inform Med Unlocked
+33831079	Whole genome variation in 27 Mexican indigenous populations, demographic and biomedical insights.	PLoS One
+33769143	Chlorogenic acid, a natural product as potential inhibitor of COVID-19: virtual screening experiment based on network pharmacology and molecular docking.	Nat Prod Res
+33241658	Anti-coronavirus disease 2019 (COVID-19) targets and mechanisms of puerarin.	J Cell Mol Med
+33204291	Network Pharmacology Analysis to Identify Phytochemicals in Traditional Chinese Medicines That May Regulate ACE2 for the Treatment of COVID-19.	Evid Based Complement Alternat Med
+33054436	Chemical composition and pharmacological mechanism of shenfu decoction in the treatment of novel coronavirus pneumonia (COVID-19).	Drug Dev Ind Pharm
+33041827	Systems Pharmacology and Verification of ShenFuHuang Formula in Zebrafish Model Reveal Multi-Scale Treatment Strategy for Septic Syndrome in COVID-19.	Front Pharmacol

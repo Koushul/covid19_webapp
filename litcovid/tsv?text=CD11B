@@ -1,0 +1,65 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36139855	Lonicerae Japonicae Flos Attenuates Neutrophilic Inflammation by Inhibiting Oxidative Stress.	Antioxidants (Basel)
+36139476	Dysregulated Neutrophil Phenotype and Function in Hospitalised Non-ICU COVID-19 Pneumonia.	Cells
+36113259	The differential immune response in mild versus fatal SARS-CoV2 infection.	Ann Diagn Pathol
+35999893	SARS-CoV-2 triggers complement activation through interactions with heparan sulfate.	Clin Transl Immunology
+35966226	Neutrophil and Eosinophil Responses Remain Abnormal for Several Months in Primary Care Patients With COVID-19 Disease.	Front Allergy
+35812392	Monocytic-Myeloid Derived Suppressor Cells Suppress T-Cell Responses in Recovered SARS CoV2-Infected Individuals.	Front Immunol
+35394410	PIMS-TS immunophenotype: description and comparison with healthy children, Kawasaki disease and severe viral and bacterial infections.	Infect Dis (Lond)
+35379853	A targetable 'rogue' neutrophil-subset, [CD11b+DEspR+] immunotype, is associated with severity and mortality in acute respiratory distress syndrome (ARDS) and COVID-19-ARDS.	Sci Rep
+35007290	Hyperinflammatory environment drives dysfunctional myeloid cell effector response to bacterial challenge in COVID-19.	PLoS Pathog
+34987111	Comprehensive Immune Profiling Reveals CD56(+) Monocytes and CD31(+) Endothelial Cells Are Increased in Severe COVID-19 Disease.	J Immunol
+34915155	SARS-CoV-2 spike S1 subunit induces neuroinflammatory, microglial and behavioral sickness responses: Evidence of PAMP-like properties.	Brain Behav Immun
+34601398	Cell death and pathological findings of the spleen in COVID-19 patients.	Pathol Res Pract
+34572425	Cell Properties of Lung Tissue-Resident Macrophages Propagated by Co-Culture with Lung Fibroblastic Cells from C57BL/6 and BALB/c Mice.	Biomedicines
+34512148	RS-5645 attenuates inflammatory cytokine storm induced by SARS-CoV-2 spike protein and LPS by modulating pulmonary microbiota.	Int J Biol Sci
+34424479	(124)I-Iodo-DPA-713 Positron Emission Tomography in a Hamster Model of SARS-CoV-2 Infection.	Mol Imaging Biol
+34398243	Immunoglobulin G Immune Complexes May Contribute to Neutrophil Activation in the Course of Severe Coronavirus Disease 2019.	J Infect Dis
+34377464	High expression of neutrophil and monocyte CD64 with simultaneous lack of upregulation of adhesion receptors CD11b, CD162, CD15, CD65 on neutrophils in severe COVID-19.	Ther Adv Infect Dis
+34062964	The Systemic Immune Response in COVID-19 Is Associated with a Shift to Formyl-Peptide Unresponsive Eosinophils.	Cells
+33979758	Blood neutrophils from children with COVID-19 exhibit both inflammatory and anti-inflammatory markers.	EBioMedicine
+33800807	Recovery of Innate Immune Cells and Persisting Alterations in Adaptive Immunity in the Peripheral Blood of Convalescent Plasma Donors at Eight Months Post SARS-CoV-2 Infection.	Microorganisms
+33617030	Flow cytometric evaluation of the neutrophil compartment in COVID-19 at hospital presentation: A normal response to an abnormal situation.	J Leukoc Biol
+33482019	An increase in CD62L(dim) neutrophils precedes the development of pulmonary embolisms in COVID-19 patients.	Scand J Immunol
+33424804	Imaging Mass Cytometric Analysis of Postmortem Tissues Reveals Dysregulated Immune Cell and Cytokine Responses in Multiple Organs of COVID-19 Patients.	Front Microbiol
+33247138	Cellular events of acute, resolving or progressive COVID-19 in SARS-CoV-2 infected non-human primates.	Nat Commun
+33178720	Frequencies of CD33+CD11b+HLA-DR-CD14-CD66b+ and CD33+CD11b+HLA-DR-CD14+CD66b- Cells in Peripheral Blood as Severity Immune Biomarkers in COVID-19.	Front Med (Lausanne)
+32941618	A Granulocytic Signature Identifies COVID-19 and Its Severity.	J Infect Dis
+32772513	Delayed severe cytokine storm and immune cell infiltration in SARS-CoV-2-infected aged Chinese rhesus macaques.	Zool Res
+32771640	Increased Complement Receptor-3 levels in monocytes and granulocytes distinguish COVID-19 patients with pneumonia from those with mild symptoms.	Int J Infect Dis
+32654350	Decrease of Non-Classical and Intermediate Monocyte Subsets in Severe Acute SARS-CoV-2 Infection.	Cytometry A
+32333601	Expression of SARS-CoV-2 Entry Molecules ACE2 and TMPRSS2 in the Gut of Patients With IBD.	Inflamm Bowel Dis
+32257537	Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia.	Aging Dis

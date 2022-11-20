@@ -1,0 +1,52 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36217141	Central and effector memory T cells in peripheral blood of patients with interstitial pneumonia: preliminary clues from a COVID-19 study.	Respir Res
+36172379	Durable antibody and effector memory T cell responses in breastmilk from women with SARS-CoV-2.	Front Immunol
+36052060	High baseline expression of IL-6 and IL-10 decreased CCR7 B cells in individuals with previous SARS-CoV-2 infection during BNT162b2 vaccination.	Front Immunol
+35944882	Decrease in CD8(+)CD45(+)CCR7(+)CD62L(+) T cells in individuals vaccinated with Sinovac-CoronaVac following COVID-19 infection.	Clin Immunol
+35911748	Fine Analysis of Lymphocyte Subpopulations in SARS-CoV-2 Infected Patients: Differential Profiling of Patients With Severe Outcome.	Front Immunol
+35680023	Immunoregulation of Ghrelin in neurocognitive sequelae associated with COVID-19: an in silico investigation.	Gene
+35383307	SARS-CoV-2 antigen exposure history shapes phenotypes and specificity of memory CD8(+) T cells.	Nat Immunol
+35140709	The PDE4 Inhibitor Tanimilast Blunts Proinflammatory Dendritic Cell Activation by SARS-CoV-2 ssRNAs.	Front Immunol
+35066108	Kinsenoside attenuates liver fibro-inflammation by suppressing dendritic cells via the PI3K-AKT-FoxO1 pathway.	Pharmacol Res
+34875673	Signature of long-lived memory CD8(+) T cells in acute SARS-CoV-2 infection.	Nature
+34543980	Increased LPS levels coexist with systemic inflammation and result in monocyte activation in severe COVID-19 patients.	Int Immunopharmacol
+34452355	Detection of IFNgamma-Secreting CD4(+) and CD8(+) Memory T Cells in COVID-19 Convalescents after Stimulation of Peripheral Blood Mononuclear Cells with Live SARS-CoV-2.	Viruses
+34216735	Immunological predictors of disease severity in patients with COVID-19.	Int J Infect Dis
+34022331	Immunological memory and neutralizing activity to a single dose of COVID-19 vaccine in previously infected individuals.	Int J Infect Dis
+34021148	Peripheral and lung resident memory T cell responses against SARS-CoV-2.	Nat Commun
+33533916	SARS-CoV-2 induces human plasmacytoid predendritic cell diversification via UNC93B and IRAK4.	J Exp Med
+32983106	Analysis of Co-inhibitory Receptor Expression in COVID-19 Infection Compared to Acute Plasmodium falciparum Malaria: LAG-3 and TIM-3 Correlate With T Cell Activation and Course of Disease.	Front Immunol
+32812012	Peripheral immunophenotypes in children with multisystem inflammatory syndrome associated with SARS-CoV-2 infection.	Nat Med

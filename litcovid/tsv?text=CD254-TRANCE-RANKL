@@ -1,0 +1,44 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36225521	Effects of Vitamin C on the Oral-Nasal Mucosal Damage Caused by Favipiravir in Old and Young Rats.	Cureus
+36012423	Combining Deep Phenotyping of Serum Proteomics and Clinical Data via Machine Learning for COVID-19 Biomarker Discovery.	Int J Mol Sci
+36001346	Lessons from the Failure to Complete a Trial of Denosumab in Women With a Pathogenic BRCA1/2 Variant Scheduling Risk-Reducing Salpingo-Oophorectomy.	Cancer Prev Res (Phila)
+35599639	Evaluation of the Effects of Favipiravir Combined with Vitamin C on Alveolar Bone in Rats.	J Evol Biochem Physiol
+35015084	Galectin-8, cytokines, and the storm.	Biochem Soc Trans
+34908661	Effect of COVID-19 and sociocultural milieu on the psychopathology of mental health disorders: A hospital-based study.	Ind Psychiatry J
+33775169	Missing the human connection: A rapid appraisal of healthcare workers' perceptions and experiences of providing palliative care during the COVID-19 pandemic.	Palliat Med
+33745367	Examining What We Know in Relation to How We Know It: A Team-Based Reflexivity Model for Rapid Qualitative Health Research.	Qual Health Res
+33249579	Controversies in the use of new bone-modifying therapies in multiple myeloma.	Br J Haematol
+32904892	Bone Metabolism in SARS-CoV-2 Disease: Possible Osteoimmunology and Gender Implications.	Clin Rev Bone Miner Metab

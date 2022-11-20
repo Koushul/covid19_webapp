@@ -1,0 +1,59 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36189318	Immunogenicity profiling and distinct immune response in liver transplant recipients vaccinated with SARS-CoV-2 inactivated vaccines.	Front Immunol
+36171138	Cytomegalovirus Seropositivity in Older Adults Changes the T Cell Repertoire but Does Not Prevent Antibody or Cellular Responses to SARS-CoV-2 Vaccination.	J Immunol
+35961317	Immunodeficiency syndromes differentially impact the functional profile of SARS-CoV-2-specific T cells elicited by mRNA vaccination.	Immunity
+35944939	Quantitative B and T cell abnormalities in four patients presenting with mucormycosis and prior asymptomatic COVID-19 infection.	BMJ Case Rep
+35746736	High and Sustained Ex Vivo Frequency but Altered Phenotype of SARS-CoV-2-Specific CD4(+) T-Cells in an Anti-CD20-Treated Patient with Prolonged COVID-19.	Viruses
+35698744	COVID-19 Infection in Patients with Comorbidities: Clinical and Immunological Insight.	Clin Appl Thromb Hemost
+35508575	In-vitro NET-osis induced by COVID-19 sera is associated to severe clinical course in not vaccinated patients and immune-dysregulation in breakthrough infection.	Sci Rep
+35484408	CD66b(-)CD64(dim)CD115(-) cells in the human bone marrow represent neutrophil-committed progenitors.	Nat Immunol
+35425776	Hyperinflammatory State and Low T1 Adaptive Immune Response in Severe and Critical Acute COVID-19 Patients.	Front Med (Lausanne)
+35383307	SARS-CoV-2 antigen exposure history shapes phenotypes and specificity of memory CD8(+) T cells.	Nat Immunol
+34953325	SARS-CoV-2-specific T cell responses and immune regulation in infected pregnant women.	J Reprod Immunol
+34925330	The Humoral Immune Response to BNT162b2 Vaccine Is Associated With Circulating CD19+ B Lymphocytes and the Naive CD45RA to Memory CD45RO CD4+ T Helper Cells Ratio in Hemodialysis Patients and Kidney Transplant Recipients.	Front Immunol
+34875673	Signature of long-lived memory CD8(+) T cells in acute SARS-CoV-2 infection.	Nature
+34696395	Imbalanced Immune Response of T-Cell and B-Cell Subsets in Patients with Moderate and Severe COVID-19.	Viruses
+34579267	Immunological Analysis of People in Northeast China after SARS-CoV-2 Inactivated Vaccine Injection.	Vaccines (Basel)
+34452355	Detection of IFNgamma-Secreting CD4(+) and CD8(+) Memory T Cells in COVID-19 Convalescents after Stimulation of Peripheral Blood Mononuclear Cells with Live SARS-CoV-2.	Viruses
+34414383	Protective heterologous T cell immunity in COVID-19 induced by the trivalent MMR and Tdap vaccine antigens.	Med (N Y)
+34405140	Phase I dose-escalation single centre clinical trial to evaluate the safety of infusion of memory T cells as adoptive therapy in COVID-19 (RELEASE).	EClinicalMedicine
+34216735	Immunological predictors of disease severity in patients with COVID-19.	Int J Infect Dis
+34043881	Regulatory KIR(+) RA(+) T cells accumulate with age and are highly activated during viral respiratory disease.	Aging Cell
+34022331	Immunological memory and neutralizing activity to a single dose of COVID-19 vaccine in previously infected individuals.	Int J Infect Dis
+33718360	SARS-CoV-2-Specific Memory T Lymphocytes From COVID-19 Convalescent Donors: Identification, Biobanking, and Large-Scale Production for Adoptive Cell Therapy.	Front Cell Dev Biol
+33324414	Negative Clinical Evolution in COVID-19 Patients Is Frequently Accompanied With an Increased Proportion of Undifferentiated Th Cells and a Strong Underrepresentation of the Th1 Subset.	Front Immunol
+33128792	Immunological imprint of COVID-19 on human peripheral blood leukocyte populations.	Allergy
+32496544	Evaluating Immune Dysregulation in Patients With COVID-19 Requires a More Accurate Definition of the CD45RA+ T-cell Phenotype.	Clin Infect Dis

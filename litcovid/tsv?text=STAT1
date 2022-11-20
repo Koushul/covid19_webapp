@@ -1,0 +1,122 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36140425	The JAK1/2 Inhibitor Baricitinib Mitigates the Spike-Induced Inflammatory Response of Immune and Endothelial Cells In Vitro.	Biomedicines
+36048718	Insights into functional connectivity in mammalian signal transduction pathways by pairwise comparison of protein interaction partners of critical signaling hubs.	Biomol Concepts
+36029717	COVID-19 mRNA vaccine BNT162b2 induces autoantibodies against type I interferons in a healthy woman.	J Autoimmun
+35998224	Single-cell RNA sequencing uncovers the nuclear decoy lincRNA PIRAT as a regulator of systemic monocyte immunity during COVID-19.	Proc Natl Acad Sci U S A
+35972291	XAF1 Protects Host against Emerging RNA Viruses by Stabilizing IRF1-Dependent Antiviral Immunity.	J Virol
+35970938	Structural basis for Sarbecovirus ORF6 mediated blockage of nucleocytoplasmic transport.	Nat Commun
+35933402	USP22 controls type III interferon signaling and SARS-CoV-2 infection through activation of STING.	Cell Death Dis
+35896528	A live-attenuated SARS-CoV-2 vaccine candidate with accessory protein deletions.	Nat Commun
+35855804	Reveal the Mechanisms of Yi-Fei-Jian-Pi-Tang on Covid-19 through Network Pharmacology Approach.	Comput Intell Neurosci
+35844575	Antigenic Determinants of SARS-CoV-2-Specific CD4(+) T Cell Lines Reveals M Protein-Driven Dysregulation of Interferon Signaling.	Front Immunol
+35842705	A comprehensive evaluation of the immune system response and type-I Interferon signaling pathway in hospitalized COVID-19 patients.	Cell Commun Signal
+35818398	Systems biology models to identify the influence of SARS-CoV-2 infections to the progression of human autoimmune diseases.	Inform Med Unlocked
+35746745	Nucleopore Traffic Is Hindered by SARS-CoV-2 ORF6 Protein to Efficiently Suppress IFN-beta and IL-6 Secretion.	Viruses
+35740960	A Novel Antiviral Protein Derived from Oenanthe javanica: Type I Interferon-Dependent Antiviral Signaling and Its Pharmacological Potential.	Biomolecules
+35645319	TNF-alpha/IFN-gamma synergy amplifies senescence-associated inflammation and SARS-CoV-2 receptor expression via hyper-activated JAK/STAT1.	Aging Cell
+35590097	SARS-CoV-2 ORF6 disrupts nucleocytoplasmic trafficking to advance viral replication.	Commun Biol
+35558069	Landscape of Peripheral Blood Mononuclear Cells and Soluble Factors in Severe COVID-19 Patients With Pulmonary Fibrosis Development.	Front Immunol
+35456913	STAT1 and Its Crucial Role in the Control of Viral Infections.	Int J Mol Sci
+35454970	Targeting Specific Checkpoints in the Management of SARS-CoV-2 Induced Cytokine Storm.	Life (Basel)
+35317858	SARS-CoV-2 NSP13 helicase suppresses interferon signaling by perturbing JAK1 phosphorylation of STAT1.	Cell Biosci
+35306855	Blocking EGFR with nimotuzumab: a novel strategy for COVID-19 treatment.	Immunotherapy
+35277538	Computational identification of host genomic biomarkers highlighting their functions, pathways and regulators that influence SARS-CoV-2 infections and drug repurposing.	Sci Rep
+35187564	Decoupling SARS-CoV-2 ORF6 localization and interferon antagonism.	J Cell Sci
+35127768	The Potential Bioactive Components of Nine TCM Prescriptions Against COVID-19 in Lung Cancer Were Explored Based on Network Pharmacology and Molecular Docking.	Front Med (Lausanne)
+35085552	Elimination of Aicardi-Goutieres syndrome protein SAMHD1 activates cellular innate immunity and suppresses SARS-CoV-2 replication.	J Biol Chem
+35083167	SARS-CoV-2 Spike Antagonizes Innate Antiviral Immunity by Targeting Interferon Regulatory Factor 3.	Front Cell Infect Microbiol
+35044570	The Priming Potential of Interferon Lambda-1 for Antiviral Defense in the Oral Mucosa.	Inflammation
+34992355	Potential Molecular Mechanisms and Remdesivir Treatment for Acute Respiratory Syndrome Corona Virus 2 Infection/COVID 19 Through RNA Sequencing and Bioinformatics Analysis.	Bioinform Biol Insights
+34950606	Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Membrane (M) and Spike (S) Proteins Antagonize Host Type I Interferon Response.	Front Cell Infect Microbiol
+34943787	SARS-CoV-2 Spike Protein and Its Receptor Binding Domain Promote a Proinflammatory Activation Profile on Human Dendritic Cells.	Cells
+34880855	Transcriptional Profiling and Machine Learning Unveil a Concordant Biosignature of Type I Interferon-Inducible Host Response Across Nasal Swab and Pulmonary Tissue for COVID-19 Diagnosis.	Front Immunol
+34878838	TREM-2 is a sensor and activator of T cell response in SARS-CoV-2 infection.	Sci Adv
+34877479	Roles of antiviral sensing and type I interferon signaling in the restriction of SARS-CoV-2 replication.	iScience
+34835005	Apoptosis Enhances the Replication of Human Coronavirus OC43.	Viruses
+34782627	SARS-CoV-2 inhibits induction of the MHC class I pathway by targeting the STAT1-IRF1-NLRC5 axis.	Nat Commun
+34757528	Network Meta-analysis on the Changes of Amyloid Precursor Protein Expression Following SARS-CoV-2 Infection.	J Neuroimmune Pharmacol
+34718945	Immunogenicity and Safety of COVID-19 mRNA Vaccine in STAT1 GOF Patients.	J Clin Immunol
+34687317	Interactome profiling reveals interaction of SARS-CoV-2 NSP13 with host factor STAT1 to suppress interferon signaling.	J Mol Cell Biol
+34676541	Altered increase in STAT1 expression and phosphorylation in severe COVID-19.	Eur J Immunol
+34650546	ORF3a Protein of Severe Acute Respiratory Syndrome Coronavirus 2 Inhibits Interferon-Activated Janus Kinase/Signal Transducer and Activator of Transcription Signaling via Elevating Suppressor of Cytokine Signaling 1.	Front Microbiol
+34639073	Molecular Mechanism of the Anti-Inflammatory Action of Heparin.	Int J Mol Sci
+34471099	A dual-role of SARS-CoV-2 nucleocapsid protein in regulating innate immune response.	Signal Transduct Target Ther
+34445373	SARS-CoV-2: Understanding the Transcriptional Regulation of ACE2 and TMPRSS2 and the Role of Single Nucleotide Polymorphism (SNP) at Codon 72 of p53 in the Innate Immune Response against Virus Infection.	Int J Mol Sci
+34437657	SARS-CoV-2 suppresses IFNbeta production mediated by NSP1, 5, 6, 15, ORF6 and ORF7b but does not suppress the effects of added interferon.	PLoS Pathog
+34400346	Proteomic Signature of Host Response to SARS-CoV-2 Infection in the Nasopharynx.	Mol Cell Proteomics
+34312772	Genetic Exchange of Lung-Derived Exosome to Brain Causing Neuronal Changes on COVID-19 Infection.	Mol Neurobiol
+34228987	SARS-CoV-2 Spike protein enhances ACE2 expression via facilitating Interferon effects in bronchial epithelium.	Immunol Lett
+34209818	Toward a Coronavirus Knowledge Graph.	Genes (Basel)
+34153860	Lack of active SARS-CoV-2 virus in a subset of PCR-positive COVID-19 congregate care patients.	J Clin Virol
+34109505	SARS-CoV-2 infection in a pediatrics STAT1 GOF patient under Ruxolitinib therapy-a matter of balance?	J Clin Immunol
+34107055	Tofacitinib therapy intercepts macrophage metabolic reprogramming instigated by SARS-CoV-2 Spike protein.	Eur J Immunol
+34064383	Control of Macrophage Inflammation by P2Y Purinergic Receptors.	Cells
+34061776	Mild COVID-19 despite autoantibodies against type I IFNs in autoimmune polyendocrine syndrome type 1.	J Clin Invest
+33991637	Liver injury in COVID-19 and IL-6 trans-signaling-induced endotheliopathy.	J Hepatol
+33950285	Histomorphological patterns of regional lymph nodes in COVID-19 lungs.	Pathologe
+33907801	Analyzing master regulators and scRNA-seq of COVID-19 patients reveals an underlying anti-SARS-CoV-2 mechanism of ZNF proteins.	Brief Bioinform
+33882442	Immunopharmacological perspective on zinc in SARS-CoV-2 infection.	Int Immunopharmacol
+33879239	IFN-gamma and TNF-alpha drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation.	Genome Med
+33827897	SARS-CoV-2 drives JAK1/2-dependent local complement hyperactivation.	Sci Immunol
+33815692	COVID-19 co-infection mathematical model as guided through signaling structural framework.	Comput Struct Biotechnol J
+33705988	Loss of sarcomeric proteins via upregulation of JAK/STAT signaling underlies interferon-gamma-induced contractile deficit in engineered human myocardium.	Acta Biomater
+33688586	In silico analysis of altered expression of long non-coding RNA in SARS-CoV-2 infected cells and their possible regulation by STAT1, STAT3 and interferon regulatory factors.	Heliyon
+33688079	Identification of human immune cell subtypes most responsive to IL-1beta-induced inflammatory signaling using mass cytometry.	Sci Signal
+33575887	[Histomorphological patterns of regional lymph nodes in COVID-19 lungs].	Pathologe
+33520684	Analyzing the potential therapeutic mechanism of Huashi Baidu Decoction on severe COVID-19 through integrating network pharmacological methods.	J Tradit Complement Med
+33520015	Analysis of the mechanism of Shufeng Jiedu capsule prevention and treatment for COVID-19 by network pharmacology tools.	Eur J Integr Med
+33504682	Differential Signaling and Virus Production in Calu-3 Cells and Vero Cells upon SARS-CoV-2 Infection.	Biomol Ther (Seoul)
+33419885	Influenza virus infection increases ACE2 expression and shedding in human small airway epithelial cells.	Eur Respir J
+33414457	Interleukin-38 ameliorates poly(I:C) induced lung inflammation: therapeutic implications in respiratory viral infections.	Cell Death Dis
+33362771	A Network-Based Analysis Reveals the Mechanism Underlying Vitamin D in Suppressing Cytokine Storm and Virus in SARS-CoV-2 Infection.	Front Immunol
+33278357	Synergism of TNF-alpha and IFN-gamma Triggers Inflammatory Cell Death, Tissue Damage, and Mortality in SARS-CoV-2 Infection and Cytokine Shock Syndromes.	Cell
+33251388	High affinity of host human microRNAs to SARS-CoV-2 genome: An in silico analysis.	Noncoding RNA Res
+33251083	Identification of potential mRNA panels for severe acute respiratory syndrome coronavirus 2 (COVID-19) diagnosis and treatment using microarray dataset and bioinformatics methods.	3 Biotech
+33242255	An integrative analysis identifying transcriptional features and key genes involved in COVID-19.	Epigenomics
+33112891	Bioinformatic characterization of angiotensin-converting enzyme 2, the entry receptor for SARS-CoV-2.	PLoS One
+33097660	SARS-CoV-2 Orf6 hijacks Nup98 to block STAT nuclear import and antagonize interferon signaling.	Proc Natl Acad Sci U S A
+33054436	Chemical composition and pharmacological mechanism of shenfu decoction in the treatment of novel coronavirus pneumonia (COVID-19).	Drug Dev Ind Pharm
+33037393	An aberrant STAT pathway is central to COVID-19.	Cell Death Differ
+32979938	Evasion of Type I Interferon by SARS-CoV-2.	Cell Rep
+32953130	SARS-CoV-2 N protein antagonizes type I interferon signaling by suppressing phosphorylation and nuclear translocation of STAT1 and STAT2.	Cell Discov
+32938761	Type I Interferon Susceptibility Distinguishes SARS-CoV-2 from SARS-CoV.	J Virol
+32783921	Single-Cell Sequencing of Peripheral Mononuclear Cells Reveals Distinct Immune Response Landscapes of COVID-19 and Influenza Patients.	Immunity
+32676080	"Small" Intestinal Immunopathology Plays a "Big" Role in Lethal Cytokine Release Syndrome, and Its Modulation by Interferon-gamma, IL-17A, and a Janus Kinase Inhibitor.	Front Immunol
+32643603	Generation of a Broadly Useful Model for COVID-19 Pathogenesis, Vaccination, and Treatment.	Cell
+32563187	Attenuated Interferon and Proinflammatory Response in SARS-CoV-2-Infected Human Dendritic Cells Is Associated With Viral Antagonism of STAT1 Phosphorylation.	J Infect Dis
+32549200	A Putative Role of de-Mono-ADP-Ribosylation of STAT1 by the SARS-CoV-2 Nsp3 Protein in the Cytokine Storm Syndrome of COVID-19.	Viruses
+32547891	Computational analysis of microRNA-mediated interactions in SARS-CoV-2 infection.	PeerJ
+32489026	[Intervention mechanism of Qingwen Baidu Yin on cytokine storm based on network pharmacology].	Zhongguo Zhong Yao Za Zhi

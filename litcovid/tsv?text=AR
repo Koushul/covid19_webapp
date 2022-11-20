@@ -1,0 +1,437 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36249995	Clinical characteristics of patients with COVID-19 admitted to the COVID-19 Emergency Field Hospital of Bangkalan, Indonesia.	F1000Res
+36249911	The Association between Allergic Rhinitis and COVID-19: A Systematic Review and Meta-Analysis.	Int J Clin Pract
+36249470	[Open data for monitoring COVID-19 in Spain: descriptive study].	Enferm Infecc Microbiol Clin
+36248557	The effects of indoor plants and traffic noise on English reading comprehension of Chinese university students in home offices.	Front Psychol
+36231256	Antibiotic Resistance during COVID-19: A Systematic Review.	Int J Environ Res Public Health
+36216647	COVID-19 outbreak in an elderly care home: Very low vaccine effectiveness and late impact of booster vaccination campaign.	Vaccine
+36188070	Evaluating students' behavioral intention and system usability of augmented reality-aided distance design learning during the COVID-19 pandemic.	Univers Access Inf Soc
+36160474	Values-Based Leadership: A Survey of Academic Medical Leaders to Inform Curriculum Development.	J Healthc Leadersh
+36160079	The Socioeconomic and Psychological Impact of the COVID-19 Pandemic on People with Multiple Sclerosis in Turkey.	Noro Psikiyatr Ars
+36160075	Comparison of the Effects of COVID-19 Pandemic on Male and Female Gender in Patients Diagnosed with Idiopathic Parkinson's Disease: A Case of Sakarya Province, Turkey.	Noro Psikiyatr Ars
+36159446	Evaluation of the degradation of the graphene-polypropylene composites of masks in harsh working conditions.	Mater Today Chem
+36153857	Public interest in the digital transformation accelerated by the COVID-19 pandemic and perception of its future impact.	Korean J Intern Med
+36146869	Use of LoopDeelab during the COVID-19 Pandemic: An Innovative Device for Field Diagnosis.	Viruses
+36130187	Associations of Immunogenicity and Reactogenicity After SARS-CoV-2 mRNA-1273 Vaccine in COVE and TeenCOVE Trials.	Clin Infect Dis
+36091617	A case series of Corynebacterium striatum native valve infective endocarditis.	J Cardiol Cases
+36082799	BNT162b2 vaccination reduced infections and transmission in a COVID-19 outbreak in a nursing home in Germany, 2021.	Influenza Other Respir Viruses
+36069907	SARS-CoV-2 transmission by asymptomatic healthcare workers positive to screening swab: an Italian study.	Eur J Public Health
+36068984	A Rare Case of Multiple Thrombosis Associated with COVID-19 Pneumonia.	Turk Kardiyol Dern Ars
+36068980	Impact of the Pandemic on Gender Differences in Scientific Publication Authorship Among Turkish Adult Cardiologists.	Turk Kardiyol Dern Ars
+36049547	[Community pharmacists are also first aid actors. Results of the survey on unscheduled care in pharmacies in the Grand Est region].	Ann Pharm Fr
+36039644	Impaired immunity and high attack rates caused by SARS-CoV-2 variants among vaccinated long-term care facility residents.	Immun Inflamm Dis
+36035602	Developing Students' Critical Thinking Skills and Argumentation Abilities Through Augmented Reality-Based Argumentation Activities in Science Classes.	Sci Educ (Dordr)
+36032809	The diversifying role of socially responsible investments during the COVID-19 crisis: A risk management and portfolio performance analysis.	Econ Anal Policy
+36016120	Association between Adverse Reactions to the First and Second Doses of COVID-19 Vaccine.	Vaccines (Basel)
+36002222	Facilitators and barriers to using virtual reality and augmented reality and its impact on social engagement in aged care settings: a scoping review protocol.	BMJ Open
+35999862	Forecasting consumption expenditure using a dynamic panel model with cross-sectional dependence: the case of Japan.	SN Bus Econ
+35993671	Stone disease in low- and middle-income countries: could augmented reality have a role in its management?	BJU Int
+35993470	CADD Studies in the Discovery of Potential ARI (Aldose Reductase Inhibitors) Agents for the Treatment of Diabetic Complications.	Curr Diabetes Rev
+35992213	Sustainable spectrophotometric determination of antihypertensive medicines reducing COVID-19 risk via paired wavelength data processing technique - Assessment of purity, greenness and whiteness.	Sustain Chem Pharm
+35991038	Bibliometric analysis of the global research status and trends of the association between Vitamin D and infections from 2001 to 2021.	Front Public Health
+35981815	Outbreak of SARS-CoV-2 Delta variant on a single liquified natural gas (LNG) vessel, with estimates of vaccine effectiveness.	Commun Dis Intell (2018)
+35918024	Anxiety in adults with allergic rhinitis during the coronavirus disease 2019 pandemic: a Canadian perspective.	Ann Allergy Asthma Immunol
+35917822	Comparative Effectiveness of Pre-Identified Homeopathic Medicines in Asymptomatic COVID-19 Individuals Receiving Standard Care-An Open-Label, Randomized, Controlled Exploratory Trial.	Homeopathy
+35912070	Influence of the level of education on women's knowledge, attitude, and practices to control the transmission of COVID-19 in the Democratic Republic of the Congo.	Sci Afr
+35908692	Tracking SARS-CoV-2 in rivers as a tool for epidemiological surveillance.	Sci Total Environ
+35897439	Self-Regulated Learning Strategies for Nursing Students: A Pilot Randomized Controlled Trial.	Int J Environ Res Public Health
+35897178	Legacy and new chlorinated persistent organic pollutants in the rivers of south India: Occurrences, sources, variations before and after the outbreak of the COVID-19 pandemic.	J Hazard Mater
+35894313	Perceived coronavirus health risk associated with students' life satisfaction: the role of trust in government policies.	Cien Saude Colet
+35893358	Changes in the Mean and Variance of the Numbers of Medical Visits for Allergic Diseases before and during the COVID-19 Pandemic in Korea.	J Clin Med
+35892225	Update on pathomechanisms and treatments in allergic rhinitis.	Allergy
+35891219	Short-Term Side Effects and SARS-CoV-2 Infection after COVID-19 Pfizer-BioNTech Vaccine in Children Aged 5-11 Years: An Italian Real-World Study.	Vaccines (Basel)
+35882870	Rational development of a combined mRNA vaccine against COVID-19 and influenza.	NPJ Vaccines
+35875051	The Effect of the COVID-19 Pandemic Lockdown on Symptom Severity in School Children with House Dust Mite Sensitized Allergic Rhinitis.	Rev Fr Allergol (2009)
+35874037	P1245 Polymorphic Variants of HSD3B1 Gene Confer Different Outcome in Specific Subgroups of Patients Infected With SARS-CoV-2.	Front Med (Lausanne)
+35867382	An Augmented Reality-Based Guide for Mechanical Ventilator Setup: Prospective Randomized Pilot Trial.	JMIR Serious Games
+35855818	Improvements of Physical Activity Performance and Motivation in Adult Men through Augmented Reality Approach: A Randomized Controlled Trial.	J Environ Public Health
+35836835	Investigation of the Mechanism of Periploca forrestii against Rheumatoid Arthritis with Network Pharmacology-Based Analysis.	Evid Based Complement Alternat Med
+35813303	Pediatric COVID-19 associated acute rhinosinusitis and periorbital abscess: A case report.	Otolaryngol Case Rep
+35810350	An application of AR in cosmetological industry after coronavirus disease-19 pandemic.	J Cosmet Dermatol
+35782175	Trustworthy and Intelligent COVID-19 Diagnostic IoMT Through XR and Deep-Learning-Based Clinic Data Access.	IEEE Internet Things J
+35764768	Tolerability and Reactogenicity Profile of mRNA SARS-Cov-2 Vaccines from a Mass Vaccination Campaign in a Tertiary Hospital: Between-Vaccine and Between-Population Prospective Observational Study (VigilVacCOVID Study).	BioDrugs
+35758966	Neutralizing antibody responses in asymptomatic close contacts of COVID-19 patients and in asymptomatic healthcare workers.	Egypt J Immunol
+35742795	A Review of the Respiratory Health Burden Attributable to Short-Term Exposure to Pollen.	Int J Environ Res Public Health
+35725310	[Analysis of relationship between distribution of pathogenic microorganisms in olfactory cleft and olfactory disorders among patients with upper respiratory inflammation during the prevention and control of COVID-19].	Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi
+35724176	Gerer la crise de la premiere vague de COVID-19 : retour d'experience d'une agence regionale de sante.	Sante Publique
+35724106	Hospitalisation avec ou pour COVID-19 : quel indicateur de surveillance choisir ?	Sante Publique
+35707504	Asymmetric autoregressive models: statistical aspects and a financial application under COVID-19 pandemic.	J Appl Stat
+35686307	People in intensive care with COVID-19: demographic and clinical features during the first, second, and third pandemic waves in Australia.	Med J Aust
+35685053	Depression and Anxiety Disorders in COVID-19 Survivors: Role of Inflammatory Predictors.	Noro Psikiyatr Ars
+35685049	Is Poliomyelitis Sequelae A Disadvantage for Recovery from Covid-19 ARDS: A Case Report.	Noro Psikiyatr Ars
+35685047	Psychological Reactions of Turkish Healthcare Workers During Covid-19 Outbreak: The Impact of Stigmatization.	Noro Psikiyatr Ars
+35679657	Autonomic function testing in long-COVID syndrome patients with orthostatic intolerance.	Auton Neurosci
+35670388	[The transition to remote education format in medical university: opinion of students about transformation of education process at the outset of COVID-19 pandemic].	Probl Sotsialnoi Gig Zdravookhranenniiai Istor Med
+35668863	Cultural Challenges of ERP Implementation in Middle-Eastern Oil & Gas Sector: An Action Research Approach.	Syst Pract Action Res
+35668151	Immunomodulatory Role of Microelements in COVID-19 Outcome: a Relationship with Nutritional Status.	Biol Trace Elem Res
+35659495	"Simulation of medical goggles to stop airborne transmission of viruses: computational fluid dynamics in ergonomics".	Ergonomics
+35657719	Augmented reality for teaching anatomy.	Clin Anat
+35646196	Comparison of Augmented Reality-assisted and Instructor-assisted Cardiopulmonary Resuscitation: A Simulated Randomized Controlled Pilot Trial.	Clin Simul Nurs
+35645547	Modeling Medical Data by Flexible Integer-Valued AR(1) Process with Zero-and-One-Inflated Geometric Innovations.	Iran J Sci Technol Trans A Sci
+35636170	Effect of Qingfei Paidu decoction combined with Western medicine treatments for COVID-19: A systematic review and meta-analysis.	Phytomedicine
+35610955	Progressive Worsening of Neurological Manifestations in HIV-Associated Opportunistic Central Nervous System (CNS) Infection Patients After COVID-19 Vaccinations: A Possible Co-Incidence Causality.	Am J Case Rep
+35603041	A study of the impact of COVID-19 on the Chinese stock market based on a new textual multiple ARMA model.	Stat Anal Data Min
+35602214	Characterization of SARS-CoV-2 and host entry factors distribution in a COVID-19 autopsy series.	Commun Med (Lond)
+35586412	Case Report: Acute Heart Failure Induced by the Combination of Takayasu's, Takotsubo and Coronary Vasospasm in an Elementary School Teacher-A Reaction to Return-to-Work Stress After COVID-19?	Front Psychiatry
+35535770	Evidence of transmission and circulation of Deltacron XD recombinant SARS-CoV-2 in Northwest France.	Clin Infect Dis
+35502459	NVX-Cov2373 Novavax Covid-19 vaccine: A further analysis of its efficacy using multiple modes of expression.	Fundam Clin Pharmacol
+35502147	Midline peripheral catheters inserted in the superficial femoral vein at mid-thigh: Wise choice in COVID-19 acute hypoxemic respiratory failure patients with helmet continuous positive airway pressure.	J Vasc Access
+35496249	COVID-19 Vaccination Behavior Among Frontline Healthcare Workers in Pakistan: The Theory of Planned Behavior, Perceived Susceptibility, and Anticipated Regret.	Front Psychol
+35485129	[Hospitalization with or for COVID-19: which surveillance indicator to choose?]	Sante Publique
+35485003	[Handling the first wave of the COVID-19: lessons learned from a French regional health agency].	Sante Publique
+35464051	Preclinical In Silico Evidence Indicates the Pharmacological Targets and Mechanisms of Mogroside V in Patients With Ovarian Cancer and Coronavirus Disease 2019.	Front Endocrinol (Lausanne)
+35454347	Digital Transformation Will Change Medical Education and Rehabilitation in Spine Surgery.	Medicina (Kaunas)
+35453608	COVID-19 Infection Induce miR-371a-3p Upregulation Resulting in Influence on Male Fertility.	Biomedicines
+35450848	Thrombotic Complication of COVID-19: A Case Report of Acute Saphenous Vein Graft Thrombosis in a Newly Diagnosed Patient.	Turk Kardiyol Dern Ars
+35436376	Directly observed therapy to promote medication adherence in adolescent heart transplant recipients.	Pediatr Transplant
+35434342	Impact of the COVID-19 national lockdown in the allergic rhinitis symptoms in patients treated with immunotherapy at two allergy referral centers in Bogota, Colombia.	Laryngoscope Investig Otolaryngol
+35431157	Superior mesenteric vein thrombosis as the only manifestation of SARS-CoV-2 infection.	Cir Esp (Engl Ed)
+35421875	A Houttuynia cordata-based Chinese herbal formula improved symptoms of allergic rhinitis during the COVID-19 pandemic.	J Chin Med Assoc
+35409930	Association of Paternity Leave with Impaired Father-Infant Bonding: Findings from a Nationwide Online Survey in Japan.	Int J Environ Res Public Health
+35405828	One Health and Cattle Genetic Resources: Mining More than 500 Cattle Genomes to Identify Variants in Candidate Genes Potentially Affecting Coronavirus Infections.	Animals (Basel)
+35401297	Metaverse-Powered Experiential Situational English-Teaching Design: An Emotion-Based Analysis Method.	Front Psychol
+35400977	The effectiveness of using augmented reality (AR) to enhance student performance: using quick response (QR) codes in student textbooks in the Saudi education system.	Educ Technol Res Dev
+35400631	Sarcopenia and Its Prognostic Role on Hospitalization and In-Hospital Mortality in Coronavirus Disease 2019 Patients with At Least One Cardiovascular Risk Factor.	Turk Kardiyol Dern Ars
+35400630	Sarcopenia and Its Prognostic Role in Hospitalization and In-Hospital Mortality in Coronavirus Disease 2019 Patients with At Least One Cardiovascular Risk Factor.	Turk Kardiyol Dern Ars
+35369283	Sex Differences in Cardiac Pathology of SARS-CoV2 Infected and Trypanosoma cruzi Co-infected Mice.	Front Cardiovasc Med
+35363077	Pros and Cons of Telemedicine for Inherited Metabolic Disorders in a Developing Country During the COVID-19 Pandemic.	Telemed J E Health
+35350707	Management strategies and outcomes in renal transplant recipients recovering from COVID-19: A retrospective, multicentre, cohort study.	EClinicalMedicine
+35334977	Adverse Reactions to Anti-SARS-CoV-2 Vaccine: A Prospective Cohort Study Based on an Active Surveillance System.	Vaccines (Basel)
+35330318	COVID-19 Associated Pulmonary Aspergillosis (CAPA): Hospital or Home Environment as a Source of Life-Threatening Aspergillus fumigatus Infection?	J Fungi (Basel)
+35328202	COVI(3)D: Automatic COVID-19 CT Image-Based Classification and Visualization Platform Utilizing Virtual and Augmented Reality Technologies.	Diagnostics (Basel)
+35288728	Learning from the pandemic: mortality trends and seasonality of deaths in Australia in 2020.	Int J Epidemiol
+35268554	Arrhythmias in COVID-19/SARS-CoV-2 Pneumonia Infection: Prevalence and Implication for Outcomes.	J Clin Med
+35250984	A Novel Glucocorticoid and Androgen Receptor Modulator Reduces Viral Entry and Innate Immune Inflammatory Responses in the Syrian Hamster Model of SARS-CoV-2 Infection.	Front Immunol
+35238860	SARS-CoV-2 B.1.1.529 (Omicron) Variant Transmission Within Households - Four U.S. Jurisdictions, November 2021-February 2022.	MMWR Morb Mortal Wkly Rep
+35219292	A framework for information technology-based management against COVID-19 in Iran.	BMC Public Health
+35208634	A Comprehensive Review of the Technological Solutions to Analyse the Effects of Pandemic Outbreak on Human Lives.	Medicina (Kaunas)
+35204335	Transmitted Fetal Immune Response in Cases of SARS-CoV-2 Infections during Pregnancy.	Diagnostics (Basel)
+35203854	Does the Fetus Limit Antibiotic Treatment in Pregnant Patients with COVID-19?	Antibiotics (Basel)
+35192524	Evaluation of respiratory anatomical-functional sequelae in patients who recovered from COVID-19.	J Infect Dev Ctries
+35176073	Assessing acceptance of augmented reality in nursing education.	PLoS One
+35174280	COVID-19 Patients' Satisfaction Levels with Nursing Care: A Cross-Sectional Study.	SAGE Open Nurs
+35156653	[COVID suspected patients in Primary Care in Madrid at the beginning of first wave: Clinical characteristics and healthcare assistance.]	Rev Esp Salud Publica
+35152899	Effectiveness of technology-enhanced teaching methods of undergraduate dental skills for local anaesthesia administration during COVID-19 era: students' perception.	BMC Oral Health
+35139811	Linked nosocomial COVID-19 outbreak in three facilities for people with intellectual and developmental disabilities due to SARS-CoV-2 variant B.1.1.519 with spike mutation T478K in the Netherlands.	BMC Infect Dis
+35110846	A Retrospective Study on Experience of High-flow Nasal Cannula Oxygen in Critically Ill COVID-19 Adult Patients Admitted to Intensive Care Unit.	Indian J Crit Care Med
+35104245	Adaptive immune responses in vaccinated patients with symptomatic SARS-CoV-2 Alpha infection.	JCI Insight
+35079743	Virtual, Augmented, and Alternate Reality in Medical Education: Socially Distanced but Fully Immersed.	ATS Sch
+35077081	Demographic and clinical characteristics of patients with Covid-19 in Chihuahua, Mexico.	Salud Publica Mex
+35059419	The Association of an Alpha-2 Adrenergic Receptor Agonist and Mortality in Patients With COVID-19.	Front Med (Lausanne)
+35055066	The Broad-Spectrum Antiviral Potential of the Amphibian Peptide AR-23.	Int J Mol Sci
+35054164	XR (Extended Reality: Virtual Reality, Augmented Reality, Mixed Reality) Technology in Spine Medicine: Status Quo and Quo Vadis.	J Clin Med
+35023571	Combining recombinase polymerase amplification and DNA-templated reaction for SARS-CoV-2 sensing with dual fluorescence and lateral flow assay output.	Biopolymers
+35019697	Outbreak of NDM-1-Producing Escherichia coli in a Coronavirus Disease 2019 Intensive Care Unit in a Mexican Tertiary Care Center.	Microbiol Spectr
+35016186	Impact of Covid-19 Pandemic on Patients with Non-Communicable Disease: An Observational Cross-Sectional Study at AYUSH Set Ups of Krishna and Darjeeling District, India.	Complement Med Res
+35010585	OTT Streaming Distribution Strategies for Dance Performances in the Post-COVID-19 Age: A Modified Importance-Performance Analysis.	Int J Environ Res Public Health
+35005154	Application of probabilistic models for extreme values to the COVID-2019 epidemic daily dataset.	Data Brief
+34991654	Prevalence of COVID-19 in children affected by allergic rhinoconjunctivitis and asthma: results from the second "SIAIP rhinosinusitis and conjunctivitis committee" survey.	Ital J Pediatr
+34985993	Activation of the MKK3-p38-MK2-ZFP36 Axis by Coronavirus Infection Restricts the Upregulation of AU-Rich Element-Containing Transcripts in Proinflammatory Responses.	J Virol
+34961844	Forecasting the spread of the third wave of COVID-19 pandemic using time series analysis in Bangladesh.	Inform Med Unlocked
+34957159	Epidemiological Indicators of SARS-CoV-2 (COVID-19) and Vaccination Effectiveness on the Report of Positive Cases in the Colombian Army.	Front Med (Lausanne)
+34956677	Use of mNUTRIC-Score for Nutrition Risk Assessment and Prognosis Prediction in Critically Ill Patients with COVID-19: A Retrospective Observational Study.	Crit Care Res Pract
+34937981	Repercussions of the COVID-19 pandemic on athletes: a cross-sectional study.	Biol Sport
+34931618	More Evidence of the Link of Interleukin-6 and Interleukin-10 with Critical COVID-19: A Report in Mexican Patients.	Iran J Immunol
+34927118	Risk of venous thrombotic events and thrombocytopenia in sequential time periods after ChAdOx1 and BNT162b2 COVID-19 vaccines: A national cohort study in England.	Lancet Reg Health Eur
+34915735	Role of advanced respiratory support in acute respiratory failure in clinically frail patients with COVID-19.	Future Microbiol
+34910352	Androgenetic alopecia and COVID-19: Is there a clinical connection?	J Cosmet Dermatol
+34908653	Regime Shifts in the Behaviour of International Currency and Equity Markets: A Markov-Switching Analysis.	J Quant Econ
+34904817	[Dengue in COVID-19 era].	Rev Med Inst Mex Seguro Soc
+34903655	Can auxiliary indicators improve COVID-19 forecasting and hotspot prediction?	Proc Natl Acad Sci U S A
+34899739	Anti-SARS-CoV-2 Spike Protein RBD Antibody Levels After Receiving a Second Dose of ChAdOx1 nCov-19 (AZD1222) Vaccine in Healthcare Workers: Lack of Association With Age, Sex, Obesity, and Adverse Reactions.	Front Immunol
+34884202	Prenatal Anxiety and Exercise. Systematic Review and Meta-Analysis.	J Clin Med
+34868754	Equivalency of Protection From Natural Immunity in COVID-19 Recovered Versus Fully Vaccinated Persons: A Systematic Review and Pooled Analysis.	Cureus
+34855656	Concurrent Cerebral, Splenic, and Renal Infarction in a Patient With COVID-19 Infection.	Neurologist
+34855624	Pharmacokinetics of high-titer anti-SARS-CoV-2 human convalescent plasma in high-risk children.	JCI Insight
+34847819	Association of clinical and epidemiological characteristics with COVID-19 BNT162b2 mRNA vaccine short-term adverse reactions in healthcare workers.	Hum Vaccin Immunother
+34846283	Phylogenomics and population genomics of SARS-CoV-2 in Mexico during the pre-vaccination stage reveals variants of interest B.1.1.28.4 and B.1.1.222 or B.1.1.519 and the nucleocapsid mutation S194L associated with symptoms.	Microb Genom
+34844780	[Occupational therapy intervention to improve autonomy in individuals postinfection by SARS-CoV-2].	Rehabilitacion (Madr)
+34841380	COVID-19: What we need from epidemiology to help informed policies.	Lancet Reg Health West Pac
+34832534	A Plausible Link of TMPRSS2/ACE2/AR Signaling to Male Mortality during the COVID-19 Pandemic in the United States.	Pathogens
+34824927	Augmented Reality and Plastic Surgery Training: A Qualitative Study.	Cureus
+34803967	Host Sex Steroids Interact With Virus Infection: New Insights Into Sex Disparity in Infectious Diseases.	Front Microbiol
+34764585	Multilingual topic modeling for tracking COVID-19 trends based on Facebook data analysis.	Appl Intell (Dordr)
+34764581	Cropping and attention based approach for masked face recognition.	Appl Intell (Dordr)
+34751262	Association between vaccination with the BNT162b2 mRNA COVID-19 vaccine and Bell's palsy: a population-based study.	Lancet Reg Health Eur
+34749976	Advances in aggregation induced emission (AIE) materials in biosensing and imaging of bacteria.	Prog Mol Biol Transl Sci
+34746286	Myocarditis and Subclinical-Like Infection Associated With SARS-CoV-2 in Two Cats Living in the Same Household in France: A Case Report With Literature Review.	Front Vet Sci
+34744468	COVID-19 Readiness and Career Aspirations of South Indian Medical Students: A Cross-Sectional Survey Study.	Adv Med Educ Pract
+34738231	Infection with SARS-CoV-2 variant B.1.1.7 detected in a group of dogs and cats with suspected myocarditis.	Vet Rec
+34733032	Awake Proning for Nonintubated Adult Hypoxic Patients with COVID-19: A Systematic Review of the Published Evidence.	Indian J Crit Care Med
+34730220	Willingness to vaccinate against Novel COVID-19 and contributing factors for the acceptance among nurses in Qassim, Saudi Arabia.	Eur Rev Med Pharmacol Sci
+34728408	Impact of Allergic Rhinitis and Asthma on COVID-19 Infection, Hospitalization, and Mortality.	J Allergy Clin Immunol Pract
+34704394	Detection of SARS-CoV-2 in two cats during the second wave of the COVID-19 pandemic in France.	Vet Med Sci
+34698308	SARS-CoV-2 in Conjunctiva and Tears and Ocular Symptoms of Patients with COVID-19.	Vision (Basel)
+34670287	Thrombosis and Thrombocytopenia Syndrome Causing Isolated Symptomatic Carotid Occlusion after Covid-19 Vaccine.	Thromb Haemost
+34667802	Preparedness of medical students towards e-learning conducted during COVID-19 lockdown: A cross-sectional descriptive study.	J Educ Health Promot
+34667319	COVID-19 epidemiology in a Mexican tertiary care hospital.	Gac Med Mex
+34660644	Risk Factors for Grade 3 to Grade 4 Adverse Reactions to the ChAdOx1 nCoV-19 Vaccine (AZD1222) Against SARS-CoV-2.	Front Med (Lausanne)
+34632370	Structural equation modeling of public transport use with COVID-19 precautions: An extension of the norm activation model.	Transp Res Interdiscip Perspect
+34616619	Novel ACE2 protein interactions relevant to COVID-19 predicted by evolutionary rate correlations.	PeerJ
+34607516	COVID 19 and high pregnancy and perinatal complications in Panama.	J Matern Fetal Neonatal Med
+34578341	Report of One-Year Prospective Surveillance of SARS-CoV-2 in Dogs and Cats in France with Various Exposure Risks: Confirmation of a Low Prevalence of Shedding, Detection and Complete Sequencing of an Alpha Variant in a Cat.	Viruses
+34575910	Cardiac and Renal SARS-CoV-2 Viral Entry Protein Regulation by Androgens and Diet: Implications for Polycystic Ovary Syndrome and COVID-19.	Int J Mol Sci
+34558404	COVID-19 outbreak investigation and response in a penitentiary setting: the experience of a prison in Italy, February to April 2020.	Euro Surveill
+34554559	Biologia Futura: is ADAM 17 the reason for COVID-19 susceptibility in hyperglycemic and diabetic patients?	Biol Futur
+34551335	SARS-CoV-2 positivity rates in asymptomatic workers at a cancer referral center in Mexico City: A prospective observational study in the context of adapting hospitals back to regular practice.	Am J Infect Control
+34551007	SARS-CoV-2 pneumonia follow-up and long COVID in primary care: A retrospective observational study in Madrid city.	PLoS One
+34549401	[Impact of Nurse Practitioners and Nursing Education on COVID-19 Pandemics: Innovative Strategies of Authentic Technology-Integrated Clinical Simulation].	Hu Li Za Zhi
+34549275	Risk of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Transmission Among Air Passengers in China.	Clin Infect Dis
+34528353	Fewer COVID-19-associated strokes and reduced severity during the second COVID-19 wave: The Madrid Stroke Network.	Eur J Neurol
+34521187	Clinical Characteristics and Outcomes of COVID-19 in Turkish Patients with Hematological Malignancies	Turk J Haematol
+34517429	Influence of androgen deprivation therapy on the severity of COVID-19 in prostate cancer patients.	Prostate
+34512940	Cognitive IoT-Based e-Learning System: Enabling Context-Aware Remote Schooling during the Pandemic.	J Healthc Eng
+34510035	Efficacy of Sublingual Immunotherapy in Allergic Rhinitis Children during Coronavirus Disease 2019.	ORL J Otorhinolaryngol Relat Spec
+34503647	Allergic rhinitis and COVID-19: friends or foes?	Eur Ann Allergy Clin Immunol
+34485436	First Coronavirus Active Survey in Rodents From the Canary Islands.	Front Vet Sci
+34484441	Post-COVID-19 functional status: Relation to age, smoking, hospitalization, and previous comorbidities.	Ann Thorac Med
+34476916	Investigating the association between allergic diseases and COVID-19 in 400 Iranian patients.	Allergol Immunopathol (Madr)
+34472806	Clinical Efficacy and Safety of Remdesivir among Hospitalised Adult Patients with RT PCR Confirmed COVID 19 Requiring ICU Care in Kalyana Karnataka.	J Assoc Physicians India
+34458558	A computational study on hydroxychloroquine binding to target proteins related to SARS-COV-2 infection.	Inform Med Unlocked
+34453794	Clinical characteristics and evolution of hematological patients and COVID-19 in Argentina: a report from the Argentine Society of Hematology.	Medicina (B Aires)
+34446394	Using mobile applications and websites for the diagnosis of COVID-19 in Spain.	Enferm Infecc Microbiol Clin (Engl Ed)
+34437628	"Mass gathering events and COVID-19 transmission in Borriana (Spain): A retrospective cohort study".	PLoS One
+34423319	Cognitive-behavioral therapy for adults with avoidant/restrictive food intake disorder.	J Behav Cogn Ther
+34423315	Multiplicative Holts Winter Model for Trend Analysis and Forecasting of COVID-19 Spread in India.	SN Comput Sci
+34421770	Supporting Team Reflexivity During the COVID-19 Lockdown: A Qualitative Study of Multi-Vision Groups In-person and Online.	Front Psychol
+34410022	XR game development as a tool for authentic, experiential, and collaborative learning.	Biochem Mol Biol Educ
+34400447	Seroprevalence of COVID-19 IgG antibodies among healthcare workers of Pakistan: a cross-sectional study assessing exposure to COVID-19 and identification of high-risk subgroups.	BMJ Open
+34400222	Is COVID-19 a threat or an opportunity for healthy eating? An exploration of the factors that moderate the impact of the pandemic on eating habits in Uruguay.	Appetite
+34392866	The contributions of civil society to food security in the context of COVID-19: a qualitative exploration in Uruguay.	Public Health Nutr
+34391910	Extended reality anatomy undergraduate teaching: A literature review on an alternative method of learning.	Ann Anat
+34379805	Advances and highlights in allergic rhinitis.	Allergy
+34373972	Management of COVID-19-induced cytokine storm by Keap1-Nrf2 system: a review.	Inflammopharmacology
+34352195	Bloodstream Infection Risk, Incidence, and Deaths for Hospitalized Patients during Coronavirus Disease Pandemic.	Emerg Infect Dis
+34341347	White button mushroom interrupts tissue AR-mediated TMPRSS2 expression and attenuates pro-inflammatory cytokines in C57BL/6 mice.	NPJ Sci Food
+34328182	Roles of steroid receptors in the lung and COVID-19.	Essays Biochem
+34316571	Healthcare associated coronavirus disease 2019 among health care workers in Normandy, France: a multi-center study.	Infect Prev Pract
+34312455	Improving prediction of COVID-19 evolution by fusing epidemiological and mobility data.	Sci Rep
+34307008	Isolation of Rhizopus microsporus and Lichtheimia corymbifera from tracheal aspirates of two immunocompetent critically ill patients with COVID-19.	Med Mycol Case Rep
+34305435	The Effect of Augmented Reality based applications on achievement and attitude towards science course in distance education process.	Educ Inf Technol (Dordr)
+34293954	Re: "COVID-19: A Redox Disease-What a Stress Pandemic Can Teach Us About Resilience and What We May Learn from the Reactive Species Interactome About Its Treatment" by Cumpstey et al.	Antioxid Redox Signal
+34291032	Using Proper Mean Generation Intervals in Modeling of COVID-19.	Front Public Health
+34289851	Air particulate concentration during orthodontic procedures: a pilot study.	BMC Oral Health
+34278229	The Influence of Adverse Childhood Experiences (ACEs), Including the COVID-19 Pandemic, and Toxic Stress on Development and Health Outcomes of Latinx Children in the USA: a Review of the Literature.	Int J Child Maltreat
+34277362	Corporate Response Against COVID-19: Manufacturing Shift by Ford-Otosan.	Ann Glob Health
+34261299	A protein interactions map of multiple organ systems associated with COVID-19 disease.	Genomics Inform
+34259122	Augmented reality in medical education: students' experiences and learning outcomes.	Med Educ Online
+34258257	The role of bronchoscopy in patients with SARS-CoV-2 pneumonia.	ERJ Open Res
+34256358	Training of clinical triage of acute radiation casualties: a performance comparison ofon-siteversusonlinetraining due to the covid-19 pandemic.	J Radiol Prot
+34256236	[Human resource management and vaccination strategies in primary care in Europe during COVID-19 pandemic].	Aten Primaria
+34253979	The COVID-19 pandemic, emergency aid and social work in Brazil.	Qual Soc Work
+34250637	Efficacy of COVID-19 vaccines: Several modes of expression should be presented in scientific publications.	Fundam Clin Pharmacol
+34237607	[The role of primary care during COVID-19 pandemic: A European overview].	Aten Primaria
+34222849	Effect of Tenofovir Disoproxil Fumarate and Emtricitabine on nasopharyngeal SARS-CoV-2 viral load burden amongst outpatients with COVID-19: A pilot, randomized, open-label phase 2 trial.	EClinicalMedicine
+34210968	The antiandrogen enzalutamide downregulates TMPRSS2 and reduces cellular entry of SARS-CoV-2 in human lung cells.	Nat Commun
+34209725	Efficacy of Telemedicine and Telemonitoring in At-Home Monitoring of Patients with COVID-19.	J Clin Med
+34201928	Promoting the Quality of Life of Elderly during the COVID-19 Pandemic.	Int J Environ Res Public Health
+34192105	Data Modeling With Polynomial Representations and Autoregressive Time-Series Representations, and Their Connections.	IEEE Access
+34188598	Depression, Anxiety and State Guilt in Individuals under Quarantine in an Institution due to COVID-19 and the Related Factors.	Noro Psikiyatr Ars
+34168682	Seroprevalence of anti-SARS-CoV-2 IgG in asymptomatic and pauci-symptomatic people over a 5 month survey in Argentina.	Rev Panam Salud Publica
+34166583	Withdrawn: A data-mining based analysis of traditional Chinese medicine in diagnosing and treating COVID-19.	Anat Rec (Hoboken)
+34155586	COVID-19 and stock exchange return variation: empirical evidences from econometric estimation.	Environ Sci Pollut Res Int
+34149970	Estimate the Trend of COVID-19 Outbreak in China: a Statistical and Inferential Analysis on Provincial-level Data.	Procedia Comput Sci
+34149836	A numerical and analytical study of SE(Is)(Ih)AR epidemic fractional order COVID-19 model.	Adv Differ Equ
+34149130	Impacts of COVID-19 and Price Transmission in U.S. Meat Markets.	Agric Econ
+34135802	Design and Validation of Augmented Reality Stimuli for the Treatment of Cleaning Obsessive-Compulsive Disorder.	Front Psychol
+34121244	Low seroprevalence of SARS-CoV-2 antibodies in a liver transplant cohort.	Transpl Int
+34120824	Tocilizumab in COVID-19: The Cerrahpasa-PREDICT score.	J Infect Chemother
+34114951	Alpha-1 adrenergic receptor antagonists to prevent hyperinflammation and death from lower respiratory tract infection.	Elife
+34114187	Estimating the asymptomatic proportion of SARS-CoV-2 infection in the general population: Analysis of nationwide serosurvey data in the Netherlands.	Eur J Epidemiol
+34106068	Spontaneous right coronary artery dissection in a patient with COVID-19 infection: A case report and review of the literature.	Turk Kardiyol Dern Ars
+34106063	Clinical implications and indicators of mortality among patients hospitalized with concurrent COVID-19 and myocardial infarction.	Turk Kardiyol Dern Ars
+34106062	Comparison of hypertension prevalence and the use of renin-angiotensin-aldosterone system blockers in hospitalized patients with COVID-19 and non-COVID-19 viral pneumonia.	Turk Kardiyol Dern Ars
+34105716	Rehabilitation in adult post-COVID-19 patients in post-acute care with Therapeutic Exercise.	J Frailty Aging
+34104981	Detecting epidemiological relevance of adenoid hypertrophy, rhinosinusitis, and allergic rhinitis through an Internet search.	Eur Arch Otorhinolaryngol
+34104210	The role of liver steatosis as measured with transient elastography and transaminases on hard clinical outcomes in patients with COVID-19.	Therap Adv Gastroenterol
+34089595	Do Anti-androgens Have Potential as Therapeutics for COVID-19?	Endocrinology
+34084760	The use of innovative cost-saving audience response system in orthodontic case-based learning: A potential approach in distance learning.	J Orthod Sci
+34075308	Savitzky-Golay filter energy features-based approach to face recognition using symbolic modeling.	Pattern Anal Appl
+34055566	Preparation of ZnO/BaTiO3 adsorbent using Elaeagnus Angustifolia L. leaf extract and its evaluation for ciprofloxacin removal from aqueous solutions: an optimization study.	Biomass Convers Biorefin
+34054664	Flow Immersive: A Multiuser, Multidimensional, Multiplatform Interactive Covid-19 Data Visualization Tool.	Front Psychol
+34045511	Androgen regulation of pulmonary AR, TMPRSS2 and ACE2 with implications for sex-discordant COVID-19 outcomes.	Sci Rep
+34034356	Analysis of Homeopathic Genus Epidemicus for COVID-19 Patients in Spain.	Homeopathy
+34026489	Opportunities and challenges of using augmented reality and heads-up display in orthopaedic surgery: A narrative review.	J Clin Orthop Trauma
+34015642	Impact of the COVID-19 pandemic on the care of cancer patients in Spain.	ESMO Open
+34007019	Is COVID-19 a risk factor for progression of benign prostatic hyperplasia and exacerbation of its related symptoms?: a systematic review.	Prostate Cancer Prostatic Dis
+34001144	The intersection of COVID-19 and cancer: signaling pathways and treatment implications.	Mol Cancer
+33994572	[Monitoring of COVID-19 patients by telemedicine with telemonitoring].	Rev Clin Esp
+33986620	Using the Internet Big Data to Investigate the Epidemiological Characteristics of Allergic Rhinitis and Allergic Conjunctivitis.	Risk Manag Healthc Policy
+33974617	The Mysteries of 'Pandemic Time'.	MEDICC Rev
+33942789	Concurrent Stroke and Myocardial Infarction After Mild COVID-19 Infection.	Neurologist
+33937503	Applications of virtual and augmented reality in infectious disease epidemics with a focus on the COVID-19 outbreak.	Inform Med Unlocked
+33926382	Clinical characteristics of SARS-CoV-2 pneumonia diagnosed in a primary care practice in Madrid (Spain).	BMC Fam Pract
+33890200	Incidence of venous thromboembolism in patients with non-hematological cancer admitted for COVID-19 at a third-level hospital in Madrid.	J Thromb Thrombolysis
+33878017	Effects of Self-focused Augmented Reality on Health Perceptions During the COVID-19 Pandemic: A Web-Based Between-Subject Experiment.	J Med Internet Res
+33875277	The Influence of Dissonance Induction and Assessment Reactivity in Improving Adherence to COVID-19 Precautionary Measures: A Cluster Randomised Controlled Trial.	Int Dent J
+33869251	The Association Between Alpha-1 Adrenergic Receptor Antagonists and In-Hospital Mortality From COVID-19.	Front Med (Lausanne)
+33859995	Augmented Reality in Medical Practice: From Spine Surgery to Remote Assistance.	Front Surg
+33855058	In vitro Assessment of Antiviral Effect of Natural Compounds on Porcine Epidemic Diarrhea Coronavirus.	Front Vet Sci
+33849706	Superior mesenteric vein thrombosis as the only manifestation of SARS-CoV-2 infection.	Cir Esp (Engl Ed)
+33847272	Aortic floating thrombi with lower limb ischemia and renal infarct in COVID-19: A remote thromboembolic complication.	Turk Kardiyol Dern Ars
+33824504	Patients' and professionals' perspective of non-in-person visits in hereditary cancer: predictors and impact of the COVID-19 pandemic.	Genet Med
+33795959	Urgent Need for ICHD Criteria for COVID-19-Related Headache: Scrutinized Classification Opens the Way for Research.	Noro Psikiyatr Ars
+33795945	An Analysis of the Psychosocial Challenges Faced by the University Students During COVID-19 Pandemic, and the Students' Knowledge, Attitudes, and Practices Toward the Disease.	Noro Psikiyatr Ars
+33786170	Count-valued time series models for COVID-19 daily death dynamics.	Stat (Int Stat Inst)
+33784877	Role of Tissue Factor in the Pathogenesis of COVID-19 and the Possible Ways to Inhibit It.	Clin Appl Thromb Hemost
+33773712	Single virus inductively coupled plasma mass spectroscopy analysis: A comprehensive study.	Talanta
+33751228	Neurological manifestations temporally associated with SARS-CoV-2 infection in pediatric patients in Mexico.	Childs Nerv Syst
+33744901	Community- and Hospital-Acquired Acute Kidney Injury in COVID-19: Different Phenotypes and Dismal Prognosis.	Blood Purif
+33737115	Role of lupus anticoagulant and von Willebrand factor in chronic reactive endotheliitis in COVID-19.	J Infect
+33693916	Experiences, challenges and looking to the future in a clinical tuberculosis cohort in the time of COVID-19 in the Philippines.	Trans R Soc Trop Med Hyg
+33681283	Virtual Connections: Improving Global Neurosurgery Through Immersive Technologies.	Front Surg
+33670316	Antimicrobial Resistance Patterns and Antibiotic Use during Hospital Conversion in the COVID-19 Pandemic.	Antibiotics (Basel)
+33662601	Misconceptions and misinformation about bats and viruses.	Int J Infect Dis
+33650201	Risk of symptomatic COVID-19 due to aircraft transmission: a retrospective cohort study of contact-traced flights during England's containment phase.	Influenza Other Respir Viruses
+33647767	Shorter androgen receptor polyQ alleles protect against life-threatening COVID-19 disease in European males.	EBioMedicine
+33644275	Adhesive rolling of nanoparticles in a lateral flow inspired from diagnostics of COVID-19.	Extreme Mech Lett
+33640116	[An example of Clinical Investigations Center reorganization during the COVID-19 pandemic French national lockdown].	Therapie
+33638624	Anxiety and depression in allergic rhinitis patients during COVID-19 pandemic in Wuhan, China.	Asian Pac J Allergy Immunol
+33624583	Lopinavir-ritonavir alone or combined with arbidol in the treatment of 73 hospitalized patients with COVID-19: A pilot retrospective study.	Int J Clin Pharmacol Ther
+33623478	Running an XR lab in the context of COVID-19 pandemic: Lessons learned from a Norwegian university.	Educ Inf Technol (Dordr)
+33621186	Short-Range Forecasting of COVID-19 During Early Onset at County, Health District, and State Geographic Levels Using Seven Methods: Comparative Forecasting Study.	J Med Internet Res
+33612147	Hamster and ferret experimental infection with intranasal low dose of a single strain of SARS-CoV-2.	J Gen Virol
+33604910	'Stay at home': Is it good or not for house dust mite sensitized children with respiratory allergies?	Pediatr Allergy Immunol
+33591851	Generation and validation of in-hospital mortality prediction score in COVID-19 patients: Alba-score.	Curr Med Res Opin
+33573088	In Silico Study of Polyunsaturated Fatty Acids as Potential SARS-CoV-2 Spike Protein Closed Conformation Stabilizers: Epidemiological and Computational Approaches.	Molecules
+33571169	Antibody responses to endemic coronaviruses modulate COVID-19 convalescent plasma functionality.	J Clin Invest
+33571162	Durable SARS-CoV-2 B cell immunity after mild or severe disease.	J Clin Invest
+33566435	Hand sanitiser-associated ocular chemical injury in children.	J Paediatr Child Health
+33558541	Distinct mechanisms for TMPRSS2 expression explain organ-specific inhibition of SARS-CoV-2 infection by enzalutamide.	Nat Commun
+33552151	On an SE(Is)(Ih)AR epidemic model with combined vaccination and antiviral controls for COVID-19 pandemic.	Adv Differ Equ
+33549434	Obesity as a risk factor for hospitalization in COronaVirus Disease-19 (COVID-19) patients: Analysis of the Tuscany regional database.	Nutr Metab Cardiovasc Dis
+33544838	Auto-antibodies to type I IFNs can underlie adverse reactions to yellow fever live attenuated vaccine.	J Exp Med
+33522308	Estrogen and Androgen Receptor Inhibitors: Unexpected Allies in the Fight Against COVID-19.	Cell Transplant
+33521186	Application of one-, three-, and seven-day forecasts during early onset on the COVID-19 epidemic dataset using moving average, autoregressive, autoregressive moving average, autoregressive integrated moving average, and naive forecasting methods.	Data Brief
+33500878	Applying augmented reality to treat Fournier's gangrene in COVID-19 positive patients whilst safeguarding the multi-disciplinary surgical team: A case series.	Int J Surg Case Rep
+33494846	COVID-washing of ultra-processed products: the content of digital marketing on Facebook during the COVID-19 pandemic in Uruguay.	Public Health Nutr
+33493227	Screening, simulation, and optimization design of small molecule inhibitors of the SARS-CoV-2 spike glycoprotein.	PLoS One
+33477879	Depressive Symptoms, Fatigue and Social Relationships Influenced Physical Activity in Frail Older Community-Dwellers during the Spanish Lockdown due to the COVID-19 Pandemic.	Int J Environ Res Public Health
+33462671	The roles of signaling pathways in SARS-CoV-2 infection; lessons learned from SARS-CoV and MERS-CoV.	Arch Virol
+33427749	SARS-CoV-2-specific CD8+ T cell responses in convalescent COVID-19 individuals.	J Clin Invest
+33414670	On promoting breastfeeding of infants born to women with COVID-19.	Turk Pediatri Ars
+33414650	COVID-19 and re-opening of schools: Opinions with scientific evidence.	Turk Pediatri Ars
+33414649	Science and pseudoscience during the COVID-19 pandemic.	Turk Pediatri Ars
+33406872	Stroke Acute Management and Outcomes During the COVID-19 Outbreak: A Cohort Study From the Madrid Stroke Network.	Stroke
+33403990	The effect of lockdown regulations on SARS-CoV-2 infectivity in Gauteng Province, South Africa.	S Afr Med J
+33390638	The experience of social distancing for families with children and adolescents during the coronavirus (COVID-19) pandemic in Uruguay: Difficulties and opportunities.	Child Youth Serv Rev
+33363279	Inpatient Virtual Vision Clinic Improves Access to Vision Rehabilitation Before and During the COVID-19 Pandemic.	Arch Rehabil Res Clin Transl
+33358445	COVID 19 and the new challenges in health management: The pilot experience of the Internal Medicine Department of a Regional hospital.	J Healthc Qual Res
+33310900	Targeting transcriptional regulation of SARS-CoV-2 entry factors ACE2 and TMPRSS2.	Proc Natl Acad Sci U S A
+33310813	Acute food insecurity and short-term coping strategies of urban and rural households of Bangladesh during the lockdown period of COVID-19 pandemic of 2020: report of a cross-sectional survey.	BMJ Open
+33305659	Clinical stage molecule PT150 is a modulator of glucocorticoid and androgen receptors with antiviral activity against SARS-CoV-2.	Cell Cycle
+33303727	Remote monitoring using donor-derived, cell-free DNA after kidney transplantation during the coronavirus disease 2019 pandemic.	Kidney Res Clin Pract
+33301988	Covid-19 pathogenesis in prostatic cancer and TMPRSS2-ERG regulatory genetic pathway.	Infect Genet Evol
+33296088	Antibiotic Prescribing for Acute Rhinosinusitis: In-Person Versus Virtual Visits During Covid-19.	Laryngoscope
+33284781	COVID-19 as 'Game Changer' for the Physical Activity and Mental Well-Being of Augmented Reality Game Players During the Pandemic: Mixed Methods Survey Study.	J Med Internet Res
+33264098	A Mindfulness-Based Intervention for Student Depression, Anxiety, and Stress: Randomized Controlled Trial.	JMIR Ment Health
+33243116	Can Host Cell Proteins Like ACE2, ADAM17, TMPRSS2, Androgen Receptor be the Efficient Targets in SARS-CoV-2 Infection?	Curr Drug Targets
+33243086	Assessing COVID-19 susceptibility through analysis of the genetic and epigenetic diversity of ACE2-mediated SARS-CoV-2 entry.	Pharmacogenomics
+33217784	Accuracy of galactomannan testing on tracheal aspirates in COVID-19-associated pulmonary aspergillosis.	Mycoses
+33197472	Angiotensin converting enzyme genotypes and mortality from COVID-19: An ecological study.	J Infect
+33195414	Identifying Pathways and Networks Associated With the SARS-CoV-2 Cell Receptor ACE2 Based on Gene Expression Profiles in Normal and SARS-CoV-2-Infected Human Tissues.	Front Mol Biosci
+33169106	High prevalence of SARS-CoV-2 antibodies in pets from COVID-19+ households.	One Health
+33130849	Role of the Coronavirus Disease 2019 (COVID-19) pandemic in the upgrading of personal hygiene. A cross-sectional study in Saudi Arabia.	Saudi Med J
+33115587	COVID-19 Era: Challenges and Solutions in Dental Education.	J Coll Physicians Surg Pak
+33090015	COVID-19's Impact on the 2020-2021 Resident Match: A Survey of Otolaryngology Program Directors.	Ann Otol Rhinol Laryngol
+33081974	Time series modelling to forecast the confirmed and recovered cases of COVID-19.	Travel Med Infect Dis
+33064832	Commonalities Between COVID-19 and Radiation Injury.	Radiat Res
+33061746	Scientific researches and academic publishing during the coronavirus pandemic.	Turk Pediatri Ars
+33040422	Aeromedical retrieval diagnostic trends during a period of Coronavirus 2019 lockdown.	Intern Med J
+33034585	Effect of the COVID-19 pandemic on access to primary percutaneous coronary intervention for ST-segment elevation myocardial infarction.	Turk Kardiyol Dern Ars
+33034579	COVID-19 and RAAS blockers: Could Aliskiren be an appropriate option?	Turk Kardiyol Dern Ars
+33034578	A rare presentation of a patient with COVID-19: Cardiac tamponade.	Turk Kardiyol Dern Ars
+33034577	A case of heart failure mimicking COVID-19 pneumonia: The role of clinical and chest computed tomography findings in the differential diagnosis.	Turk Kardiyol Dern Ars
+33034574	Pulmonary embolism in a young man infected with COVID-19 pneumonia.	Turk Kardiyol Dern Ars
+33034573	The CHA2DS2-VASc score and in-hospital mortality in patients with COVID-19: A multicenter retrospective cohort study.	Turk Kardiyol Dern Ars
+33034571	[Cardiovascular system and COVID-19].	Turk Kardiyol Dern Ars
+33030073	The benefits of Vitamin D in the COVID-19 pandemic: biochemical and immunological mechanisms.	Arch Physiol Biochem
+33025599	Integrated network pharmacology and molecular docking strategy to explore the mechanism of medicinal and edible Astragali Radix-Atractylodis Macrocephalae Rhizoma acting on pneumonia via immunomodulation.	J Food Biochem
+33015554	Critical Care Medical Centers May Play an Important Role in Reducing the Risk of COVID-19 Death in Japan.	SN Compr Clin Med
+33008680	Using mobile applications and websites for the diagnosis of COVID-19 in Spain.	Enferm Infecc Microbiol Clin (Engl Ed)
+33004629	The turning point and end of an expanding epidemic cannot be precisely forecast.	Proc Natl Acad Sci U S A
+33003634	Epidemiology of and Risk Factors for COVID-19 Infection among Health Care Workers: A Multi-Centre Comparative Study.	Int J Environ Res Public Health
+32952417	COVID-19 Pandemic Associated Misinterpretation of Somatic Sensations: A Model for Mind-Body Interaction.	Noro Psikiyatr Ars
+32920475	Incorporation of telemedicine by rhinologists: The COVID-19 pandemic and beyond.	Am J Otolaryngol
+32908258	The UCSC SARS-CoV-2 Genome Browser.	Nat Genet
+32904889	Diagnosing nasal obstruction and its common causes using the nasal acoustic device: A pilot study.	Laryngoscope Investig Otolaryngol
+32896785	Impacts of transportation and meteorological factors on the transmission of COVID-19.	Int J Hyg Environ Health
+32895607	COVID-19 and stock market volatility: An industry level analysis.	Financ Res Lett
+32893780	Telemedicine Yes, But No Telepathy.	Acta Med Port
+32843359	International experience of mechanical thrombectomy during the COVID-19 pandemic: insights from STAR and ENRG.	J Neurointerv Surg
+32836712	A comparative analysis of control measures on-board ship against COVID-19 and similar novel viral respiratory disease outbreak: Quarantine ship or disembark suspects?	Med J Armed Forces India
+32836306	[PSYCOVID-19, psychological support device in the fields of mental health, somatic and medico-social].	Ann Med Psychol (Paris)
+32831342	COVID 19 comprehensive management in a regional hospital of Northwestern Spain.	Gac Med Mex
+32831323	Opportunities in the teaching of medical specialties, regarding influenza and COVID-19.	Gac Med Mex
+32827335	COVID-19 significantly affects specialty training.	Intern Med J
+32807426	Reversible cerebral vasoconstriction syndrome and dissection in the setting of COVID-19 infection.	J Stroke Cerebrovasc Dis
+32792325	Surgical Residents in the Battle Against COVID-19.	J Surg Educ
+32784745	Virtual Reality, Augmented Reality, Gamification, and Telerehabilitation: Psychological Impact on Orthopedic Patients' Rehabilitation.	J Clin Med
+32778005	Better one or two? A systematic review of portable automated refractors.	J Telemed Telecare
+32764200	Sex, age, and hospitalization drive antibody responses in a COVID-19 convalescent plasma donor population.	J Clin Invest
+32742974	Therapeutic Endoscopy during COVID-19 Pandemic: An Observational Study from Bangladesh.	Euroasian J Hepatogastroenterol
+32742969	Treatment of COVID-19 Patients at a Medical College Hospital in Bangladesh.	Euroasian J Hepatogastroenterol
+32709978	Crosstalk between COVID-19 and prostate cancer.	Prostate Cancer Prostatic Dis
+32691249	Combating COVID-19-How Can AR Telemedicine Help Doctors More Effectively Implement Clinical Work.	J Med Syst
+32684754	SARS-CoV-2 infection in children.	Turk Pediatri Ars
+32684753	Children with chronic disease and COVID-19.	Turk Pediatri Ars
+32684752	The Turkish Neonatal Society proposal for the management of COVID-19 in the neonatal intensive care unit.	Turk Pediatri Ars
+32684751	COVID-19 in children.	Turk Pediatri Ars
+32683188	The novel corona virus and rhinology: Impact on practice patterns and future directions.	Am J Otolaryngol
+32674827	How a Barcelona Post-Acute Facility became a Referral Center for Comprehensive Management of Subacute Patients With COVID-19.	J Am Med Dir Assoc
+32670694	SARS-CoV-2 (COVID 19) Infection in Hypertensive Patients and in Patients With Cardiac Disease.	Cureus
+32646731	Prevalence of SARS-CoV-2 infection in general practitioners and nurses in primary care and nursing homes in the Healthcare Area of Leon and associated factors.	Semergen
+32638677	Opinion paper: Severe Acute Respiratory Syndrome Coronavirus 2 and domestic animals: what relation?	Animal
+32629042	Massive transient damage of the olfactory epithelium associated with infection of sustentacular cells by SARS-CoV-2 in golden Syrian hamsters.	Brain Behav Immun
+32620311	Monitoring of COVID-19 patients by telemedicine with telemonitoring.	Rev Clin Esp (Barc)
+32586724	SARS-CoV-2 infection in cancer patients undergoing active treatment: analysis of clinical features and predictive factors for severe respiratory failure and death.	Eur J Cancer
+32571808	Impact of the COVID-19 outbreak on cancer patient flow and management: experience from a large university hospital in Spain.	ESMO Open
+32554380	Effectiveness of an 8-Week Web-Based Mindfulness Virtual Community Intervention for University Students on Symptoms of Stress, Anxiety, and Depression: Randomized Controlled Trial.	JMIR Ment Health
+32550783	Coronavirus Disease 2019 (COVID-19) From the Point of View of Neurologists: Observation of Neurological Findings and Symptoms During the Combat Against a Pandemic.	Noro Psikiyatr Ars
+32550770	Stroke During COVID-19 Pandemic.	Noro Psikiyatr Ars
+32536757	Modeling Nigerian Covid-19 cases: A comparative analysis of models and estimators.	Chaos Solitons Fractals
+32519978	Traditional Chinese medicine practices used in COVID-19 (Sars-cov 2/Coronavirus-19) treatment in clinic and their effects on the cardiovascular system.	Turk Kardiyol Dern Ars
+32497344	COVID-19 presenting with immune thrombocytopenia: A case report and review of the literature.	J Med Virol
+32473009	Age-dependent Gender Differences in COVID-19 in Mainland China: Comparative Study.	Clin Infect Dis
+32426089	Allergic respiratory disease care in the COVID-19 era: A EUFOREA statement.	World Allergy Organ J
+32406873	[Turkish Cardiology Association Consensus Report: COVID-19 Pandemic and Cardiovascular Diseases (May 13, 2020)].	Turk Kardiyol Dern Ars
+32405266	Time series modelling to forecast the confirmed and recovered cases of COVID-19.	Travel Med Infect Dis
+32402416	[Intestinal perforation in patient with COVID-19 infection treated with tocilizumab and corticosteroids. Report of a clinical case].	Cir Esp (Engl Ed)
+32363229	The risk of SARS-CoV-2 transmission to pets and other wild and domestic animals strongly mandates a one-health strategy to control the COVID-19 pandemic.	One Health
+32355260	Genetic diversity and ecology of coronaviruses hosted by cave-dwelling bats in Gabon.	Sci Rep
+32307085	Practitioners specialized in oral health and coronavirus disease 2019: Professional guidelines from the French society of stomatology, maxillofacial surgery and oral surgery, to form a common front against the infectious risk.	J Stomatol Oral Maxillofac Surg
+32254064	Deployment of convalescent plasma for the prevention and treatment of COVID-19.	J Clin Invest
+32250347	[Consensus Report from Turkish Society of Cardiology: COVID-19 and Cardiovascular Diseases. What cardiologists should know. (25th March 2020)].	Turk Kardiyol Dern Ars

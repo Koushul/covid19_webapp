@@ -1,0 +1,101 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36175845	Effects of growth hormone/estrogen/androgen on COVID-19-type proinflammatory responses in normal human lung epithelial BEAS-2B cells.	BMC Mol Cell Biol
+36048718	Insights into functional connectivity in mammalian signal transduction pathways by pairwise comparison of protein interaction partners of critical signaling hubs.	Biomol Concepts
+36018018	A Narrative Review COVID-19 in Solid-Organ Transplantation: Real-World Evidence From India.	Exp Clin Transplant
+35979149	The impact of COVID-19 on radiological findings in patients accessing the emergency department: a multicentric study.	Pol J Radiol
+35929565	First report of auxiliary liver transplantation for severe cholangiopathy after SARS-CoV-2 respiratory infection.	Am J Transplant
+35897278	COVID-19 Risk Management and Stakeholder Action Strategies: Conceptual Frameworks for Community Resilience in the Context of Indonesia.	Int J Environ Res Public Health
+35859316	Exploration of molecular targets and mechanisms of Chinese medicinal formula Acacia Catechu -Scutellariae Radix in the treatment of COVID-19 by a systems pharmacology strategy.	Phytother Res
+35855804	Reveal the Mechanisms of Yi-Fei-Jian-Pi-Tang on Covid-19 through Network Pharmacology Approach.	Comput Intell Neurosci
+35838222	Analysis of the molecular mechanism of Huangqi herb treating COVID-19 with myocardial injury by pharmacological tools, programming software and molecular docking.	Comb Chem High Throughput Screen
+35754492	Modeling Kaempferol as a Potential Pharmacological Agent for COVID-19/PF Co-Occurrence Based on Bioinformatics and System Pharmacological Tools.	Front Pharmacol
+35700355	SARS-CoV-2 couples evasion of inflammatory response to activated nucleotide synthesis.	Proc Natl Acad Sci U S A
+35678652	Revealing Potential Bioactive Compounds and Mechanisms of Lithospermum erythrorhizon against COVID-19 via Network Pharmacology Study.	Curr Issues Mol Biol
+35677450	Puerarin: A Potential Therapeutic for Colon Adenocarcinoma (COAD) Patients Suffering From SARS-CoV-2 Infection.	Front Pharmacol
+35663983	Puerarin: A Potential Therapeutic for SARS-CoV-2 and Hantavirus Co-Infection.	Front Immunol
+35563204	Anti-Inflammatory Effects and Decreased Formation of Neutrophil Extracellular Traps by Enoxaparin in COVID-19 Patients.	Int J Mol Sci
+35438554	Bioactive Components of Houttuynia cordata Thunb and Their Potential Mechanisms Against COVID-19 Using Network Pharmacology and Molecular Docking Approaches.	J Med Food
+35420247	Outcomes of liver transplantation in recipients with previous coronavirus disease 2019 infection.	Liver Transpl
+35370663	Study on the Mechanism of Astragalus Polysaccharide in Treating Pulmonary Fibrosis Based on "Drug-Target-Pathway" Network.	Front Pharmacol
+35237344	New Approach for Targeted Treatment of Mild COVID-19 by Honeysuckle through Network Pharmacology Analysis.	Comput Math Methods Med
+35222040	Exploring the Anti-Pulmonary Fibrosis Mechanism of Jingyin Granule by Network Pharmacology Strategy.	Front Pharmacol
+35180397	A human pluripotent stem cell-based model of SARS-CoV-2 infection reveals an ACE2-independent inflammatory activation of vascular endothelial cells through TLR4.	Stem Cell Reports
+35165529	Identifying absorbable bioactive constituents of Yupingfeng Powder acting on COVID-19 through integration of UPLC-Q/TOF-MS and network pharmacology analysis.	Chin Herb Med
+35165507	Potential mechanism of action of Jing Fang Bai Du San in the treatment of COVID-19 using docking and network pharmacology.	Int J Med Sci
+34966658	Critical Update on the Diagnosis and Management of COVID-19 in Advanced Cirrhosis and Liver Transplant Recipients.	J Clin Transl Hepatol
+34940755	Co-Regulation of Protein Coding Genes by Transcription Factor and Long Non-Coding RNA in SARS-CoV-2 Infected Cells: An In Silico Analysis.	Noncoding RNA
+34927105	Aseptic meningitis after BNT-162b2 COVID-19 vaccination.	Brain Behav Immun Health
+34906793	Matrix metalloproteinases and tissue inhibitors of metalloproteinases in murine beta-coronavirus-induced neuroinflammation.	Virology
+34599881	Coronavirus Disease 2019 (COVID-19) Coronary Vascular Thrombosis: Correlation with Neutrophil but Not Endothelial Activation.	Am J Pathol
+34456333	PCA-based unsupervised feature extraction for gene expression analysis of COVID-19 patients.	Sci Rep
+34366686	Integrated multi-omics approach identified molecular mechanism and pathogenetic processes of COVID-19 that affect patient with Parkinson's disorder.	Saudi J Biol Sci
+34311260	Transcription factor NF-kappaB as target for SARS-CoV-2 drug discovery efforts using inflammation-based QSAR screening model.	J Mol Graph Model
+34261596	Re: Optimal diagnostic tool for surveillance of oesophageal varices during COVID-19 pandemic. A reply.	Clin Radiol
+34260684	Discovering common pathogenetic processes between COVID-19 and diabetes mellitus by differential gene expression pattern analysis.	Brief Bioinform
+34225251	Auto-immune hepatitis following COVID vaccination.	J Autoimmun
+34189880	COVID 19: Elevated von Willibrand Factor at Hospital Admission Predicts Clinical Outcomes.	J Assoc Physicians India
+34181887	Nuclear factor-kappa B and its role in inflammatory lung disease.	Chem Biol Interact
+34105049	Investigating the active compounds and mechanism of HuaShi XuanFei formula for prevention and treatment of COVID-19 based on network pharmacology and molecular docking analysis.	Mol Divers
+34031419	Comparative transcriptome analysis reveals key epigenetic targets in SARS-CoV-2 infection.	NPJ Syst Biol Appl
+33820640	Optimal diagnostic tool for surveillance of oesophageal varices during COVID-19 pandemic.	Clin Radiol
+33658066	The important herbal pair for the treatment of COVID-19 and its possible mechanisms.	Chin Med
+33654344	Severe Jaundice in a COVID-19 Patient-Virus or Drug?	J Clin Exp Hepatol
+33643619	Bereavement management during COVID-19 Pandemic: One size may not fit all!	J Glob Health
+33520684	Analyzing the potential therapeutic mechanism of Huashi Baidu Decoction on severe COVID-19 through integrating network pharmacological methods.	J Tradit Complement Med
+33502724	How can we reduce the impact of COVID-19 pandemic on timely access to liver transplantation in children?	Hepatol Int
+33492114	Living Donor Liver Transplantation During the COVID-19 Pandemic: A Serendipitous Silver Lining!	Transplantation
+33423804	An Evidence-based Protocol for Minimizing Thromboembolic Events in SARS-CoV-2 Infection.	Arch Med Res
+33378904	Studying social awareness of physical distancing in mitigating COVID-19 transmission.	Math Biosci Eng
+33354650	Host-Viral Interactions Revealed among Shared Transcriptomics Signatures of ARDS and Thrombosis: A Clue into COVID-19 Pathogenesis.	TH Open
+33251083	Identification of potential mRNA panels for severe acute respiratory syndrome coronavirus 2 (COVID-19) diagnosis and treatment using microarray dataset and bioinformatics methods.	3 Biotech
+33247639	Nationwide Survey on the Knowledge, Attitudes and Perceptions among the Indian Adult Population regarding COVID-19.	J Assoc Physicians India
+33241658	Anti-coronavirus disease 2019 (COVID-19) targets and mechanisms of puerarin.	J Cell Mol Med
+33159646	The Role and Therapeutic Potential of NF-kappa-B Pathway in Severe COVID-19 Patients.	Inflammopharmacology
+33158469	Post liver transplant recurrent and de novo viral infections.	Best Pract Res Clin Gastroenterol
+33135607	Exploring the Potential Mechanism of Shufeng Jiedu Capsule for Treating COVID-19 by Comprehensive Network Pharmacological Approaches and Molecular Docking Validation.	Comb Chem High Throughput Screen
+33054436	Chemical composition and pharmacological mechanism of shenfu decoction in the treatment of novel coronavirus pneumonia (COVID-19).	Drug Dev Ind Pharm
+33029094	Investigating the mechanism of ShuFeng JieDu capsule for the treatment of novel Coronavirus pneumonia (COVID-19) based on network pharmacology.	Int J Med Sci
+32990918	COVID-19 in decompensated cirrhosis.	Hepatol Int
+32920234	COVID-19: Poor outcomes in patients with zinc deficiency.	Int J Infect Dis
+32851183	Epithelial cell-specific loss of function of Miz1 causes a spontaneous COPD-like phenotype and up-regulates Ace2 expression in mice.	Sci Adv
+32837094	Awareness and Concerns Among Adult Liver Transplant Recipients in the Current Pandemic Caused by Novel Coronavirus (COVID-19): Strategies to Safeguard a High-risk Population.	J Clin Exp Hepatol
+32804803	Trinational Study Exploring the Early Impact of the COVID-19 Pandemic on Organ Donation and Liver Transplantation at National and Unit Levels.	Transplantation
+32738853	COVID-19 Lockdown: Impact on Liver Transplant Recipients- A Single Centre Survey.	J Assoc Physicians India
+32698440	Tiotropium is Predicted to be a Promising Drug for COVID-19 Through Transcriptome-Based Comprehensive Molecular Pathway Analysis.	Viruses
+32663351	Awareness and concerns about novel coronavirus disease 2019 (COVID-19) among parents of pediatric liver transplant recipients.	Pediatr Transplant
+32582436	COVID-19: Could India still escape?	J Glob Health
+32553666	COVID-19 and the liver.	J Hepatol
+32243281	Global Transplantation COVID Report March 2020.	Transplantation

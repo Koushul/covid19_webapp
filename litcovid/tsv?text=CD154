@@ -1,0 +1,40 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35911743	SARS-CoV2 Infection During Pregnancy Causes Persistent Immune Abnormalities in Women Without Affecting the Newborns.	Front Immunol
+35891281	Specific T-Cell Immune Response to SARS-CoV-2 Spike Protein over Time in Naive and SARS-CoV-2 Previously Infected Subjects Vaccinated with BTN162b2.	Vaccines (Basel)
+35746505	Chimeric Antigen by the Fusion of SARS-CoV-2 Receptor Binding Domain with the Extracellular Domain of Human CD154: A Promising Improved Vaccine Candidate.	Vaccines (Basel)
+33854501	Integrin Activation Enables Sensitive Detection of Functional CD4(+) and CD8(+) T Cells: Application to Characterize SARS-CoV-2 Immunity.	Front Immunol
+33298615	A Highly Specific Assay for the Detection of SARS-CoV-2-Reactive CD4(+) and CD8(+) T Cells in COVID-19 Patients.	J Immunol
+33119547	Sustained cellular immune dysregulation in individuals recovering from SARS-CoV-2 infection.	J Clin Invest

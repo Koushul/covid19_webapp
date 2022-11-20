@@ -1,0 +1,69 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+36241368	Memory B Cells and Memory T Cells Induced by SARS-CoV-2 Booster Vaccination or Infection Show Different Dynamics and Responsiveness to the Omicron Variant.	J Immunol
+36146713	Heterogenous CD8+ T Cell Maturation and 'Polarization' in Acute and Convalescent COVID-19 Patients.	Viruses
+36146622	In Vitro Stimulation with Live SARS-CoV-2 Suggests Th17 Dominance In Virus-Specific CD4+ T Cell Response after COVID-19.	Vaccines (Basel)
+35764089	Humoral and cellular immune memory to four COVID-19 vaccines.	Cell
+35723393	Alterations in B Cell and Follicular T-Helper Cell Subsets in Patients with Acute COVID-19 and COVID-19 Convalescents.	Curr Issues Mol Biol
+35694714	Cytokine storm promoting T cell exhaustion in severe COVID-19 revealed by single cell sequencing data analysis.	Precis Clin Med
+35680023	Immunoregulation of Ghrelin in neurocognitive sequelae associated with COVID-19: an in silico investigation.	Gene
+35545084	Distinct immune cell dynamics correlate with the immunogenicity and reactogenicity of SARS-CoV-2 mRNA vaccine.	Cell Rep Med
+35461307	SARS-CoV-2-specific CD4(+) T cells are associated with long-term persistence of neutralizing antibodies.	Signal Transduct Target Ther
+35409036	What Is Currently Known about the Role of CXCL10 in SARS-CoV-2 Infection?	Int J Mol Sci
+35398299	Contribution of CD4+ T cell-mediated inflammation to diarrhea in patients with COVID-19.	Int J Infect Dis
+35371005	Comparison of Lung-Homing Receptor Expression and Activation Profiles on NK Cell and T Cell Subsets in COVID-19 and Influenza.	Front Immunol
+35314848	Establishment and recall of SARS-CoV-2 spike epitope-specific CD4(+) T cell memory.	Nat Immunol
+35264564	Autoantibodies targeting GPCRs and RAS-related molecules associate with COVID-19 severity.	Nat Commun
+35027067	Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection.	BMC Med
+34900402	Chemokine-Based Therapeutics for the Treatment of Inflammatory and Fibrotic Convergent Pathways in COVID-19.	Curr Pathobiol Rep
+34835155	The Involvement of CXC Motif Chemokine Ligand 10 (CXCL10) and Its Related Chemokines in the Pathogenesis of Coronary Artery Disease and in the COVID-19 Vaccination: A Narrative Review.	Vaccines (Basel)
+34504693	SARS-CoV-2 sculpts the immune system to induce sustained virus-specific naive-like and memory B-cell responses.	Clin Transl Immunology
+34471088	Pro-inflammatory microenvironment and systemic accumulation of CXCR3+ cell exacerbate lung pathology of old rhesus macaques infected with SARS-CoV-2.	Signal Transduct Target Ther
+34283810	CD8+PD-L1+CXCR3+ polyfunctional T cell abundances are associated with survival in critical SARS-CoV-2-infected patients.	JCI Insight
+34176789	Clinical characterization and therapeutic targets of vitamin A in patients with hepatocholangiocarcinoma and coronavirus disease.	Aging (Albany NY)
+33986193	A specific low-density neutrophil population correlates with hypercoagulation and disease severity in hospitalized COVID-19 patients.	JCI Insight
+33768543	Enrichment of CCR6(+) CD8(+) T cells and CCL20 in the lungs of mechanically ventilated patients with COVID-19.	Eur J Immunol
+33747512	Adaptive immunity to human coronaviruses is widespread but low in magnitude.	Clin Transl Immunology
+33617048	B cell analysis in SARS-CoV-2 versus malaria: Increased frequencies of plasmablasts and atypical memory B cells in COVID-19.	J Leukoc Biol
+33564749	Integrated immune dynamics define correlates of COVID-19 severity and antibody responses.	Cell Rep Med
+33343897	Innate lymphoid cell composition associates with COVID-19 disease severity.	Clin Transl Immunology
+33324414	Negative Clinical Evolution in COVID-19 Patients Is Frequently Accompanied With an Increased Proportion of Undifferentiated Th Cells and a Strong Underrepresentation of the Th1 Subset.	Front Immunol
+33199863	Spike-specific circulating T follicular helper cell and cross-neutralizing antibody responses in COVID-19-convalescent individuals.	Nat Microbiol
+33138839	CXCL10 could drive longer duration of mechanical ventilation during COVID-19 ARDS.	Crit Care
+32989174	MAIT cell activation and dynamics associated with COVID-19 disease severity.	Sci Immunol
+32898168	In vivo antiviral host transcriptional response to SARS-CoV-2 by viral load, sex, and age.	PLoS Biol
+32543740	Dysregulation of the immune response affects the outcome of critical COVID-19 patients.	J Med Virol
+32257537	Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia.	Aging Dis
+32253888	Coronavirus COV-19/SARS-CoV-2 affects women less than men: clinical response to viral infection.	J Biol Regul Homeost Agents

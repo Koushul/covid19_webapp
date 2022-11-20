@@ -1,0 +1,28 @@
+.highlight {
+    border-radius: 1rem;
+    color: white;
+    padding: 0.75rem;
+    margin-bottom: 0.1rem;
+  }
+  .bold {
+    padding-left: 10rem;
+    font-weight: 700;
+  }
+  .red {
+    background-color: rgb(234, 39, 39);
+  }
+  .blue {
+    background-color: rgb(9, 167, 220);
+  }
+  .green {
+    background-color: rgb(46, 216, 63);
+  }
+  .orange {
+    background-color: rgb(236, 141, 6);
+  }
+  .purple {
+    background-color: rgb(198, 6, 236);
+  }
+  .yellow {
+    background-color: rgb(235, 235, 6);
+  }

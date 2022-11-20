@@ -1,0 +1,50 @@
+# ===========================================================================
+#
+#                            PUBLIC DOMAIN NOTICE
+#               National Center for Biotechnology Information
+#
+#  This software/database is a "United States Government Work" under the
+#  terms of the United States Copyright Act.  It was written as part of
+#  the author's official duties as a United States Government employee and
+#  thus cannot be copyrighted.  This software/database is freely available
+#  to the public for use. The National Library of Medicine and the U.S.
+#  Government have not placed any restriction on its use or reproduction.
+#
+#  Although all reasonable efforts have been taken to ensure the accuracy
+#  and reliability of the software and data, the NLM and the U.S.
+#  Government do not and cannot warrant the performance or results that
+#  may be obtained by using this software or data. The NLM and the U.S.
+#  Government disclaim all warranties, express or implied, including
+#  warranties of performance, merchantability or fitness for any particular
+#  purpose.
+#
+#  For daily update, we screen the search results of this PubMed query:
+#  "coronavirus"[All Fields] OR "ncov"[All Fields] OR "cov"[All Fields] OR
+#  "2019-nCoV"[All Fields] OR "COVID-19"[All Fields] OR "SARS-CoV-2"[All Fields].
+#  Relevant articles are identified and curated with assistance from an automated
+#  machine-learning and text-classification algorithm.
+#
+#  Please cite the authors in any work or product based on this material :
+#
+#  Chen Q, Allot A, & Lu Z. (2020) Keep up with the latest coronavirus research, Nature 579:193
+#
+#  Chen Q, Allot A, Lu Z. LitCovid: an open database of COVID-19 literature. Nucleic Acids Research. 2020.
+#
+# ==========================================================================
+pmid	title_e	journal
+35498795	Fatal SARS in X-Linked Lymphoproliferative Disease Type 1: A Case Report.	Front Pediatr
+35486152	Web Exclusive. Annals Story Slam - A Two-Year Long Blackjack Game: Decisions During COVID.	Ann Intern Med
+35486142	Web Exclusive. Annals Story Slam - Three-Finger Salute to the COVID-19 Pandemic.	Ann Intern Med
+35486116	Web Exclusive. Annals Story Slam - The Prayer in the COVID Unit.	Ann Intern Med
+35147305	[Fragility and precariousness of people living with HIV].	Rev Prat
+34405976	Pandemic Challenges: Keeping Nursing Research Alive.	J Nurs Adm
+34343818	Structure-based study of immune receptors as eligible binding targets of coronavirus SARS-CoV-2 spike protein.	J Mol Graph Model
+34251899	Annals Story Slam - Future I.M. Experience: Resilience During COVID-19.	Ann Intern Med
+33785494	Impact of the COVID-19 pandemic on remote mental healthcare and prescribing in psychiatry: an electronic health record study.	BMJ Open
+33646849	Development of Severe COVID-19 Adaptive Risk Predictor (SCARP), a Calculator to Predict Severe Disease or Death in Hospitalized Patients With COVID-19.	Ann Intern Med
+33516326	Health experts slam Bolsonaro's vaccine comments.	Lancet
+33495660	Visual SLAM for robot navigation in healthcare facility.	Pattern Recognit
+32855315	Critics slam NIH for demands on bat grant targeted by Trump.	Science
+32826989	'Heinous!': Coronavirus researcher shut down for Wuhan-lab link slams new funding restrictions.	Nature
+32713374	Clozapine treatment and risk of COVID-19 infection: retrospective cohort study.	Br J Psychiatry
+32341080	Covid-19: Leading statistician slams UK's reporting of swab tests as "travesty of science".	BMJ
