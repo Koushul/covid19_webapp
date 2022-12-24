@@ -10,3 +10,16 @@ cell_desc = {
     "CD4 T Cells" : "A T cell is a type of lymphocyte. T cells are one of the important white blood cells of the immune system and play a central role in the adaptive immune response. T cells can be distinguished from other lymphocytes by the presence of a T-cell receptor (TCR) on their cell surface.",
     "Natural Killer Cells" : "Natural killer cells, also known as NK cells or large granular lymphocytes (LGL), are a type of cytotoxic lymphocyte critical to the innate immune system that belong to the rapidly expanding family of known innate lymphoid cells (ILC) and represent 5% to 20% of all circulating lymphocytes in humans."
 }
+
+
+CELL_NAMES = {
+    'Mono': 'Monocytes',
+    'CD4_T': 'CD4+ T Cells',
+    'CD8_T': 'CD8+ T Cells',
+    'DC': 'Dendritic Cells',
+    'B': 'B Cells',
+    'NK': 'Natural Killer Cells'
+}
+
+CELL_NAMES_REVERSE = dict(zip(CELL_NAMES.values(), CELL_NAMES.keys()))
+
